@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# OS / tooling
+.DS_Store
+Thumbs.db
+
+# Notebooks / data outputs
+*.ipynb_checkpoints
+*.xlsx
+*.xls
+
+# Downloads and outputs
+XLIFF_Downloads/
+Output/
+
+# Selenium / profiles
+*.crdownload
+*.zip

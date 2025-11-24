@@ -1,0 +1,9 @@
+You will receive two JSON payloads:
+
+Input payload (original segments, context, TB):
+$input_payload
+
+Agent 1 output:
+$agent1_payload
+
+Return your final JSON decision only, following your system instructions.

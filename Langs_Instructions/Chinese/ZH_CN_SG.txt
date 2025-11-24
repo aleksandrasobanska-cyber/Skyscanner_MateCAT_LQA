@@ -1,0 +1,101 @@
+Skyscanner Simplified Chinese LQA Model Instructions
+1. Skyscanner’s Tone of Voice (ToV)
+ • Familiarize yourself with Skyscanner’s Tone of Voice as outlined in the referenced document.
+ • Ensure consistency with existing translations and the established ToV.
+2. General Writing & Translation Guidelines
+2.1. Essence of the Message
+ • Convey the message and tone of the original text in natural, fluent Simplified Chinese.
+ • Avoid word-for-word translation; do not imitate the source structure if it sounds unnatural.
+ • Do not add or remove facts, but feel free to restructure sentences for naturalness.
+ • Shorten or break up long sentences where appropriate.
+ • Use active verbs to describe processes.
+2.2. Vocabulary and Grammar
+ • Use simple, clear, and concise language.
+ • Avoid formality, bureaucracy, and complexity.
+ • Prioritize clarity and brevity, especially for web and mobile content.
+ • Be friendly, approachable, and trustworthy.
+ • Always prioritize clarity above cleverness.
+2.3. Local Sayings and Terms
+ • Use natural, engaging local sayings and terms to make content approachable.
+ • Transcreate content to adapt messages and emotions to the local market and culture.
+ • Avoid region-specific or provincial terms that may exclude parts of the audience.
+ • Avoid excessive slang or colloquialisms; ensure nothing is vulgar or offensive.
+2.4. Human Tone
+ • Avoid robotic or unnatural language.
+ • Use plain, honest, and jargon-free language.
+2.5. Examples (Chinese)
+ • Source: {place_name}, or elsewhere?
+  - ✔ 除了{place_name}，还能去哪里？
+  - ✖ 去{place_name}或其他地方？
+ • Source: Still dreaming of {place_name}?
+  - ✔ 还想去{place_name}吗？
+  - ✖ 还在幻想{place_name}？
+2.6. Stress Test
+ • Ensure writing is understandable and clear to a broad audience.
+ • Read translations out loud to check for naturalness and clarity.
+2.7. Summary
+ • Avoid literal translations; focus on transcreation.
+ • Read translations out loud for naturalness.
+ • Use simple, clear, and active sentences; avoid complex structures.
+ • Maintain consistency with Skyscanner’s ToV and existing translations.
+3. Language-Specific Translation Guidelines
+3.1. Brand Name
+ • Do NOT localize "Skyscanner"; always keep it in English.
+3.2. Punctuation & Spaces
+ • Use full-width (全角) punctuation for all marks, including commas, exclamation marks, and brackets（括号）.
+ • Use squared quotation marks: 「」.
+ • Do NOT add extra spaces between Chinese characters and numbers or English letters.
+3.3. Provincial Terms
+ • Avoid provincial terms, including those used in Hong Kong, Macau, or Taiwan but not in Mainland China.
+ • Example:
+  - Taxi: ✔ 出租车; ✖ 计程车/的士
+3.4. Positive / Negative Implications
+ • Use positive, neutral, or appropriate terms.
+ • Examples:
+  - ✔ 这里充满欢乐氛围; ✖ 这里充斥着欢乐氛围
+  - ✔ 当地政府部门/地方政府; ✖ 地方当局
+3.5. Addressing Users (“you”)
+ • Translate “you” as “您”.
+ • For plural, use “你们”.
+3.6. Formats (Numbers, Dates, Currencies, etc.)
+3.6.1. Dates and Time
+ • Do NOT use Chinese characters for numbers in dates/times.
+  - Yes: 2016年4月15日／5月份
+  - No: 五月／六月十九日
+  - Yes: 下午3时／上午11时30分
+  - No: 两点半／四时十五分
+ • Days of the week:
+  - Yes: 周一/周二.../周日
+  - No: 一/二.../日
+3.6.2. Numbers
+ • Use half-width Arabic numerals for all numbers, including year, date, and time.
+ • Do NOT use separators in numbers (e.g., 6000人 not 6,000人).
+3.6.3. Currencies
+ • Place currency names after the amount.
+  - Example: 100欧元 / 150美元
+ • Use standardized terms for different currencies.
+3.6.4. Units of Measure
+ • Always convert to metric units (e.g., from inch to meter/cm).
+3.6.5. Numeral Exception
+ • Use Chinese characters ONLY for quantifiers.
+  - Yes: 一种旅行方式
+  - No: 1次出游
+4. Translation Guidelines per Content Type
+4.1. User Interface (UI)
+ • Applies to banners, buttons, and menu titles.
+ • Translations must be clear, short, and efficient due to character limits.
+ • Do NOT use punctuation in buttons and menus.
+4.2. Call to Actions (CTAs) and Buttons
+ • Keep text short and action-oriented.
+ • Do NOT add punctuation, including exclamation points.
+4.3. Marketing
+ • Consider the pace and rhythm of Simplified Chinese.
+ • Use locally relevant, conversational terms.
+ • Write casually, authentically, and directly, as if speaking to a good friend.
+4.4. Legal, Policies, Terms & Conditions
+ • Prioritize accuracy and faithfulness to the source text.
+ • Do NOT deviate from the English text.
+ • Do NOT omit or add content.
+ • Do NOT merge or split sentences.
+ • Ensure accuracy and naturalness, especially for numbers and dates.
+

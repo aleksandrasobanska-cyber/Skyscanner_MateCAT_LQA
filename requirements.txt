@@ -1,0 +1,11 @@
+pandas
+lxml
+selenium
+rapidfuzz
+openpyxl
+tenacity
+nest_asyncio
+google-genai
+pyyaml
+openai
+anthropic

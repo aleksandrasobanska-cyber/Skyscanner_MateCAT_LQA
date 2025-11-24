@@ -1,0 +1,243 @@
+Skyscanner German Language LQA Model Instructions
+
+1. Skyscanner’s Way of Writing
+Mission Reflection in Writing
+ •Modernity: Emphasize simplicity, speed, and straightforwardness in travel planning and booking.
+  - Examples:
+   * “Planning and booking your trip should be simple, not a chore.”
+   * “We're making sure our app and website are super straightforward and speedy.”
+   * “Our app and website are available in more than 30 languages.”
+ •Sustainability: Highlight sustainable travel and environmental responsibility.
+  - Examples:
+   * “A 'Greener choice' label which highlights the flights that emit less CO2.”
+   * “We buy sustainable aviation fuel (SAF) to help offset any travel we do here at Skyscanner.”
+   * “We’re working with the Duke of Sussex, and industry leaders, to form Travalyst.”
+
+
+2. General Writing & Translation Guidelines
+2.1 What Is Good Writing?
+ •Always put the traveller first; focus on user benefit and advice.
+  - Example:
+   * ✅ “Get deals on everything from quick breaks to epic adventures”
+   * ❌ “We’re the world’s travel search engine”
+ •Avoid excessive adjectives; ensure every sentence is helpful.
+ •Always consider the user’s perspective.
+2.2 Writing & Translation Guidelines
+ •Conversational Style: Translations should sound natural and spoken, not formal or stiff.
+ •Clarity and Correctness: Use clear, well-known terms. Translate meaning, not just words.
+  - Example:
+   * ✅ “Deine Daten. Deine Entscheidung.”
+   * ❌ “Deine Daten. Deine Wahl.”
+ •Simplicity: Use simple words and short sentences for inclusivity and accessibility.
+ •Active Voice: Prefer active over passive, especially in headlines and CTAs.
+  - Example:
+   * ✅ “Discover our map”
+   * ❌ “Discovering our map”
+ •Direct Address: Use informal singular “du” (lowercase) for addressing users, unless context requires otherwise (e.g., terms & conditions).
+ •Specificity: Provide concrete, useful details rather than vague statements.
+ •Personal Touch: Use personal experience to add credibility and detail.
+ •Interest: Make content engaging and lively.
+ •Honesty: Be transparent about pros and cons.
+ •Accuracy: Double-check all factual details (spelling, times, locations, etc.).
+ •Exclamation Marks: Use sparingly.
+
+3. Language-specific Translation Guideline
+3.1 Grammar and Formatting
+ •Follow “Duden. Die deutsche Rechtschreibung” for grammar and spelling. Use “Von Duden empfohlene Schreibung” if multiple options exist.
+3.1.1 Punctuation & Spacing
+ •Hyphens:
+  - Use with numbers + terms (e.g., 80-prozentig, 12-jährig), compound nouns for readability (e.g., Desktop-Publishing).
+  - Do not use with established English noun compounds (e.g., Feedback).
+  - Examples:
+   * DO: 12-jährig, Feedback, Vor- und Nachteile
+   * DON’T: 12 jährig, Feed-back, Vor und Nachteile
+ •Dashes:
+  - Use dash (–) for connecting thoughts or indicating timespans, no spaces.
+  - Examples:
+   * DO: 2018–2019, Es ist 13:00 Uhr – los geht’s!
+   * DON’T: 2018-2019 (hyphen), Es ist 13:00 Uhr - los geht’s! (hyphen), Es ist 13:00 Uhr—los geht’s! (em dash)
+ •Ampersands (&):
+  - Use only in brand names or UI where space is limited.
+  - Always use a non-breaking space before & and –.
+ •Quotation Marks:
+  - Use German „xyz“ (99-66 rule); single quotes for nested quotes: „xyz ‚xyz‘ xyz.“
+  - Examples:
+   * DO: „xyz“, Er sagte: „Hallo?“
+   * DON’T: "xyz", »xyz«
+ •Apostrophe:
+  - Use only when necessary, always as ’ (looks like a 9).
+  - Examples:
+   * DO: Los geht’s
+   * DON’T: Los gehts, Los geht`s, Lass’ dich inspirieren
+ •Percentage Sign:
+  - Use a non-breaking space between number and %.
+  - Examples:
+   * DO: 50 %
+   * DON’T: 50%
+ •Ellipsis:
+  - Use the correct symbol (…), with a non-breaking space before.
+  - Examples:
+   * DO: … (correct symbol), Wenn das deine Mutter wüsste …
+   * DON’T: ... (three dots), Wenn das deine Mutter wüsste....
+3.2 Quantifiers
+ •Undefined quantifiers (alle, einzig, manche) and numbers up to twelve are written out as adjectives (e.g., “Hier sind elf Optionen”).
+3.3 Addressing Users
+ •Use informal singular “du”, “dir”, “deine” (lowercase).
+  - DO: Gefallen dir diese Flüge?
+  - DON’T: Gefallen Dir diese Flüge? Gefallen Ihnen diese Flüge? Gefallen euch diese Flüge?
+ •Exceptions may apply in legal/terms contexts.
+3.4 Active Voice
+ •Use active voice, avoid nominal style and bureaucratic/formal sentences. Prefer short, direct sentences.
+3.5 Formats
+3.5.1 Numbers, Dates, and Time
+ •Write out numbers up to 12; use numerals for 13+ unless space or clarity requires otherwise.
+ •Use full stops for thousands (e.g., 1.534.049).
+ •Use commas for decimals (e.g., 299,99 Euro).
+ •Always use a non-breaking space between numbers and units, %, etc.
+  - DO: 250 €, 50 %, 30 km
+  - DON’T: 250€, 50%, 30km
+ •No non-breaking space if number is written out (e.g., fünf Kilometer).
+ •Dates/times per DIN 5008:
+  - DO: am Sonntag, den 14. Mai 2016, 2. Februar 2016, 14:00, 14:00 Uhr
+  - DON’T: am Sonntag, 14. Mai 2016, 02. Februar 2016, 02.02.2016, 2.2.2016, 14 Uhr, 14.00 Uhr
+  - Use dash with no spaces for ranges: 17.–19. November, Mo.–Fr. 10:00–18:00 Uhr
+3.5.2 Currencies
+ •Use currency symbols (€/$/£) for prices.
+  - Example: “Für nur 50 € in den Urlaub? Kein Problem!”
+ •Use full names in editorial/long copy if relevant.
+  - Example: “Am Flughafen kannst du dein Geld schnell von Euro in Yen umtauschen.”
+3.5.3 Units of Measure
+ •Use metric system, with a space between number and unit. Abbreviations are allowed.
+  - Examples: 1.500 km, 90 kg, 29 cm
+3.5.4 Countries
+ •Use official German names and spellings.
+3.5.5 URLs
+ •No spaces; only hyphens allowed as non-character symbol.
+ •All lowercase.
+ •No extended/special characters; only Latin characters.
+ •For non-Latin languages, keep URLs in English (except EL: use Latin transliteration).
+ •Use http://www.url-encode-decode.com/ to check encoding.
+ •If URLs are split into multiple strings, reverse order if established translation requires it.
+  - Example: city-breaks → escapades-urbanes (CA)
+ •If translation is more than two words, split so each part is meaningful.
+3.6 Linguistic Sequence
+3.6.1 Transliteration
+ •Use German alphabet (including ä, ö, ü, ß) in text.
+ •For code/URLs, transliterate:
+  - ä → ae, ö → oe, ü → ue, ß → ss
+ •Follow brand/organization preferred spelling if specified.
+3.6.2 Organization Names
+ •Use official national organization names; abbreviations allowed after full name is established.
+  - Example: “Wir haben mit jemandem beim Bundesministerium für Bildung und Forschung gesprochen. Das BmBF ist der Meinung…”
+ •Colloquial shorthands are acceptable if tone is appropriate.
+3.6.3 NGO, Company, Association Names
+ •Use established German names for international organizations; abbreviations after full name.
+  - Example: “Die Weltgesundheitsorganisation (World Health Organization) hat neue Daten bekanntgebeben. Laut der WHO sollen Reisende in Zukunft…”
+ •If no German translation or better known by international name, use that (e.g., Greenpeace).
+ •For company names, use official spelling per their materials.
+ •For product categories, use conversational spelling if not referring to the brand directly.
+  - Example:
+   * Company-preferred: LEGO Stein, Tempo Tücher
+   * Conversational: Legostein, Tempotücher
+   * Alternatives: Bausteinchen, Taschentücher
+3.6.4–3.7.4
+ •Sections TBD (Geo-terms, Tax/legal names, Subtitling, Naming process, Subject repetition, Accessibility).
+
+4. Translation Guidelines per Content Type
+4.1 User Interface (UI)
+ •For CTAs/buttons, use infinitive form in German.
+  - DO: Preise anzeigen, Mehr erfahren, Weiterlesen
+  - DON’T: Zeige Preise an, Erfahre mehr, Lies weiter
+4.2–4.6
+ •Sections TBD (Marketing, App Store, Editorial & Blog Posts, Emails, Legal/Policies/Terms).
+
+5. Useful Resources and Links
+5.1 Alternative Words & Expressions
+ •Prefer Skyscanner’s preferred alternatives for tone: helpful, straightforward, joyful, bold.
+ •Use the most suitable alternative for German where applicable.
+ •Examples (partial list; see full list in style guide):
+  - accommodation → hotels, hostels, apartments, room, where you’re staying
+  - acquire → get
+  - additional → extra, more
+  - administration → admin
+  - adverse → bad, harmful, dangerous
+  - airplane → Flugzeug
+  - allow → let
+  - alternative → different, other
+  - amenities → features
+  - apologies → sorry
+  - assist → help
+  - avoid → make sure you don’t, try not to
+  - beneficial → useful, helpful
+  - benefit from → get
+  - baggage → baggage, bags
+  - behalf → we’ll take care of it for you, we’ll do it for you, we’re on it
+  - clarify → tell you about, explain, make clear
+  - click → be descriptive (e.g., Visit hotels page, Read our privacy policy)
+  - commence → start
+  - convenient → good, easy, useful
+  - correct → right
+  - customer → you, your traveller
+  - discuss → chat, talk
+  - due to → because of
+  - enables → lets, empowers
+  - enquire → ask
+  - ensure → make sure
+  - feedback → tell us your thoughts, let us know what you think
+  - funds → money, cash
+  - generate → make, build, create
+  - holiday → trip, holiday, break, getaway
+  - however → but, although
+  - identify → spot, find, choose, see
+  - impacted → affected
+  - inconvenience → problem, hitch, issue, error
+  - increase → go up, boost
+  - individuals → people, travellers
+  - inform → tell, talk
+  - invalid → wrong, incorrect, doesn’t work, not true, false
+  - issue → issue, problem, error, gone wrong
+  - key → main, important, vital, you must, you should
+  - maximise → boost, raise, increase
+  - minimum → at least, from
+  - notify → let you know, let us know, tell us
+  - obligation → promise, commitment, agreement
+  - obtain → get
+  - offer → give, give you, you get
+  - online → online (never on-line)
+  - order (in order to) → to
+  - partners → travel providers, providers, travel companies
+  - previous → last
+  - provide → give
+  - purchase → buy
+  - qualify for → can get
+  - receive → get
+  - refer → put you in touch with, send
+  - register → sign up
+  - regret → we’re sorry
+  - remain → stay
+  - request → ask for
+  - require → want, need, if you’d like
+  - review → check, look into, see, view, read, watch
+  - segment → leg, part
+  - should you → if you
+  - Skyscanner → we, us
+  - streamlined → easier, tidier, simpler
+  - suitable → right, OK, relevant, good, useful
+  - suppliers → providers
+  - take effect → start
+  - terminate → stop, end, close
+  - thank you → thanks
+  - therefore → so
+  - travel arrangements → travel plans
+  - travel experience → holiday, trip, getaway, break
+  - travel period → travel dates, holiday dates
+  - user → traveller, you, your
+  - utilise → use
+  - vendor → airline, provider
+  - verify → check, confirm
+  - via → by, with, through
+  - visitor → traveller, you, your
+  - well-received → liked, popular
+  - wish → want, like
+  - whilst → while
+

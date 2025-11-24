@@ -1,0 +1,66 @@
+paths:
+  tracker: "C:\\Users\\ibrahim.menshawy\\Desktop\\Skyscanner_LQA_4\\Chillistore - August Round - Project IDs & Segment IDs (2).xlsx"
+  glossary: "C:\\Users\\ibrahim.menshawy\\Desktop\\Skyscanner_LQA_3\\Skyscanner - Multilingual Glossary.xlsx"
+  prompts_dir: "prompts"
+  instructions_dir: "Langs_Instructions"
+  xliff_download_dir: "XLIFF_Downloads"
+  chrome_profile_dir: "C:\\Users\\ibrahim.menshawy\\Desktop\\ATMS_Profile"
+  output_dir: "Output"
+
+languages:
+  # Use ["ALL"] to process every language found in the tracker.
+  process: ["Arabic"]
+  mapping:
+    Arabic: {code: "ar-SA", guidelines: "AR_SG.txt"}
+    Catalan: {code: "ca-ES", guidelines: "CA_SG.txt"}
+    Chinese: {code: "zh-CN", guidelines: "ZH_CN_SG.txt"}
+    Chinese Traditional: {code: "zh-TW", guidelines: "ZH_TW_SG.txt"}
+    Croatian: {code: "hr-HR", guidelines: "HR_SG.txt"}
+    Dutch: {code: "nl-NL", guidelines: "NL_SG.txt"}
+    French: {code: "fr-FR", guidelines: "FR_SG.txt"}
+    German: {code: "de-DE", guidelines: "DE_SG.txt"}
+    Hindi: {code: "hi-IN", guidelines: "HI_SG.txt"}
+    Italian: {code: "it-IT", guidelines: "IT_SG.txt"}
+    Japanese: {code: "ja-JP", guidelines: "JA_SG.txt"}
+    Korean: {code: "ko-KR", guidelines: "KO_SG.txt"}
+    Portuguese Brazil: {code: "pt-BR", guidelines: "PT_BR_SG.txt"}
+    Slovak: {code: "sk-SK", guidelines: "SK_SG.txt"}
+    Spanish: {code: "es-ES", guidelines: "ES_SG.txt"}
+    Spanish Mexico: {code: "es-MX", guidelines: "ES_MX_SG.txt"}
+
+downloader:
+  headless: false
+  throttle_seconds: 1
+
+parser:
+  context_size: 2
+
+tb:
+  threshold: 85
+  min_len_fuzzy: 5
+
+llm:
+  # Default model (used if agent-specific values below are not set)
+  model: "gpt-5-mini"
+  # Agent-specific overrides (optional)
+  agent1_model: ""
+  agent2_model: ""
+  # Option A: put the key here (not recommended for production)
+  api_key: ""
+  agent1_api_key: ""
+  agent2_api_key: ""
+  # Option B: set env vars and reference them
+  api_key_env: "GOOGLE_API_KEY"
+  agent1_api_key_env: ""
+  agent2_api_key_env: ""
+  temp: 1.0
+  batch_segments: 1
+  max_concurrency: 50
+  wait_seconds: 5
+  source_lang_label: "English (UK)"
+
+prompts:
+  system_1: "system_1.txt"
+  user_agent_1: "user_agent_1.txt"
+  system_2: "system_2.txt"
+  user_agent_2: "user_agent_2.txt"

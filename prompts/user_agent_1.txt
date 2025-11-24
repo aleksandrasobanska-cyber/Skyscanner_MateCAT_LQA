@@ -1,0 +1,6 @@
+You will receive a JSON payload for Agent 1.
+
+Payload:
+$payload
+
+Reply with JSON only, following your system instructions. Do not include any extra text.

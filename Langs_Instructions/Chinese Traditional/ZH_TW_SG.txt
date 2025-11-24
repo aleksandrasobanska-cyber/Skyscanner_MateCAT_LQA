@@ -1,0 +1,207 @@
+Skyscanner ZH-TW LQA Model Instructions
+
+1. General Writing & Translation Guidelines
+Be Specific
+ • Provide actionable, concrete information.
+  - Example OK: 飯店在距離火車站 600 公尺處（請小心途中有許多階梯，若帶著孩子上路請做好準備）。
+  - Example KO: 飯店距離火車站不遠。
+Conversational Tone
+ • Write as if talking to a friend: clear, direct, and natural.
+Be Interesting, Not Over-Enthusiastic
+ • Use strong adjectives and active verbs.
+ • Avoid excessive exclamation marks.
+Be Brief
+ • Break up long sentences.
+ • Remove unnecessary words.
+ • Prefer shorter words.
+Use Active Voice
+ • Prefer active over passive voice for clarity and directness.
+ • Exception: Retain passive voice if it softens negative messages.
+  - Example Passive (OK): 你的預訂申請已被拒絕。
+  - Example Active (KO): 業主拒絕了你的預訂申請。
+Avoid Industry Jargon
+ • Do not use business-speak or assume user knowledge.
+ • Simplify sentences to their essence.
+Avoid Literal Translation
+ • Focus on meaning and context, not word-for-word translation.
+  - Example OK: 瀏覽飯店 (for "find hotels")
+  - Example KO: 尋找飯店
+Adding Information
+ • Add clarifying information if it aids user understanding or localization.
+ • Do not add irrelevant information.
+Accuracy
+ • Double-check spellings, times, locations, and details.
+
+2. Language-Specific Translation Guidelines
+Punctuation & Spacing
+ • Use traditional Chinese full-width punctuation (繁體全形) and traditional Chinese characters.
+ • Dash (破折號 ——):
+  - Rare in Chinese; rearrange sentences to avoid unless used for explanation.
+  - For quotes/lists, use half-width dash with half-space.
+  - Example OK: 請新增旅客可使用的所有房間，包括共用區域
+  - Example KO: 請新增旅客可使用的所有房間——包括共用區域
+ • Quotation Marks: Use「」only.
+ • Back-slopping Comma (頓號、): Use for lists of three or more.
+  - Example OK: 獨棟房屋、公寓、家庭式旅館、平房
+  - Example KO: 獨棟房屋，公寓，家庭式旅館，平房
+ • Ampersand (&): Replace with 及／和／與, etc.
+ • Brackets: Use half-width brackets (半形括號) with half-width space for Latin alphabet/numbers inside.
+ • 書名號: Use for book/publication/policy/law names.
+ • Ellipsis (刪節號):
+  - Email/offline: 2 horizontal ellipsises (……)
+  - UI: 1 horizontal ellipsis (…)
+ • Reference: Refer to《重訂標點符號手冊》by MOE of Taiwan for punctuation.
+ • Official Names Exception: Follow official ZH-TW punctuation/spacing for company/organization/product names.
+  - Example OK: Google Analytics (分析) / Google 地圖 / Google 地球
+  - Example KO: Google Analytics （分析）/ Google地圖 / Google地球
+ • Spacing: Add half-width space before/after Latin alphabet words/numbers, except with full-width punctuation.
+  - Example OK: 前往 www.skyscanner.com，
+  - Example KO: 前往www.skyscanner.com ，
+Quantifiers
+ • Avoid using ‘one’ (一個) for general situations.
+  - Example OK: 想解決問題嗎？
+  - Example KO: 想解決一個問題嗎？
+ • Use Chinese characters for descriptive quantifiers; Arabic numerals for counting.
+  - Example OK: 一種旅遊方式 / 一套系統 / 需要 3 至 5 個工作天
+  - Example KO: 1個旅遊方法 / 1套系統 / 需要三至五個工作天
+Addressing Users
+ • Use 你 (friendly tone); usually omit in optimized translation.
+ • Use 您 only for legal content.
+Active Voice
+ • Use active voice unless passive is needed to soften negativity.
+Numbers, Dates, Currencies
+ • Numbers:
+  - Small numbers: Arabic numerals.
+  - <1000: Follow source.
+  - 1000: Use comma for thousands.
+  - 10000: Use 萬, 億, not 千, 百.
+   - Example OK: 6,500 / 3 萬 / 700 萬 / 9,000 萬 / 433 億 / 1.2 億
+   - Example KO: 6 千 5 百 / 30000 / 7 百萬 / 90,000,000 / 43,300,000,000 / 120000000
+ • Dates/Time:
+  - Use Arabic numerals, not Chinese characters or full-width.
+  - Time: 12-hour clock (e.g., 早上 10:21 / 下午 4:58)
+  - Date: YYYY 年 MM 月 DD 日 or YYYY/MM/DD
+  - Example OK: 2016 年 4 月 15 日（星期三）/ 2016/04/15 / 8 月份 / 早上 9:27 / 下午 4 點
+  - Example KO: 二零一六年四月十五日（星期3） / 九點二十七分 / 4:00 PM
+ • Live Placeholder Format:
+  - Date: 07/01 (not 7 月 1 日); month only: 7 月
+  - Time: 上午9點 (not 9:00)
+  - Week: 週一 or 星期一
+  - Day Period: 午夜, 上午, 下午, 清晨, 中午, 晚上, 凌晨
+ • Currencies:
+  - Use standardized terms:
+   - EUR/€ 歐元, USD/$ 美元, CNY/¥ 人民幣, HKD/HK$ 港幣, TWD/NT$ 新臺幣, GBP/£ 英鎊
+  - Example OK: NT$150
+  - Example KO: $100元 / $100塊 / 台幣100元 / NT$100元 / NTD$100元
+Units of Measure
+ • Convert to metric units; add 約 if approximate; round to one decimal.
+  - Example: 40 acre → 16公頃
+Countries/Places
+ • List from larger to smaller region.
+  - Example OK: 美國費城
+  - Example KO: 費城，美國
+ • Use correct bracket/spacing as per punctuation rules.
+URLs
+ • Do not translate/transliterate URLs; leave as is.
+Linguistic Sequence
+ • Adjust sentence order for natural cause/effect in Chinese.
+Transliteration
+ • People’s Names:
+  - Famous: Use common ZH-TW transliteration.
+   - Example OK: 愛因斯坦 / 茱莉亞·羅勃茲
+   - Example KO: 愛因斯坦 (Albert Einstein) / 茱莉亞·羅勃茲 (Julia Roberts)
+  - Unknown: Keep in original language unless visual beauty requires transliteration (no original name included).
+ • Organization Names (National):
+  - Use official ZH-TW name if exists; otherwise, translate and include original in half-width brackets with half-space.
+   - Example OK: 愛爾蘭稅務局 (Irish Revenue Department)
+   - Example KO: IRS / Irish Revenue Department / 愛爾蘭稅務局
+ • NGO/Company/Association Names:
+  - Use official ZH-TW name if available; otherwise, leave as is.
+   - Example OK: 索尼
+   - Example KO: Sony / 索尼 / 索尼 (Sony) / Sony(索尼)
+ • Geo-terms:
+  - Use half-width dash for transliteration.
+   - Example OK: 聖托梅-達斯萊特拉斯
+  - Prefer Skyscanner’s existing term; otherwise, research for most common ZH-TW usage.
+  - If no common transliteration, leave as is.
+ • Addresses:
+  - Leave in original language.
+ • Tax/Legal Terms:
+  - Use official ZH-TW name if exists; otherwise, translate and include original in half-width brackets with half-space.
+   - Example OK: 旅遊發展稅 (TDT)
+   - Example KO: 旅遊發展稅 / TDT
+Foreignization vs Localization
+ • Prefer localization for cultural relevance and naturalness.
+  - Example OK: 週末香檳早午餐 (for "Sunday Mimosa Brunch")
+  - Example KO: 週末含羞草調酒早午餐
+  - Example OK: 24小時／全天候 (for "7*24")
+  - Example KO: 7*24小時
+  - Example OK: 隨時隨地，隨手可得 (for "Anytime, anywhere, all at your fingertips")
+  - Example KO: 任何時間，任何地方，盡在你的指尖
+Subject Repetition
+ • Avoid unnatural repetition; break up or rearrange sentences.
+  - Example OK: Skyscanner 需要遵守國際法規，而這些法規限制某些國家的居民使用我們的網站。
+  - Example KO: Skyscanner 需要遵守國際法規，而國際法規限制某些國家的居民使用我們的網站。
+
+3. Translation Guidelines per Content Type
+User Interface (UI)
+ • UI elements (banners, buttons, menu titles) must be clear, short, and efficient.
+ • No punctuation for buttons/menus.
+Call to Actions (CTAs) and Buttons
+ • Keep text short, specific, and action-oriented.
+ • No punctuation.
+Marketing
+ • Use casual, authentic, and friendly style.
+ • Consider local conversational terms and emotional impact.
+ • Write as if speaking to a good friend.
+Legal, Policies, Terms & Conditions
+ • Translate accurately and faithfully; do not omit, add, merge, or split sentences.
+ • Pay special attention to numbers and dates.
+ • Notify PM if legal content is found.
+
+4. Common Mistakes & Tricky Terminology
+Non ZH-TW Expressions
+ • Do not use zh-cn or zh-hk expressions uncommon in Taiwan.
+  - Example OK: 資訊
+  - Example KO: 信息
+Typos
+ • Proofread for homophones and commonly confused characters.
+  - Example OK: 回覆／帳號／轉帳 / 聯絡
+  - Example KO: 回復 / 賬號 / 轉賬 / 連絡
+Contextual Word Choice
+ • Ensure words are contextually appropriate.
+Tourism Terminology
+ • Use “旅客” for “traveller”, not “遊客”.
+
+5. Variables and HTML Tags
+ • Do not damage variables or HTML tags.
+ • For %{smart_count}, add appropriate quantifier after the variable.
+  - Example: 旅客必須在 %{smart_count} 小時內完成付款才能確認此預訂
+ • Use provided tools to decode HTML if needed.
+
+6. Subtitling
+ • Max 18 Chinese characters per line (including punctuation), max 2 lines per string.
+ • Replace all punctuation with half-width space, except 書名號 or 引號 for emphasis.
+ • No space between single/double-byte characters for character limits.
+ • For multiple speakers, use one line per speaker, hyphen at start.
+  - Example:
+   - Hello, I am Mark.
+   - Nice to meet you! I am Sarah.
+ • Use 你 for friendly tone.
+ • Do not translate background song lyrics.
+ • Remove redundant speech; keep subtitles clean.
+  - Example: 我這邊要舉的例子是有琳瑯滿目的商品
+ • Rearrange words for comfortable reading pace.
+ • Shorten subtitles to main ideas if too long.
+ • Translate on-screen text/ambient sound as per source formatting; delete if it impairs readability.
+
+7. Naming Process
+ • Brainstorm and propose new names for products/programs/events.
+ • Consult LL for final decision.
+ • Use updated list for consistency.
+
+8. Useful Resources
+ • Use provided dictionaries and databases for terminology and consistency.
+ • Use Google search with quotation marks or asterisks for frequency and collocation checks.
+ • Use character/word count tools as needed.
+

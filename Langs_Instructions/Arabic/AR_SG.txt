@@ -1,0 +1,131 @@
+1. Skyscanner Background & Mission
+ • Mission Statement:
+  - Communicate Skyscanner’s mission to simplify travel planning, provide comprehensive choices, and promote modern, sustainable travel.
+  - In Arabic, emphasize empowering users to search, compare, and book travel options easily, with transparent pricing.
+  - Examples:
+   - "استكشف أفضل عروض رحلات الطيران من أي مكان إلى جميع الوجهات، ثم احجز بدون رسوم"
+   - "قارن بين عروض الرحلات الجوية من أكثر من 1000 مزود، واختر أرخص التذاكر أو أسرعها أو أقلها انبعاثًا"
+ • Product Platforms:
+  - Mobile App
+  - Website
+
+2. Tone of Voice
+ • General Attributes:
+  - Helpful and user-centric: Make travel planning easy and accessible.
+  - Clear and direct: Use straightforward language; avoid jargon or explain it if necessary.
+  - Trustworthy and transparent: Be honest about pricing and options; no hidden fees.
+  - Inspiring and encouraging: Excite users about travel possibilities.
+ • Arabic Tone:
+  - Professional yet approachable.
+  - Engaging and encouraging; invite users to explore and book.
+  - Use Modern Standard Arabic (MSA).
+  - Calls to action must be clear and compelling.
+  - Examples:
+   - "على منصتنا، ستجد ما تبحث عنه بسهولة."
+   - "أدخل مطار المغادرة وتواريخ السفر، ثم اضغط على "جميع الوجهات"."
+   - "لا توجد رسوم خفية، أو معلومات مضللة. فمعنا، السعر الذي تراه في نتائج البحث هو السعر الذي ستدفعه."
+   - "هل تبحث عن أفضل عروض رحلات الطيران إلى أي مكان في العالم؟"
+   - EN: "Book when it's best with Price Alerts" → AR: "احجز في أفضل الأوقات مع تنبيهات الأسعار"
+
+3. General Translation Guidelines
+ • Audience:
+  - Broad: Travelers of all ages, backgrounds, and tech-savviness.
+  - Arabic translation must be simple, easy to understand, respectful, creative, and natural-sounding.
+  - Avoid complex structures and niche vocabulary.
+  - Examples:
+   - EN: "The cheapest flight deals. No hidden fees. No funny business. With us, the price you see when you search is what you’ll pay." AR: "أرخص عروض رحلات الطيران. لا توجد رسوم خفية، أو معلومات مضللة. فمعنا، السعر الذي تراه في نتائج البحث هو السعر الذي ستدفعه."
+   - EN: "Plan your journey with peace of mind" AR: "خطط لرحلتك بكل راحة بال"
+ • Localization:
+  - Prioritize intended meaning and user experience over literal translation, especially for marketing and CTAs.
+  - Ensure cultural appropriateness for Arabic-speaking audiences.
+  - Translations must support a seamless, intuitive user experience.
+  - Always follow Skyscanner’s Tone of Voice.
+ • Vocabulary Use:
+  - Refer to the Key Terms Glossary for approved translations.
+  - Use Modern Standard Arabic (MSA).
+  - Choose widely understood words across Arabic-speaking regions.
+  - Balance formal MSA with accessible language.
+ • Creativity:
+  - Be creative with marketing slogans and engaging copy; avoid literal translation.
+  - Examples:
+   - EN: "Sleep easy, armed with the stuff that's good to know before you go." AR: "خطط لتفاصيل رحلتك جيدًا واستمتع براحة البال."
+   - EN: "Pay less, go further with transparent pricing" AR: "ادفع أقل الأسعار، وكن على ثقة بحرصنا على الشفافية بالتسعير"
+
+
+4. Writing Conventions
+ • Punctuation:
+  - Use standard Arabic punctuation:
+   - Comma: ،
+   - Semicolon: ؛
+   - Question mark: ؟
+   - Full stop: .
+   - Quotation marks: Use « » or " " as appropriate.
+   - E.g., فعّل "تنبيهات الأسعار".
+ • Diacritics (تشكيل/حركات):
+  - Do not use diacritics in main body text, UI elements, or descriptive content.
+  - Only use if essential for disambiguation (rare).
+ • Singular and Plural Forms:
+  - Follow standard Arabic grammar for singular, dual, and plural.
+   - EN: "1 adult" → AR: "1 بالغ"
+   - EN: "25 reviews" → AR: "25 تقييمات"
+   - EN: "Add nearby airports" → AR: "إضافة المطارات القريبة"
+ • Gender and Gender Neutrality:
+  - Use masculine singular form when addressing the user directly (default for unknown/mixed gender).
+   - E.g., "أين ترغب في الإقامة؟", "ادخل مطار المغادرة وتواريخ السفر"
+  - Ensure gender agreement in descriptive text.
+  - Avoid overly gender-specific language in general contexts.
+ • Abbreviations:
+  - Airport codes: Latin script (e.g., CAI, SSH, SPX, LCA)
+  - Currency: "ج.م.‏" for Egyptian Pounds
+  - Other abbreviations: Spell out in Arabic unless universally understood (e.g., "FAQ" → "الأسئلة الشائعة")
+  - "km" for kilometers is kept (e.g., "6.30 كم")
+
+
+5. Date and Time Format
+ • Full Dates:
+  - Format: Day name, DD Month Name
+   - EN: Sat, 14 Jun → AR: السبت، 14 يونيو
+   - EN: Departing Sat, 14 Jun, returning Thu, 26 Jun → AR: المغادرة في السبت، 14 يونيو، العودة في الخميس، 26 يونيو
+ • Numeric Dates:
+  - Format: DD/MM/YYYY using Eastern Arabic numerals (٠-٩)
+   - EN: 10/06/2025 → AR: ١٠‏/٦‏/٢٠٢٥
+ • Times:
+  - Use 12-hour format with "ص" for AM and "م" for PM if needed, or just hour:minute if clear.
+   - EN: 10:00 → AR: 10:00 or 10:00 ص
+
+
+6. Currencies
+ • Symbol and Placement:
+  - Currency symbol/code precedes the amount.
+   - Egyptian Pound (EGP): "ج.م.‏"
+   - EN: From ج.م.‏ 3,474 → AR: ابتداءً من ج.م.‏ 3,474
+   - Example: ج.م.‏ 3,474 للمسافر
+ • Formatting:
+  - Use comma as thousands separator, period as decimal separator for Western Arabic numerals with Arabic currency code.
+  - Ensure consistency with live Arabic site.
+
+
+7. Translation of Specific Content Types
+ • UI Elements (Buttons, Menus, Labels):
+  - Use concise, clear, action-oriented language.
+  - Strive for brevity and clarity.
+   - EN: Select → AR: تحديد
+   - EN: Add nearby airports → AR: إضافة المطارات القريبة
+   - EN: Direct flights only → AR: اعرض الرحلات المباشرة فقط
+ • Marketing Copy (Headlines, Slogans, Promotional Text):
+  - Adapt message and impact; avoid literal translation.
+  - Use creative language that resonates with Arabic speakers.
+  - Maintain brand tone (helpful, inspiring, trustworthy).
+   - EN: "It’s easy around here. 100 million travellers use us as their go-to tool..." AR: "على منصتنا، ستجد ما تبحث عنه بسهولة. ولهذا السبب يختارنا 100 مليون مسافر كأداتهم المفضلة..."
+ • Informative Text (FAQs, Descriptions, Policy Details):
+  - Prioritize accuracy, clarity, and completeness.
+  - Use straightforward MSA.
+  - Ensure terminology matches the glossary.
+   - EN: "How did we find these deals? We looked at every economy class flight from Egypt leaving in the next three months..." AR: "كيف وجدنا هذه العروض؟ بحثنا في كل رحلات الدرجة الاقتصادية المغادرة من مصر في الأشهر الثلاثة القادمة..."
+ • Error Messages & Notifications:
+  - Must be polite, clear, and guide the user on next steps.
+ • Legal Text (Cookie Policy, Privacy Policy, Terms of Service):
+  - Translate precisely.
+  - Use: "سياسة ملفات تعريف الارتباط", "سياسة الخصوصية", "بنود الخدمة"
+  - Full documents require legal review post-translation.
+

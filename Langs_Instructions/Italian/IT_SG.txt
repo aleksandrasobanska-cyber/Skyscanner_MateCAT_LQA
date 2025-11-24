@@ -1,0 +1,68 @@
+Skyscanner Italian Language LQA Instructions
+1. Audience
+ • Target users are highly connected, community-oriented, content-aware, and active online.
+ • They are selective and attentive to detail; translations must capture and maintain their attention.
+2. Punctuation
+ • Use punctuation to clarify meaning and improve readability.
+ • Semicolons: Use only in particularly long and complex sentences that could be simplified.
+ • Exclamation/Question Marks: Never use more than one at a time.
+ • Hyphens: Replace with parentheses or commas. Do not use parentheses in email subject lines.
+ • Quotation Marks: Use double straight quotes (" ") for consistency.
+ • Punctuation in Quotes: Place punctuation marks that are part of a dialogue or quote inside the quotation marks; always place the period outside.
+ • Apostrophes/Accents: Do not use an accent instead of an apostrophe or vice versa. Use the straight apostrophe, not the curly one.
+ • Ellipsis: Use to indicate omission, hesitating speech, or trailing thoughts, mainly in informal writing or push notifications. Do not overuse. If the ellipsis is in the middle of a sentence, do not capitalize the following word; if at the end, capitalize the next word.
+ • Ampersands: Do not use unless part of a company or brand name.
+3. Capitalisation
+ • In Italian, only capitalize the first letter of the first word in titles.
+ • Month names and days of the week are lowercase, except for specific events or dates (e.g., il Venerdì santo, il Primo Maggio).
+4. Euphonic d
+ • Use "euphonic d" (ad, ed) only between two identical vowels (e.g., ad Atene, ed ecco).
+ • Exceptions: Use in common phrases where omission would be unusual (e.g., ad esempio, ad eccezione di).
+ • Do not use "od" in written Italian.
+5. Placeholders
+ • Do not translate, edit, or delete placeholders.
+ • Placeholders may change position/order in the sentence; ensure correct article or preposition before them.
+ • Example: Promozione valida fino al <date>. > Promozione valida fino al giorno <date>.
+ • If a placeholder is replaced by a number starting with a vowel, use "all'" with an apostrophe. Adjust the sentence to avoid mistakes.
+ • Pay attention to spaces next to placeholders.
+6. Inadequate and Regional Words/Expressions
+ • Avoid phrases inappropriate for Skyscanner’s context, especially those related to flights such as "Sconti in picchiata" or "Prezzi in caduta libera".
+ • Avoid regional and slang expressions.
+7. Character Limits
+ • Adhere to character limits as indicated in the segment description or as required by layout constraints (e.g., push notifications, narrow spaces).
+ • Use a character counter to ensure compliance.
+8. Active and Passive Voice
+ • Prefer active voice for clarity and directness.
+ • Avoid passive constructions that obscure the subject.
+ • Example: La prenotazione è stata cancellata. > Abbiamo cancellato la prenotazione.
+9. Numbers
+ • Use numerals for age, quantity, prices, discounts, and important information.
+ • Do not use the number 1 to replace the indefinite article “un/uno” in discursive texts.
+ • For numbers with more than three digits, use a dot as a thousand separator (except for years) and a comma as a decimal separator.
+10. Currencies
+ • Place the currency sign after the figure, separated by a space.
+ • Example: 80,99 €
+11. Time
+ • Use the 24-hour clock system, separating hours and minutes with a colon (e.g., 23:20).
+ • For durations, use the format: 5h 30min.
+12. Repetitions
+ • Avoid unnecessary repetitions, as they are considered style errors in Italian.
+ • Repetitions are acceptable in formal texts (terms, regulations, contracts, legal content).
+ • Example of style error: Se sbadatamente utilizziamo eccessivamente degli avverbi di modo, rileggendo ci renderemo conto immediatamente che la frase non suona perfettamente! :)
+ • Also avoid cacophonies and redundant sentences.
+13. Inclusive Language
+ • Use neutral words and phrases to promote gender equality.
+ • Avoid gendered pronouns and categorizations when possible.
+ • Example: Clicca qui se sei interessato a questo volo. > Clicca qui se ti interessa questo volo.
+14. Call to Actions (CTAs)
+ • CTAs must be clear and concise.
+ • Place CTAs at the beginning of a sentence or highlight them for visibility.
+15. Translation Memory
+ • Review translation memory suggestions critically; do not rely on them blindly.
+ • Improve or correct past translations as needed.
+16. Use of Anglicisms
+ • Avoid anglicisms if a widely accepted Italian equivalent exists.
+17. Addressing Users
+ • Use the informal "tu" for all website content and communications, including those addressed to all users.
+ • Use impersonal constructions only in terms, conditions, and policies.
+

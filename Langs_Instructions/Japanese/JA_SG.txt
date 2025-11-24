@@ -1,0 +1,168 @@
+Skyscanner Japanese LQA Model Instructions
+1. Skyscanner’s Way of Writing
+1.1. Mission Reflection in Writing
+ • Emphasize simplicity and ease of use: “Planning and booking your trip should be simple, not a chore.”
+ • Highlight straightforward and speedy app/website: “We're making sure our app and website are super straightforward and speedy.”
+ • Mention multilingual availability: “Our app and website are available in more than 30 languages.”
+ • Reflect sustainability:
+  - Use phrases like “A 'Greener choice' label which highlights the flights that emit less CO2.”
+  - Mention sustainable aviation fuel (SAF) and partnerships: “We buy sustainable aviation fuel (SAF) to help offset any travel we do here at Skyscanner.” “We’re working with the Duke of Sussex, and industry leaders, to form Travalyst.”
+1.2. Tone of Voice (ToV)
+ • Four core characteristics:
+  - Helpful: Provide clear, useful information; focus on user benefit.
+  - Joyful: Convey excitement about travel; use accessible humor and warmth.
+  - Straightforward: Use clear, everyday language; avoid jargon and business speak.
+  - Bold: Be inspiring, empowering, and not afraid to voice opinions.
+ • Apply ToV principles according to content type, purpose, and intended message.
+ • ToV philosophy:
+  - Helpful appeals to rationality (head).
+  - Joyful appeals to emotion (heart).
+  - Straightforward appeals to instinct (gut).
+  - Bold inspires action (feet).
+2. General Writing & Translation Guidelines
+2.1. Good Writing Principles
+ • Always put the traveller first.
+ • Avoid excessive adjectives.
+ • Ensure every sentence is helpful and user-focused.
+ • Always consider the user’s perspective.
+2.2. Writing & Translation Guidelines
+ • Make translations conversational and natural, not stiff or overly formal.
+ • Ensure clarity and correctness; use well-known terms.
+ • Translate meaning, not just words.
+ • Keep language simple and sentences short.
+ • Use active voice, especially in headlines and CTAs.
+ • Address the reader directly; use informal singular “you” (あなた) for general content, お客様 for formal contexts.
+ • Be specific and provide actionable details.
+ • Write as if talking to a friend; ensure naturalness.
+ • Make it personal and use real experiences.
+ • Be interesting and engaging.
+ • Be honest and transparent about pros and cons.
+ • Double-check all factual details (spellings, times, locations).
+ • Use exclamation marks sparingly.
+3. Language-Specific Translation Guidelines
+3.1. Punctuation & Spacing
+ • Pay attention to HTML tags; do not insert spaces between tags and text.
+ • Use 「」for button/section names when not clear in context (e.g., 「トリップス」「発見」).
+3.3. Addressing Users – YOU
+ • Use あなた for marketing/blog/general promotion.
+ • Use お客様 for formal contexts (e.g., emails to specific users).
+ • Avoid excessive use of あなた to prevent unnaturalness.
+3.4. Active Voice
+ • Avoid passive voice unless necessary (e.g., terms and conditions, negative events).
+ • Do not mix active and passive voice in the same context.
+ • Example:
+  - Good: お客さまのデータを保存しました。
+  - Bad: お客さまのデータが保存されました。
+3.5. Formats (Numbers, Dates, Currencies, etc.)
+3.5.1. Avoiding Misunderstanding
+ • Avoid ambiguous expressions, especially in booking/contract contexts.
+ • Example:
+  - Bad: より多くのホテルが無料キャンセルを提供しています。今予約しても、後ほどキャンセル可能です。
+  - Good: 多くのホテルで無料キャンセルが可能です。そうしたホテルでは、今予約してあとでキャンセルすることもできます。
+3.5.2. Headlines
+ • For headlines, do not use ですます調; use 体言止め.
+ • Examples:
+  - ホテルの価格をアプリでチェック
+  - 安心して旅の計画を
+  - ホテルの清潔度もすぐわかる
+3.5.3. Numbers, Dates, and Time
+ • Use 1-byte numbers; do not use 2-byte numbers.
+ • Use Arabic numerals for countable items (e.g., 1回目、第3回、2名様).
+ • Use 漢数字 for idiomatic expressions (e.g., 万が一, 一人ひとり).
+ • Use commas for numbers (e.g., 1,000名様), but not for years (e.g., 2020年4月9日).
+ • Date format: YYYY年MM月DD日 (preferred), or YYYY/MM/DD if character limit.
+ • Time: Use 12-hour clock with 午前/午後HH時MM分 unless otherwise specified.
+ • Examples:
+  - 11:30 AM → 11:30（半角コロン）, 午前11時30分
+  - 7:30 PM → 19:30, 午後7時30分
+  - 12:00 AM → 24:00, 深夜0時 (do not use 午前零時)
+3.5.4. Currencies
+ • Do not localize currency unless requested.
+ • Use: 100ポンド, 100ドル, 100ユーロ
+3.5.5. Units of Measure
+ • Convert all measurements to metric (m, km, ㎡, ヘクタール).
+ • If both imperial and metric are shown, do not convert; use マイル for miles, km for kilometers.
+ • Rounding: round down if <.5, round up if ≥.5.
+ • Examples:
+  - 3.6 miles = 5.8km
+  - 1,200 sq. feet = 112㎡
+ • Do not convert if referring to airline miles.
+3.5.6. Countries
+ • Use official country names in Japanese; consult the Ministry of Foreign Affairs for exceptions.
+3.5.7. URL Translation
+ • No spaces; use hyphens only.
+ • All lowercase.
+ • No extended/special characters.
+ • Use only Latin characters; for Japanese, leave URLs in English.
+ • If URLs are split, reverse order if established translation requires.
+ • Example: city-breaks → escapades-urbanes (for CA).
+3.6. Linguistic Sequence
+3.6.1. Transliteration
+ • Transliterate people’s names and most foreign place names.
+ • Use correct Japanese terms for Japanese/Chinese names; for Korean, use transliteration.
+ • If unsure of Japanese name in kanji, use katakana.
+ • Skyscanner leadership names remain in English.
+ • Do not translate/transliterate names with ™ or ®, or major app/brand/company names (Google, Facebook, etc.).
+ • Use 常用漢字 only; some words should be in hiragana (e.g., そろえる, おすすめ, ぜひ, ください).
+ • Avoid excessive katakana; prefer Japanese terms.
+3.6.2. Organization Names at National Level
+ • Google for official Japanese names; if not found, keep in English.
+3.6.3. NGO, Company, Association Names
+ • Google for official Japanese names; if not found, keep in English.
+4. Translation Guidelines per Content Type
+4.1. User Interface (UI)
+ • Check website/app for term consistency.
+ • Keep translation length similar to source.
+ • Use current web lingo (link, continue, go, next, accept, click here, search).
+ • Write concise, attention-grabbing, easy-to-read sentences with crucial info.
+4.6. Legal, Policies, Terms & Conditions
+ • Be clear and concise; avoid bureaucratic language.
+ • Address Skyscanner as スカイスキャナー or 当社 as appropriate.
+ • Address user as お客様.
+ • Use ですます調.
+6. Useful Resources and Links
+Japanese-specific:
+ • 英辞郎
+ • goo辞書
+Other resources:
+ • Spellcheckers - ValuePress
+ • 常用漢字表
+ • http://text-compare.com (text comparison)
+ • http://www.charactercountonline.com (character/word count)
+ • https://www.textmagic.com/free-tools/unicode-detector (unicode detection)
+6.1. Alternative Words & Expressions
+ • Use preferred alternatives to maintain helpful, straightforward, joyful, and bold tone.
+ • Examples:
+  - accommodation → hotels, hostels, apartments, room, where you’re staying
+  - acquire → get
+  - additional → extra, more
+  - administration → admin
+  - adverse → bad, harmful, dangerous
+  - airplane → aeroplane (UK), airplane (US), plane
+  - allow → let
+  - assist → help
+  - clarify → tell you about, explain, make clear
+  - click → use descriptive alternatives (e.g., Visit hotels page)
+  - contact us → use get in touch, give us a call, email us, write to us at <email> (except in headlines/CTAs)
+  - convenient → good, easy, useful
+  - customer → you, your traveller
+  - discuss → chat, talk
+  - ensure → make sure
+  - feedback → tell us your thoughts, let us know what you think
+  - holiday → trip, holiday, break, getaway
+  - inform → tell, talk
+  - obtain → get
+  - purchase → buy
+  - receive → get
+  - review → check, look into, see, view, read, watch
+  - suitable → right, OK, relevant, good, useful
+  - user → traveller, you, your
+  - utilise → use
+  - whilst → while
+7. Visual Examples
+ • Use imperative, concise forms for CTAs and headlines:
+  - Like this: “Discover our map”
+  - Not like this: “Discovering our map”
+ • Test naturalness by reading copy out loud.
+ • Use correct, natural word choices in context (e.g., “Deine Daten. Deine Entscheidung.” not “Deine Daten. Deine Wahl.”).
+

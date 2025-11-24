@@ -1,0 +1,103 @@
+Skyscanner Catalan Instructions
+1. Company Introduction
+ • Skyscanner aims to provide all flight options in one place, making travel simple and accessible.
+ • Their mission is to lead the global transformation to modern and sustainable travel.
+ • Before translating, familiarize yourself with Skyscanner’s website (skyscanner.no) and their app for iOS and Android.
+2. General Guidelines for Translating
+ • Write as if speaking to a friend: clear, direct, and simple.
+ • Boil sentences down to their essence; recreate meaning in the simplest way possible.
+ • Be brief: break up long sentences, remove unnecessary words, and use shorter words.
+ • Use active voice as much as possible.
+ • Be interesting but not over-enthusiastic; use strong adjectives and active verbs, but avoid excessive exclamation marks.
+ • Avoid industry jargon and business speak; do not assume prior knowledge.
+3. Catalan-specific Guidelines
+Tone of Voice
+ • Avoid translating “please”, “sorry”, and “unfortunately” whenever possible; convey politeness in another way.
+ • Always use informal “tu” when addressing the user.
+ • Play on words is encouraged if it positively engages the user.
+ • Use active language and exclamation marks as appropriate.
+Translation Approach
+ • Be creative: transcreate and modify wording as needed for naturalness, but keep the original meaning intact.
+ • Do not feel forced to follow English structure; adapt as necessary for Catalan.
+Tips for Communication
+ • Use clear and direct communication.
+ • Be transparent and open.
+ • Appeal to user emotions.
+ • Be accurate.
+ • Be inspiring and make the message stand out.
+ • Write as if talking to a friend.
+Repetitions
+ • Maintain consistency for key terms.
+ • Use synonyms where possible to avoid repetition, except for key terms.
+Addressing Users
+ • Use informal “tu” for the user.
+ • Use “nosaltres, nostre, etc.” to refer to Skyscanner.
+ • Maintain a conversational tone.
+Non-breaking Spaces
+ • Use non-breaking spaces (_) for:
+  - Writing dates: 18_de_març_del_2020 (not 18 de març del 2020)
+  - Between a number and a symbol: 20_€, Estalvia’t un 10_% en vols (not 20 €, Estalvia’t un 10 % en vols)
+Numbers
+ • 0-10: Write in conversational form, except for prices and percentages.
+ • Four-figure numbers: Do not use a dot as a thousand separator (e.g., 1234).
+ • Numbers with more than four figures: Use a non-breaking space as a thousand separator (e.g., 12_345).
+ • Decimals: Use a comma as the decimal separator (e.g., 108,98 €).
+Quotation Marks
+ • Use angular quotation marks (« ») for quotations.
+ • For quotes inside quotes, use English quotation marks (“ ”).
+ • Full stop placement:
+  - If the quote is inside a sentence, the full stop goes outside the closing quotation mark.
+  - If the quote is an entire sentence or at the beginning of a paragraph and starts with a capital letter, the full stop goes inside the closing quotation mark.
+ • Examples:
+  - Yes: «És millor viatjar ple d’esperança que arribar, vam pensar: “És així, no podria ser d’altra manera. Aquest proverbi japonès està carregat de sabiesa”».
+  - No: “És millor viatjar ple d’esperança que arribar, vam pensar: ‘És així, no podria ser d’altra manera. Aquest proverbi japonès està carregat de sabiesa’”.
+  - Yes: Cita de Mark Twain: «He descobert que no hi ha manera més segura de saber si estimes o odies algú que fer un viatge amb ell».
+  - No: Cita de Mark Twain: «He descobert que no hi ha manera més segura de saber si estimes o odies algú que fer un viatge amb ell.»
+Capitalisation
+ • Do not capitalize every word in titles; follow Catalan capitalization rules.
+ • Capitalize the first letter of UI terms instead of using quotation marks.
+  - Example: Si vols veure la pàgina en català, clica el botó Canvia a català.
+Locale Standards Units
+ • Do not localize standards (e.g., ZIP code) to only suit Catalonia; users may be based elsewhere but use the app in Catalan.
+Using Anglicisms
+ • Avoid English words in Catalan unless allowed, especially for Social Media and Marketing.
+ • Allowed English terms (do not use italics):
+  - bed and breakfast
+  - blog
+ • For other English terms, consult the Language Lead.
+ • Do not write the English translation of a Catalan word in parentheses unless it is a very uncommon sport or a very infrequent/specific concept.
+ • Never write the English translation for key words or common words.
+Consistency in Terminology
+ • Use the following translations:
+  - wifi: Wi-Fi, wifi
+  - internet: Internet, internet
+  - reembossar: to refund
+  - reembossable: refundable
+  - en línia: on line
+  - trastorn d’horari: jet lag
+  - aeroport de connexió: hub
+  - correu electrònic/correu: e-mail (system)
+  - missatge/missatge de correu electrònic/correu/correu electrònic: e-mail (message)
+  - correu brossa: spam
+  - facturar: to check-in
+  - empresa emergent: start-up
+Accessibility and Inclusion
+ • Avoid gendered adjectives when referring to the user; reword to ensure neutrality.
+Content Types – Common Mistakes
+Examples of Errors and Corrections:
+ • El millor preu que hem trobat a Internet: 108.98 € → El millor preu que hem trobat a internet: 108,98 €
+ • Entrada exprès → Entrada exprés
+ • Sortida tardana (late check-out) → Sortida tardana
+ • Do not use unnecessary anglicisms.
+ • Do not add English terms unless they are very infrequent.
+Translation Examples:
+ • ENGLISH: [...] We've always got your back and we're proud to be the most trusted travel search site in the world (our travellers rate us more highly than the likes of Kayak, Momondo and Expedia*).
+ • CATALAN: [...] Sempre t’hem donat suport i ens sentim orgullosos de ser el lloc web de cerca de viatges que gaudeix de més confiança al món: els nostres viatgers ens donen una valoració més alta que els “M’agrada” de Kayak, Momondo i Expedia*.
+ • CATALAN: [...] Sempre t’hem donat suport i ens sentim orgullosos de ser el lloc web de cerca de viatges en què més confien els usuaris: comptem amb una valoració més alta que la de Kayak, Momondo i Expedia*.
+ • ENGLISH: [...] Però el nostre compromís que vosaltres, els nostres viatgers, sigueu el més important no canviarà mai: roman al cor dels qui formem part d’aquesta empresa.
+ • CATALAN: [...] Però el compromís que vosaltres, els viatgers, sigueu el més important no canviarà mai: els qui formem part d’aquesta empresa ho portem al cor.
+Additional Comments:
+ • Use full sentences for clarity; do not translate literally.
+ • Do not overuse possessive pronouns.
+ • Avoid excessively formal language; be straightforward.
+

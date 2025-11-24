@@ -1,0 +1,117 @@
+Localization Instructions for Skyscanner: Brazilian Portuguese
+1. Introduction to Skyscanner’s Style
+ • Reflect modernity and simplicity in all communications. Travel planning and booking should sound effortless and straightforward. Examples:
+  - “Planejar e reservar sua viagem deve ser algo simples, sem esforço.”
+  - “Estamos deixando nosso aplicativo e site super objetivos e rápidos.”
+  - “Nosso aplicativo e site estão disponíveis em mais de 30 idiomas.”
+ • Emphasize sustainability and responsible travel. Examples:
+  - “Um selo de ‘opção ecológica’ que destaca os voos que emitem menos CO2.”
+  - “Compramos gasolina de aviação sustentável (SAF, na sigla em inglês) para ajudar a compensar as viagens que fazemos aqui na Skyscanner.”
+  - “Estamos trabalhando com o Duque de Sussex e líderes do setor para formar a Travalyst.”
+2. General Writing & Translation Guidelines
+2.1. What is good writing?
+ • Always put the traveller first and focus on their benefits and needs.
+ • Avoid excessive adjectives; make every sentence helpful.
+ • See content from the user's perspective and deliver what is beneficial. Examples:
+  - “Receba várias ofertas, de viagens rápidas a aventuras épicas”
+  - “Somos a ferramenta de busca de viagens do mundo.”
+ • Ask: Would I say this in a conversation?
+2.2. Writing & Translation Guidelines
+ • Make translations conversational, avoiding formality or stiffness.
+ • Ensure clarity and accuracy by using well-known terms, translating meaning over literal words.
+ • Use simple words and short sentences for inclusivity and accessibility.
+ • Prefer active voice, especially in headlines and calls to action.
+ • Directly address the reader, consistently using the singular informal "you" where possible.
+ • Be specific with details, avoiding vagueness.
+ • Write naturally as if talking to a friend; avoid sounding overly clever, be clear and direct.
+ • Make language personal by sharing relatable details and experience.
+ • Write in an interesting way to keep travel content exciting, not dull.
+ • Be honest, disclosing details that may affect user decisions.
+ • Double check all facts, names, and details for accuracy.
+ • Use exclamation marks very sparingly.
+3. Language-Specific Translation Guidelines
+3.1. Punctuation & Spacing
+ • Translate ampersands (&) as “e”, unless part of a brand/company name. Example: “Voos e hotéis” (not “Voos & hotéis”); “Dolce & Gabbana” (not “Dolce e Gabbana”)
+ • Avoid excessive commas; break up long sentences as needed.
+ • After a colon, do not capitalize if it’s the same line; capitalize after a line break.
+ • Remove exclamation marks if they make text overexcited; keep only for CTAs or dialogues.
+ • Use semicolons sparingly; favor simple sentences. Use in bullet lists only if bullet text is full sentences, with a full stop after the last bullet.
+ • Use hyphens according to the "Acordo Ortográfico da Língua Portuguesa"; do not confuse hyphen (-) with en dash (–) or em dash (—). Use en dash mainly for ranges (e.g. “1983–2013”). Avoid en dash otherwise. Maintain hyphens in numbers, URLs, email addresses.
+ • Prefer straight apostrophes ('), but curly are not an error.
+ • Use double straight quotation marks ("example") first. Single quotes for nested use, and prefer straight over curly marks.
+ • For lists of phrases or words, do not use semicolons. Only use semicolons for full sentences.
+ • No space before or after a slash (/) between numbers/words. Example: “US$ 100/noite”. Prefer “US$ 100 por noite” if appropriate.
+ • For currencies, same as above: no spacing before/after slashes; prefer “US$ 100/noite” or "US$ 100 por noite".
+3.2. Quantifiers
+ • For unipolar scales use:
+  - Nada satisfeito(a)
+  - Pouco satisfeito(a)
+  - Razoavelmente satisfeito(a)
+  - Muito satisfeito(a)
+  - Extremamente satisfeito(a)
+ • For bipolar scales use:
+  - Completamente insatisfeito(a)
+  - Insatisfeito(a)
+  - Pouco insatisfeito(a)
+  - Nem satisfeito(a) nem insatisfeito(a)
+  - Pouco satisfeito(a)
+  - Satisfeito
+  - Completamente satisfeito(a)
+3.3. Addressing Users ("You")
+ • Always use “você” for “you”, never “tu” or “vós”.
+ • Use “seu”/“seus” for “your”, not “teu”/“teus”.
+3.4. Use of Active Voice
+ • Prefer active voice over passive. Example:
+  - “O hotel cancelou sua reserva.” (not “Sua reserva foi cancelada pelo hotel.”)
+3.5. Formats (Numbers, Dates, Currencies, etc.)
+3.5.1 Numbers, Dates, and Time
+ • Numbers 0–10: spell out. Example: dois anfitriões
+ • Numbers 11–999: use cardinal. Example: 12 pessoas
+ • 1,000+: use “mil”, “milhões” for round numbers. Never “1 mil”, just “mil”. Examples: 3 mil, 4,3 mil, 20 milhões, 1.234, 18.318
+ • Dates (full): “domingo, 13 de janeiro de 2020”; “13 de janeiro de 2020”
+ • 1st of month: “1º de fevereiro de 2020”
+ • Abbreviated: “13/1/2019”, “8/4/2020”
+ • Time: use 24h format, separate with “h”. Examples: 9h, 13h30, 23h59
+3.5.2. Currencies
+ • Only convert currency if explicitly instructed.
+ • In text, write the name after value or symbol before value with a space (e.g. “R$ 10” or “10 reais”).
+ • Use “US$”, never “USD”. Example: “A Western Union cobra uma taxa fixa de US$ 10 por transação.”
+3.5.3. Units of Measure
+ • Use symbols as per INMETRO/International System of Units.
+3.5.4. Countries
+ • Use spelling for country names as per IBGE or Google Maps (use “Coreia do Sul” and “Coreia do Norte”; do not use just “Coreia”).
+3.5.5. URL
+ • No spaces in URLs; only use hyphen (-) as non-alphanumeric.
+ • All lowercase letters.
+ • No special (accented, non-Latin) characters.
+ • For multi-part URLs, reorder per established usage. Example: Source “city-breaks” => pt-BR: “viagens-urbanas”; “city” => “viagens”; “breaks” => “urbanas”; final URL: “viagens-urbanas”
+ • If an established translation is multi-word, split to make each part meaningful, if possible.
+3.6. Linguistic Sequence
+3.6.1. Transliteration: Not applicable for pt-BR. 3.6.2. Organization names (national): Research for official/commonly used Brazilian name. If not established or common, use most frequent. 3.6.3. NGO/company/association names: Do not translate “Skyscanner”. Use official/commonly used Brazilian name if it exists for other names; otherwise, leave in English. 3.6.4. Geo-terms: Follow 3.5.4 guidance on country names. 3.6.6. Tax/legal: Ensure equivalence; research and choose local equivalent. When in doubt, check with Language Lead.
+3.7. Foreignization vs Localization
+3.7.1. Subtitling:
+ • Max two lines per subtitle line, 32 characters each.
+ • Key message over literal translation; use the most familiar/localized concepts.
+3.7.2. Naming Process:
+ • For new product names, consult Language Lead for suitable, intuitive, memorable term (not just transliteration).
+3.7.3. Subject Repetition:
+ • Omit repeated subjects within same sentence/paragraph to improve readability. Example: Use “Você receberá um reembolso se reservar agora.” instead of repeating “você”.
+4. Translation Guidelines per Content Type
+4.1. User Interface (UI):
+ • Present info clearly, directly; never confuse the user. Use Section 2 guidelines.
+4.2. Marketing:
+ • Inspire travel, use bold/trendy expressions as long as commonly used. Make translation sound organic, not literal.
+4.3. App Store:
+ • Promote app with inspiring, active language when advertising. Be clear, specific, and avoid heavy jargon for informational content.
+4.4. Editorial & Blog Posts:
+ • Focus on readability and natural flow; restructure sentences/wording as long as message remains intact.
+4.5. Emails:
+ • Ensure 100% accuracy and typo-freeness; cannot be edited after sending. Make automated emails feel warm and personal where possible.
+4.6. Legal, Policies, Terms & Conditions:
+ • Accuracy above all: stay literal, do not deviate from, omit, or add to source. Minimize sentence reordering or merging. Be meticulous with numbers and dates.
+5. Common Mistakes
+ • (To be populated as translations are reviewed.)
+6. Alternative Words & Expressions (for Tone)
+ • Always consider Skyscanner’s preferred alternatives for core vocabulary. Examples:
+  - Use “hotels, hostels, apartments
+

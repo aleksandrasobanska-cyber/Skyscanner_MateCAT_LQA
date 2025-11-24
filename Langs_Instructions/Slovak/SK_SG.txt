@@ -1,0 +1,53 @@
+Instructions for Skyscanner Slovak LQA Assessment
+Section 1: General Guidelines
+ • Apply Skyscanner’s tone of voice principles in all Slovak translations and writing: aim for clear, specific, friendly, and honest communication.
+ • Ensure all content is natural, personal, interesting, and honest. Use the following as reference:
+  - Be specific: Provide useful, concrete details instead of vague statements. Example: Prefer “The hotel is a mile’s walk (with lots of steps, be prepared if you’ve got kids) from the train station” over “The hotel is a short walk from the train station.”
+  - Imagine you’re talking to a friend: Keep language natural and avoid trying to sound overly clever.
+  - Make it personal: Share experience-based insights instead of generic statements. Example: Prefer “The restaurant fuses Italian and Californian flavours. Their short rib with gnocchi is one of the best things I’ve ever tasted: really smoky and rich” over “The food was delicious.”
+  - Be interesting: Avoid boring formulations. Example: Prefer “The museum is awesome - I saw a collection of real-life shrunken heads” over “The museum has lots of historical artefacts.”
+  - Be honest: Disclose any potentially negative details to help users make informed decisions. Examples: “This BBQ restaurant is one of the best in the city. Not so many options for vegetarians though.” “This is one of the best hotels I’ve ever stayed in - but it’s also one of the most expensive.”
+  - Double-check for accuracy: Verify spellings, opening times, locations, and other facts since any incorrect information can damage user trust.
+  - Use exclamation marks rarely.
+Section 2: Language-Specific Instructions
+Formality and Address
+ • Use the formal form of “you” (“Vy”) to address users.
+ • In personalized emails and messages, capitalize “V.” Example: “Dobrý deň, [user name], máme pre Vás mimoriadnu ponuku.”
+Creativity and Freedom in Translation
+ • Avoid word-for-word translation. Ensure the sentence sounds natural, flows well in Slovak, and culturally fits the context.
+ • Make adaptations, rephrase, add or omit words as needed to ensure clarity and a natural reading experience, while remaining close to the original meaning and segment length.
+ • You may adapt cultural concepts for Slovak users as appropriate.
+Glossary and Translation Memory (TM)
+ • Use the glossary and TM matches for background, but prioritize naturalness and human-like translation.
+ • If deviating from a TM or glossary entry for improved accuracy or naturalness, leave a note justifying your choice.
+ • Suggest new glossary entries as needed; communicate these suggestions to your LL.
+ • Legacy TM matches from previous vendors do not have to be followed.
+Declension of the Brand Name
+ • Use “Skyscanner” as a Slovak noun and decline as follows:
+  - Nominative: Skyscanner
+  - Genitive: Skyscannera
+  - Dative: Skyscanneru
+  - Accusative: Skyscanner
+  - Locative: Skyscanneri
+  - Instrumental: Skyscannerom
+ • Especially apply declension for short strings and UI elements.
+ • In legal or highly formal content/messages, use the brand name together with a descriptor.
+Punctuation Rules
+ • You do not need to follow source punctuation strictly.
+ • Omit a full stop if your translation is a fragment; add a full stop if converting a fragment to a full sentence.
+ • For titles or headings with multiple sentences, use full stops regardless of the guidance below.
+ • Do not add full stops to the ends of: titles, headings, email subjects, buttons, CTAs, UI elements.
+ • Use exclamation marks sparingly.
+ • Adapt comma use to Slovak, not simply copying English punctuation.
+Gender and Pluralization
+ • Using formal “Vy” can simplify gender, but when both male and female endings are possible, indicate accordingly: Example: “Prečítal (-a) som si podmienky. Som spokojný (-á) s prekladom tejto stránky.”
+ • For plural and number references, ensure all plausible options are represented:
+  - For a single adult: “dospelý” is acceptable, though not fully inclusive; “dospelá osoba” is fully inclusive.
+  - For multiple adults: Use “dospelí,” as this works with any quantity (e.g., “dvaja dospelí,” “piati dospelí”). Avoid using “dospelé osoby/dospelých osôb” in variable number contexts; find workarounds to maintain clarity and naturalness.
+Descriptors and Placeholders
+ • If a placeholder requires nominative case and cannot fit naturally, use a descriptor (except for international airport codes). Example: “Let z [code] do [code]” is sufficient; avoid repeating “letisko” (airport) unnecessarily in short strings.
+Hyperlinks
+ • Hyperlinks should always be clear and visible: use at least two words for hyperlinks where possible.
+Cultural References, Locations, Names
+ • Adapt cultural references, examples with locations, or proper names as needed for Slovak reality, unless you know they will be accompanied by visuals.
+

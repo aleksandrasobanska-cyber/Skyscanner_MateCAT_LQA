@@ -1,0 +1,75 @@
+Skyscanner Spanish (Mexico) LQA Instructions
+Punctuation
+ • Use commas to separate elements in an enumeration. Do not write a comma before the conjunction (y, e, o, ni). Example correct: No sé si visitar Argentina, Colombia o Chile. Example incorrect: No sé si visitar Argentina, Colombia, o Chile.
+ • Exception: For enumerations separated by semicolons, use a comma or semicolon before the conjunction. Example correct: Clara llevó el pan; Lucía, el vino; Juan, la fruta, y Cristina, la comida.
+ • For ellipsis, do not leave a space before an ellipsis, even if the source text does. Example correct: A quien madruga… Example incorrect: A quien madruga …
+ • Use exclamation marks sparingly, only when fitting the tone. Adjust or remove as needed to avoid sounding overexcited. English: We're here to help! / Spanish: Estamos aquí para ayudarte.
+ • Use “double English quotation marks” (“”) in translations, not angular («») or other styles. Example yes: Cualquier nota que agregues en el campo “¿Cuál es el propósito de este viaje?”. Example no: Cualquier nota que agregues en el campo «¿Cuál es el propósito de este viaje?».
+ • For quotations inside quotations, use single quotation marks (‘’) within double English quotation marks. Example yes: “...pero pensamos ‘No hicimos nada malo...’”. Example no: «...pero pensamos “No hicimos nada malo...”».
+ • Place periods outside the closing quotation mark or bracket at the end of the sentence. Example yes: Y después dijo: “No lo pienso hacer”. Example no: Y después dijo: “No lo pienso hacer.”
+ • Do not use the double prime symbol (″) instead of quotation marks. Example yes: Y después dijo: “No lo pienso hacer”. Example no: Y después dijo: ″No lo pienso hacer″.
+ • Hyphenated words are rare in Spanish. Follow Spanish conventions: Correct: Exdirector, Ciberespacio Incorrect: Ex-director, Ciber-espacio, Ex director, Ciber espacio In exceptions like “mini-USB”, “pro-Obama” use as per Spanish conventions.
+ • Dashes can be used like commas or parentheses but avoid overusing them. If used, ensure correct usage. Example preferred: El pasado noviembre, en París, Michelle ganó el galardón... Example correct: El pasado noviembre —en París— Michelle ganó el galardón...
+Similarly: Se trata de un espacio lleno de imaginación, creatividad y recuerdos (Ana y Javier han recorrido más de un centenar de países juntos). Alternative: ...durante sus viajes —Ana y Javier han recorrido más de un centenar de países juntos—.
+Full stops
+ • Do not use full stops at the end of buttons, menu text, or headers. Example: English: Just for the weekend / Spanish: Para el fin de semana English: Meet Guidebooks / Spanish: Te presentamos nuestras guías
+ • For bullet lists, do not use a full stop after each element if they are not grammatical phrases (e.g. single words). Example: Servicios: ● Cocina ● Internet ● Estacionamiento gratuito en la calle
+ • Exception: If elements are full sentences or phrases, use a full stop. Example: ● Quiero tener más control sobre quién puede reservar. ● Es difícil mantener el calendario actualizado.
+Capitalization
+ • For titles and buttons, do not capitalize every word as in English; use sentence-style capitalization per Spanish grammar. Example: English: Account and Password / Spanish: Cuenta y contraseña Not: Cuenta y Contraseña
+ • Do not capitalize months or days unless at the beginning of a sentence. Example: English: On Monday 31st October / Spanish: El lunes 31 de octubre Not: El Lunes 31 de Octubre
+ • After a colon, normally do not capitalize. Exceptions:
+  1. After greeting in emails/letters: Hola, María:
+  2. After “Nota:”
+  3. When the following text is a quote: Amanda afirmó: “Nuestra casa rodante...”.
+ • For glossary terms, use capitalization as it appears in the glossary. For UI sections, match platform display with no quotation marks around them.
+Anglicisms
+ • Avoid English words unless listed/allowed for marketing/social media: smartphone, laptop, marketing, bed and breakfast, hashtag, blog.
+ • Do not use italics for these terms.
+ • Any other English terms require discussion and approval.
+Abbreviations and Acronyms
+ • Do not abbreviate dates in Spanish unless required by character limitations; abbreviate following DPD guidelines if needed.
+ • For acronyms, use Spanish if available or widely used. If kept in English, rephrase to insert a brief explanation.
+ • Clarity is essential.
+Addressing Users
+ • Always use informal “tú” to address the user in Spanish.
+Voice
+ • Prefer active over passive voice. Example: Skyscanner will ask you to provide identification. / Skyscanner te pedirá que proporciones identificación.
+Subjunctive Mood
+ • Use subjunctive as needed; prefer -ra (imperfect subjunctive) forms in Mexico, avoid -se forms. Example yes: Si estuviera aquí, invertiría en esa empresa. Example no: Si estuviese aquí, invertiría en esa empresa.
+Nominalisation
+ • Avoid overly noun-heavy (nominalised) and passive constructions; keep sentences clear and more verbal.
+Possessive Pronouns
+ • Use definite articles instead of possessive pronouns in most cases. Example yes: Carolin ha reservado un alojamiento... Example no: Carolin ha reservado su alojamiento...
+ • For body parts, also use definite articles. Example yes: cúbrete con el brazo, nunca con la mano. Example no: cúbrete con tu brazo...
+Verbs
+ • Use precise and meaningful verbs. Avoid “empty verbs” but keep natural phrasing. Example better: que se celebró en París, nos comprometimos a impulsar... Alternative (to avoid): que tuvo lugar en París, nos comprometimos a hacer...
+Repetition
+ • Avoid repeating the same term within a paragraph unless intentional. Rephrase to avoid redundancy. Example yes: Haz clic en la casilla para habilitar esta función. Example no: Haz clic en la casilla para activar o desactivar la Reservación inmediata...
+Imperative vs Infinitive (UI Elements)
+ • For CTAs and buttons: Use imperative for longer actions. Example: Descubre esta nueva función. Example: Conviértete en anfitrión.
+ • For short (usually 1-2 words) buttons: Use infinitive. Example: Buscar; Participar
+Gerund
+ • Do not start Spanish sentences with a gerund if the English starts with one. Prefer the infinitive form or a noun. Correct: Al ofrecer tu alojamiento... / Cómo buscar un lugar para alojarte / Buscar un lugar para alojarte Incorrect: Ofreciendo tu alojamiento... / Buscando un lugar para alojarte
+Queísmo and Dequeísmo
+ • Do not omit “de” when required (queísmo) or add unnecessarily (dequeísmo). Correct: Me alegro de que hayas venido. / A medida que pasen los meses... Incorrect: Me alegro que hayas venido. / A medida de que pasen...
+Leísmo
+ • Do not use “le” as a direct object pronoun for males; use “lo” in Mexican Spanish. Spanish (Mexico) correct: Lo saludé rápidamente... Spanish (Spain): Le saludé rápidamente..., not for use.
+Formats (numbers, dates, currencies, etc.)
+Dates and Time
+ • Dates: DD/MM/YYYY. Do not capitalize days or months (except at sentence start). Example yes: El jueves, 14 de abril de 2016 Example no: El Jueves 14 de Abril de 2016
+ • Time: Use 24h format, with a colon and always two digits, and add a non-breaking space and “h”. Example yes: 04:00 h / 15:20 h / De las 08:00 h a las 14:00 h Example no: 4:00 h / 15.20 / De las 08:00 a las 14:00 h
+ • When variables indicate time (e.g., “Anytime after %{time}”), use: A partir de las %{time}
+ • Use “las” except for 01:00, which is unlikely to appear.
+Numbers
+ • 0–10: Write in word form unless clarity/numeric data is essential.
+ • Four figures (thousands): No dot as thousand separator; write together.
+ • Five figures or more: Use non-breaking space as thousand separator.
+ • Decimals: Use period as decimal separator. Examples yes: 3 500 000 / 3 millones / 3 000 000 / 3 000 000 000 / 123.45 MXN Examples no: 3,500,000 / 3.500.000 / 3 mil millones / 123,45 $ / $ 123.45
+Currencies
+ • Separate decimals with a period.
+ • ISO currency codes must go after the amount with a non-breaking space. Example yes: 123.45 MXN / 123.45 USD Example no: 123,45 $ / 123,45$ / $ 123.45 / USD 123,45
+ • Do not localize currency unless explicitly instructed.
+Ranges and Spans
+ • Prefer conversational format when space allows; use a dash with no
+

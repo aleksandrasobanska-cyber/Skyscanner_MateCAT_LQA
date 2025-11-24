@@ -1,0 +1,72 @@
+Skyscanner Croatian LQA Model Instructions
+
+1. General Principles
+ • Familiarization: Review the Skyscanner website and/or download the iOS or Android app to understand the product and context.
+ • Reference Materials: For grammar, syntax, and spelling, refer to:
+  - Hrvatski pravopis (spelling)
+  - Pravopisna pravila (punctuation)
+  - Hrvatski jezični priručnik (inflections)
+  - Enciklopedija (clarification)
+  - Common data repository for Croatian (accepted terminology)
+  - Kolokacijska baza hrvatskog jezika
+  - Hrvatsko strukovno nazivlje
+
+2. Tone of Voice
+ • Be Specific: Avoid vague statements. Provide concrete, actionable details.
+  - Example: Instead of “The hotel is a short walk from the train station,” use “The hotel is a mile’s walk (with lots of steps, be prepared if you’ve got kids) from the train station.”
+ • Conversational Style: Write as if speaking to a friend. Use natural, clear language.
+ • Personal Touch: Use personal experience to add credibility and detail.
+  - Example: Instead of “The food was delicious,” use “The restaurant fuses Italian and Californian flavours. Their short rib with gnocchi is one of the best things I’ve ever tasted: really smoky and rich.”
+ • Engaging Content: Make the text interesting and lively.
+  - Example: Instead of “The museum has lots of historical artefacts,” use “The museum is awesome - I saw a collection of real-life shrunken heads.”
+ • Honesty: Be transparent about pros and cons.
+  - Example: “This BBQ restaurant is one of the best in the city. Not so many options for vegetarians though.”
+  - Example: “This is one of the best hotels I’ve ever stayed in - but it’s also one of the most expensive.”
+ • Accuracy: Double-check all factual information (spellings, opening times, locations, historical details, names).
+ • Exclamation Marks: Use sparingly.
+
+3. Language-Specific Translation Guidelines
+Form of Address (“you”)
+ • Use 2nd person plural (vi) when addressing, encouraging, instructing, or prompting the user to do something.
+ • Use 2nd person singular (ti) when the user is addressing, instructing, or telling the system to do something for them.
+
+4. Formatting and Technical Conventions
+Dates and Time
+ • Capitalization: Days, months, and seasons are not capitalized.
+ • Order: Day comes before month, year at the end.
+  - Examples:
+   - 12. 4. 2019.
+   - 12. travnja 2019.
+   - 12. ožu 2020.
+ • Abbreviations:
+  - Days: pon, uto, sri, čet, pet, sub, ned
+  - Months: sij, velj, ožu, tra, svi, lip, srp, kol, ruj, lis, stu, pro (no endpoints)
+ • Time Format: Use 24-hour format with a colon.
+  - Example: 9:00 – 16:00
+Numbers
+ • Decimal Separator: Use comma.
+ • Thousand Separator: Use point for numbers above 999.
+  - Example: 1.000.000,00
+ • Numbers 1–10: Prefer alphabetic form in descriptive text, but numeric form is acceptable for clarity.
+  - Example: “7 nights” or “seven nights”
+Currencies
+ • Foreign Currencies: Use currency symbol separated from the number by a non-breaking space.
+ • Croatian Currency: Use “kn”.
+Units of Measure
+ • Localization: Convert to metric units commonly used in Croatia.
+ • Imperial Units: If present in source, provide both original and metric (e.g., “5 in/13 cm”).
+ • Non-breaking Space: Use before unit designation, %, currency, and month/year abbreviations.
+  - Shortcuts:
+   - Mac: Alt+space
+   - PC: Alt+255, Alt+0160, or Shift+Ctrl+Space
+Hyphens and Dashes
+ • Hyphens (-): Use in compound nouns (e.g., web-mjesto) or for inflecting acronyms (e.g., na USB-u).
+ • N Dashes (–): Use in vertical lists and ranges, surrounded by non-breaking spaces (e.g., 5 – 6 pm, 2018. – 2029.).
+ • Em Dashes (—): Do not use in Croatian.
+ • Pauses: Do not use dashes to mark pauses. Rephrase, start a new sentence, or use colons/semi-colons.
+Addresses
+ • Localization: Localize city and country names; retain all other address elements as in the source.
+  - Example:
+   - Source: Floor 6, The Avenue, 1 Bedford Avenue, London, United Kingdom, WC1B 3AU
+   - Localized: Floor 6, The Avenue, 1 Bedford Avenue, London, Ujedinjena Kraljevina, WC1B 3AU
+

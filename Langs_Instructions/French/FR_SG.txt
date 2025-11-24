@@ -1,0 +1,97 @@
+French Instructions
+1. Translation Approach
+ • Exercise creative license: Transcreate and modify wording as needed for natural French. Do not translate word-for-word if it feels unnatural.
+ • Preserve the original message, but phrase it as if originally written in French.
+2. Punctuation & Capitalization
+2.1 Titles
+ • Do not capitalize the first letter of each word as in English.
+ • Avoid full stops in titles unless the title is composed of more than one sentence.
+  - Example (Correct): Vous pouvez compter sur nous
+  - Example (Correct): Besoin d’un hôtel ? Nous pouvons vous aider.
+  - Example (Incorrect): Vous pouvez compter sur nous.
+  - Example (Incorrect): Besoin d’un hôtel ? Nous pouvons vous aider
+2.2 Sub-headers and Title Descriptions
+ • Use regular sentence case.
+  - Example (Correct): Recherchez des vols pour votre prochaine destination.
+  - Example (Incorrect): Recherchez des Vols Pour Votre Prochaine Destination
+2.3 Bullet Lists
+ • For phrase items: Use sentence case for each item. Do not end items with semicolons (“;”) or a full stop on the last item.
+  - Example (Correct): ● Réservez un vol sur Skyscanner. ● Trouvez la chambre d’hôtel idéale. ● Passez des vacances inoubliables.
+  - Example (Incorrect): ● Réservez un vol sur Skyscanner ; ● trouvez la chambre d’hôtel idéale ; ● passez des vacances inoubliables.
+ • For single-word items or concepts: Do not use full stops.
+  - Example (Correct): ● Vols ● Hôtels ● Location de voiture
+  - Example (Incorrect): ● Vols. ● Hôtels. ● Location de voiture.
+ • Use best judgement in unclear cases, prioritizing consistency.
+2.4 Dashes & Hyphens
+ • Do not use “–” to express “:”. Use a colon or start a new sentence.
+  - Example (Correct): New York vous attend : réservez dès maintenant.
+  - Example (Correct): New York vous attend. Réservez dès maintenant.
+  - Example (Incorrect): New York vous attend – réservez dès maintenant.
+  - Example (Incorrect): New York vous attend. Réservez dès maintenant
+3. Accents, Special Characters, and Formatting
+ • Always use accented characters, including on capital letters.
+ • Do not use ampersand (“&”) in French.
+ • Do not translate “and/or” as “et/ou”; use “ou” instead.
+ • Use regular non-breaking spaces; do not use short non-breaking spaces before “:”, “!”, or “?”.
+ • Straight apostrophes are allowed; do not force curved apostrophes if unsupported, but avoid mixing both types.
+ • Do not use subscripts or superscripts (e.g., XVIIIᵉ or 1ᵉʳ); use 18e or 1er instead.
+  - Example (Correct): Évadez-vous cet été
+  - Example (Correct): Réservez un hôtel et un vol sur Skyscanner.
+  - Example (Incorrect): Evadez-vous cet été
+  - Example (Incorrect): Réservez un hôtel & un vol sur Skyscanner.
+4. Non-breaking Spaces
+ • Follow French typographic rules for non-breaking spaces (represented as “_” in examples).
+  - Example (Correct): 18_mars_2020, Des questions_?, Question_3, *_Données Skyscanner., 20_h_59
+  - Example (Incorrect): 18 mars 2020, Des questions ?, Question 3, * Données Skyscanner., 20h59
+5. Repetitions
+ • Avoid unnecessary repetitions common in English. Rephrase to avoid repeating terms.
+  - Example (Correct): Vous souhaitez réserver un vol ? Trouvez les meilleurs prix et faites-le dès aujourd'hui.
+  - Example (Incorrect): Vous souhaitez réserver un vol ? Trouvez les meilleurs prix et réservez un vol aujourd'hui.
+6. Anglicisms
+ • Do not avoid anglicisms at all costs. Use them if they are commonly used in French (e.g., “marketing”).
+ • Avoid jargon or niche English terms that are not widely understood.
+ • Use simple, accessible language.
+7. Addressing Users
+7.1 Accessibility & Inclusion
+ • Avoid gendered adjectives when referring to users. Reword for neutrality; use forms like “Satisfait(e)” only as a last resort.
+  - Example (Correct): Vous recevrez votre remboursement.
+  - Example (Correct): Est-ce que … vous apporte satisfaction ?
+  - Example (Correct): Voulez-vous vraiment … ?
+  - Example (Incorrect): Vous serez remboursé(e).
+  - Example (Incorrect): Êtes-vous satisfait(e) de… ?
+  - Example (Incorrect): Êtes-vous sûr de … ?
+8. Locale Standards Units
+ • Do not localize standards (e.g., ZIP code) only for France; consider all French-speaking users.
+  - Example (Correct): Veuillez saisir votre code ZIP ou code postal.
+  - Example (Incorrect): Veuillez saisir votre code postal.
+9. Numbers
+ • No specific instructions provided.
+10. Question Titles
+ • For interrogative titles like “How to book a flight”, add a question mark or rephrase to avoid question formats.
+  - Example (Correct): Comment réserver un vol ?
+  - Example (Incorrect): Réserver un vol
+  - Example (Incorrect): Comment réserver un vol
+11. Plurals
+ • Use “(s)” only as a last resort. Prefer rephrasing or choosing one option if the meaning remains clear.
+  - Example (Correct): À quel programme de fidélité participez-vous ? Plusieurs réponses possibles.
+  - Example (Incorrect): À quel(s) programme(s) de fidélité participez-vous ? Plusieurs réponses possibles.
+12. Content Types
+12.1 Buttons/CTAs/Clickable Links
+ • Use the infinitive form and “me/I” voice instead of “you” when possible.
+  - Example (Correct): Réserver mon vol
+  - Example (Incorrect): Réservez votre vol
+12.2 Surveys
+ • Phrase survey questions in a non-biased way, especially for intensity or scale-based questions.
+  - Example (Correct): À votre avis, à quel point est-il risqué pour vous de voyager à l’étranger actuellement ?
+  - Example (Incorrect): À votre avis, est-il risqué pour vous de voyager à l’étranger actuellement ?
+13. Common Terms
+13.1 Reload/Refresh
+ • Use “Recharger” for “Reload page”, not “Rafraîchir”.
+13.2 Read
+ • Prefer “Consulter/Consultez” over “Lire/Lisez” for reading articles or documents, unless context justifies “Lisez”.
+  - Example (Better): Consulter les conditions d’utilisation
+  - Example (Not ideal): Lire les conditions d’utilisation
+14. Apostrophe Usage
+ • Use a consistent apostrophe style throughout a document.
+ • Prefer straight apostrophes if curved ones are unsupported, but do not mix both styles in the same document.
+
