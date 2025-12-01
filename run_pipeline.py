@@ -8,6 +8,7 @@ import pandas as pd
 
 from src.config_loader import load_config
 from src.lqa_pipeline import TaskConfig, run_lqa_first_pass, run_lqa_review_pass
+from src.normalization import normalize_errors_list
 from src.parser import process_tracker
 from src.reporting import generate_lqa_scorecard
 from src.tb import LANG_NAME_TO_CODE, add_tb_matches_to_consolidated
@@ -166,6 +167,11 @@ def main():
             max_concurrency=int(llm_cfg.get("max_concurrency", 25)),
             wait_seconds=int(llm_cfg.get("wait_seconds", 5)),
         )
+
+        # Normalize category/subcategory to the allowed set
+        df_result["Final_Errors"] = df_result["Final_Errors"].apply(normalize_errors_list)
+        if "Agent1_Errors" in df_result.columns:
+            df_result["Agent1_Errors"] = df_result["Agent1_Errors"].apply(normalize_errors_list)
 
         output_dir.mkdir(parents=True, exist_ok=True)
         generate_lqa_scorecard(df_result, str(output_dir), lang)

@@ -5,6 +5,7 @@ from openpyxl import Workbook
 from openpyxl.formatting.rule import FormulaRule
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.utils import get_column_letter
+from openpyxl.worksheet.datavalidation import DataValidation
 
 
 def format_tb_matches_friendly(matches_list):
@@ -28,6 +29,7 @@ def format_tb_matches_friendly(matches_list):
 def generate_lqa_scorecard(df_result, base_output_folder, language_name):
     """
     Generates a formatted Excel scorecard from the LQA results.
+    Adds HITL columns (green headers) with dropdowns for Status and Category-Subcategory.
     """
     lang_folder = os.path.join(base_output_folder, language_name)
     os.makedirs(lang_folder, exist_ok=True)
@@ -43,7 +45,7 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
         ("Job ID", "Job_ID", 12, False),
         ("Segment ID", "Segment_ID", 12, False),
         ("Char Limit", "Character_Limit", 12, False),
-        ("Link", "Link", 12, False),
+        ("Link", "Link", 12, True),
         ("Note", "Note", 25, True),
         ("Context Before", "Context_Before", 25, True),
         ("Context After", "Context_After", 25, True),
@@ -52,19 +54,28 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
         ("TB Matches", "TB Matches", 25, True),
     ]
 
-    error_headers = ["Category - Sub Category", "Severity", "Rationale"]
+    error_headers = ["AI Category - Sub Category", "AI Severity", "AI Rationale"]
     error_widths = [20, 20, 30]
+
+    hitl_headers = ["Status", "HITL Category - Sub Category", "HITL Severity", "HITL Rationale", "HITL Final Target"]
+    hitl_widths = [12, 25, 15, 30, 40]
 
     final_cols_config = [
         ("Final Target", "Final_Target", 40, True),
         ("Char Count", None, 15, False),
     ]
 
-    all_headers = [c[0] for c in static_cols_config] + error_headers + [c[0] for c in final_cols_config]
+    all_headers = (
+        [c[0] for c in static_cols_config]
+        + error_headers
+        + [c[0] for c in final_cols_config]
+        + hitl_headers
+    )
     ws.append(all_headers)
 
     header_fill = PatternFill(start_color="4472C4", end_color="4472C4", fill_type="solid")
     header_font = Font(color="FFFFFF", bold=True)
+    hitl_fill = PatternFill(start_color="00B050", end_color="00B050", fill_type="solid")
     link_font = Font(color="0563C1", underline="single")
 
     thin_border = Side(border_style="thin", color="000000")
@@ -72,7 +83,10 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
 
     for col_num, header in enumerate(all_headers, 1):
         cell = ws.cell(row=1, column=col_num)
-        cell.fill = header_fill
+        if header in hitl_headers:
+            cell.fill = hitl_fill
+        else:
+            cell.fill = header_fill
         cell.font = header_font
         cell.alignment = Alignment(horizontal="center", vertical="center")
 
@@ -114,6 +128,7 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
             cell.alignment = Alignment(vertical="top", wrap_text=wrap)
             col_idx += 1
 
+        # AI Errors
         error_col_start = col_idx
 
         if has_errors:
@@ -141,6 +156,32 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
 
         col_idx += 3
 
+        # HITL Columns
+        hitl_status_col = col_idx
+        hitl_cat_col = col_idx + 1
+        hitl_sev_col = col_idx + 2
+        hitl_rat_col = col_idx + 3
+        hitl_final_col = col_idx + 4
+
+        if has_errors:
+            for i in range(num_sub_rows):
+                r = start_row + i
+                ws.cell(row=r, column=hitl_status_col).alignment = Alignment(vertical="top", wrap_text=True)
+                ws.cell(row=r, column=hitl_cat_col).alignment = Alignment(vertical="top", wrap_text=True)
+                ws.cell(row=r, column=hitl_sev_col).alignment = Alignment(vertical="top", wrap_text=True)
+                ws.cell(row=r, column=hitl_rat_col).alignment = Alignment(vertical="top", wrap_text=True)
+                ws.cell(row=r, column=hitl_final_col).alignment = Alignment(vertical="top", wrap_text=True)
+        else:
+            if num_sub_rows > 1:
+                ws.merge_cells(start_row=start_row, start_column=hitl_status_col, end_row=end_row, end_column=hitl_status_col)
+                ws.merge_cells(start_row=start_row, start_column=hitl_cat_col, end_row=end_row, end_column=hitl_cat_col)
+                ws.merge_cells(start_row=start_row, start_column=hitl_sev_col, end_row=end_row, end_column=hitl_sev_col)
+                ws.merge_cells(start_row=start_row, start_column=hitl_rat_col, end_row=end_row, end_column=hitl_rat_col)
+                ws.merge_cells(start_row=start_row, start_column=hitl_final_col, end_row=end_row, end_column=hitl_final_col)
+
+        col_idx += 5
+
+        # Final Target & Count
         if has_errors:
             final_target_val = row.get("Final_Target", "")
             ft_cell = ws.cell(row=start_row, column=col_idx, value=final_target_val)
@@ -166,7 +207,7 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
             if num_sub_rows > 1:
                 ws.merge_cells(start_row=start_row, start_column=col_idx, end_row=end_row, end_column=col_idx)
 
-        total_cols = len(static_cols_config) + 3 + 2
+        total_cols = len(static_cols_config) + len(error_headers) + len(final_cols_config) + len(hitl_headers)
 
         for r in range(start_row, end_row + 1):
             for c in range(1, total_cols + 1):
@@ -186,6 +227,7 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
 
         current_row += num_sub_rows
 
+    # Column widths
     current_col = 1
     for _, _, width, _ in static_cols_config:
         ws.column_dimensions[get_column_letter(current_col)].width = width
@@ -196,9 +238,12 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
     for _, _, width, _ in final_cols_config:
         ws.column_dimensions[get_column_letter(current_col)].width = width
         current_col += 1
+    for width in hitl_widths:
+        ws.column_dimensions[get_column_letter(current_col)].width = width
+        current_col += 1
 
     limit_col_letter = "C"
-    count_col_letter = get_column_letter(ws.max_column)
+    count_col_letter = get_column_letter(len(static_cols_config) + len(error_headers) + 2)  # Char Count column
     format_range = f"{count_col_letter}2:{count_col_letter}{max(2, current_row-1)}"
 
     red_fill = PatternFill(start_color="FFC7CE", end_color="FFC7CE", fill_type="solid")
@@ -211,6 +256,38 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
 
     green_formula = f'AND(ISNUMBER({count_col_letter}2), ${limit_col_letter}2<>"", {count_col_letter}2<=${limit_col_letter}2)'
     ws.conditional_formatting.add(format_range, FormulaRule(formula=[green_formula], stopIfTrue=True, fill=green_fill, font=green_font))
+
+    # Data validations for HITL columns
+    if current_row > 2:
+        last_row = current_row - 1
+        status_col_letter = get_column_letter(len(static_cols_config) + len(error_headers) + len(final_cols_config) + 1)
+        cat_col_letter = get_column_letter(len(static_cols_config) + len(error_headers) + len(final_cols_config) + 2)
+
+        status_dv = DataValidation(type="list", formula1='"Accepted,Rejected,Edited"', allow_blank=True)
+        status_dv.add(f"{status_col_letter}2:{status_col_letter}{last_row}")
+        ws.add_data_validation(status_dv)
+
+        hitl_cat_options = [
+            "Accuracy - Mistranslation",
+            "Accuracy - Omission",
+            "Accuracy - Addition",
+            "Terminology - Term inconsistency",
+            "Grammar - Syntax error",
+            "Grammar - Morphology error",
+            "Style - Tone/register",
+            "Style - Redundancy",
+            "Style - Ambiguity",
+            "Locale Conventions - Punctuation",
+            "Locale Conventions - Date format",
+            "Locale Conventions - Time format",
+            "Locale Conventions - Number format",
+            "Formatting - Placeholder mismatch",
+            "Formatting - Tag mismatch",
+        ]
+        cat_list = ",".join(hitl_cat_options)
+        cat_dv = DataValidation(type="list", formula1=f'"{cat_list}"', allow_blank=True)
+        cat_dv.add(f"{cat_col_letter}2:{cat_col_letter}{last_row}")
+        ws.add_data_validation(cat_dv)
 
     wb.save(output_path)
     print(f"Scorecard saved to: {output_path}")

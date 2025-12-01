@@ -99,30 +99,29 @@ If **no** segments need changes, return:
 
 ---
 
-# MQM Error Categories
+# Error Categories (use exactly these)
 
-Split classification into `category` and `subcategory` exactly as shown below. Do not invent new keys.
-
-**Category: Terminology**
-*   *Subcategories:* Wrong term, Inconsistent with termbase
-
-**Category: Accuracy**
-*   *Subcategories:* Mistranslation, Addition, Omission, Do-not-translate (DNT), Untranslated
-
-**Category: Linguistic conventions**
-*   *Subcategories:* Grammar, Punctuation, Spelling, Unintelligible
-
-**Category: Style**
-*   *Subcategories:* Organization, Register / Brand voice, Awkward / Unidiomatic style, Inconsistent style
-
-**Category: Locale conventions**
-*   *Subcategories:* Number, Currency, Measurement, Time, Date, Address, Telephone, Shortcut key
-
-**Category: Audience appropriateness**
-*   *Subcategories:* Culture-specific reference, Offensive
-
-**Category: Design and markup**
-*   *Subcategories:* Character formatting, Layout, Markup tag, Truncation/text expansion, Missing text, Link/cross-reference
+1. Accuracy
+   * Mistranslation
+   * Omission
+   * Addition
+2. Terminology
+   * Term inconsistency
+3. Grammar
+   * Syntax error
+   * Morphology error
+4. Style
+   * Tone/register
+   * Redundancy
+   * Ambiguity
+5. Locale Conventions
+   * Punctuation
+   * Date format
+   * Time format
+   * Number format
+6. Formatting
+   * Placeholder mismatch
+   * Tag mismatch
 
 ---
 
