@@ -21,14 +21,29 @@ async def _call_gemini_once_json(
     """
     One Gemini API call. Tenacity handles retries externally.
     """
+    def _thinking_config_for_model(model: str) -> Dict[str, Any]:
+        m = model.lower()
+        if "3" in m:
+            return {"thinkingLevel": "HIGH"}
+        if "2.5" in m:
+            return {"thinkingBudget": 20_000}
+        return {}
+
     config_params = {
         "system_instruction": parts["system"],
         "temperature": temp,
         "max_output_tokens": 24_000,
         "response_mime_type": "text/plain",
+        "thinkingConfig": _thinking_config_for_model(llm_model),
     }
-    if "2.5" in llm_model:
-        config_params["thinking_config"] = types.ThinkingConfig(thinking_budget=20_000)
+    # Adapt keys to SDK expectations
+    thinking_cfg = config_params.pop("thinkingConfig")
+    if "thinkingBudget" in thinking_cfg:
+        config_params["thinking_config"] = types.ThinkingConfig(thinking_budget=thinking_cfg["thinkingBudget"])
+    elif "thinkingLevel" in thinking_cfg:
+        config_params["thinking_config"] = types.ThinkingConfig(thinking_level=thinking_cfg["thinkingLevel"])
+    else:
+        config_params["thinking_config"] = None
 
     response = await client.aio.models.generate_content(
         model=llm_model,
