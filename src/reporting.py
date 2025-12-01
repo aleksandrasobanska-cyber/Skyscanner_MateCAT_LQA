@@ -151,15 +151,22 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
 
         col_idx += 3
 
-        # Final Target & Count (always write, merged when needed)
-        final_target_val = row.get("Final_Target", "")
-        ft_cell = ws.cell(row=start_row, column=col_idx, value=final_target_val)
-        if num_sub_rows > 1:
-            ws.merge_cells(start_row=start_row, start_column=col_idx, end_row=end_row, end_column=col_idx)
-        ft_cell.alignment = Alignment(vertical="top", wrap_text=True)
+        # Final Target & Count (only when errors exist; otherwise blank but merged for alignment)
+        if has_errors:
+            final_target_val = row.get("Final_Target", "")
+            ft_cell = ws.cell(row=start_row, column=col_idx, value=final_target_val)
+            if num_sub_rows > 1:
+                ws.merge_cells(start_row=start_row, start_column=col_idx, end_row=end_row, end_column=col_idx)
+            ft_cell.alignment = Alignment(vertical="top", wrap_text=True)
+        else:
+            ft_cell = ws.cell(row=start_row, column=col_idx, value=None)
+            if num_sub_rows > 1:
+                ws.merge_cells(start_row=start_row, start_column=col_idx, end_row=end_row, end_column=col_idx)
+            ft_cell.alignment = Alignment(vertical="top", wrap_text=True)
 
         col_idx += 1
-        if has_char_limit:
+
+        if has_errors and has_char_limit:
             target_cell_ref = ft_cell.coordinate
             formula = f"=LEN({target_cell_ref})"
             count_cell = ws.cell(row=start_row, column=col_idx, value=formula)
@@ -167,8 +174,10 @@ def generate_lqa_scorecard(df_result, base_output_folder, language_name):
                 ws.merge_cells(start_row=start_row, start_column=col_idx, end_row=end_row, end_column=col_idx)
             count_cell.alignment = Alignment(vertical="top", horizontal="center")
         else:
+            count_cell = ws.cell(row=start_row, column=col_idx, value=None)
             if num_sub_rows > 1:
                 ws.merge_cells(start_row=start_row, start_column=col_idx, end_row=end_row, end_column=col_idx)
+            count_cell.alignment = Alignment(vertical="top", horizontal="center")
 
         col_idx += 1
 
