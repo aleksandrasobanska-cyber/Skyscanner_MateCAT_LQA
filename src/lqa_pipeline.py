@@ -124,6 +124,9 @@ def build_batch_payload(
             "source": str(row["Source"]),
             "target": str(row["Target"]),
         }
+        note_val = str(row.get("Note", "") or "").strip()
+        if note_val:
+            seg_obj["note"] = note_val
         char_lim = row.get("Character_Limit")
         if pd.notna(char_lim) and str(char_lim).strip():
             try:

@@ -1,0 +1,273 @@
+# Skyscanner Czech (CS) – LQA Calibration & Style Guide
+
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- Use a **friendly, conversational tone** — write as if talking to a friend
+- **Be creative** — forget word-for-word translation completely
+- Glossary and TM are helpers, **not masters** — add words/phrases if it sounds more natural
+- Be **specific, interesting, and honest**
+- Use common sense — think about what you would like to see when using the app
+- Brand name: **Skyscanner** (keep in English)
+
+### 1.2. Punctuation Overview
+Czech punctuation rules are complex. Key guidelines:
+
+| Element | Rule |
+|---------|------|
+| Full stops | Titles/non-verbal phrases: usually NO full stop. Verbal sentences: YES |
+| Comma | Context-dependent in lists; follow Czech grammar rules |
+| Semicolon | **Avoid** — split into two sentences or merge clauses instead |
+| Quotation marks | Use Czech marks: „ " (Alt+0132 / Alt+0147) |
+| Three dots | Use three separate dots (...) NOT ellipsis symbol (…) |
+
+### 1.3. Hyphen (-) vs. Dash (–)
+| Symbol | Usage | Example |
+|--------|-------|---------|
+| Hyphen (-) | Within word structures (morphological) | e-mail, Rakousko-Uhersko |
+| Dash (–) | Separating words/sentence chunks (syntactic) | Alt+0150 |
+
+### 1.4. Forward Slash Usage
+Used for feminine/masculine morphology:
+
+| Context | Format | Example |
+|---------|--------|---------|
+| Single words | No spaces | e-mail/mobil |
+| Multi-word phrases | Spaces around slash | e-mailová adresa / mobil |
+| Gender endings | Forward slash (NOT brackets) | rezervoval/a ✓ (NOT rezervoval(a) ✗) |
+
+### 1.5. Non-Breaking Spaces
+**Required in these cases:**
+- Between number and unit of measure: `10 km`
+- Before percentage sign: `15 %`
+- After one-letter prepositions: `v, s, z, k, o, u, a, i`
+
+**Important:** After one-letter prepositions is **extremely important** to prevent line breaks.
+
+**Do NOT use HTML codes** like `&nbsp;`
+
+### 1.6. Capitalisation
+- **Do NOT follow English capitalisation**
+- Use **Czech sentence case** (only first letter of sentence/title uppercase)
+- Follow Czech grammar rules strictly
+
+| English | Czech |
+|---------|-------|
+| Send or Request Money | Zaslat nebo požádat o peníze |
+| Book Your Flight | Rezervujte si let |
+
+### 1.7. Word Order (Functional Sentence Perspective)
+- Czech word order significantly impacts meaning emphasis
+- Use appropriate word order to stress the intended message
+- Different from English fixed word order
+
+### 1.8. Anglicisms
+- **Use sparingly** — only if universally understood
+- Consider older generations who may not be familiar with English
+- Prefer Czech equivalents when available
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Creative Translation Tolerance
+
+The Style Guide explicitly encourages **creative, non-literal translation**.
+
+#### 2.1.1. Do NOT Flag as "Mistranslation"
+- Sentences restructured for natural Czech flow
+- Word order changed to match Czech functional sentence perspective
+- Idiomatic adaptations appropriate for Czech
+- Added words/phrases that make the translation sound more natural
+- Condensed or simplified sentences that preserve meaning
+
+#### 2.1.2. Do NOT Flag as "Omission/Addition"
+- Elements added for natural Czech expression
+- Restructuring that improves readability
+- Context-appropriate adaptations
+- Articles, pronouns, or connectors adjusted for Czech grammar
+
+**Only flag** if **core meaning is changed, lost, or contradicted**.
+
+---
+
+### 2.2. Punctuation Tolerance
+
+Czech punctuation is complex and context-dependent.
+
+#### 2.2.1. Full Stops
+**Do NOT Flag:**
+- Titles without full stops (correct for Czech)
+- Non-verbal phrases without full stops
+- Following source punctuation pattern when contextually appropriate
+- Minor variations based on sentence type
+
+**Only Flag If:**
+- Full stop usage creates confusion or grammatical error
+- Verbal sentence clearly missing required punctuation
+
+#### 2.2.2. Quotation Marks
+**Do NOT Flag:**
+- Czech quotation marks „ " used correctly
+- Minor variations in quotation mark style if meaning is clear
+
+**Only Flag If:**
+- English quotation marks " " used instead of Czech „ "
+- Quotation marks fundamentally misused
+
+#### 2.2.3. Semicolons
+**Do NOT Flag:**
+- Semicolons avoided by splitting sentences
+- Semicolons avoided by merging clauses
+- Alternative punctuation that achieves the same effect
+
+**Only Flag If:**
+- Semicolon misuse creates grammatical error
+
+---
+
+### 2.3. Hyphen vs. Dash Tolerance
+
+#### 2.3.1. Do NOT Flag
+- Hyphens used correctly in compound words (e-mail)
+- Dashes used for sentence-level separation
+- Consistent application within translation
+
+#### 2.3.2. Only Flag If
+- Hyphen/dash confusion changes meaning
+- Incorrect punctuation creates ambiguity
+- Clearly wrong usage (hyphen where dash required or vice versa)
+
+---
+
+### 2.4. Forward Slash & Gender Marking Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Forward slash for gender: rezervoval/a
+- No spaces around slash for single words: e-mail/mobil
+- Spaces around slash for multi-word phrases: e-mailová adresa / mobil
+- Consistent gender marking approach
+
+#### 2.4.2. Only Flag If
+- Brackets used instead of slash for gender: rezervoval(a) ❌
+- Spacing inconsistent in ways that affect readability
+- Gender marking creates confusion
+
+---
+
+### 2.5. Non-Breaking Space Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Non-breaking spaces after one-letter prepositions (often not visually verifiable)
+- Non-breaking spaces before %, units (not always visible)
+- Regular spaces in contexts where non-breaking would be ideal but display is correct
+
+#### 2.5.2. Only Flag If
+- Missing space entirely between elements
+- Line breaks occur inappropriately (if verifiable in context)
+- HTML codes like `&nbsp;` used instead of actual non-breaking space
+
+---
+
+### 2.6. Capitalisation Tolerance
+
+#### 2.6.1. Do NOT Flag
+- Czech sentence case (first letter only capitalised)
+- Proper nouns following Czech conventions
+- Lowercase where Czech grammar requires it
+
+#### 2.6.2. Only Flag If
+- English-style title case applied (Every Word Capitalised)
+- Proper nouns incorrectly lowercased
+- Czech capitalisation rules clearly violated
+
+---
+
+### 2.7. Word Order Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Word order different from English source (Czech has flexible word order)
+- Emphasis placed on different sentence elements for natural Czech flow
+- Restructured sentences that preserve meaning with appropriate Czech word order
+
+#### 2.7.2. Only Flag If
+- Word order creates grammatical error
+- Word order changes the core meaning
+- Word order makes sentence incomprehensible
+
+---
+
+### 2.8. Anglicism Tolerance
+
+#### 2.8.1. Do NOT Flag
+- Czech equivalents used instead of English terms
+- Widely understood anglicisms used appropriately
+- Consistent terminology choices
+
+#### 2.8.2. Only Flag If
+- Obscure anglicism used that older generations wouldn't understand
+- Czech equivalent exists and would be clearer
+- Anglicism is misspelled or incorrectly adapted
+
+---
+
+### 2.9. Terminology & Synonym Tolerance
+
+| English | Acceptable Czech Options |
+|---------|--------------------------|
+| Flight | let, lety |
+| Book | rezervovat, zarezervovat |
+| Search | hledat, vyhledat, vyhledávat |
+| Deal / Offer | nabídka, akce |
+| Trip | cesta, výlet, zájezd |
+| Hotel | hotel, ubytování |
+| Save (money) | ušetřit, ušetřete |
+| Save (data) | uložit |
+| Car rental | půjčovna aut, autopůjčovna |
+| Check-in | odbavení, check-in |
+
+**Do NOT flag** reasonable synonym choices that preserve meaning and fit context.
+
+---
+
+### 2.10. Spacing & Formatting Tolerance
+
+#### 2.10.1. Do NOT Flag
+- Single spaces used consistently
+- Minor spacing variations that don't affect readability
+- Non-breaking space usage (often not visually distinguishable)
+
+#### 2.10.2. Only Flag If
+- Double spaces present
+- Missing spaces that affect readability
+- Spacing creates clear visual issues
+
+---
+
+### 2.11. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, functional errors |
+| **Major** | Core meaning changed, factual errors, wrong punctuation that changes meaning, grammatical errors |
+| **Minor** | Style preferences within acceptable range, minor inconsistencies, formatting preferences |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.10 |
+
+---
+
+### 2.12. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **creative restructuring** that sounds natural in Czech?
+2. ☐ Is the **word order** appropriate for Czech functional sentence perspective?
+3. ☐ Does the punctuation follow **Czech rules** (not English)?
+4. ☐ Is the **capitalisation** correct for Czech (sentence case, not title case)?
+5. ☐ Does the Style Guide **explicitly prohibit** this choice?
+6. ☐ Would a native Czech speaker find this **incorrect** (not just different from source)?
+
+**If meaning is preserved AND the translation follows Czech conventions → DO NOT FLAG**

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="i2Q64EvN39.jsont2" source-language="en-GB" target-language="pt-PT" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6ImJjZDdhNmViOGE3NTk5MWRjMGUyNWJjZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJiYTA2NjIxNTciLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0yMS0xMzo0OToz
+NCIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl9zZW9fMjFfMTFfMjAyNSIsImluc3RydWN0aW9ucyI6bnVsbCwic3R5bGVndWlkZSI6bnVsbCwicmVmZXJlbmNlcyI6bnVsbCwicmVxdWVzdHMiOlt7
+ImlkX3JlcXVlc3QiOjI3NzI4ODUxLCJpZF9jb250ZW50IjoidGVjaF9zZW9faW50ZXJuYWxfbGlua3MvR3JvdXAtaGVhZGluZy1jYXItaGlyZS1kZXN0aW5hdGlvbi1jb3VudHJ5IiwiY29udGVudF90
+eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJDYXIgaGlyZSBpbiBAQGNvdW50cnlfbmFtZV9fMkBAIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZl
+bG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5JbnRlcm5hbCBMaW5rcyB0YWIgaGVhZGluZyBmb3IgdGFiIGZvciBsaW5rcyBhYm91dCB0aGUgZGVzdGluYXRpb24gY291bnRyeVxuIiwic2NyZWVuc2hv
+dCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZlYjhhNzU5OTFkYzBlMjViY2ZhYzY0YjRlZTRhNGZmMzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI4ODUx
+L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc3Mjg4OTEsImlkX2NvbnRlbnQiOiJ0ZWNoX3Nlb19pbnRlcm5hbF9saW5rcy9Hcm91cC1oZWFkaW5nLWNhci1oaXJlLWluLWNvdW50cnki
+LCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkZpbmQgY2FyIGhpcmUgaW4gQEBjb3VudHJ5X25hbWVfXzFAQCIsImNvbnRleHQiOnsibm90ZXMi
+OiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuSW50ZXJuYWwgTGlua3MgdGFiIGhlYWRpbmcgZm9yIHRhYiB3aXRoIGxpbmtzIHRvIGNhciBoaXJlIGluIHRoZSBsb2NhdGlv
+bnMgcmVsZXZhbnQgdG8gdGhlIGRlc3RpbmF0aW9uIGNvdW50cnlcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYmNkN2E2ZWI4YTc1OTkxZGMwZTI1
+YmNmYWM2NGI0ZWU0YTRmZjMxMjRmMzllYTIwZDFmMWJhYmJhMDY2MjE1Ny8yNzcyODg5MS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NzI4OTMxLCJpZF9jb250ZW50IjoidGVjaF9z
+ZW9faW50ZXJuYWxfbGlua3MvR3JvdXAtaGVhZGluZy1wb3B1bGFyLWZsaWdodHMtdG8tY291bnRyeSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50
+IjoiUG9wdWxhciBmbGlnaHRzIHRvIEBAY291bnRyeV9uYW1lX18yQEAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkludGVybmFsIExp
+bmtzIHRhYiBoZWFkaW5nIGZvciBwb3B1bGFyIGZsaWdodHMgdG8gY291bnRyeSBsaW5rc1xuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZl
+YjhhNzU5OTFkYzBlMjViY2ZhYzY0YjRlZTRhNGZmMzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI4OTMxL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc3Mjg5NDgsImlkX2Nv
+bnRlbnQiOiJmYWxjb25fY2FyX2hpcmUvY2FyX2hpcmVfaG9tZV9jb25maWRlbmNlX21lc3NhZ2VfYm9va193aXRoX2NvbmZpZGVuY2UiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9s
+aW1pdCI6bnVsbCwiY29udGVudCI6IkJvb2sgd2l0aCBjb25maWRlbmNlIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gY29tcG9u
+ZW50L2ZlYXR1cmU6IGNvbmZpZGVuY2UgbWVzc2FnZVxyXG5QYWdlIHR5cGU6IGNhci1oaXJlIGhvbWVcclxuXG5Db250ZXh0OiBUaGlzIHdpbGwgYXBwZWFyIHdoZW4gdGhlIGNvbXBvbmVudCBpcyBz
+aG93biBvbiB0aGUgY2FyLWhpcmUtaG9tZSBsYW5kaW5nIHBhZ2VzIFxyXG5cbiBcclxuXG5TRU8gY29weSBjb25mbHVlbmNlIHBhZ2U6XHJcbkNhciBIaXJlIEhvbWVwYWdlIGNvbmZpZGVuY2UgbWVz
+c2FnaW5nOiBDT1BZICsgQkxVRVBSSU5UICAoUTQgMjAyNSkgXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2JjZDdhNmViOGE3NTk5MWRjMGUyNWJj
+ZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJiYTA2NjIxNTcvMjc3Mjg5NDgvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzcyOTAxMSwiaWRfY29udGVudCI6InRlY2hfc2Vv
+X2ludGVybmFsX2xpbmtzL0dyb3VwLWhlYWRpbmctbW9yZS1hYm91dC1jb3VudHJ5IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJNb3JlIGFi
+b3V0IEBAY291bnRyeV9uYW1lX18xQEAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkludGVybmFsIExpbmtzIHRhYiBoZWFkaW5nIGZv
+ciB0YWIgd2l0aCBsaW5rcyB0byBvdGhlciBwYWdlcyByZWxldmFudCB0byBkZXN0aW5hdGlvbiBjb3VudHJ5XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250
+ZXh0L2JjZDdhNmViOGE3NTk5MWRjMGUyNWJjZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJiYTA2NjIxNTcvMjc3MjkwMTEvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzcy
+OTAyOCwiaWRfY29udGVudCI6ImZhbGNvbl9jYXJfaGlyZS9jYXJfaGlyZV9ob21lX2NvbmZpZGVuY2VfbWVzc2FnZV9waWNrX3VwX3Nwb3QiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hh
+cl9saW1pdCI6bnVsbCwiY29udGVudCI6IkNob29zZSB5b3VyIHBpY2stdXAgc3BvdCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU0VP
+IGNvbXBvbmVudC9mZWF0dXJlOiBjb25maWRlbmNlIG1lc3NhZ2VcclxuUGFnZSB0eXBlOiBjYXItaGlyZSBob21lXHJcblxuQ29udGV4dDogVGhpcyB3aWxsIGFwcGVhciB3aGVuIHRoZSBjb21wb25l
+bnQgaXMgc2hvd24gb24gdGhlIGNhci1oaXJlLWhvbWUgbGFuZGluZyBwYWdlcyBcclxuXG4gXHJcblxuU0VPIGNvcHkgY29uZmx1ZW5jZSBwYWdlOlxyXG5DYXIgSGlyZSBIb21lcGFnZSBjb25maWRl
+bmNlIG1lc3NhZ2luZzogQ09QWSArIEJMVUVQUklOVCAgKFE0IDIwMjUpIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZlYjhhNzU5OTFk
+YzBlMjViY2ZhYzY0YjRlZTRhNGZmMzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI5MDI4L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc3MjkwNjgsImlkX2NvbnRlbnQiOiJm
+YWxjb25fY2FyX2hpcmUvY2FyX2hpcmVfaG9tZV91bmxpbWl0ZWRfbWlsZWFnZV9wZXJjZW50YWdlIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQi
+OiJAQHBlcmNlbnRhZ2VfZGVhbHNfdW5saW1pdGVkX21pbGVhZ2VAQCUgb2Ygb3VyIGNhciBoaXJlIGRlYWxzIGhhdmUgdW5saW1pdGVkIG1pbGVhZ2UiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gx
+Jmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblNFTyBjb21wb25lbnQvZmVhdHVyZTogY29uZmlkZW5jZSBtZXNzYWdlXHJcblBhZ2UgdHlwZTogY2FyLWhpcmUgaG9tZVxyXG5cbkNvbnRl
+eHQ6IFRoaXMgd2lsbCBhcHBlYXIgd2hlbiB0aGUgY29tcG9uZW50IGlzIHNob3duIG9uIHRoZSBjYXItaGlyZS1ob21lIGxhbmRpbmcgcGFnZXMgXHJcblxuIFxyXG5cblNFTyBjb3B5IGNvbmZsdWVu
+Y2UgcGFnZTpcclxuQ2FyIEhpcmUgSG9tZXBhZ2UgY29uZmlkZW5jZSBtZXNzYWdpbmc6IENPUFkgKyBCTFVFUFJJTlQgIChRNCAyMDI1KSBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRy
+YW5zbGF0ZWQuY29tL2NvbnRleHQvYmNkN2E2ZWI4YTc1OTkxZGMwZTI1YmNmYWM2NGI0ZWU0YTRmZjMxMjRmMzllYTIwZDFmMWJhYmJhMDY2MjE1Ny8yNzcyOTA2OC9zY3JlZW5zaG90LnVybCJ9fSx7
+ImlkX3JlcXVlc3QiOjI3NzI5MTA4LCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2hvbWVfY29uZmlkZW5jZV9tZXNzYWdlX3NhdmVfZGlzY2xhaW1lciIsImNvbnRlbnRfdHlw
+ZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiQXZlcmFnZSBzYXZpbmdzIGlkZW50aWZpZWQgYnkgU2t5c2Nhbm5lciAobWVkaWFuIHZzIGNoZWFwZXN0IHByaWNlKS4g
+UGVyY2VudGFnZSBzYXZpbmdzIG1heSB2YXJ5LiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU0VPIGNvbXBvbmVudC9mZWF0dXJlOiBj
+b25maWRlbmNlIG1lc3NhZ2VcclxuUGFnZSB0eXBlOiBjYXItaGlyZSBob21lXHJcblxuQ29udGV4dDogVGhpcyB3aWxsIGFwcGVhciB3aGVuIHRoZSBjb21wb25lbnQgaXMgc2hvd24gb24gdGhlIGNh
+ci1oaXJlLWhvbWUgbGFuZGluZyBwYWdlcyBcclxuXG4gXHJcblxuU0VPIGNvcHkgY29uZmx1ZW5jZSBwYWdlOlxyXG5DYXIgSGlyZSBIb21lcGFnZSBjb25maWRlbmNlIG1lc3NhZ2luZzogQ09QWSAr
+IEJMVUVQUklOVCAgKFE0IDIwMjUpIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZlYjhhNzU5OTFkYzBlMjViY2ZhYzY0YjRlZTRhNGZm
+MzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI5MTA4L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc3MjkxNzEsImlkX2NvbnRlbnQiOiJ0ZWNoX3Nlb19pbnRlcm5hbF9saW5r
+cy9Hcm91cC1oZWFkaW5nLWZsaWdodHMtd2l0aC1wb3B1bGFyLWFpcmxpbmVzIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJGbGlnaHRzIHdp
+dGggcG9wdWxhciBhaXJsaW5lcyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuSW50ZXJuYWwgTGlua3MgdGFiIGhlYWRpbmcgZm9yIHRh
+YiB3aXRoIGxpbmtzIHRvIGZsaWdodHMgcGFnZXMgd2l0aCBwb3B1bGFyIGFpcmxpbmVzXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2JjZDdhNmVi
+OGE3NTk5MWRjMGUyNWJjZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJiYTA2NjIxNTcvMjc3MjkxNzEvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzcyOTIxMSwiaWRfY29u
+dGVudCI6InRlY2hfc2VvX2ludGVybmFsX2xpbmtzL0dyb3VwLWhlYWRpbmctc2ltaWxhci1mbGlnaHRzLXRvLWNvdW50cnkiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6
+bnVsbCwiY29udGVudCI6IlNpbWlsYXIgZmxpZ2h0cyB0byBAQGNvdW50cnlfbmFtZV9fMUBAIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7
+XG5JbnRlcm5hbCBMaW5rcyB0YWIgaGVhZGluZyBmb3IgdGFiIGZvciBzaW1pbGFyIGZsaWdodHMgdG8gY291bnRyeVxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20v
+Y29udGV4dC9iY2Q3YTZlYjhhNzU5OTFkYzBlMjViY2ZhYzY0YjRlZTRhNGZmMzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI5MjExL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6
+Mjc3MjkyNTEsImlkX2NvbnRlbnQiOiJ0ZWNoX3Nlb19pbnRlcm5hbF9saW5rcy9Hcm91cC1oZWFkaW5nLWhvdGVscy1pbi1kZXN0aW5hdGlvbi1jb3VudHJ5IiwiY29udGVudF90eXBlIjoidGV4dC9w
+bGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJGaW5kIGhvdGVscyBpbiBAQGNvdW50cnlfbmFtZV9fMkBAIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29t
+bWVudCZsdDsvaDEmZ3Q7XG5JbnRlcm5hbCBMaW5rcyB0YWIgaGVhZGluZyBmb3IgaG90ZWxzIGluIGRlc3RpbmF0aW9uIGNvdW50cnlcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5z
+bGF0ZWQuY29tL2NvbnRleHQvYmNkN2E2ZWI4YTc1OTkxZGMwZTI1YmNmYWM2NGI0ZWU0YTRmZjMxMjRmMzllYTIwZDFmMWJhYmJhMDY2MjE1Ny8yNzcyOTI1MS9zY3JlZW5zaG90LnVybCJ9fSx7Imlk
+X3JlcXVlc3QiOjI3NzI5MjkxLCJpZF9jb250ZW50IjoidGVjaF9zZW9faW50ZXJuYWxfbGlua3MvR3JvdXAtaGVhZGluZy1tb3JlLWFib3V0LWRlc3RpbmF0aW9uLWNvdW50cnkiLCJjb250ZW50X3R5
+cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ik1vcmUgYWJvdXQgQEBjb3VudHJ5X25hbWVfXzJAQCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxv
+cGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuSW50ZXJuYWwgTGlua3MgdGFiIGhlYWRpbmcgZm9yIHRhYiBmb3IgbGlua3MgYWJvdXQgdGhlIGRlc3RpbmF0aW9uIGNvdW50cnlcbiIsInNjcmVlbnNob3Qi
+OiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYmNkN2E2ZWI4YTc1OTkxZGMwZTI1YmNmYWM2NGI0ZWU0YTRmZjMxMjRmMzllYTIwZDFmMWJhYmJhMDY2MjE1Ny8yNzcyOTI5MS9z
+Y3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NzI5MzA4LCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2hvbWVfY29uZmlkZW5jZV9tZXNzYWdlX2ZpbmRfY2FyX2hp
+cmUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IldoZXJldmVyIHlvdeKAmXJlIGdvaW5nLCBmaW5kIGNhciBoaXJlIG5lYXIgeW91IGluIEBA
+bnVtYmVyX29mX3BpY2t1cF9jaXRpZXNAQCBjaXRpZXMgd29ybGR3aWRlIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gY29tcG9u
+ZW50L2ZlYXR1cmU6IGNvbmZpZGVuY2UgbWVzc2FnZVxyXG5QYWdlIHR5cGU6IGNhci1oaXJlIGhvbWVcclxuXG5Db250ZXh0OiBUaGlzIHdpbGwgYXBwZWFyIHdoZW4gdGhlIGNvbXBvbmVudCBpcyBz
+aG93biBvbiB0aGUgY2FyLWhpcmUtaG9tZSBsYW5kaW5nIHBhZ2VzIFxyXG5cbiBcclxuXG5TRU8gY29weSBjb25mbHVlbmNlIHBhZ2U6XHJcbkNhciBIaXJlIEhvbWVwYWdlIGNvbmZpZGVuY2UgbWVz
+c2FnaW5nOiBDT1BZICsgQkxVRVBSSU5UICAoUTQgMjAyNSkgXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2JjZDdhNmViOGE3NTk5MWRjMGUyNWJj
+ZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJiYTA2NjIxNTcvMjc3MjkzMDgvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzcyOTM2OSwiaWRfY29udGVudCI6InNlb19pbnRl
+cm5hbF9saW5rcy9Hcm91cC1oZWFkaW5nLWZpbmQtaG90ZWxzLWJ5LXJlZ2lvbiIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiRmluZCBob3Rl
+bHMgYnkgcmVnaW9uIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gSW50ZXJuYWwgTGlua2luZyBwcm9qZWN0XHJcblxuR3JvdXAg
+aGVhZGluZyBmb3I6IGZpbmQtaG90ZWxzLWJ5LXJlZ2lvblxyXG5cbkNvbnRleHQ6IEdyb3VwIGhlYWRpbmcgdGV4dCBuZWVkcyB0byBiZSBrZXl3b3JkIG9wdGltaXNlZCBmb3IgdGhlIHBhZ2VzIGl0
+J3MgcG9pbnRpbmcgdG8uIFRoZXNlIGdyb3VwcyBjYW4gYXBwZWFyIG9uIGEgdmFyaWV0eSBvZiBwYWdlIHR5cGVzLCBidXQgd2lsbCBjb250YWluIGxpbmtzIHRvIHRoZSBzYW1lIHBhZ2UgdHlwZXMu
+XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2JjZDdhNmViOGE3NTk5MWRjMGUyNWJjZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJiYTA2
+NjIxNTcvMjc3MjkzNjkvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzcyOTM4OCwiaWRfY29udGVudCI6ImZhbGNvbl9jYXJfaGlyZS9jYXJfaGlyZV9ob21lX2NvbmZpZGVuY2VfbWVz
+c2FnZV9zYXZlXzMiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlNhdmUgYmlnIG9uIGNhciBoaXJlIHdoZW4geW91IGNvbXBhcmUgd2l0aCBT
+a3lzY2FubmVyIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gY29tcG9uZW50L2ZlYXR1cmU6IGNvbmZpZGVuY2UgbWVzc2FnZVxy
+XG5QYWdlIHR5cGU6IGNhci1oaXJlIGhvbWVcclxuXG5Db250ZXh0OiBUaGlzIHdpbGwgYXBwZWFyIHdoZW4gdGhlIGNvbXBvbmVudCBpcyBzaG93biBvbiB0aGUgY2FyLWhpcmUtaG9tZSBsYW5kaW5n
+IHBhZ2VzIFxyXG5cbiBcclxuXG5TRU8gY29weSBjb25mbHVlbmNlIHBhZ2U6XHJcbkNhciBIaXJlIEhvbWVwYWdlIGNvbmZpZGVuY2UgbWVzc2FnaW5nOiBDT1BZICsgQkxVRVBSSU5UICAoUTQgMjAy
+NSkgXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2JjZDdhNmViOGE3NTk5MWRjMGUyNWJjZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJi
+YTA2NjIxNTcvMjc3MjkzODgvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzcyOTQyOCwiaWRfY29udGVudCI6ImZhbGNvbl9jYXJfaGlyZS9jYXJfaGlyZV9ob21lX2NvbmZpZGVuY2Vf
+bWVzc2FnZV9zYXZlXzEiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlNhdmUgMzAlIG9uIGF2ZXJhZ2Ugd2hlbiB5b3UgY29tcGFyZSByZW50
+YWwgY2FycyB3aXRoIFNreXNjYW5uZXIiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblNFTyBjb21wb25lbnQvZmVhdHVyZTogY29uZmlk
+ZW5jZSBtZXNzYWdlXHJcblBhZ2UgdHlwZTogY2FyLWhpcmUgaG9tZVxyXG5cbkNvbnRleHQ6IFRoaXMgd2lsbCBhcHBlYXIgd2hlbiB0aGUgY29tcG9uZW50IGlzIHNob3duIG9uIHRoZSBjYXItaGly
+ZS1ob21lIGxhbmRpbmcgcGFnZXMgXHJcblxuIFxyXG5cblNFTyBjb3B5IGNvbmZsdWVuY2UgcGFnZTpcclxuQ2FyIEhpcmUgSG9tZXBhZ2UgY29uZmlkZW5jZSBtZXNzYWdpbmc6IENPUFkgKyBCTFVF
+UFJJTlQgIChRNCAyMDI1KSBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYmNkN2E2ZWI4YTc1OTkxZGMwZTI1YmNmYWM2NGI0ZWU0YTRmZjMxMjRm
+MzllYTIwZDFmMWJhYmJhMDY2MjE1Ny8yNzcyOTQyOC9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NzI5NDY4LCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2hv
+bWVfY29uZmlkZW5jZV9tZXNzYWdlX3NhdmVfMiIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiU2F2ZSAzMCUgb24gYXZlcmFnZSB3aGVuIHlv
+dSBjb21wYXJlIGNhciBoaXJlIHdpdGggU2t5c2Nhbm5lciIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU0VPIGNvbXBvbmVudC9mZWF0
+dXJlOiBjb25maWRlbmNlIG1lc3NhZ2VcclxuUGFnZSB0eXBlOiBjYXItaGlyZSBob21lXHJcblxuQ29udGV4dDogVGhpcyB3aWxsIGFwcGVhciB3aGVuIHRoZSBjb21wb25lbnQgaXMgc2hvd24gb24g
+dGhlIGNhci1oaXJlLWhvbWUgbGFuZGluZyBwYWdlcyBcclxuXG4gXHJcblxuU0VPIGNvcHkgY29uZmx1ZW5jZSBwYWdlOlxyXG5DYXIgSGlyZSBIb21lcGFnZSBjb25maWRlbmNlIG1lc3NhZ2luZzog
+Q09QWSArIEJMVUVQUklOVCAgKFE0IDIwMjUpIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZlYjhhNzU5OTFkYzBlMjViY2ZhYzY0YjRl
+ZTRhNGZmMzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI5NDY4L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc3Mjk1MzEsImlkX2NvbnRlbnQiOiJ0ZWNoX3Nlb19pbnRlcm5h
+bF9saW5rcy9Hcm91cC1oZWFkaW5nLWhvdGVsLW9wdGlvbnMtaW4tZGVzdGluYXRpb24tY291bnRyeSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50
+IjoiRmluZCBob3RlbHMgaW4gQEBjb3VudHJ5X25hbWVfXzFAQCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuSW50ZXJuYWwgTGlua3Mg
+dGFiIGhlYWRpbmcgZm9yIHRhYiBmb3IgaG90ZWxzIGluIHRoZSBkZXN0aW5hdGlvbiBjb3VudHJ5XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2Jj
+ZDdhNmViOGE3NTk5MWRjMGUyNWJjZmFjNjRiNGVlNGE0ZmYzMTI0ZjM5ZWEyMGQxZjFiYWJiYTA2NjIxNTcvMjc3Mjk1MzEvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzcyOTU3MSwi
+aWRfY29udGVudCI6InRlY2hfc2VvX2ludGVybmFsX2xpbmtzL0dyb3VwLWhlYWRpbmctbGFzdC1taW51dGUtZGVhbHMiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVs
+bCwiY29udGVudCI6Ikxhc3QtbWludXRlIGRlYWxzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5JbnRlcm5hbCBMaW5rcyB0YWIgaGVh
+ZGluZyBmb3IgdGFiIGZvciBsYXN0IG1pbnV0ZSBkZWFsc1xuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZlYjhhNzU5OTFkYzBlMjViY2Zh
+YzY0YjRlZTRhNGZmMzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI5NTcxL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc3Mjk2MDksImlkX2NvbnRlbnQiOiJzZW9faW50ZXJu
+YWxfbGlua3MvR3JvdXAtaGVhZGluZy1uZWFyYnktY2FyLWhpcmUtcHJvdmlkZXJzIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJOZWFyYnkg
+Y2FyIGhpcmUgcHJvdmlkZXJzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5GaW5kIGhvdGVscyBieSByZWdpb25cdFxyXG5TRU8gSW50
+ZXJuYWwgTGlua2luZyBwcm9qZWN0XHJcblxuR3JvdXAgaGVhZGluZyBmb3I6IG5lYXJieS1jYXItaGlyZS1wcm92aWRlcnNcclxuXG5Db250ZXh0OiBHcm91cCBoZWFkaW5nIHRleHQgbmVlZHMgdG8g
+YmUga2V5d29yZCBvcHRpbWlzZWQgZm9yIHRoZSBwYWdlcyBpdCdzIHBvaW50aW5nIHRvLiBUaGVzZSBncm91cHMgY2FuIGFwcGVhciBvbiBhIHZhcmlldHkgb2YgcGFnZSB0eXBlcywgYnV0IHdpbGwg
+Y29udGFpbiBsaW5rcyB0byB0aGUgc2FtZSBwYWdlIHR5cGVzLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZlYjhhNzU5OTFkYzBlMjVi
+Y2ZhYzY0YjRlZTRhNGZmMzEyNGYzOWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI5NjA5L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc3Mjk2MjgsImlkX2NvbnRlbnQiOiJmYWxjb25f
+Y2FyX2hpcmUvY2FyX2hpcmVfaG9tZV9jb25maWRlbmNlX21lc3NhZ2VfZmluZF9kZWFsIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJGaW5k
+IGEgY2hlYXAgY2FyIGhpcmUgZGVhbCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU0VPIGNvbXBvbmVudC9mZWF0dXJlOiBjb25maWRl
+bmNlIG1lc3NhZ2VcclxuUGFnZSB0eXBlOiBjYXItaGlyZSBob21lXHJcblxuQ29udGV4dDogVGhpcyB3aWxsIGFwcGVhciB3aGVuIHRoZSBjb21wb25lbnQgaXMgc2hvd24gb24gdGhlIGNhci1oaXJl
+LWhvbWUgbGFuZGluZyBwYWdlcyBcclxuXG4gXHJcblxuU0VPIGNvcHkgY29uZmx1ZW5jZSBwYWdlOlxyXG5DYXIgSGlyZSBIb21lcGFnZSBjb25maWRlbmNlIG1lc3NhZ2luZzogQ09QWSArIEJMVUVQ
+UklOVCAgKFE0IDIwMjUpIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iY2Q3YTZlYjhhNzU5OTFkYzBlMjViY2ZhYzY0YjRlZTRhNGZmMzEyNGYz
+OWVhMjBkMWYxYmFiYmEwNjYyMTU3LzI3NzI5NjI4L3NjcmVlbnNob3QudXJsIn19XX1d</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="pt-PT" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUM3OEMyNyIgcGFja2FnZUlk
+PSIxMjE3ZWVkOS0xMzBjLTQxMjUtYjM0Yy1hZjJkNGNhMjY2YzciIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0icHQtUFQiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMjEgMTU6NTA6MjUrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJpMlE2NEV2TjM5Lmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9ImkyUTY0RXZOMzkub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-21-13:49:34" mtc:id-order-group="handoff_seo_21_11_2025" original="bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157" source-language="en-GB" target-language="pt-PT">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4783242098">
+<source xml:lang="en-GB">Car hire in @@country_name__2@@</source>
+<seg-source><mrk mid="0" mtype="seg">Car hire in @@country_name__2@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Aluguer de carros em @@country_name__2@@</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27728851</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-car-hire-destination-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-car-hire-destination-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab for links about the destination country
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27728851/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4783242099">
+<source xml:lang="en-GB">Find car hire in @@country_name__1@@</source>
+<seg-source><mrk mid="0" mtype="seg">Find car hire in @@country_name__1@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Encontre aluguer de carros em @@country_name__1@@</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27728891</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-car-hire-in-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-car-hire-in-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab with links to car hire in the locations relevant to the destination country
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27728891/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4783242100">
+<source xml:lang="en-GB">Popular flights to @@country_name__2@@</source>
+<seg-source><mrk mid="0" mtype="seg">Popular flights to @@country_name__2@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Voos populares para @@country_name__2@@</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27728931</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-popular-flights-to-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-popular-flights-to-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for popular flights to country links
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27728931/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4783242101">
+<source xml:lang="en-GB">Book with confidence</source>
+<seg-source><mrk mid="0" mtype="seg">Book with confidence</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Reserve com confiança</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27728948</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_book_with_confidence</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_book_with_confidence</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27728948/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4783242102">
+<source xml:lang="en-GB">More about @@country_name__1@@</source>
+<seg-source><mrk mid="0" mtype="seg">More about @@country_name__1@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Mais sobre @@country_name__1@@</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.86</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729011</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-more-about-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-more-about-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab with links to other pages relevant to destination country
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729011/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4783242103">
+<source xml:lang="en-GB">Choose your pick-up spot</source>
+<seg-source><mrk mid="0" mtype="seg">Choose your pick-up spot</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Escolha o seu ponto de recolha</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729028</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_pick_up_spot</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_pick_up_spot</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729028/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4783242104">
+<source xml:lang="en-GB">@@percentage_deals_unlimited_mileage@@% of our car hire deals have unlimited mileage</source>
+<seg-source><mrk mid="0" mtype="seg">@@percentage_deals_unlimited_mileage@@% of our car hire deals have unlimited mileage</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">@@percentage_deals_unlimited_mileage@@% das nossas ofertas de aluguer de carros têm quilometragem ilimitada</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">5.58</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729068</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_unlimited_mileage_percentage</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_unlimited_mileage_percentage</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729068/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4783242105">
+<source xml:lang="en-GB">Average savings identified by Skyscanner (median vs cheapest price). Percentage savings may vary.</source>
+<seg-source><mrk mid="0" mtype="seg">Average savings identified by Skyscanner (median vs cheapest price). Percentage savings may vary.</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Poupanças médias identificadas pela Skyscanner (preço médio vs. preço mais barato). A percentagem da poupança pode variar.</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">8.06</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729108</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_save_disclaimer</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_save_disclaimer</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729108/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4783242106">
+<source xml:lang="en-GB">Flights with popular airlines</source>
+<seg-source><mrk mid="0" mtype="seg">Flights with popular airlines</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Voos de companhias aéreas populares</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729171</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-flights-with-popular-airlines</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-flights-with-popular-airlines</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab with links to flights pages with popular airlines
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729171/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4783242107">
+<source xml:lang="en-GB">Similar flights to @@country_name__1@@</source>
+<seg-source><mrk mid="0" mtype="seg">Similar flights to @@country_name__1@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Voos semelhantes para @@country_name__1@@</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729211</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-similar-flights-to-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-similar-flights-to-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab for similar flights to country
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729211/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4783242108">
+<source xml:lang="en-GB">Find hotels in @@country_name__2@@</source>
+<seg-source><mrk mid="0" mtype="seg">Find hotels in @@country_name__2@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Encontre hotéis em @@country_name__2@@</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729251</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-hotels-in-destination-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-hotels-in-destination-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for hotels in destination country
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729251/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4783242109">
+<source xml:lang="en-GB">More about @@country_name__2@@</source>
+<seg-source><mrk mid="0" mtype="seg">More about @@country_name__2@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Mais sobre @@country_name__2@@</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729291</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-more-about-destination-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-more-about-destination-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab for links about the destination country
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729291/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4783242110">
+<source xml:lang="en-GB">Wherever you’re going, find car hire near you in @@number_of_pickup_cities@@ cities worldwide</source>
+<seg-source><mrk mid="0" mtype="seg">Wherever you’re going, find car hire near you in @@number_of_pickup_cities@@ cities worldwide</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Onde quer que vá, encontre aluguer de carros perto de si em @@number_of_pickup_cities@@ cidades em todo o mundo</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">8.06</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729308</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_find_car_hire</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_find_car_hire</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729308/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+<group id="sg28">
+<trans-unit id="tu14" xml:space="preserve" help-id="4783242111">
+<source xml:lang="en-GB">Find hotels by region</source>
+<seg-source><mrk mid="0" mtype="seg">Find hotels by region</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Encontre hotéis por região</mrk></target>
+<count-group name="tu14"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729369</note>
+<note>translation_context|¶|seo_internal_links/Group-heading-find-hotels-by-region</note>
+<note annotates="source" from="id_content">seo_internal_links/Group-heading-find-hotels-by-region</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Internal Linking project
+
+Group heading for: find-hotels-by-region
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729369/screenshot.url</note>
+</trans-unit>
+<group id="sg29">
+</group>
+</group>
+<group id="sg30">
+<trans-unit id="tu15" xml:space="preserve" help-id="4783242112">
+<source xml:lang="en-GB">Save big on car hire when you compare with Skyscanner</source>
+<seg-source><mrk mid="0" mtype="seg">Save big on car hire when you compare with Skyscanner</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Poupe bastante no aluguer de carros ao comparar com a Skyscanner</mrk></target>
+<count-group name="tu15"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729388</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_save_3</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_save_3</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729388/screenshot.url</note>
+</trans-unit>
+<group id="sg31">
+</group>
+</group>
+<group id="sg32">
+<trans-unit id="tu16" xml:space="preserve" help-id="4783242113">
+<source xml:lang="en-GB">Save 30% on average when you compare rental cars with Skyscanner</source>
+<seg-source><mrk mid="0" mtype="seg">Save 30% on average when you compare rental cars with Skyscanner</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Compare carros de aluguer com a Skyscanner e poupe, em média, 30%</mrk></target>
+<count-group name="tu16"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">6.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729428</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_save_1</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_save_1</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729428/screenshot.url</note>
+</trans-unit>
+<group id="sg33">
+</group>
+</group>
+<group id="sg34">
+<trans-unit id="tu17" xml:space="preserve" help-id="4783242114">
+<source xml:lang="en-GB">Save 30% on average when you compare car hire with Skyscanner</source>
+<seg-source><mrk mid="0" mtype="seg">Save 30% on average when you compare car hire with Skyscanner</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Compare alugueres de carros com a Skyscanner e poupe, em média, 30%</mrk></target>
+<count-group name="tu17"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">6.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729468</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_save_2</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_save_2</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729468/screenshot.url</note>
+</trans-unit>
+<group id="sg35">
+</group>
+</group>
+<group id="sg36">
+<trans-unit id="tu18" xml:space="preserve" help-id="4783242115">
+<source xml:lang="en-GB">Find hotels in @@country_name__1@@</source>
+<seg-source><mrk mid="0" mtype="seg">Find hotels in @@country_name__1@@</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Encontre hotéis em @@country_name__1@@</mrk></target>
+<count-group name="tu18"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729531</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-hotel-options-in-destination-country</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-hotel-options-in-destination-country</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab for hotels in the destination country
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729531/screenshot.url</note>
+</trans-unit>
+<group id="sg37">
+</group>
+</group>
+<group id="sg38">
+<trans-unit id="tu19" xml:space="preserve" help-id="4783242116">
+<source xml:lang="en-GB">Last-minute deals</source>
+<seg-source><mrk mid="0" mtype="seg">Last-minute deals</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Ofertas de última hora</mrk></target>
+<count-group name="tu19"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729571</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-last-minute-deals</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-last-minute-deals</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Internal Links tab heading for tab for last minute deals
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729571/screenshot.url</note>
+</trans-unit>
+<group id="sg39">
+</group>
+</group>
+<group id="sg40">
+<trans-unit id="tu20" xml:space="preserve" help-id="4783242117">
+<source xml:lang="en-GB">Nearby car hire providers</source>
+<seg-source><mrk mid="0" mtype="seg">Nearby car hire providers</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Fornecedores de aluguer de carros nas proximidades</mrk></target>
+<count-group name="tu20"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729609</note>
+<note>translation_context|¶|seo_internal_links/Group-heading-nearby-car-hire-providers</note>
+<note annotates="source" from="id_content">seo_internal_links/Group-heading-nearby-car-hire-providers</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Find hotels by region	
+SEO Internal Linking project
+
+Group heading for: nearby-car-hire-providers
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729609/screenshot.url</note>
+</trans-unit>
+<group id="sg41">
+</group>
+</group>
+<group id="sg42">
+<trans-unit id="tu21" xml:space="preserve" help-id="4783242118">
+<source xml:lang="en-GB">Find a cheap car hire deal</source>
+<seg-source><mrk mid="0" mtype="seg">Find a cheap car hire deal</mrk></seg-source>
+<target  xml:lang="pt-PT" state="signed-off"><mrk mid="0" mtype="seg">Encontre uma oferta de aluguer de carros barata</mrk></target>
+<count-group name="tu21"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27729628</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_home_confidence_message_find_deal</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_home_confidence_message_find_deal</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: confidence message
+Page type: car-hire home
+
+Context: This will appear when the component is shown on the car-hire-home landing pages 
+
+ 
+
+SEO copy confluence page:
+Car Hire Homepage confidence messaging: COPY + BLUEPRINT  (Q4 2025) 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/bcd7a6eb8a75991dc0e25bcfac64b4ee4a4ff3124f39ea20d1f1babba0662157/27729628/screenshot.url</note>
+</trans-unit>
+<group id="sg43">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

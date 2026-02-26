@@ -1,0 +1,285 @@
+# Skyscanner Greek (EL) – LQA Calibration & Style Guide
+
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- **Catchy but polite**, **straightforward but not aggressive**
+- Focus on the **customer's perspective** — what they receive, not what Skyscanner does
+- Use **polite 2nd person plural** (εσείς form: Διαβάστε, ανακαλύψτε) — NOT informal singular
+- Write in a **joyful, bold** manner — use idioms and encouraging language
+- **Creativity is key:** Restructure sentences to sound natural in Greek; don't blindly follow source structure
+- Prefer **active voice** and **imperative** for CTAs
+- Use **positive structures** — avoid consecutive negative verb forms
+- Skyscanner = **Skyscanner** (keep in English)
+
+### 1.2. Punctuation
+| Mark | Usage |
+|------|-------|
+| Period (.) | End of declarative sentences |
+| Comma (,) | Between clauses |
+| Question mark (;) | End of questions (Greek uses semicolon) |
+| Exclamation mark (!) | Use sparingly — only when in source, limit to one |
+| Quotation marks (" ") | Standard straight marks for references (e.g., buttons) |
+| Hyphen (-) | Compound words, ranges — no spaces (σιγά-σιγά, 45-65) |
+| En dash (–) | Minus sign, with spaces (15 – 6 = 9) |
+| Em dash (—) | Rarely used in Greek — prefer period, comma, or parentheses |
+| Ampersand (&) | Only when space is limited — prefer "και" |
+
+### 1.3. Capitalization
+- Use **sentence-style capitalization** (Αγοράστε την Ταξιδιωτική ασφάλιση)
+- **Title-style** ONLY for: Policy names (Πολιτική Απορρήτου), feature names in glossary (Ειδοποίηση Τιμών)
+- Proper nouns capitalized: Μιχάλης, Αυστρία, Σαββατοκύριακο, Κινεζικά
+- **Nationality adjectives lowercase:** κινέζικο γεύμα, ελληνικός καφές
+
+### 1.4. Numbers & Dates
+- Date format: **dd/mm/yyyy** (20/03/2020)
+- Full date: **Παρασκευή, 20 Μαρτίου 2020**
+- Time: **hh:mm** with colon (21:12) or **π.μ./μ.μ.** format
+- **Decimal separator:** comma (1,32)
+- **Thousands separator:** period (1.000)
+- Space between number and unit: **3 €**, **15 L**, **3 μ.**
+- **Exception:** No space for percentages: **50%**
+- Ordinals: **1ος** (not superscripted)
+- Measurement units in English characters: MHz, KB, MB, GB, ml, L
+
+### 1.5. Abbreviations
+- κ.λπ. / κ.ά. (with periods)
+- π.χ. / Π.χ. (in parentheses/lists; use "Για παράδειγμα" in sentences)
+- Months: Ιαν, Φεβ, Μαρ, Απρ, Μαϊ, Ιουν, Ιουλ, Αυγ, Σεπ, Οκτ, Νοε, Δεκ
+- Days: Δευτ., Τρ., Τετ., Πέμ., Παρ., Σάβ., Κυρ. (or Δε, Τρ, Τε, Πε, Πα, Σα, Κυ)
+- Distance: Χλμ., χιλ., εκ., μ., κ., τ.μ.
+
+### 1.6. Gender Handling
+- Aim for **inclusive language**: use ο/η, αυτός/ή, -ος/-η when source uses "they"
+- **Avoid overuse** of gender markers — restructure when possible
+- Example: "Είστε σίγουρος/η ότι θέλετε να συνεχίσετε;" → "Θέλετε σίγουρα να συνεχίσετε;"
+
+### 1.7. Placeholder & Tag Handling
+- Tags render in **nominative case only** — restructure sentences accordingly
+- **Location tags** are particularly challenging due to Greek case system
+- Workarounds:
+  - Use colon structure: `{country}: οι πιο δημοφιλείς προορισμοί`
+  - Add generic noun: `στη χώρα {country}`, `την πόλη {city}`
+  - Use hyphen for routes: `{city1}-{city2}`
+  - Add article before tag: `της {airline}`, `Ο/Η {usertag}`
+
+### 1.8. Toponyms & Names
+- **Location names:** Transliterate using simplification method (Μασαχουσέτη, Λιόν)
+- **Established names:** Use common Greek version (Βαρκελώνη, Νέα Υόρκη)
+- **Rare/complex names:** Keep in English
+- **Person names & company names:** Keep in English (ο James, η Skyscanner)
+- **Company executive names:** Transliterate
+- **Travel terms like "check-in" (flights):** Keep in English
+
+### 1.9. Common Grammar Rules
+| Rule | Guidance |
+|------|----------|
+| Final -ν | Keep for masculine τον, αυτόν, έναν; drop for feminine την, μην, αυτήν only before β, γ, δ, ζ, θ, λ, μ, ν, ρ, σ, φ, χ (not μπ, γκ, ντ, τσ, τζ) |
+| πού/πώς | Accent when interrogative (πού = where, πώς = how) |
+| σαν vs ως | σαν = comparison; ως = attribute/role |
+| όπως | Followed by same case as referent, OR nominative with είναι |
+| μια vs μία | μια = indefinite article; μία = numeral "one" |
+| Gerunds | Avoid -οντας unless showing HOW something is done with same subject |
+| "Please" | Generally omit — polite form is sufficient |
+| Exclamations | Tone down "Oops!", "Hurray!" — exclamation mark is sufficient |
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Placeholder & Tag Handling Tolerance
+
+Greek's case system makes literal placeholder translations often impossible. **Accept creative restructuring.**
+
+#### 2.1.1. Acceptable Workarounds for Placeholders
+
+| Source | Acceptable Greek Approaches |
+|--------|------------------------------|
+| `Most popular destinations in {country}` | `{country}: οι πιο δημοφιλείς προορισμοί` OR `Οι πιο δημοφιλείς προορισμοί στη χώρα {country}` |
+| `Flights from {city1} to {city2}` | `Πτήσεις {city1}-{city2}` OR `Πτήσεις από την πόλη {city1} προς την πόλη {city2}` |
+| `All {airline} flights to {city}` | `Όλες οι πτήσεις της {airline} προς την πόλη {city}` |
+| `{usertag} has sent you a message` | `Ο/Η {usertag} σάς έστειλε ένα μήνυμα` |
+| `Can't wait for {destination}?` | `{destination}: Ανυπομονείτε για το ταξίδι σας;` |
+| `{amount} fee for {cardprovider} cards` | `Χρέωση {amount} για κάρτες {cardprovider}` |
+
+**Do NOT flag** if the translator:
+- Uses colon structure to avoid case agreement issues
+- Adds generic nouns (χώρα, πόλη, κάρτες) before/after placeholders
+- Uses hyphen for origin-destination pairs
+- Adds articles (ο/η, της, την) to handle gender/case
+- Restructures sentence to place placeholder in nominative position
+
+#### 2.1.2. Do NOT Flag as "Grammar Error"
+- Creative restructuring to handle nominative-only placeholders
+- Addition of generic nouns to enable proper case usage
+- Use of colon or dash structures
+
+**Only flag** if the structure would be **grammatically incorrect with plausible placeholder values**.
+
+---
+
+### 2.2. Gender Agreement Tolerance
+
+Gender agreement with unknown placeholder content is inherently challenging in Greek.
+
+#### 2.2.1. Acceptable Gender Strategies
+
+| Strategy | Example |
+|----------|---------|
+| Dual gender markers | Ο/Η {usertag}, αυτός/ή, -ος/-η |
+| Sentence restructuring | "Θέλετε σίγουρα να συνεχίσετε;" instead of "Είστε σίγουρος/η..." |
+| Omitting gendered elements | When meaning is preserved |
+
+**Do NOT flag:**
+- Use of ο/η or αυτός/ή for unknown-gender placeholders
+- Masculine form as default when gender markers would be awkward
+- Restructuring that avoids the need for gender agreement
+
+**Only flag** if gender is **explicitly specified** in context and translation contradicts it.
+
+---
+
+### 2.3. Meaning-Based Translation Tolerance
+
+The Style Guide explicitly encourages creative, non-literal translation and sentence restructuring.
+
+#### 2.3.1. Do NOT Flag as "Mistranslation"
+- Restructured sentences that preserve meaning but differ in structure
+- Active voice used for passive source (or vice versa when appropriate)
+- Positive structures replacing negative ones with equivalent meaning
+- Idiomatic Greek expressions replacing English idioms
+- Omission of "please" (παρακαλούμε) — polite form is sufficient
+- Toned-down exclamations (omitting "Oops!", "Hurray!")
+
+#### 2.3.2. Do NOT Flag as "Omission/Addition"
+- Articles, pronouns, or connectors adjusted for Greek flow
+- Addition of generic nouns (χώρα, πόλη) for placeholder handling
+- Omission of elements deducible from context (for space constraints)
+- Omission of excessive politeness markers
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.4. Punctuation & Formatting Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Em dash replaced by comma, period, or parentheses (preferred in Greek)
+- Ampersand replaced by "και" (preferred in Greek)
+- Reduced exclamation marks (single instead of multiple)
+- Minor variations in spacing around punctuation
+- Decimal comma vs period (comma is correct for Greek)
+
+#### 2.4.2. Only Flag If
+- Question mark missing from question
+- Greek semicolon (;) used instead of period for statements
+- Punctuation creates meaning confusion
+- Thousands separator incorrect (period required in Greek)
+
+---
+
+### 2.5. Capitalization Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Sentence-style capitalization where source uses title-style
+- Nationality adjectives in lowercase (κινέζικο, ελληνικός)
+- Different capitalization choices within acceptable range
+
+#### 2.5.2. Only Flag If
+- Proper nouns not capitalized
+- Policy/feature names inconsistent with glossary
+- Lowercase at sentence start
+
+---
+
+### 2.6. Terminology & Synonym Tolerance
+
+| English | Acceptable Greek Options |
+|---------|---------------------------|
+| Flight | πτήση, πτήσεις, αεροπορικά εισιτήρια |
+| Book | κάντε κράτηση, κρατήστε |
+| Search | αναζητήστε, αναζήτηση, βρείτε |
+| Deal/Offer | προσφορά, προσφορές |
+| Trip | ταξίδι, εκδρομή |
+| Hotel | ξενοδοχείο, κατάλυμα |
+| View | δείτε, προβολή |
+| Night (stay) | διανυκτέρευση, βράδυ (when space limited) |
+| Guest | επισκέπτης, άτομο (when space limited) |
+
+**Do NOT flag** reasonable synonym choices unless they change meaning.
+
+---
+
+### 2.7. Grammar Rule Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Stylistic choices between σαν/ως when both are grammatically correct
+- Minor variations in genitive structure handling
+- Gerund translations that preserve meaning with different structure
+
+#### 2.7.2. Only Flag If
+- Final -ν rule violated (τον/αυτόν/έναν must keep -ν; την/αυτήν conditional)
+- πού/πώς accent incorrect in interrogative contextsssssssssssssssssss
+- σαν used where ως is required (role/attribute, not comparison)
+- Case agreement violation after όπως/ως
+- μια/μία confusion that changes meaning
+
+---
+
+### 2.8. Transliteration & Name Handling Tolerance
+
+#### 2.8.1. Do NOT Flag
+- Location names transliterated using simplification method
+- Well-established Greek names used (Βαρκελώνη, Νέα Υόρκη)
+- Complex/rare place names kept in English
+- Brand/airline names in English
+- Travel terms like "check-in" kept in English
+
+#### 2.8.2. Only Flag If
+- Well-known Greek name exists but English was used
+- Transliteration is misspelled or phonetically incorrect
+- Company executive names not transliterated (when applicable)
+
+---
+
+### 2.9. Space Constraint Tolerance
+
+Greek words are typically longer than English equivalents. **Accept economical renditions when space is limited.**
+
+#### 2.9.1. Do NOT Flag
+- Shorter synonyms used (βράδυ vs διανυκτέρευση, άτομο vs επισκέπτης)
+- Contextually obvious words omitted (e.g., "Προβολή όλων" instead of "Προβολή όλων των αυτοκινήτων")
+- Condensed phrasing that preserves meaning
+
+**Only flag** if omission causes confusion or meaning loss.
+
+---
+
+### 2.10. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong language |
+| **Major** | Core meaning changed, factual errors, grammatical errors that impede understanding |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range, non-standard but correct choices |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.9 |
+
+---
+
+### 2.11. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **creative restructuring** to handle Greek grammar constraints (case, gender, placeholders)?
+2. ☐ Would the translation work with **plausible placeholder values**?
+3. ☐ Is the **core meaning preserved** despite structural changes?
+4. ☐ Does the Style Guide **explicitly prohibit** this choice?
+5. ☐ Would a native Greek speaker find this **incorrect** (not just different)?
+6. ☐ Is this a **space-saving adaptation** that preserves meaning?
+7. ☐ Is the grammar rule violation **actual** (check final -ν, accent rules, case agreement)?
+
+**If meaning is preserved AND the structure handles Greek grammar constraints → DO NOT FLAG**

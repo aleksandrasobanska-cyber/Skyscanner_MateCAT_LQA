@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Template.xlsx" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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
+AgAAcDcAAAAA</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTdFRDAyQSIgcGFja2FnZUlk
+PSJkZGU4YzkxOS1iNmEwLTRmYjAtODRkNy1mNTRjOWFmNjEwMjMiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ia28tS1IiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMTMgMTU6NDg6NDYrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJUZW1wbGF0ZS54bHN4IiBmaWx0ZXJJZD0ib2tmX29wZW54bWwiIGlucHV0RW5jb2Rp
+bmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9IlRlbXBsYXRlLm91dC54bHN4IiB0YXJnZXRFbmNvZGluZz0iVVRGLTgiIHNlbGVjdGVkPSIxIj5JM1l4Q21KUWNtVm1aWEpsYm1ObFZISmhibk5z
+WVhSbFJHOWpVSEp2Y0dWeWRHbGxjeTVpUFdaaGJITmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUTI5dGJXVnVkSE11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZCdmQy
+VnljRzlwYm5ST2IzUmxjeTVpUFhSeWRXVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZRYjNkbGNuQnZhVzUwVFdGemRHVnljeTVpUFhSeWRXVUtZbEJ5WldabGNtVnVZMlZKWjI1dmNtVlFiR0Zq
+WldodmJHUmxjbk5KYmxCdmQyVnljRzlwYm5STllYTjBaWEp6TG1JOVptRnNjMlVLWWxCeVpXWmxjbVZ1WTJWVWNtRnVjMnhoZEdWWGIzSmtTR1ZoWkdWeWMwWnZiM1JsY25NdVlqMTBjblZsQ21KUWNt
+Vm1aWEpsYm1ObFZISmhibk5zWVhSbFYyOXlaRWhwWkdSbGJpNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxWMjl5WkVWNFkyeDFaR1ZIY21Gd2FHbGpUV1YwWVVSaGRHRXVZajFt
+WVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVkJ2ZDJWeWNHOXBiblJJYVdSa1pXNHVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVVY0WTJWc1NHbGtaR1Z1TG1JOVpt
+RnNjMlVLWWxCeVpXWmxjbVZ1WTJWVWNtRnVjMnhoZEdWRmVHTmxiRVY0WTJ4MVpHVkRiMnh2Y25NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzUlhoamJIVmtaVU52
+YkhWdGJuTXVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVVY0WTJWc1UyaGxaWFJPWVcxbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxRV1JrVEdsdVpWTmxjR0Z5WVhSdmNr
+RnpRMmhoY21GamRHVnlMbUk5Wm1Gc2MyVUtjMUJ5WldabGNtVnVZMlZNYVc1bFUyVndZWEpoZEc5eVVtVndiR0ZqWlcxbGJuUTlKREJoSkFwaVVISmxabVZ5Wlc1alpWSmxjR3hoWTJWT2IwSnlaV0Zy
+U0hsd2FHVnVWR0ZuTG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlVsbmJtOXlaVk52Wm5SSWVYQm9aVzVVWVdjdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFFXUmtWR0ZpUVhORGFHRnlZV04wWlhJdVlq
+MW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpVRm5aM0psYzNOcGRtVkRiR1ZoYm5Wd0xtSTlkSEoxWlFwaVVISmxabVZ5Wlc1alpVRjFkRzl0WVhScFkyRnNiSGxCWTJObGNIUlNaWFpwYzJsdmJuTXVZajEw
+Y25WbENtSlFjbVZtWlhKbGJtTmxVRzkzWlhKd2IybHVkRWx1WTJ4MVpHVmtVMnhwWkdWT2RXMWlaWEp6VDI1c2VTNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxSWGhqWld4RWFX
+Rm5jbUZ0UkdGMFlTNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxSWGhqWld4RWNtRjNhVzVuY3k1aVBXWmhiSE5sQ25OMVltWnBiSFJsY2owS1lrbHVSWGhqYkhWa1pVMXZaR1V1
+WWoxMGNuVmxDbUpKYmtWNFkyeDFaR1ZJYVdkb2JHbG5hSFJOYjJSbExtSTlkSEoxWlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWZHZjbVJGZUdOc2RXUmxRMjlzYjNKekxtSTlabUZzYzJVS1ls
+SmxiM0prWlhKUWIzZGxjbkJ2YVc1MFRtOTBaWE5CYm1SRGIyMXRaVzUwY3k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q25SelEyOXRjR3hsZUVacFpXeGtSR1Zt
+YVc1cGRHbHZibk5VYjBWNGRISmhZM1F1YVQweENtTm1aREE5U0ZsUVJWSk1TVTVMQ25SelJYaGpaV3hGZUdOc2RXUmxaRU52Ykc5eWN5NXBQVEFLZEhORmVHTmxiRVY0WTJ4MVpHVmtRMjlzZFcxdWN5
+NXBQVEFLZEhORmVHTnNkV1JsVjI5eVpGTjBlV3hsY3k1cFBUQUtkSE5YYjNKa1NHbG5hR3hwWjJoMFEyOXNiM0p6TG1rOU1BcDBjMWR2Y21SRmVHTnNkV1JsWkVOdmJHOXljeTVwUFRBS2RITlFiM2Rs
+Y25CdmFXNTBTVzVqYkhWa1pXUlRiR2xrWlU1MWJXSmxjbk11YVQwdzwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="ko-KR">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Foglio1!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">en_GB</source>
+<target xml:lang="ko-KR">en_GB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Foglio1!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_character_limit</source>
+<target xml:lang="ko-KR">cell_character_limit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Foglio1!C1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="ko-KR">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" maxwidth="18" resname="Foglio1!A2" size-unit="char" xml:space="preserve" help-id="4776495018">
+<source xml:lang="en-GB">Explore Sabah</source>
+<seg-source><mrk mid="0" mtype="seg">Explore Sabah</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바 둘러보기</mrk></target>
+<count-group name="P147242AB-tu4"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.54</count></count-group>
+<note>Brand banner headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Foglio1!C2" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Brand banner headline</source>
+<target xml:lang="ko-KR">Brand banner headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" maxwidth="39" resname="Foglio1!A3" size-unit="char" xml:space="preserve" help-id="4776495019">
+<source xml:lang="en-GB">Embark on an adventure through Sabah's preserved nature and culture</source>
+<seg-source><mrk mid="0" mtype="seg">Embark on an adventure through Sabah's preserved nature and culture</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바의 자연과 문화를 탐험해 보세요</mrk></target>
+<count-group name="P147242AB-tu6"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">7.7</count></count-group>
+<note>Brand banner subhead</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Foglio1!C3" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Brand banner subhead</source>
+<target xml:lang="ko-KR">Brand banner subhead</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" maxwidth="10" resname="Foglio1!A4" size-unit="char" xml:space="preserve" help-id="4776495020">
+<source xml:lang="en-GB">Book your adventure</source>
+<seg-source><mrk mid="0" mtype="seg">Book your adventure</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">예약하기</mrk></target>
+<count-group name="P147242AB-tu8"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<note>brand banner CTA</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Foglio1!C4" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">brand banner CTA</source>
+<target xml:lang="ko-KR">brand banner CTA</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" maxwidth="25" resname="Foglio1!A5" size-unit="char" xml:space="preserve" help-id="4776495021">
+<source xml:lang="en-GB">Explore Sabah’s culture and nature adventures</source>
+<seg-source><mrk mid="0" mtype="seg">Explore Sabah’s culture and nature adventures</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바 문화와 자연 탐험</mrk></target>
+<count-group name="P147242AB-tu10"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.62</count></count-group>
+<note>Destination Explorer headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Foglio1!C5" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Destination Explorer headline</source>
+<target xml:lang="ko-KR">Destination Explorer headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" maxwidth="110" resname="Foglio1!A6" size-unit="char" xml:space="preserve" help-id="4776495022">
+<source xml:lang="en-GB">From mountain peaks to island reefs, immerse yourself in Sabah’s culture and nature adventures where every journey tells a story of discovery and connection.</source>
+<seg-source><mrk mid="0" mtype="seg">From mountain peaks to island reefs, immerse yourself in Sabah’s culture and nature adventures where every journey tells a story of discovery and connection.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">산봉우리부터 섬 주변 산호초까지, 사바의 문화와 자연에 흠뻑 빠져보세요. 새로운 발견과 몰입의 경험이 이어집니다.</mrk></target>
+<count-group name="P147242AB-tu12"><count count-type="x-matecat-raw">24</count><count count-type="x-matecat-weighted">18.48</count></count-group>
+<note>Destination Explorer subhead</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Foglio1!C6" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Destination Explorer subhead</source>
+<target xml:lang="ko-KR">Destination Explorer subhead</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Foglio1!A7" xml:space="preserve" help-id="4776495023">
+<source xml:lang="en-GB">Explore Sabah: A Journey through Culture, Adventure, and Nature
+ 
+ In a world where travel is no longer just about ticking destinations off a list but immersing oneself in meaningful, transformative experiences, Sabah emerges as a shining gem in the heart of Malaysian Borneo. Sabah invites travellers to explore the state through the rich tapestry of its Culture, the thrill of its Adventure, and the profound beauty of its Nature—three elements that are deeply intertwined and form the foundation of everything Sabah has to offer.
+ As we move toward a more conscious and experiential travel era, Sabah stands ready to welcome travellers from all walks of life with open arms and untold stories.</source>
+<seg-source><mrk mid="0" mtype="seg">Explore Sabah: A Journey through Culture, Adventure, and Nature
+ 
+ In a world where travel is no longer just about ticking destinations off a list but immersing oneself in meaningful, transformative experiences, Sabah emerges as a shining gem in the heart of Malaysian Borneo. Sabah invites travellers to explore the state through the rich tapestry of its Culture, the thrill of its Adventure, and the profound beauty of its Nature—three elements that are deeply intertwined and form the foundation of everything Sabah has to offer.
+ As we move toward a more conscious and experiential travel era, Sabah stands ready to welcome travellers from all walks of life with open arms and untold stories.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바 둘러보기: 문화, 모험, 자연이 어우러진 여행&#10; &#10; 여행이 단순히 목적지를 방문하는 것을 넘어 변화와 성장을 가져오며 의미를 지닌 경험으로 확장되는 지금, 말레이시아 보르네오의 중심에 자리한 사바는 그 자체로 빛나는 여행지로 떠오르고 있습니다. 다채로운 문화, 짜릿한 모험, 깊이 있는 자연의 아름다움으로 여행객의 발걸음을 끌어들이는 사바에서는 이 모든 요소가 서로 연결되어 이곳만의 특별한 경험을 선사합니다.&#10; 의식 있는 여행과 경험 중심 여행이 중요해지는 흐름 속에서 사바는 다양한 배경의 여행자를 두 팔 벌려 맞이할 준비가 되어 있으며, 아직 소개되지 않은 많은 이야기를 품고 있습니다.</mrk></target>
+<count-group name="P147242AB-tu14"><count count-type="x-matecat-raw">112</count><count count-type="x-matecat-weighted">86.24</count></count-group>
+<note>Destination explorer intro</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Foglio1!C7" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Destination explorer intro</source>
+<target xml:lang="ko-KR">Destination explorer intro</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" maxwidth="22" resname="Foglio1!A8" size-unit="char" xml:space="preserve" help-id="4776495024">
+<source xml:lang="en-GB">Experience the Soul of Borneo in Sabah</source>
+<seg-source><mrk mid="0" mtype="seg">Experience the Soul of Borneo in Sabah</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">보르네오의 심장, 사바</mrk></target>
+<count-group name="P147242AB-tu16"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">5.39</count></count-group>
+<note>Article widget headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Foglio1!C8" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Article widget headline</source>
+<target xml:lang="ko-KR">Article widget headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" maxwidth="22" resname="Foglio1!A9" size-unit="char" xml:space="preserve" help-id="4776495025">
+<source xml:lang="en-GB">10 Best Things To Do In Sabah</source>
+<seg-source><mrk mid="0" mtype="seg">10 Best Things To Do In Sabah</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바 즐길 거리 TOP 10</mrk></target>
+<count-group name="P147242AB-tu18"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">5.39</count></count-group>
+<note>article 1 headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Foglio1!C9" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">article 1 headline</source>
+<target xml:lang="ko-KR">article 1 headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" maxwidth="22" resname="Foglio1!A10" size-unit="char" xml:space="preserve" help-id="4776495026">
+<source xml:lang="en-GB">Foodie Adventure</source>
+<seg-source><mrk mid="0" mtype="seg">Foodie Adventure</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">미식 여행</mrk></target>
+<count-group name="P147242AB-tu20"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.54</count></count-group>
+<note>article 2 headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Foglio1!C10" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">article 2 headline</source>
+<target xml:lang="ko-KR">article 2 headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" maxwidth="22" resname="Foglio1!A11" size-unit="char" xml:space="preserve" help-id="4776495027">
+<source xml:lang="en-GB">Sabah’s Water Adventures</source>
+<seg-source><mrk mid="0" mtype="seg">Sabah’s Water Adventures</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바 수상 액티비티</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.31</count></count-group>
+<note>article 3 headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Foglio1!C11" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">article 3 headline</source>
+<target xml:lang="ko-KR">article 3 headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" maxwidth="52" resname="Foglio1!A12" size-unit="char" xml:space="preserve" help-id="4776495028">
+<source xml:lang="en-GB">Plan your holiday in Sabah and uncover nature, culture &amp; adventure beyond the crowds.</source>
+<seg-source><mrk mid="0" mtype="seg">Plan your holiday in Sabah and uncover nature, culture &amp; adventure beyond the crowds.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바에서 여유롭게 자연, 문화, 모험을 즐기세요.</mrk></target>
+<count-group name="P147242AB-tu24"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">10.01</count></count-group>
+<note>article 1 description</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="Foglio1!C12" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">article 1 description</source>
+<target xml:lang="ko-KR">article 1 description</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" maxwidth="52" resname="Foglio1!A13" size-unit="char" xml:space="preserve" help-id="4776495029">
+<source xml:lang="en-GB">Discover Kota Kinabalu’s diverse cuisine — from street eats to fine dining in Sabah</source>
+<seg-source><mrk mid="0" mtype="seg">Discover Kota Kinabalu’s diverse cuisine — from street eats to fine dining in Sabah</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">코타키나발루의 다채로운 맛을 사바에서 만나보세요.</mrk></target>
+<count-group name="P147242AB-tu26"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">10.01</count></count-group>
+<note>article 2 description</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="Foglio1!C13" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">article 2 description</source>
+<target xml:lang="ko-KR">article 2 description</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" maxwidth="52" resname="Foglio1!A14" size-unit="char" xml:space="preserve" help-id="4776495030">
+<source xml:lang="en-GB">Make a splash in Sabah! Dive, seawalking, or paddle your way through paradise.</source>
+<seg-source><mrk mid="0" mtype="seg">Make a splash in Sabah! Dive, seawalking, or paddle your way through paradise.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">다이빙, 씨워킹, 패들보드 같은 물놀이를 즐기세요.</mrk></target>
+<count-group name="P147242AB-tu28"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">10.01</count></count-group>
+<note>article 3 description</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="Foglio1!C14" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">article 3 description</source>
+<target xml:lang="ko-KR">article 3 description</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" resname="Foglio1!A15" xml:space="preserve" help-id="4776495031">
+<source xml:lang="en-GB">Diving at Kapalai Island</source>
+<seg-source><mrk mid="0" mtype="seg">Diving at Kapalai Island</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">카팔라이섬에서 다이빙 즐기기</mrk></target>
+<count-group name="P147242AB-tu30"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">3.08</count></count-group>
+<note>gallery 1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="Foglio1!C15" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 1</source>
+<target xml:lang="ko-KR">gallery 1</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" resname="Foglio1!A16" xml:space="preserve" help-id="4776495032">
+<source xml:lang="en-GB">Climbing Mt Kinabalu</source>
+<seg-source><mrk mid="0" mtype="seg">Climbing Mt Kinabalu</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">키나발루산 등반</mrk></target>
+<count-group name="P147242AB-tu32"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.31</count></count-group>
+<note>gallery 2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu33" resname="Foglio1!C16" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 2</source>
+<target xml:lang="ko-KR">gallery 2</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu34" resname="Foglio1!A17" xml:space="preserve" help-id="4776495033">
+<source xml:lang="en-GB">Bornean Pygmy Elephant in the Kinabatangan</source>
+<seg-source><mrk mid="0" mtype="seg">Bornean Pygmy Elephant in the Kinabatangan</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">키나바탕간에서 보르네오 피그미 코끼리 만나기</mrk></target>
+<count-group name="P147242AB-tu34"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.62</count></count-group>
+<note>gallery 3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu35" resname="Foglio1!C17" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 3</source>
+<target xml:lang="ko-KR">gallery 3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu36" resname="Foglio1!A18" xml:space="preserve" help-id="4776495034">
+<source xml:lang="en-GB">Shore line at Mataking Island</source>
+<seg-source><mrk mid="0" mtype="seg">Shore line at Mataking Island</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">마타킹섬의 해안 풍경</mrk></target>
+<count-group name="P147242AB-tu36"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.85</count></count-group>
+<note>gallery 4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu37" resname="Foglio1!C18" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 4</source>
+<target xml:lang="ko-KR">gallery 4</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu38" resname="Foglio1!A19" xml:space="preserve" help-id="4776495035">
+<source xml:lang="en-GB">Treetop Canopy Walkway at Poring Hot Spring</source>
+<seg-source><mrk mid="0" mtype="seg">Treetop Canopy Walkway at Poring Hot Spring</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">포링 온천의 숲속 공중 산책로</mrk></target>
+<count-group name="P147242AB-tu38"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">5.39</count></count-group>
+<note>gallery 5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu39" resname="Foglio1!C19" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 5</source>
+<target xml:lang="ko-KR">gallery 5</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu40" resname="Foglio1!A20" xml:space="preserve" help-id="4776495036">
+<source xml:lang="en-GB">Mother and child Orangutan</source>
+<seg-source><mrk mid="0" mtype="seg">Mother and child Orangutan</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">오랑우탄 가족</mrk></target>
+<count-group name="P147242AB-tu40"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">3.08</count></count-group>
+<note>gallery 6</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu41" resname="Foglio1!C20" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 6</source>
+<target xml:lang="ko-KR">gallery 6</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu42" resname="Foglio1!A21" xml:space="preserve" help-id="4776495037">
+<source xml:lang="en-GB">The Murut Bamboo Dance at Marais Centre Tenom</source>
+<seg-source><mrk mid="0" mtype="seg">The Murut Bamboo Dance at Marais Centre Tenom</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">테놈 마라이스 센터에서 즐기는 무룻족 대나무 춤</mrk></target>
+<count-group name="P147242AB-tu42"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">6.16</count></count-group>
+<note>gallery 7</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu43" resname="Foglio1!C21" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 7</source>
+<target xml:lang="ko-KR">gallery 7</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu44" resname="Foglio1!A22" xml:space="preserve" help-id="4776495038">
+<source xml:lang="en-GB">Camping in Kundasang</source>
+<seg-source><mrk mid="0" mtype="seg">Camping in Kundasang</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">쿤다상 캠핑</mrk></target>
+<count-group name="P147242AB-tu44"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.31</count></count-group>
+<note>gallery 8</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu45" resname="Foglio1!C22" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 8</source>
+<target xml:lang="ko-KR">gallery 8</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu46" resname="Foglio1!A23" xml:space="preserve" help-id="4776495039">
+<source xml:lang="en-GB">Langganan Waterfall in Poring Hot Spring</source>
+<seg-source><mrk mid="0" mtype="seg">Langganan Waterfall in Poring Hot Spring</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">포링 온천의 랑가난 폭포</mrk></target>
+<count-group name="P147242AB-tu46"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.62</count></count-group>
+<note>gallery 9</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu47" resname="Foglio1!C23" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">gallery 9</source>
+<target xml:lang="ko-KR">gallery 9</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu48" resname="Foglio1!A24" xml:space="preserve" help-id="4776495040">
+<source xml:lang="en-GB">Welcome to Sabah</source>
+<seg-source><mrk mid="0" mtype="seg">Welcome to Sabah</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바에 오신 것을 환영합니다</mrk></target>
+<count-group name="P147242AB-tu48"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<note>sponsored results headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu49" resname="Foglio1!C24" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">sponsored results headline</source>
+<target xml:lang="ko-KR">sponsored results headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu50" maxwidth="58" resname="Foglio1!A25" size-unit="char" xml:space="preserve" help-id="4776495041">
+<source xml:lang="en-GB">Explore Sabah’s vibrant culture, wild nature and endless adventure — where every journey inspires.</source>
+<seg-source><mrk mid="0" mtype="seg">Explore Sabah’s vibrant culture, wild nature and endless adventure — where every journey inspires.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바의 활기찬 문화, 순수한 자연, 놀라운 모험을 만나보세요.</mrk></target>
+<count-group name="P147242AB-tu50"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">10.01</count></count-group>
+<note>sponsored results subhead</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu51" resname="Foglio1!C25" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">sponsored results subhead</source>
+<target xml:lang="ko-KR">sponsored results subhead</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu52" maxwidth="15" resname="Foglio1!A26" size-unit="char" xml:space="preserve" help-id="4776495042">
+<source xml:lang="en-GB">All About Sabah</source>
+<seg-source><mrk mid="0" mtype="seg">All About Sabah</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바의 모든 것</mrk></target>
+<count-group name="P147242AB-tu52"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.31</count></count-group>
+<note>guidebook headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu53" resname="Foglio1!C26" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">guidebook headline</source>
+<target xml:lang="ko-KR">guidebook headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu54" maxwidth="415" resname="Foglio1!A27" size-unit="char" xml:space="preserve" help-id="4776495043">
+<source xml:lang="en-GB">Discover Sabah, the land of eco-adventures and rich cultural heritage. From the majestic Mount Kinabalu to pristine islands, lush rainforests and vibrant cities, Sabah offers a perfect blend of nature, adventure and tradition. Meet warm communities, experience unique wildlife, taste local flavours, and embrace the spirit of Borneo where every journey tells a story. Explore Sabah — where nature and culture unite.</source>
+<seg-source><mrk mid="0" mtype="seg">Discover Sabah, the land of eco-adventures and rich cultural heritage. From the majestic Mount Kinabalu to pristine islands, lush rainforests and vibrant cities, Sabah offers a perfect blend of nature, adventure and tradition. Meet warm communities, experience unique wildlife, taste local flavours, and embrace the spirit of Borneo where every journey tells a story. Explore Sabah — where nature and culture unite.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">풍부한 문화유산과 자연 속 모험이 기다리는 곳, 사바를 만나보세요. 장엄한 키나발루산부터 자연 그대로의 섬과 울창한 열대우림 그리고 활기찬 도시에 이르기까지, 사바는 자연과, 모험, 전통이 완벽하게 어우러진 곳입니다. 따뜻한 지역 주민들과 함께하고, 독특한 야생동물을 만나고, 현지의 맛을 즐겨보세요. 모든 여정마다 새로운 이야기가 펼쳐지는 보르네오의 정신을 느끼며, 자연과 문화가 어우러진 사바를 탐험해 보세요.</mrk></target>
+<count-group name="P147242AB-tu54"><count count-type="x-matecat-raw">61</count><count count-type="x-matecat-weighted">46.97</count></count-group>
+<note>guidebook subhead</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu55" resname="Foglio1!C27" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">guidebook subhead</source>
+<target xml:lang="ko-KR">guidebook subhead</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu56" resname="Foglio1!A28" xml:space="preserve" help-id="4776495044">
+<source xml:lang="en-GB">Step into Sabah</source>
+<seg-source><mrk mid="0" mtype="seg">Step into Sabah</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사바로 떠나기</mrk></target>
+<count-group name="P147242AB-tu56"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.31</count></count-group>
+<note>guidebook cta</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu57" resname="Foglio1!C28" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">guidebook cta</source>
+<target xml:lang="ko-KR">guidebook cta</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

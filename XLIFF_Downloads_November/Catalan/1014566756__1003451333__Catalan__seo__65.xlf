@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="joRabVDZ4T.jsont2" source-language="en-GB" target-language="ca-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6IjNhNzJkZjVhNjFmMWIwMzczMTc1YzRkNGRmZTA5NGEzMTliMmQ1NzczMWU4MDgxMzE4N2I4MTA1N2MwZTlmZjIiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0xMC0xMjo1MTox
+NCIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl9zZW9fMTBfMTFfMjAyNSIsImluc3RydWN0aW9ucyI6bnVsbCwic3R5bGVndWlkZSI6bnVsbCwicmVmZXJlbmNlcyI6bnVsbCwicmVxdWVzdHMiOlt7
+ImlkX3JlcXVlc3QiOjI3Mzg4MDQzLCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2RlYWxzX2ZpbHRlcl9wZW9wbGVfY2FycmllcnMiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3Bs
+YWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlBlb3BsZSBjYXJyaWVycyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuQEBw
+aWNrdXBfY2l0eUBALiBcclxuXG5GaWx0ZXJzOiBcclxuXG5TaG93IGFsbCBkZWFscyBcclxuXG5TaG93IG9ubHkgU21hbGwgY2FycyBcclxuXG5TaG93IG9ubHkgTWVkaXVtIGNhcnMgXHJcblxuU2hv
+dyBvbmx5IExhcmdlIGNhcnMgXHJcblxuU2hvdyBvbmx5IFNVVnMgXHJcblxuU2hvdyBvbmx5IEx1eHVyeSBjYXJzIFxyXG5cblNob3cgb25seSBQZW9wbGUgY2FycmllcnMgXHJcblxuU2hvdyBvbmx5
+IFZhbnMgXHJcblxuTGluayB0byBmdW5uZWwgXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzNhNzJkZjVhNjFmMWIwMzczMTc1YzRkNGRmZTA5NGEz
+MTliMmQ1NzczMWU4MDgxMzE4N2I4MTA1N2MwZTlmZjIvMjczODgwNDMvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzM4ODA4MywiaWRfY29udGVudCI6ImZhbGNvbl9jYXJfaGlyZS9j
+YXJfaGlyZV9kZWFsc19maWx0ZXJfc2VjdGlvbl9zdWJ0aXRsZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiV2UgZm91bmQgc29tZSBncmVh
+dCBjYXIgaGlyZSBkZWFscyBpbiBAQHBpY2t1cF9jaXR5QEAuIFlvdSBjYW4gY2hlY2sgdGhlbSBvdXQgYmVsb3csIG9yIHN0YXJ0IGEgbmV3IHNlYXJjaCB0byBnZXQgcHJpY2VzIGZvciB5b3VyIGV4
+YWN0IGRhdGVzLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuQEBwaWNrdXBfY2l0eUBALiBcclxuXG5GaWx0ZXJzOiBcclxuXG5TaG93
+IGFsbCBkZWFscyBcclxuXG5TaG93IG9ubHkgU21hbGwgY2FycyBcclxuXG5TaG93IG9ubHkgTWVkaXVtIGNhcnMgXHJcblxuU2hvdyBvbmx5IExhcmdlIGNhcnMgXHJcblxuU2hvdyBvbmx5IFNVVnMg
+XHJcblxuU2hvdyBvbmx5IEx1eHVyeSBjYXJzIFxyXG5cblNob3cgb25seSBQZW9wbGUgY2FycmllcnMgXHJcblxuU2hvdyBvbmx5IFZhbnMgXHJcblxuTGluayB0byBmdW5uZWwgXG4iLCJzY3JlZW5z
+aG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzNhNzJkZjVhNjFmMWIwMzczMTc1YzRkNGRmZTA5NGEzMTliMmQ1NzczMWU4MDgxMzE4N2I4MTA1N2MwZTlmZjIvMjczODgw
+ODMvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzM4ODEyMywiaWRfY29udGVudCI6ImZhbGNvbl9jYXJfaGlyZS9jYXJfaGlyZV9kZWFsc19maWx0ZXJfc3V2cyIsImNvbnRlbnRfdHlw
+ZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiU1VWcyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuQEBw
+aWNrdXBfY2l0eUBALiBcclxuXG5GaWx0ZXJzOiBcclxuXG5TaG93IGFsbCBkZWFscyBcclxuXG5TaG93IG9ubHkgU21hbGwgY2FycyBcclxuXG5TaG93IG9ubHkgTWVkaXVtIGNhcnMgXHJcblxuU2hv
+dyBvbmx5IExhcmdlIGNhcnMgXHJcblxuU2hvdyBvbmx5IFNVVnMgXHJcblxuU2hvdyBvbmx5IEx1eHVyeSBjYXJzIFxyXG5cblNob3cgb25seSBQZW9wbGUgY2FycmllcnMgXHJcblxuU2hvdyBvbmx5
+IFZhbnMgXHJcblxuTGluayB0byBmdW5uZWwgXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzNhNzJkZjVhNjFmMWIwMzczMTc1YzRkNGRmZTA5NGEz
+MTliMmQ1NzczMWU4MDgxMzE4N2I4MTA1N2MwZTlmZjIvMjczODgxMjMvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzM4ODE2NywiaWRfY29udGVudCI6ImZhbGNvbl9ob3RlbHMvRkFR
+X3JlbnRhbHNfdGl0bGUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkZpbmRpbmcgY2hlYXAgcmVudGFscyBpbiBAQGNpdHlAQDogRkFRcyIs
+ImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuVjIgaW1wcm92ZW1lbnQgc3VnZ2VzdGlvbiBcclxuXG5XZeKAmXZlIGhhZCBzb21lIGZlZWRi
+YWNrIHRoYXQgdGhlIG1lbnRpb24gb2Yg4oCYaG90ZWxz4oCZIGlzIGNvbmZ1c2luZy5cclxuXG5Db3VsZCB3ZSBwbGVhc2UgY2hhbmdlIHRoZSBoZWFkZXIgdG9cclxuXG7igJhGaW5kaW5nIGNoZWFw
+IHJlbnRhbHMgaW4gQEBjaXR5QEA6IEZBUXPigJlcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvM2E3MmRmNWE2MWYxYjAzNzMxNzVjNGQ0ZGZlMDk0
+YTMxOWIyZDU3NzMxZTgwODEzMTg3YjgxMDU3YzBlOWZmMi8yNzM4ODE2Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3Mzg4MjAzLCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJl
+L2Nhcl9oaXJlX2RlYWxzX2ZpbHRlcl9sdXh1cnlfY2FycyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiTHV4dXJ5IGNhcnMiLCJjb250ZXh0
+Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkBAcGlja3VwX2NpdHlAQC4gXHJcblxuRmlsdGVyczogXHJcblxuU2hvdyBhbGwgZGVhbHMgXHJcblxuU2hv
+dyBvbmx5IFNtYWxsIGNhcnMgXHJcblxuU2hvdyBvbmx5IE1lZGl1bSBjYXJzIFxyXG5cblNob3cgb25seSBMYXJnZSBjYXJzIFxyXG5cblNob3cgb25seSBTVVZzIFxyXG5cblNob3cgb25seSBMdXh1
+cnkgY2FycyBcclxuXG5TaG93IG9ubHkgUGVvcGxlIGNhcnJpZXJzIFxyXG5cblNob3cgb25seSBWYW5zIFxyXG5cbkxpbmsgdG8gZnVubmVsIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMu
+dHJhbnNsYXRlZC5jb20vY29udGV4dC8zYTcyZGY1YTYxZjFiMDM3MzE3NWM0ZDRkZmUwOTRhMzE5YjJkNTc3MzFlODA4MTMxODdiODEwNTdjMGU5ZmYyLzI3Mzg4MjAzL3NjcmVlbnNob3QudXJsIn19
+LHsiaWRfcmVxdWVzdCI6MjczODgyNDMsImlkX2NvbnRlbnQiOiJmYWxjb25fY2FyX2hpcmUvY2FyX2hpcmVfZGVhbHNfZmlsdGVyX3Nob3dfYWxsIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIs
+ImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJTaG93IGFsbCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuQEBwaWNrdXBfY2l0eUBA
+LiBcclxuXG5GaWx0ZXJzOiBcclxuXG5TaG93IGFsbCBkZWFscyBcclxuXG5TaG93IG9ubHkgU21hbGwgY2FycyBcclxuXG5TaG93IG9ubHkgTWVkaXVtIGNhcnMgXHJcblxuU2hvdyBvbmx5IExhcmdl
+IGNhcnMgXHJcblxuU2hvdyBvbmx5IFNVVnMgXHJcblxuU2hvdyBvbmx5IEx1eHVyeSBjYXJzIFxyXG5cblNob3cgb25seSBQZW9wbGUgY2FycmllcnMgXHJcblxuU2hvdyBvbmx5IFZhbnMgXHJcblxu
+TGluayB0byBmdW5uZWwgXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzNhNzJkZjVhNjFmMWIwMzczMTc1YzRkNGRmZTA5NGEzMTliMmQ1NzczMWU4
+MDgxMzE4N2I4MTA1N2MwZTlmZjIvMjczODgyNDMvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzM4ODI4MywiaWRfY29udGVudCI6ImZhbGNvbl9jYXJfaGlyZS9jYXJfaGlyZV9kZWFs
+c19maWx0ZXJfbWVkaXVtX2NhcnMiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ik1lZGl1bSBjYXJzIiwiY29udGV4dCI6eyJub3RlcyI6IiZs
+dDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5AQHBpY2t1cF9jaXR5QEAuIFxyXG5cbkZpbHRlcnM6IFxyXG5cblNob3cgYWxsIGRlYWxzIFxyXG5cblNob3cgb25seSBTbWFsbCBj
+YXJzIFxyXG5cblNob3cgb25seSBNZWRpdW0gY2FycyBcclxuXG5TaG93IG9ubHkgTGFyZ2UgY2FycyBcclxuXG5TaG93IG9ubHkgU1VWcyBcclxuXG5TaG93IG9ubHkgTHV4dXJ5IGNhcnMgXHJcblxu
+U2hvdyBvbmx5IFBlb3BsZSBjYXJyaWVycyBcclxuXG5TaG93IG9ubHkgVmFucyBcclxuXG5MaW5rIHRvIGZ1bm5lbCBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29t
+L2NvbnRleHQvM2E3MmRmNWE2MWYxYjAzNzMxNzVjNGQ0ZGZlMDk0YTMxOWIyZDU3NzMxZTgwODEzMTg3YjgxMDU3YzBlOWZmMi8yNzM4ODI4My9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3Qi
+OjI3Mzg4MzIzLCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2FpcnBvcnRfZGVhbHNfYnJvd3NlX2FsbF9haXJwb3J0cyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJj
+aGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiQnJvd3NlIGFsbCBAQHBpY2t1cF9haXJwb3J0QEAgQWlycG9ydCBkZWFscyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENv
+bW1lbnQmbHQ7L2gxJmd0O1xuU0VPIENvbXBvbmVudDogQ2FyIGhpcmUgZGVhbHNcclxuUGFnZSB0eXBlOiBjYXItaGlyZS1haXJwb3J0XHJcbkNvbnRleHQ6IENhciBoaXJlIGRlYWxzIENUQVxuIiwi
+c2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8zYTcyZGY1YTYxZjFiMDM3MzE3NWM0ZDRkZmUwOTRhMzE5YjJkNTc3MzFlODA4MTMxODdiODEwNTdjMGU5ZmYy
+LzI3Mzg4MzIzL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjczODgzNjMsImlkX2NvbnRlbnQiOiJmYWxjb25fY2FyX2hpcmUvY2FyX2hpcmVfZGVhbHNfZmlsdGVyX3NtYWxsX2NhcnMi
+LCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlNtYWxsIGNhcnMiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21t
+ZW50Jmx0Oy9oMSZndDtcbkBAcGlja3VwX2NpdHlAQC4gXHJcblxuRmlsdGVyczogXHJcblxuU2hvdyBhbGwgZGVhbHMgXHJcblxuU2hvdyBvbmx5IFNtYWxsIGNhcnMgXHJcblxuU2hvdyBvbmx5IE1l
+ZGl1bSBjYXJzIFxyXG5cblNob3cgb25seSBMYXJnZSBjYXJzIFxyXG5cblNob3cgb25seSBTVVZzIFxyXG5cblNob3cgb25seSBMdXh1cnkgY2FycyBcclxuXG5TaG93IG9ubHkgUGVvcGxlIGNhcnJp
+ZXJzIFxyXG5cblNob3cgb25seSBWYW5zIFxyXG5cbkxpbmsgdG8gZnVubmVsIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8zYTcyZGY1YTYxZjFi
+MDM3MzE3NWM0ZDRkZmUwOTRhMzE5YjJkNTc3MzFlODA4MTMxODdiODEwNTdjMGU5ZmYyLzI3Mzg4MzYzL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjczODg0MDMsImlkX2NvbnRlbnQi
+OiJmYWxjb25fY2FyX2hpcmUvY2FyX2hpcmVfZGVhbHNfZmlsdGVyX3NlY3Rpb25fdGl0bGUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkZp
+bmQgYSBjaGVhcCBjYXIgaGlyZSBkZWFsIG5lYXIgeW91IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5AQHBpY2t1cF9jaXR5QEAuIFxy
+XG5cbkZpbHRlcnM6IFxyXG5cblNob3cgYWxsIGRlYWxzIFxyXG5cblNob3cgb25seSBTbWFsbCBjYXJzIFxyXG5cblNob3cgb25seSBNZWRpdW0gY2FycyBcclxuXG5TaG93IG9ubHkgTGFyZ2UgY2Fy
+cyBcclxuXG5TaG93IG9ubHkgU1VWcyBcclxuXG5TaG93IG9ubHkgTHV4dXJ5IGNhcnMgXHJcblxuU2hvdyBvbmx5IFBlb3BsZSBjYXJyaWVycyBcclxuXG5TaG93IG9ubHkgVmFucyBcclxuXG5MaW5r
+IHRvIGZ1bm5lbCBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvM2E3MmRmNWE2MWYxYjAzNzMxNzVjNGQ0ZGZlMDk0YTMxOWIyZDU3NzMxZTgwODEz
+MTg3YjgxMDU3YzBlOWZmMi8yNzM4ODQwMy9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3Mzg4NDQzLCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2RlYWxzX2Zp
+bHRlcl92YW5zIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJWYW5zIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIg
+Q29tbWVudCZsdDsvaDEmZ3Q7XG5AQHBpY2t1cF9jaXR5QEAuIFxyXG5cbkZpbHRlcnM6IFxyXG5cblNob3cgYWxsIGRlYWxzIFxyXG5cblNob3cgb25seSBTbWFsbCBjYXJzIFxyXG5cblNob3cgb25s
+eSBNZWRpdW0gY2FycyBcclxuXG5TaG93IG9ubHkgTGFyZ2UgY2FycyBcclxuXG5TaG93IG9ubHkgU1VWcyBcclxuXG5TaG93IG9ubHkgTHV4dXJ5IGNhcnMgXHJcblxuU2hvdyBvbmx5IFBlb3BsZSBj
+YXJyaWVycyBcclxuXG5TaG93IG9ubHkgVmFucyBcclxuXG5MaW5rIHRvIGZ1bm5lbCBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvM2E3MmRmNWE2
+MWYxYjAzNzMxNzVjNGQ0ZGZlMDk0YTMxOWIyZDU3NzMxZTgwODEzMTg3YjgxMDU3YzBlOWZmMi8yNzM4ODQ0My9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3Mzg4NDgzLCJpZF9jb250
+ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2RlYWxzX2N0YV9icm93c2VfYWxsIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJCcm93
+c2UgYWxsIGNhciBoaXJlIGRlYWxzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5AQHBpY2t1cF9jaXR5QEAuIFxyXG5cbkZpbHRlcnM6
+IFxyXG5cblNob3cgYWxsIGRlYWxzIFxyXG5cblNob3cgb25seSBTbWFsbCBjYXJzIFxyXG5cblNob3cgb25seSBNZWRpdW0gY2FycyBcclxuXG5TaG93IG9ubHkgTGFyZ2UgY2FycyBcclxuXG5TaG93
+IG9ubHkgU1VWcyBcclxuXG5TaG93IG9ubHkgTHV4dXJ5IGNhcnMgXHJcblxuU2hvdyBvbmx5IFBlb3BsZSBjYXJyaWVycyBcclxuXG5TaG93IG9ubHkgVmFucyBcclxuXG5MaW5rIHRvIGZ1bm5lbCBc
+biIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvM2E3MmRmNWE2MWYxYjAzNzMxNzVjNGQ0ZGZlMDk0YTMxOWIyZDU3NzMxZTgwODEzMTg3YjgxMDU3YzBl
+OWZmMi8yNzM4ODQ4My9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3Mzg4NTIzLCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2RlYWxzX2ZpbHRlcl9sYXJnZV9j
+YXJzIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJMYXJnZSBjYXJzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIg
+Q29tbWVudCZsdDsvaDEmZ3Q7XG5AQHBpY2t1cF9jaXR5QEAuIFxyXG5cbkZpbHRlcnM6IFxyXG5cblNob3cgYWxsIGRlYWxzIFxyXG5cblNob3cgb25seSBTbWFsbCBjYXJzIFxyXG5cblNob3cgb25s
+eSBNZWRpdW0gY2FycyBcclxuXG5TaG93IG9ubHkgTGFyZ2UgY2FycyBcclxuXG5TaG93IG9ubHkgU1VWcyBcclxuXG5TaG93IG9ubHkgTHV4dXJ5IGNhcnMgXHJcblxuU2hvdyBvbmx5IFBlb3BsZSBj
+YXJyaWVycyBcclxuXG5TaG93IG9ubHkgVmFucyBcclxuXG5MaW5rIHRvIGZ1bm5lbCBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvM2E3MmRmNWE2
+MWYxYjAzNzMxNzVjNGQ0ZGZlMDk0YTMxOWIyZDU3NzMxZTgwODEzMTg3YjgxMDU3YzBlOWZmMi8yNzM4ODUyMy9zY3JlZW5zaG90LnVybCJ9fV19XQ==</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="ca-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTA3QjYzNyIgcGFja2FnZUlk
+PSI2YmNlNTgyYy1iM2EyLTRhZGYtYjIwYS1mYTE0NzgwYTU4MjkiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iY2EtRVMiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMTAgMTQ6NTE6NDcrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJqb1JhYlZEWjRULmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9ImpvUmFiVkRaNFQub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-10-12:51:14" mtc:id-order-group="handoff_seo_10_11_2025" original="3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2" source-language="en-GB" target-language="ca-ES">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4772868591">
+<source xml:lang="en-GB">People carriers</source>
+<seg-source><mrk mid="0" mtype="seg">People carriers</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Monovolums</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.44</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388043</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_people_carriers</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_people_carriers</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388043/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4772868592">
+<source xml:lang="en-GB">We found some great car hire deals in @@pickup_city@@. You can check them out below, or start a new search to get prices for your exact dates.</source>
+<seg-source><mrk mid="0" mtype="seg">We found some great car hire deals in @@pickup_city@@. You can check them out below, or start a new search to get prices for your exact dates.</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Hem trobat ofertes de lloguer de cotxes fantàstiques a @@pickup_city@@. Pots consultar-les a continuació o iniciar una cerca nova per obtenir preus per a les dates exactes.</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">27</count><count count-type="x-matecat-weighted">19.44</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388083</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_section_subtitle</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_section_subtitle</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388083/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4772868593">
+<source xml:lang="en-GB">SUVs</source>
+<seg-source><mrk mid="0" mtype="seg">SUVs</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Vehicles tot camí</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388123</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_suvs</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_suvs</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388123/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4772868594">
+<source xml:lang="en-GB">Finding cheap rentals in @@city@@: FAQs</source>
+<seg-source><mrk mid="0" mtype="seg">Finding cheap rentals in @@city@@: FAQs</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Trobar lloguers barats a @@city@@: PMF</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388167</note>
+<note>translation_context|¶|falcon_hotels/FAQ_rentals_title</note>
+<note annotates="source" from="id_content">falcon_hotels/FAQ_rentals_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+V2 improvement suggestion 
+
+We’ve had some feedback that the mention of ‘hotels’ is confusing.
+
+Could we please change the header to
+
+‘Finding cheap rentals in @@city@@: FAQs’
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388167/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4772868595">
+<source xml:lang="en-GB">Luxury cars</source>
+<seg-source><mrk mid="0" mtype="seg">Luxury cars</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Cotxes de luxe</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388203</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_luxury_cars</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_luxury_cars</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388203/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4772868596">
+<source xml:lang="en-GB">Show all</source>
+<seg-source><mrk mid="0" mtype="seg">Show all</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Mostra-ho tot</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388243</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_show_all</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_show_all</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388243/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4772868597">
+<source xml:lang="en-GB">Medium cars</source>
+<seg-source><mrk mid="0" mtype="seg">Medium cars</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Cotxes mitjans</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.44</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388283</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_medium_cars</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_medium_cars</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388283/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4772868598">
+<source xml:lang="en-GB">Browse all @@pickup_airport@@ Airport deals</source>
+<seg-source><mrk mid="0" mtype="seg">Browse all @@pickup_airport@@ Airport deals</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Descobreix les ofertes a l'aeroport @@pickup_airport@@</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388323</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_airport_deals_browse_all_airports</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_airport_deals_browse_all_airports</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Component: Car hire deals
+Page type: car-hire-airport
+Context: Car hire deals CTA
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388323/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4772868599">
+<source xml:lang="en-GB">Small cars</source>
+<seg-source><mrk mid="0" mtype="seg">Small cars</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Cotxes petits</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388363</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_small_cars</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_small_cars</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388363/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4772868600">
+<source xml:lang="en-GB">Find a cheap car hire deal near you</source>
+<seg-source><mrk mid="0" mtype="seg">Find a cheap car hire deal near you</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Troba ofertes de lloguer de cotxes a la teva zona</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">4.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388403</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_section_title</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_section_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388403/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4772868601">
+<source xml:lang="en-GB">Vans</source>
+<seg-source><mrk mid="0" mtype="seg">Vans</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Furgonetes</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388443</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_vans</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_vans</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388443/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4772868602">
+<source xml:lang="en-GB">Browse all car hire deals</source>
+<seg-source><mrk mid="0" mtype="seg">Browse all car hire deals</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Explora totes les ofertes de lloguer de cotxes</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388483</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_cta_browse_all</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_cta_browse_all</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388483/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4772868603">
+<source xml:lang="en-GB">Large cars</source>
+<seg-source><mrk mid="0" mtype="seg">Large cars</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Cotxes grans</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27388523</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_deals_filter_large_cars</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_deals_filter_large_cars</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+@@pickup_city@@. 
+
+Filters: 
+
+Show all deals 
+
+Show only Small cars 
+
+Show only Medium cars 
+
+Show only Large cars 
+
+Show only SUVs 
+
+Show only Luxury cars 
+
+Show only People carriers 
+
+Show only Vans 
+
+Link to funnel 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3a72df5a61f1b0373175c4d4dfe094a319b2d57731e80813187b81057c0e9ff2/27388523/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

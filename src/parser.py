@@ -42,26 +42,56 @@ def count_words(text: str) -> int:
     return len(re.findall(r"\S+", clean))
 
 
-def get_segment_note(tu: ET._Element) -> str:
+def extract_notes(tu: ET._Element) -> str:
     """
-    Extracts the 'Context' note based on priority.
+    Extract relevant notes with prioritization:
+      1) annotates="source" and from="notes"      -> Developer comment
+      2) from="id_content"                        -> Content ID / path
+      3) translation_context payloads             -> stripped marker
+    Ignores screenshot notes. Falls back to first non-empty note.
     """
     notes = tu.findall(".//ns:note", namespaces=NS)
     if not notes:
         notes = tu.findall(".//note")
 
+    dev_note = None
+    content_note = None
+    context_note = None
+    fallback = None
+
     for n in notes:
-        txt = n.text or ""
-        if "translation_context" in txt:
-            return txt.replace("translation_context|�|", "").strip()
-        if n.get("from") == "id_content":
-            return txt.strip()
+        raw = n.text or ""
+        txt = raw.strip()
+        if not txt:
+            continue
+        annot = (n.get("annotates") or "").lower()
+        frm = (n.get("from") or "").lower()
 
-    resname = tu.get("resname")
-    if resname and "Translation!" in resname:
-        return resname
+        if annot == "source" and frm == "notes" and dev_note is None:
+            dev_note = txt
+            continue
+        if frm == "id_content" and content_note is None:
+            content_note = txt
+            continue
+        if "translation_context" in txt and context_note is None:
+            context_note = txt.replace("translation_context|¶|", "").replace("translation_context|�|", "").strip()
+            continue
+        if frm == "screenshot":
+            continue
+        if fallback is None:
+            fallback = txt
 
-    return ""
+    parts = []
+    if dev_note:
+        parts.append(f"Developer comment: {dev_note}")
+    if content_note:
+        parts.append(f"Content ID: {content_note}")
+    if context_note:
+        parts.append(f"Context: {context_note}")
+    if not parts and fallback:
+        parts.append(fallback)
+
+    return " | ".join(parts)
 
 
 # ===================== 2. Core Parsing Logic =====================
@@ -96,7 +126,7 @@ def parse_xliff_file(file_path: Path, job_id: str) -> List[Dict]:
         except ValueError:
             main_seg_id = 0
 
-        note_context = get_segment_note(tu)
+        note_context = extract_notes(tu)
 
         matecat_count = None
         count_group = tu.find(".//ns:count-group", namespaces=NS)

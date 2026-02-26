@@ -1,68 +1,333 @@
-Skyscanner Italian Language LQA Instructions
-1. Audience
- • Target users are highly connected, community-oriented, content-aware, and active online.
- • They are selective and attentive to detail; translations must capture and maintain their attention.
-2. Punctuation
- • Use punctuation to clarify meaning and improve readability.
- • Semicolons: Use only in particularly long and complex sentences that could be simplified.
- • Exclamation/Question Marks: Never use more than one at a time.
- • Hyphens: Replace with parentheses or commas. Do not use parentheses in email subject lines.
- • Quotation Marks: Use double straight quotes (" ") for consistency.
- • Punctuation in Quotes: Place punctuation marks that are part of a dialogue or quote inside the quotation marks; always place the period outside.
- • Apostrophes/Accents: Do not use an accent instead of an apostrophe or vice versa. Use the straight apostrophe, not the curly one.
- • Ellipsis: Use to indicate omission, hesitating speech, or trailing thoughts, mainly in informal writing or push notifications. Do not overuse. If the ellipsis is in the middle of a sentence, do not capitalize the following word; if at the end, capitalize the next word.
- • Ampersands: Do not use unless part of a company or brand name.
-3. Capitalisation
- • In Italian, only capitalize the first letter of the first word in titles.
- • Month names and days of the week are lowercase, except for specific events or dates (e.g., il Venerdì santo, il Primo Maggio).
-4. Euphonic d
- • Use "euphonic d" (ad, ed) only between two identical vowels (e.g., ad Atene, ed ecco).
- • Exceptions: Use in common phrases where omission would be unusual (e.g., ad esempio, ad eccezione di).
- • Do not use "od" in written Italian.
-5. Placeholders
- • Do not translate, edit, or delete placeholders.
- • Placeholders may change position/order in the sentence; ensure correct article or preposition before them.
- • Example: Promozione valida fino al <date>. > Promozione valida fino al giorno <date>.
- • If a placeholder is replaced by a number starting with a vowel, use "all'" with an apostrophe. Adjust the sentence to avoid mistakes.
- • Pay attention to spaces next to placeholders.
-6. Inadequate and Regional Words/Expressions
- • Avoid phrases inappropriate for Skyscanner’s context, especially those related to flights such as "Sconti in picchiata" or "Prezzi in caduta libera".
- • Avoid regional and slang expressions.
-7. Character Limits
- • Adhere to character limits as indicated in the segment description or as required by layout constraints (e.g., push notifications, narrow spaces).
- • Use a character counter to ensure compliance.
-8. Active and Passive Voice
- • Prefer active voice for clarity and directness.
- • Avoid passive constructions that obscure the subject.
- • Example: La prenotazione è stata cancellata. > Abbiamo cancellato la prenotazione.
-9. Numbers
- • Use numerals for age, quantity, prices, discounts, and important information.
- • Do not use the number 1 to replace the indefinite article “un/uno” in discursive texts.
- • For numbers with more than three digits, use a dot as a thousand separator (except for years) and a comma as a decimal separator.
-10. Currencies
- • Place the currency sign after the figure, separated by a space.
- • Example: 80,99 €
-11. Time
- • Use the 24-hour clock system, separating hours and minutes with a colon (e.g., 23:20).
- • For durations, use the format: 5h 30min.
-12. Repetitions
- • Avoid unnecessary repetitions, as they are considered style errors in Italian.
- • Repetitions are acceptable in formal texts (terms, regulations, contracts, legal content).
- • Example of style error: Se sbadatamente utilizziamo eccessivamente degli avverbi di modo, rileggendo ci renderemo conto immediatamente che la frase non suona perfettamente! :)
- • Also avoid cacophonies and redundant sentences.
-13. Inclusive Language
- • Use neutral words and phrases to promote gender equality.
- • Avoid gendered pronouns and categorizations when possible.
- • Example: Clicca qui se sei interessato a questo volo. > Clicca qui se ti interessa questo volo.
-14. Call to Actions (CTAs)
- • CTAs must be clear and concise.
- • Place CTAs at the beginning of a sentence or highlight them for visibility.
-15. Translation Memory
- • Review translation memory suggestions critically; do not rely on them blindly.
- • Improve or correct past translations as needed.
-16. Use of Anglicisms
- • Avoid anglicisms if a widely accepted Italian equivalent exists.
-17. Addressing Users
- • Use the informal "tu" for all website content and communications, including those addressed to all users.
- • Use impersonal constructions only in terms, conditions, and policies.
+# Skyscanner Italian (IT) – LQA Calibration & Style Guide
 
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- **Catchy but polite**, **straightforward but not aggressive**
+- Focus on the **customer's perspective** — what they receive and experience
+- Use **informal "tu" form** for all direct communication with users
+- Informal yet **respectful**: avoid bureaucratic or overly formal language
+- Prioritize **clear, direct, and natural phrasing** that feels human and engaging
+- **Exception:** Legal content (terms, conditions, policies) uses impersonal construction
+- Prefer **active voice** — clearer and more direct than passive
+- Skyscanner = **Skyscanner** (keep in English)
+
+### 1.2. Punctuation
+| Mark | Usage |
+|------|-------|
+| Period (.) | End of sentences; always **outside** quotation marks |
+| Comma (,) | Between clauses; can replace hyphens |
+| Semicolon (;) | Only in long, complex sentences — prefer simplification |
+| Exclamation/Question mark | **Never more than one** |
+| Quotation marks (" ") | Double straight quotes; dialogue punctuation **inside**, period **outside** |
+| Apostrophe (') | Use **straight**, not curly; don't confuse with accent |
+| Ellipsis (…) | Use sparingly; capital after only if replaces end of sentence |
+| Parentheses () | Can replace hyphens; avoid in email subject lines |
+| Ampersand (&) | Only for company/brand names — otherwise use "e" |
+| Hyphen (-) | Replace with parentheses or commas |
+
+### 1.3. Capitalization
+- Use **sentence-style capitalization** (Italian standard)
+- **Days and months lowercase:** lunedì, gennaio, febbraio
+- **Exception:** Specific events/dates capitalized: il Venerdì santo, il Primo Maggio
+- Proper nouns capitalized as standard
+
+### 1.4. Numbers & Currencies
+- Write numbers as **numerals**, not words (for age, quantity, prices, discounts)
+- **Don't use "1"** to replace indefinite article "un/uno" in discursive text
+- **Thousand separator:** dot (1.000) — except for years
+- **Decimal separator:** comma (80,99)
+- **Currency format:** number + space + symbol: **80,99 €**
+
+### 1.5. Time & Duration
+- Use **24-hour clock system**
+- **Separator:** colon (23:20)
+- **Duration format:** 5h 30min
+
+### 1.6. Euphonic "d"
+- Use **only between identical vowels:** ad Atene, ed ecco, od oggi
+- **Established exceptions:** ad esempio, ad eccezione di
+- **Never use "od"** in written Italian (inappropriate for context)
+
+### 1.7. Gender & Inclusive Language
+- Use **gender-neutral words and phrases** when possible
+- **Avoid gendered pronouns** and categorizations when meaning is preserved
+- Restructure to avoid gender markers:
+  - ❌ "Clicca qui se sei interessato a questo volo"
+  - ✅ "Clicca qui se ti interessa questo volo"
+
+### 1.8. Placeholder Handling
+- **Never translate, edit, or delete placeholders**
+- Placeholders may change position within sentence
+- **Pay close attention to articles/prepositions** before placeholders
+- Add generic words to handle article agreement issues:
+  - ❌ "Promozione valida fino al {date}"
+  - ✅ "Promozione valida fino al giorno {date}"
+- Watch for spaces adjacent to placeholders
+
+### 1.9. Style & Expression
+- **Avoid repetitions** — considered style errors in Italian (unlike English)
+- **Avoid cacophonies** and redundant sentences
+- Repetitions allowed in formal/legal texts
+- **Avoid context-inappropriate metaphors:** no flight-related negative phrases
+  - ❌ "Sconti in picchiata" / "Prezzi in caduta libera"
+- **Avoid regional and slang expressions**
+- **Avoid anglicisms** if widespread Italian equivalent exists
+
+### 1.10. Call to Actions (CTAs)
+- Must be **clear and concise**
+- **Place at beginning** of sentence or highlight
+- Use **imperative form** for engaging actions: "Scopri ora", "Prenota subito"
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Placeholder & Article Handling Tolerance
+
+Italian articles must agree with the following word, making placeholder handling challenging. **Accept creative workarounds.**
+
+#### 2.1.1. Acceptable Workarounds for Placeholders
+
+| Source | Acceptable Italian Approaches |
+|--------|------------------------------|
+| `Valid until {date}` | `Valida fino al giorno {date}` OR `Valida fino a: {date}` |
+| `Flights to {city}` | `Voli per la città di {city}` OR `Voli verso {city}` |
+| `{number} results found` | `Risultati trovati: {number}` OR `Numero di risultati: {number}` |
+| `Welcome, {username}!` | `Ciao {username}!` OR `Benvenuto/a, {username}!` |
+| `Departing from {airport}` | `Partenza da: {airport}` OR `Partenza dall'aeroporto di {airport}` |
+
+**Do NOT flag** if the translator:
+- Adds generic nouns (giorno, città, aeroporto) to handle article agreement
+- Uses colon structure to avoid article issues
+- Restructures to place placeholder after preposition that works universally
+- Changes word order to accommodate placeholder position
+
+#### 2.1.2. Do NOT Flag as "Grammar Error"
+- Creative restructuring to handle article/preposition agreement
+- Addition of generic nouns before placeholders
+- Use of colon or "di" structures
+
+**Only flag** if the structure would be **grammatically incorrect with plausible placeholder values**.
+
+---
+
+### 2.2. Gender Agreement Tolerance
+
+Gender agreement with unknown placeholder content is inherently challenging.
+
+#### 2.2.1. Acceptable Gender Strategies
+
+| Strategy | Example |
+|----------|---------|
+| Dual gender markers | Benvenuto/a, interessato/a |
+| Gender-neutral restructuring | "se ti interessa" instead of "se sei interessato/a" |
+| Impersonal constructions | Using impersonal "si" forms |
+| Omitting gendered elements | When meaning is preserved |
+
+**Do NOT flag:**
+- Use of slash for dual gender (o/a endings)
+- Restructuring that avoids the need for gender agreement
+- Impersonal constructions used to avoid gender markers
+- Masculine default when gender-neutral options would be awkward
+
+**Only flag** if gender is **explicitly specified** in context and translation contradicts it.
+
+---
+
+### 2.3. Meaning-Based Translation Tolerance
+
+The Style Guide explicitly encourages natural Italian that captures attention. **Accept creative, non-literal translation.**
+
+#### 2.3.1. Do NOT Flag as "Mistranslation"
+- Restructured sentences that preserve meaning but differ in structure
+- Active voice replacing passive (preferred by Style Guide)
+- Idiomatic Italian expressions replacing English idioms
+- Synonyms used to avoid repetition (required by Style Guide)
+- Simplified sentences replacing complex semicolon-heavy structures
+
+#### 2.3.2. Do NOT Flag as "Omission/Addition"
+- Articles, pronouns, or connectors adjusted for Italian flow
+- Addition of generic nouns for placeholder handling
+- Omission of repetitive elements that would sound unnatural in Italian
+- Omission of "please" when informal "tu" form is used
+- CTAs repositioned to beginning of sentence (as recommended)
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.4. Punctuation & Formatting Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Hyphens replaced by commas or parentheses (preferred in Italian)
+- Ampersand replaced by "e" (required unless brand name)
+- Semicolon replaced by period with sentence simplification
+- Reduced exclamation marks (single instead of multiple)
+- Period placement outside quotation marks (Italian standard)
+- Ellipsis usage variations within acceptable range
+
+#### 2.4.2. Only Flag If
+- Multiple exclamation or question marks used
+- Accent confused with apostrophe (or vice versa)
+- Curly apostrophe used instead of straight
+- Punctuation creates meaning confusion
+- Question mark missing from questions
+
+---
+
+### 2.5. Capitalization Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Sentence-style capitalization where source uses title-style
+- Days of week in lowercase (lunedì, martedì)
+- Month names in lowercase (gennaio, febbraio)
+- Different capitalization choices within Italian norms
+
+#### 2.5.2. Only Flag If
+- Proper nouns not capitalized
+- Specific event/date names not capitalized (Venerdì santo, Primo Maggio)
+- Lowercase at sentence start
+
+---
+
+### 2.6. Euphonic "d" Tolerance
+
+#### 2.6.1. Do NOT Flag
+- Euphonic "d" used between identical vowels (ad Atene, ed ecco)
+- Established phrases with euphonic "d" (ad esempio, ad eccezione di)
+- Euphonic "d" omitted in non-standard combinations (e Alberto, a Udine)
+- Minor variations in euphonic "d" usage within acceptable range
+
+#### 2.6.2. Only Flag If
+- "od" used (inappropriate in written Italian)
+- Euphonic "d" clearly misused creating awkward phrasing
+- Absence creates pronunciation difficulty with identical vowels
+
+---
+
+### 2.7. Number & Currency Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Numbers written as numerals (preferred)
+- Dot used as thousand separator
+- Comma used as decimal separator
+- Currency symbol after number with space (80,99 €)
+- 24-hour time format with colon
+
+#### 2.7.2. Only Flag If
+- Thousand separator incorrect (comma instead of dot)
+- Decimal separator incorrect (dot instead of comma)
+- "1" used instead of "un/uno" article in discursive text
+- Currency format inverted (€80,99 instead of 80,99 €)
+
+---
+
+### 2.8. Terminology & Synonym Tolerance
+
+| English | Acceptable Italian Options |
+|---------|---------------------------|
+| Flight | volo, voli |
+| Book | prenota, effettua una prenotazione, riserva |
+| Search | cerca, ricerca, trova |
+| Deal/Offer | offerta, promozione, occasione |
+| Trip | viaggio, vacanza |
+| Hotel | hotel, albergo, struttura |
+| Discover | scopri, esplora |
+| View | visualizza, vedi, guarda |
+| Save | risparmia (money), salva (data) |
+
+**Do NOT flag** reasonable synonym choices — the Style Guide **requires** synonym variety to avoid repetitions.
+
+---
+
+### 2.9. Repetition & Style Tolerance
+
+#### 2.9.1. Do NOT Flag
+- Synonyms used to replace repeated words (required by Style Guide)
+- Sentence restructuring to avoid cacophony
+- Condensed phrasing that eliminates redundancy
+- Different word choices across similar segments
+
+#### 2.9.2. Only Flag If
+- Synonym changes core meaning
+- Excessive repetition in non-legal content
+- Cacophonous combinations that impede readability
+
+---
+
+### 2.10. Register & Formality Tolerance
+
+#### 2.10.1. Do NOT Flag
+- Informal "tu" form in user-facing content
+- Direct, conversational phrasing
+- Imperatives for CTAs (Scopri, Prenota, Cerca)
+- Impersonal construction in legal content
+- Omission of overly formal expressions
+
+#### 2.10.2. Only Flag If
+- Formal "Lei" used in non-legal user content
+- Informal "tu" used in legal terms/conditions
+- Register inconsistent within same text
+- Slang or regional expressions used
+
+---
+
+### 2.11. Anglicism Tolerance
+
+#### 2.11.1. Do NOT Flag
+- Anglicisms with no widespread Italian equivalent
+- Technical terms commonly used in English (check-in for flights, email)
+- Brand/product names in English
+- Industry-standard English terms
+
+#### 2.11.2. Only Flag If
+- Anglicism used when widespread Italian equivalent exists and is appropriate
+- Anglicism creates comprehension issues for general audience
+- Inconsistent use (switching between English and Italian for same term)
+
+---
+
+### 2.12. Space Constraint Tolerance
+
+Italian translations may need condensing for UI elements. **Accept economical renditions when space is limited.**
+
+#### 2.12.1. Do NOT Flag
+- Shorter synonyms used when space is limited
+- Contextually obvious words omitted
+- Abbreviated forms when character limits apply
+- Condensed phrasing that preserves meaning
+
+**Only flag** if omission causes confusion or meaning loss.
+
+---
+
+### 2.13. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong language |
+| **Major** | Core meaning changed, factual errors, grammatical errors that impede understanding, inappropriate register in legal content |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range, euphonic "d" variations |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.12 |
+
+---
+
+### 2.14. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **creative restructuring** to handle Italian grammar constraints (articles, gender, placeholders)?
+2. ☐ Would the translation work with **plausible placeholder values**?
+3. ☐ Is the **core meaning preserved** despite structural changes?
+4. ☐ Does the Style Guide **explicitly prohibit** this choice?
+5. ☐ Would a native Italian speaker find this **incorrect** (not just different)?
+6. ☐ Is a **synonym used to avoid repetition** (as required by Style Guide)?
+7. ☐ Is the **register appropriate** for the content type (informal for user content, impersonal for legal)?
+8. ☐ Are punctuation choices **within Italian norms** (not English norms)?
+
+**If meaning is preserved AND the structure handles Italian language requirements → DO NOT FLAG**

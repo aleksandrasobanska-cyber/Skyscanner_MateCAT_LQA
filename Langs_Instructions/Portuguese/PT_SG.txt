@@ -1,0 +1,348 @@
+# Skyscanner Portuguese Portugal (PT-PT) – LQA Calibration & Style Guide
+
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- **Creative license:** Feel free to transcreate and modify wording when necessary
+- **Do not follow English word for word** if it doesn't feel natural in Portuguese
+- Message should **sound as if written directly in Portuguese**
+- Portuguese tends to be **slightly more formal** than English
+- Focus on making content **natural and relatable** to Portuguese users
+- Skyscanner = **Skyscanner** (keep in English)
+
+### 1.2. Spelling
+- Follow **AO90** (Acordo Ortográfico de 1990 / New Portuguese Spelling Agreement)
+- For words with double spelling, use the new form **except:**
+  - Espectador
+  - Expectativa
+
+### 1.3. Punctuation
+| Mark | Usage |
+|------|-------|
+| Period (.) | End of sentences; placed **OUTSIDE** quotation marks (unless actual quote) |
+| Comma (,) | Between clauses; decimal separator; placed **OUTSIDE** quotation marks |
+| Hyphen (-) | Compound words, ranges of spans — **no spaces** |
+| En dash (–) | Syntactic structures — **with space before and after** |
+| Exclamation mark (!) | Use sparingly — Portuguese is more formal, evaluate if needed |
+| Quotation marks | Double (") for initial, single (') for nested quotes |
+
+**Important:** Do NOT blindly follow English punctuation! Don't use hyphen instead of dash.
+
+### 1.4. Exclamation Marks
+- Use **best judgment** to decide if sentence needs exclamation in Portuguese
+- Exclamation can make message seem **forced or ditzy**
+- Without exclamation, message can seem **too harsh or serious**
+- **Portuguese is more formal** — source exclamation doesn't mean target needs one
+- Goal: **natural and relatable** to Portuguese users
+
+### 1.5. Quotation Marks
+- **Double quotes (")** for initial quotations
+- **Single quotes (')** for quotations within quotations
+- **Commas and periods OUTSIDE** quotation marks (unless actual direct quote)
+
+Example:
+> "Os sistemas económicos", segundo o Professor White, "são uma consequência inevitável da civilização".
+
+### 1.6. Spaces
+- **Non-breaking space** between number and unit of measure: `100 km`, `5 kg`
+- **Exception:** NO space between number and percentage symbol: `5%`
+
+### 1.7. Capitalization
+- **Sentence case only** — capitalize first letter of sentence and proper nouns
+- Apply sentence case for **titles, subheadings, UI items, buttons, labels**
+- Do NOT use title case (English style)
+
+### 1.8. Gender Handling
+- Use **gender-neutral or gender-inclusive language** when possible
+- If not possible, use **masculine form** as default
+- **Restructure sentences** to avoid gendered adjectives when possible:
+  - ❌ "Se está inseguro em relação a viajar..."
+  - ✅ "Se não se sente à vontade para viajar..."
+
+### 1.9. Numbers & Formatting
+
+| Element | Format | Example |
+|---------|--------|---------|
+| Decimal separator | Comma | 3,5 |
+| Thousand separator (≥10,000) | Space | 1 234 567 |
+| Numbers below 9,999 | No separator | 1234 |
+| "Thousand" abbreviation | mil (NOT K) | 2 mil, 70 mil |
+| "Million" abbreviation | milhões (NOT M) | 8 milhões |
+
+### 1.10. Dates & Time
+| US Format | PT-PT Format |
+|-----------|--------------|
+| 04.15.2018 | 15-04-2018 |
+| Apr 15, 2018 | 15 de abril de 2018 |
+| 4 p.m. | 16:00 |
+| 5.30 AM | 05:30 |
+
+- Use **24-hour format** for time
+- Date ranges: use "a" — `15 a 20 de maio` (NOT dash)
+
+### 1.11. Currencies
+| US Format | PT-PT Format |
+|-----------|--------------|
+| 123.45 € | 123,45 € |
+| 12,345.00 Euro | 12 345,00 EUR |
+| $150 | 150 $ |
+| 250 Dollars | 250 dólares |
+
+- **Currency symbol after number** with space: `123,45 €`
+- If source has both symbol and code ($123.45 USD), use **code only**
+
+### 1.12. Units of Measure
+- **Space between number and unit:** 12 mm, 5 kg, 25 cm, 10 °C
+- **Keep same measurement unit** as source (don't convert imperial to metric unless instructed)
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Transcreation & Natural Portuguese Tolerance
+
+The Style Guide explicitly grants **creative license** to transcreate. **Accept significant restructuring that sounds natural in Portuguese.**
+
+#### 2.1.1. Acceptable Transcreation Approaches
+
+| Source | Acceptable Portuguese Approaches |
+|--------|------------------------------|
+| `If you're insecure about travelling...` | `Se não se sente à vontade para viajar...` (restructured to avoid gendered adjective) |
+| `Check out our latest deals!` | `Veja as nossas últimas ofertas.` (exclamation removed — more formal) |
+| `We've got you covered` | `Estamos aqui para ajudar` OR `Conte connosco` |
+| `Book now and save big!` | `Reserve já e poupe.` (toned down) |
+| `Oops! Something went wrong` | `Ocorreu um erro` OR `Algo correu mal` |
+
+**Do NOT flag** if the translator:
+- Restructures sentences to sound natural in Portuguese
+- Removes exclamation marks for more formal tone
+- Uses idiomatic Portuguese expressions
+- Changes sentence structure while preserving meaning
+- Tones down overly enthusiastic English phrasing
+
+#### 2.1.2. Do NOT Flag as "Mistranslation"
+- Creative adaptations that preserve core meaning
+- Restructured sentences using natural Portuguese word order
+- Formal tone where English was informal
+- Idiomatic Portuguese replacing English expressions
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.2. Gender Handling Tolerance
+
+Portuguese requires gender agreement. **Accept strategies to handle gender-neutral English.**
+
+#### 2.2.1. Acceptable Gender Strategies
+
+| Strategy | Example |
+|----------|---------|
+| Restructure to avoid gender | "Se não se sente à vontade" instead of "Se está inseguro/a" |
+| Masculine as default | When gender-neutral is impossible |
+| Gender-inclusive phrasing | Using neutral nouns or passive constructions |
+
+**Do NOT flag:**
+- Masculine form used when gender-neutral impossible
+- Sentence restructuring to avoid gendered adjectives
+- Gender-neutral alternatives that preserve meaning
+
+**Only flag** if gender choice creates confusion or is explicitly wrong for context.
+
+---
+
+### 2.3. Punctuation Tolerance
+
+Portuguese punctuation rules differ from English. **Accept Portuguese-standard punctuation.**
+
+#### 2.3.1. Do NOT Flag
+- Exclamation marks removed or reduced (Portuguese is more formal)
+- Periods/commas placed OUTSIDE quotation marks (PT-PT standard)
+- En dash with spaces replacing hyphen for syntactic structures
+- Punctuation adjusted for natural Portuguese flow
+
+#### 2.3.2. Only Flag If
+- Hyphen used instead of en dash for syntactic structures
+- Question mark missing from questions
+- Punctuation creates meaning confusion
+- Quotation marks missing or clearly incorrect
+
+---
+
+### 2.4. Number & Currency Format Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Decimal comma (3,5) instead of decimal point
+- Space as thousand separator for large numbers (1 234 567)
+- No thousand separator for numbers below 9,999 (1234)
+- "mil" and "milhões" instead of K/M abbreviations
+- Currency symbol after number with space (123,45 €)
+- Currency code used instead of symbol+code combination
+
+#### 2.4.2. Only Flag If
+- Decimal point used instead of comma
+- Comma used as thousand separator (English format)
+- K/M abbreviations used instead of Portuguese equivalents
+- Number format creates confusion
+
+---
+
+### 2.5. Date & Time Format Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Day-month-year format (15 de abril de 2018)
+- 24-hour time format (16:00 instead of 4 p.m.)
+- Date ranges with "a" (15 a 20 de maio)
+- Portuguese month names in lowercase
+
+#### 2.5.2. Only Flag If
+- Month-day-year format (American style) used
+- Date format creates confusion
+- Time format inconsistent within same text
+
+---
+
+### 2.6. Capitalization Tolerance
+
+#### 2.6.1. Do NOT Flag
+- Sentence case where source uses title case
+- Lowercase for titles, subheadings, buttons, labels (except first word)
+- UI elements following sentence case rule
+
+#### 2.6.2. Only Flag If
+- Proper nouns not capitalized
+- Sentence doesn't start with capital letter
+- Inconsistent capitalization within same text
+
+---
+
+### 2.7. Spelling (AO90) Tolerance
+
+#### 2.7.1. Do NOT Flag
+- New spelling forms per AO90
+- "Espectador" and "Expectativa" (documented exceptions)
+- Valid AO90 spelling variations
+
+#### 2.7.2. Only Flag If
+- Pre-AO90 spelling used (unless documented exception)
+- Clear spelling errors
+- Inconsistent spelling of same word
+
+---
+
+### 2.8. Space Usage Tolerance
+
+#### 2.8.1. Do NOT Flag
+- Non-breaking space between number and unit (100 km)
+- No space between number and percentage (5%)
+- Space between number and currency symbol (123,45 €)
+- Non-breaking spaces used appropriately
+
+#### 2.8.2. Only Flag If
+- Space missing between number and unit of measure
+- Space incorrectly added between number and percentage
+- Spacing creates confusion or readability issues
+
+---
+
+### 2.9. Terminology & Synonym Tolerance
+
+| English | Acceptable Portuguese Options |
+|---------|------------------------------|
+| Flight | voo, voos |
+| Book | reserve, faça a reserva |
+| Search | pesquise, procure |
+| Deal/Offer | oferta, promoção |
+| Trip | viagem |
+| Hotel | hotel, alojamento |
+| Discover | descubra, explore |
+| View | veja, consulte |
+| Save | poupe (money), guarde (data) |
+| Check out | veja, consulte, conheça |
+
+**Do NOT flag** reasonable synonym choices unless they change meaning.
+
+---
+
+### 2.10. Formality Tolerance
+
+#### 2.10.1. Do NOT Flag
+- More formal tone than English source
+- Reduced enthusiasm/exclamations
+- Professional phrasing replacing casual English
+- Direct, clear communication
+
+#### 2.10.2. Only Flag If
+- Tone is inappropriate for context
+- Register inconsistent within same text
+- Overly formal in clearly casual context
+
+---
+
+### 2.11. Placeholder Handling Tolerance
+
+#### 2.11.1. Acceptable Workarounds for Placeholders
+
+| Source | Acceptable Portuguese Approaches |
+|--------|------------------------------|
+| `Flights to {city}` | `Voos para {city}` OR `Voos com destino a {city}` |
+| `{number} results` | `{number} resultados` OR `Resultados: {number}` |
+| `Welcome, {name}!` | `Bem-vindo/a, {name}!` OR `Olá, {name}!` |
+
+**Do NOT flag:**
+- Restructuring to accommodate placeholders
+- Articles adjusted for placeholder context
+- Prepositions adapted for Portuguese syntax
+
+**Only flag** if placeholders are corrupted, deleted, or sentence is grammatically incorrect.
+
+---
+
+### 2.12. Meaning-Based Translation Tolerance
+
+#### 2.12.1. Do NOT Flag as "Omission/Addition"
+- Words adjusted for natural Portuguese expression
+- Gendered elements restructured for neutrality
+- Exclamations toned down
+- Implied elements when clear from context
+
+#### 2.12.2. Do NOT Flag as "Mistranslation"
+- Idiomatic Portuguese expressions
+- Cultural adaptations
+- Restructured sentences preserving meaning
+- Formal equivalents of casual English
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.13. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong language |
+| **Major** | Core meaning changed, factual errors, grammatical errors that impede understanding |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range, punctuation variations |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.12 |
+
+---
+
+### 2.14. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **transcreation** using the creative license granted by the Style Guide?
+2. ☐ Is the **core meaning preserved** despite structural changes?
+3. ☐ Is the **punctuation following Portuguese rules** (not English rules)?
+4. ☐ Is the **number/currency format** following PT-PT conventions?
+5. ☐ Is a **gender-neutral restructuring** avoiding gendered adjectives?
+6. ☐ Is the **more formal tone** appropriate for Portuguese audience?
+7. ☐ Is the **exclamation mark removal** making the text more natural?
+8. ☐ Does the Style Guide **explicitly prohibit** this choice?
+9. ☐ Would a native Portuguese (Portugal) speaker find this **incorrect** (not just different)?
+
+**If meaning is preserved AND the translation follows Portuguese (Portugal) conventions → DO NOT FLAG**

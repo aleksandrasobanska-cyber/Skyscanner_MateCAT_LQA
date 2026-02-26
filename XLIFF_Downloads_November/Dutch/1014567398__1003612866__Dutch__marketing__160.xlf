@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Template.xlsx" source-language="en-GB" target-language="nl-NL" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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
+3xMBVdOqmrkYTdVOZ65dMIkVbCPbhPTbj7HNCe+714KluUnCwznr3Th7PSLkZ/vFH369fPfsl/Ob24vrq5cn47vTk2fnV6+v31xc/fjy5B///Zff98mz27uzqzdn766vzl+e/Ov89uQPr/7txcfrm59v
+fzo/v3t2H3B1+/Lkp7u7998/f377+qfzy7Pb767fn1/d/8zb65vLs7v7H978+Pz2/c352ZuHN12+ez5PT/P55dnF1cljwvc3Ssb127cXr8//fP36w+X51d1jyM35u7O7++Pf/nTx/vZz2uWvS9zlxeub
+69vrt3ffvb6+fEq6P8Hr5+e/vj5/OFBvDnT5WjnR5dnNzx/e//4+8v39Kf558e7i7l8P5zrG/PLy5MPN1fdPGb8/HuPTe76/f/73v1y++/ziX4dr514+mIfnh83pfx3x/0sap8/H2EX52fqx0I919vqY
+dKnFHP+NPF2RVy8eIv968+rF9Ye7dxdX53+9eXb74fL+g/+vH87fXX98eXJ/cZ8Gf7v48ae7T4Pnr168P/vx/O/nd/94/9eb+x89P6Y8/MP/XJx/vP3in599utT/vL7++dMP/uPNU8Tz5bV/efjXf3+C
+1x9u764v//388YHj5Nmb87dnH97d/en63f9evLn76X42v0s7zv92/fH44vjuIf319bvbh78+hX1+38mzy4urx7+f/frw94+PP2P2KfH5V94zn94zf3vP6XfWX32PPb3Hju+ZfTwgfos/vSWPb3n8xX76
+kD3+qh4+WH8+uzt79eLm+uOzm4f3Pv3iK06WD9/9wz696I/3r7p9eO399PZ++sur0xfPf/kU+/SKHx5fMb94xdi+4k+Pr7AvXjGPr3h+f5rjkaZ0pPkQ51/E2e5Ij6+Ix587/W534j89/nR+EeD4PCad
+x5bzxO489vXz2HKexOdx6Ty+nKd25/Gvn8eX8zQ+T0jnieU8h9154uvnieU84xQfKKUD5XKgsbuyP+TXT5TriciVLulEtZ5of6fr6yeq9UTkUrd0ol5PtL/V/fUT9Xoicq0P0okO64n29/rw9RMd1hOR
+iz1OteV4up5pf7efXkMP9fTzX55qkts9xJU9llPN/f1+eg0/1VhPRW740Lb2WNf23N/x8Y3FPdbNPcktH9ruHuvynvt7Pr6xvse6vye56UPb4GNd4XN/18c3lvhYt/hkt13b42Nd5HO57d9Y5WPd5cZu
+u7bMx7rNbbnt31jnY93nxm67ttDHutFtue1frvQDONW6043ddm2pj3Wr23Lb+xunWve6sduuLfaxbnZbbvvhG6dad7uR2z613T7X3W772z5Pv36que52J7d9art9rrvd97d9jm+cat3tzn5DLv6OfN3t
+vvyefH7jVOB35eS2T223z3W3+/62T/vGqdbd7uS2T223z3W3+/62T//Gqdbd7uy2a7t9rrvdl9se3zjVutuD3XZtt891t8dy2x9fU0+dX0/1+PP9ZQa77dpun497+fDwX+SPZ/i8yZ8fn/o4GY9/arF5
+iLaq5+Oavf992G9PeRrNLx7T9DHa7p2fd+9vT3mcDPviKU8jX55i2i61xz04fvsA/fB59MVjPo9yfYy2HG2sjxnrYwZ9jLbtbK6PmetjJn2M+McKtj7G1scYfYy2j8zXx/j6GKeP0RaMxfqYWB8T9DHa
+xrBcH5PrY5I+RlsBVutjan1M0cdoS8B6fUyvj2n6GG0J2GF9zLoFPo/Wx7i2BXzdAr5uAadbwLUt4OsW8HULON0Crm0BX7eAr1vA6RZwbQv4ugV83QJOt4CLf2a4bgFft4DTLeDaFvB1C/i6BZxuAde2
+gK9bwNct4HQLuLYFfN0Cvm4Bp1vAtS3g6xbwdQs43QKubQFft4CvW8DpFghtC8S6BWLdAkG3QGhbINYtEOsWCLoFQtsCsW6BWLdA0C0Q2haIdQvEugWCboHQtkCsWyDWLRB0C4T4PwTWLRDrFgi6BULb
+ArFugVi3QNAtENoWiKd+1xeP+XILbDO1ykevmU0ztX7HYc08sMzUypynS2ae0kytuTnWzEEztZrmXDMnzdQ6mbZmGs3UCpi+ZjrN1NqWsWYGzRT/D1qumUkztR7l2qOkPUqtR7n2KGmPUutRrj1K2qPS
+elRrj4r2qLQe1dqjoj0qrUe19qhoj0rrUa09Ktqj0npUa4+K9qi0HtXao6I9Kq1HtfaoaI9K/H/Ja4+K9qi0HtXao6I9Kq1HtfaoaI9a61GvPWrao9Z61GuPmvaotR712qOmPWqtR732qGmPWutRrz1q
+2qPWetRrj5r2qLUe9dqjpj1qrUe99qhpj1pUFWuPmvaotR712qOmPTpoPTqsPTrQHh20Hh3WHh1ojw5ajw5rjw60RwetR4e1Rwfao4PWo8PaowPt0UHr0WHt0YH26KD16LD26EB7dNB6dFh7dKA9Omg9
+Oqw9OtAeHURftPboQHs0TlUhtDbpOEOxIvE5Xct0nKFY0eicrn06zlCsiGxO10odZyhWVDKna6uOMxQrMpfTtVjHGYoVncrp2q3jDMWK0OR0rddxhmJFKXK6Nuw4Q7Ei9ThdS3acgVjV4Q3QssFbJkM6
+0LLBW6ZKuAFaNnjLVMo2QMsGb5lq0QZo2eAtUzHZAC0bvGWqBhugZYO3TOVcA7Rs8JapHmuAlg3eMhVUDdCywVsmiqgxQcsmb5lImsYELZu8ZaJJGhO0bPKWiahoTNCyyVsmqqAxQcsmb5nIesYELZu8
+ZaLLGRO0bPKWibBmTNCyyVsmUpoxQcsmb5lIZ8YELZu8ZaKVGQZaZrxloo0ZBlpmvGWihRkGWma8ZaJ9GQZaZrxlonUZBlpmvGWibRkGWma8ZaJlGQZaZrxlol0ZBlpmvGWiVRkGWma8ZaJNGQZaZrxl
+okUZDlrmvGWiPRkOWua8ZaI1GQ5a5rxloi0ZDlrmvGWiJRkOWua8ZaIdGQ5a5rxlohUZDlrmvGWiDRkOWua8ZaIFGQ5a5rxlov0YDlrmvGWi9RgBWha8ZaLtGAFaFrxlouUYAVoWvGWi3RgBWha8ZaLV
+GAFaFrxlos0YAVq2me1ixZYFaNlmtosVWwbwxXa2ixVbBvzFdraLFVsGCMZ2to0VEcYACmM728WKLQMQYzvbxYotAxZjO9vFii0DHGM728WKLQMiYzvbxYotAyhjO9vFqp8LB1qWvGWizBiAZmxnu1ix
+ZUBnbGe7WLFlAGhsZ9tYkWgMYDS2s12s2DLANLazXazYMiA1trNdrNgygDW2s12s2DLgNbazXazYMkA2trNdrNgyoDa2s12s+imjoGXFWybSjQHsxna2ixVbBvjGdraNFQHHAIJjO9vFii0DiGM728WK
+LQOOYzvbxYotA5RjO9vFii0DmmM728WKLQOgYzvbxYotA6ZjO9vFii0DrGM728Wqn1kNWta8ZaLtGAB3bGfbWJF3DOA7trNdrNgyQDy2s12s2DKgPLazXazYMgA9trNdrNgyYD22s12s2DLAPbazXazY
+MiA+trNdrNgygD62s12s2DLgPrazXaz6BQhAyw60ZVO0HxPYj+1sFyt+CQBgP7azXaz4OfzAfmxnu1jxk/CB/djOdrHiZ9ED+7Gd7WK1lk1gP7azXaz4eezAfmxnu1jxE9GB/djOdrHip54D+7Gd7WLF
+TzUH9mM728aK9mMC+7Gd7WLVL7QBWjZ4y0T7MYH92M52sWLLgP3YznaxYsuA/djOdrFiy4D92M52sWLLgP3YznaxYssGaNngLRPtxwT2YzvbxYotA/ZjO9vGql8NB9iP7WwXK7YM2I/tbBerfj0a0LLJ
+W6Z+QRlgP7azXazYMmA/trNdrNgyYD+2s12s2DJgP7azXazYMmA/trNdrNgyYD+2s12s2DJgP7azbaxoPyawH9vZLlZsGbAf29kuVmwZsB/b2S5W/bJNoGXGWybajwnsx3a2ixVbBuzHdraLFVsG7Md2
+tosVWwbsx3a2ixVbBuzHdraLFVsG7Md2to0V7ccE9mM728WKLQP2YzvbxYotA/ZjO9vFii0D9mM728WqX90MtMx5y0T7MYH92M52sWLLgP3YznaxYsuA/djOdrFiy4D92M52sWLLgP3Yzraxov2YwH5s
+Z7tYsWXAfmxnu1ixZcB+bGe7WLFlwH5sZ7tYsWXAfmxnu1ixZcB+TG4/pmg/JrAfk9uPKdqPCezH5PZjivZjAvsxuf2Yov2YwH5Mbj+maD8msB+T248p2o8J7Mfk9mOK9mMC+zG5/Zii/ZjAfkxuP6Zo
+PyawH5Pbjynajwnsx+T2Y4r2YwL7Mbn9mKL9mMB+TG4/pmg/JrAfk9uPKdqPCezH5PZjivZjAvsxuf2Yov2YwH5Mbj+maD8msB+T248p2o8J7Mfk9mOK9mMC+zG5/Zii/ZjAfmxnu1ixZcB+TG4/pmg/
+JrAfk9uPKdqPCezH5PZjivZjAvsxuf2Yov2YwH5Mbj+maD8msB+T248p2o8J7Mfk9mOK9mMC+zG5/Zii/ZjAfkxuP6ZoPyawH5Pbjynajwnsx+T2Y4r2YwL7Mbn9mKL9mMB+TG4/pmg/JrAfk9uPKdqP
+CezH5PZjivZjAvsxuf2Yov2YwH5Mbj+maD8msB+T248p2o8J7Mfk9mOK9mMC+zG5/Zii/ZjAfkxuP6ZoPyawH5Pbjynajwnsx+T2Y4r2YwL7Mbn9MNF+GLAfxu2HifbDgP0wbj9MtB8G7Idx+2Gi/TBg
+P4zbDxPthwH7Ydx+mGg/DNgP4/bDRPthwH4Ytx8m2g8D9sO4/TDRfhiwH8bth4n2w4D9MG4/TLQfBuyHcfthov0wYD+M2w8T7YcB+2HcfphoPwzYD+P2w0T7YcB+GLcfJtoPA/bDuP0w0X4YsB/G7YcN
+sWUDtGzwlon2w4D9MG4/TLQfBuyHcfthov0wYD+M2w8T7YcB+2HcfphoPwzYD+P2w0T7YcB+GLcfJtoPA/bDuP0w0X4YsB/G7YeJ9sOA/TBuP0y0Hwbsh3H7YaL9MGA/jNsPE+2HAfth3H6Y+j1ygP0w
+bj9M/Z44wH4Ytx+mfg8cYD+M2w+Tv+cNaBm3H6Z+jxtgP4zbD1O/pw2wH8bth6nfwwbYD+P2w9TvWQPsh3H7Yer3qAH2w7j9MPV70gD7Ydx+mGg/DNgP4/bDRPthwH4Ytx8m2g8D9sO4/TDRfhiwH8bt
+h4n2w4D9MG4/TLQfBuyHcfthov0wYD+M2w8T7YcB+2HcfphoPwzYD+P2w0T7YcB+GLcfJtoPA/bDuP0w0X4YsB/G7YeJ9sOA/TBuP0y0Hwbsh3H7YaL9MGA/jNsPE+2HAfth3H6YaD8M2A/j9sNE+2HA
+fhi3HybaDwP2w7j9MNF+GLAfxu2HifbDgP0wbj9MtB8G7Idx+2Gi/TBgP4zbDxPthwH7Ydx+mGg/DNgP4/bDRPthwH4Ytx8m2g8D9sO4/TDRfhiwH8bth4n2w4D9MG4/TLQfBuyHcfthov0wYD+M2w8T
+7YcB+2HcfphoPwzYD+P2w0T7YcB+GLcfJtoPA/bDuP0w0X4YsB/b2S5WbBmwH8bth4n2w4D9MG4/TLQfBuyHcfthov0wYD+M2w8T7YcB+2HcfphoPwzYD+P2w0T7YcB+GLcfJtoPA/bDuP0w0X4YsB/G
+7YeJ9sOA/TBuP0y0Hwbsh3H7YaL9MGA/jNsPE+2HAfth3H6YaD8M2A/j9sNE+2HAfhi3HybaDwP2w7j9MNF+GLAfxu2HifbDgP0wbj9MtB8G7Idx+2Gi/TBgP4zbDxPthwH7Ydx+mGg/DNgP4/bDRPth
+wH4Ytx8m2g8D9sO4/XDRfjiwH87th4v2w4H9cG4/XLQfDuyHc/vhov1wYD+c2w8X7YcD++HcfrhoPxzYD+f2w0X74cB+OLcfLtoPB/bDuf1w0X44sB/O7YeL9sOB/XBuP1y0Hw7sh3P74aL9cGA/nNsP
+F+2HA/vh3H64aD8c2A/n9sNF++HAfji3Hy7aDwf2w7n9cNF+OLAfzu2HD7FlA7Rs8JaJ9sOB/XBuP1y0Hw7sh3P74aL9cGA/nNsPF+2HA/vh3H64aD8c2A/n9sNF++HAfji3Hy7aDwf2w7n9cNF+OLAf
+zu2Hi/bDgf1wbj9ctB8O7Idz++Gi/XBgP5zbDxfthwP74dx+uGg/HNgP5/bDRfvhwH44tx8u2g8H9sO5/XDRfjiwH87th4v2w4H9cG4/XLQfDuyHc/vhov1wYD+c2w8X7YcD++HcfrhoPxzYD+f2w0X7
+4cB+OLcfLtoPB/bDuf1w0X44sB/O7YeL9sOB/XBuP1y0Hw7sh3P74aL9cGA/nNsPF+2HA/vh3H64aD8c2A/n9sNF++HAfji3Hy7aDwf2w7n9cNF+OLAfzu2Hi/bDgf1wbj9ctB8O7Idz++Gi/XBgP5zb
+DxfthwP74dx+uGg/HNgP5/bDRfvhwH44tx8u2g8H9sO5/XDRfjiwH87th4v2w4H9cG4/XLQfDuyHc/vhov1wYD+c2w8X7YcD++HcfrhoPxzYD+f2w0X74cB+OLcfLtoPB/bDuf1w0X44sB/O7YeL9sOB
+/XBuP1y0Hw7sh3P74aL9cGA/nNsPF+2HA/vh3H64aD8c2A/n9sNF++HAfji3Hy7aDwf2w7n9cNF+OLAfzu2Hi/bDgf1wbj9ctB8O7Md2tosVWwbsh3P74aL9cGA/nNsPF+2HA/vh3H64aD8c2A/n9sNF
+++HAfji3Hy7aDwf2w7n9cNF+OLAfzu2Hi/bDgf1wbj9ctB8O7Idz++Gi/XBgP5zbDxfthwP74dx+uGg/HNgP5/bDRfvhwH44tx8u2g8H9sO5/XDRfjiwH87th4v2w4H9cG4/XLQfDuyHc/vhov1wYD+c
+2w8X7YcD++HcfrhoPxzYD+f2w0X74cB+OLcfLtoPB/bDuf1w0X44sB/O7YeL9sOB/XBuP0K0HwHsR3D7EaL9CGA/gtuPEO1HAPsR3H6EaD8C2I/g9iNE+xHAfgS3HyHajwD2I7j9CNF+BLAfwe1HiPYj
+gP0Ibj9CtB8B7Edw+xGi/QhgP4LbjxDtRwD7Edx+hGg/AtiP4PYjRPsRwH4Etx8h2o8A9iO4/QjRfgSwH8HtR4j2I4D9CG4/QrQfAexHcPsRQ2zZAC0bvGWi/QhgP4LbjxDtRwD7Edx+hGg/AtiP4PYj
+RPsRwH4Etx8h2o8A9iO4/QjRfgSwH8HtR4j2I4D9CG4/QrQfAexHcPsRov0IYD+C248Q7UcA+xHcfoRoPwLYj+D2I0T7EcB+BLcfIdqPAPYjuP0I0X4EsB/B7UeI9iOA/QhuP0K0HwHsR3D7EaL9CGA/
+gtuPEO1HAPsR3H6EaD8C2I/g9iNE+xHAfgS3HyHajwD2I7j9CNF+BLAfwe1HiPYjgP0Ibj9CtB8B7Edw+xGi/QhgP4LbjxDtRwD7Edx+hGg/AtiP4PYjRPsRwH4Etx8h2o8A9iO4/QjRfgSwH8HtR4j2
+I4D9CG4/QrQfAexHcPsRov0IYD+C248Q7UcA+xHcfoRoPwLYj+D2I0T7EcB+BLcfIdqPAPYjuP0I0X4EsB/B7UeI9iOA/QhuP0K0HwHsR3D7EaL9CGA/gtuPEO1HAPsR3H6EaD8C2I/g9iNE+xHAfgS3
+HyHajwD2I7j9CNF+BLAfwe1HiPYjgP0Ibj9CtB8B7Edw+xGi/QhgP4LbjxDtRwD7Edx+hGg/AtiP4PYjRPsRwH4Etx8h2o8A9iO4/QjRfgSwH8HtR4j2I4D9CG4/QrQfAexHcPsRov0IYD+C248Q7UcA
++7Gd7WLFlgH7Edx+hGg/AtiP4PYjRPsRwH4Etx8h2o8A9iO4/QjRfgSwH8HtR4j2I4D9CG4/QrQfAexHcPsRov0IYD+C248Q7UcA+xHcfoRoPwLYj+D2I0T7EcB+BLcfIdqPAPYjuP0I0X4EsB/B7UeI
+9iOA/QhuP0K0HwHsR3D7EaL9CGA/gtuPEO1HAPsR3H6EaD8C2I/g9iNE+xHAfgS3HyHajwD2I7j9CNF+BLAfwe1HiPYjgP0Ibj9CtB8B7Edw+xGi/QhgP4LbjxTtRwL7kdx+pGg/EtiP5PYjRfuRwH4k
+tx8p2o8E9iO5/UjRfiSwH8ntR4r2I4H9SG4/UrQfCexHcvuRov1IYD+S248U7UcC+5HcfqRoPxLYj+T2I0X7kcB+JLcfKdqPBPYjuf1I0X4ksB/J7UeK9iOB/UhuP1K0HwnsR3L7kaL9SGA/ktuPFO1H
+AvuR3H7kEFs2QMsGb5loPxLYj+T2I0X7kcB+JLcfKdqPBPYjuf1I0X4ksB/J7UeK9iOB/UhuP1K0HwnsR3L7kaL9SGA/ktuPFO1HAvuR3H6kaD8S2I/k9iNF+5HAfiS3HynajwT2I7n9SNF+JLAfye1H
+ivYjgf1Ibj9StB8J7Edy+5Gi/UhgP5LbjxTtRwL7kdx+pGg/EtiP5PYjRfuRwH4ktx8p2o8E9iO5/UjRfiSwH8ntR4r2I4H9SG4/UrQfCexHcvuRov1IYD+S248U7UcC+5HcfqRoPxLYj+T2I0X7kcB+
+JLcfKdqPBPYjuf1I0X4ksB/J7UeK9iOB/UhuP1K0HwnsR3L7kaL9SGA/ktuPFO1HAvuR3H6kaD8S2I/k9iNF+5HAfiS3HynajwT2I7n9SNF+JLAfye1HivYjgf1Ibj9StB8J7Edy+5Gi/UhgP5LbjxTt
+RwL7kdx+pGg/EtiP5PYjRfuRwH4ktx8p2o8E9iO5/UjRfiSwH8ntR4r2I4H9SG4/UrQfCexHcvuRov1IYD+S248U7UcC+5HcfqRoPxLYj+T2I0X7kcB+JLcfKdqPBPYjuf1I0X4ksB/J7UeK9iOB/Uhu
+P1K0HwnsR3L7kaL9SGA/ktuPFO1HAvuR3H6kaD8S2I/k9iNF+5HAfmxnu1ixZcB+JLcfKdqPBPYjuf1I0X4ksB/J7UeK9iOB/UhuP1K0HwnsR3L7kaL9SGA/ktuPFO1HAvuR3H6kaD8S2I/k9iNF+5HA
+fiS3HynajwT2I7n9SNF+JLAfye1HivYjgf1Ibj9StB8J7Edy+5Gi/UhgP5LbjxTtRwL7kdx+pGg/EtiP5PYjRfuRwH4ktx8p2o8E9iO5/UjRfiSwH8ntR4r2I4H9SG4/UrQfCexHcvuRov1IYD+S248U
+7UcC+5HcfqRoPxLYj+T2o0T7UcB+FLcfJdqPAvajuP0o0X4UsB/F7UeJ9qOA/ShuP0q0HwXsR3H7UaL9KGA/ituPEu1HAftR3H6UaD8K2I/i9qNE+1HAfhS3HyXajwL2o7j9KNF+FLAfxe1HifajgP0o
+bj9KtB8F7Edx+1Gi/ShgP4rbjxLtRwH7Udx+lGg/CtiP4vajRPtRwH4Utx81xJYN0LLBWybajwL2o7j9KNF+FLAfxe1HifajgP0obj9KtB8F7Edx+1Gi/ShgP4rbjxLtRwH7Udx+lGg/CtiP4vajRPtR
+wH4Utx8l2o8C9qO4/SjRfhSwH8XtR4n2o4D9KG4/SrQfBexHcftRov0oYD+K248S7UcB+1HcfpRoPwrYj+L2o0T7UcB+FLcfJdqPAvajuP0o0X4UsB/F7UeJ9qOA/ShuP0q0HwXsR3H7UaL9KGA/ituP
+Eu1HAftR3H6UaD8K2I/i9qNE+1HAfhS3HyXajwL2o7j9KNF+FLAfxe1HifajgP0obj9KtB8F7Edx+1Gi/ShgP4rbjxLtRwH7Udx+lGg/CtiP4vajRPtRwH4Utx8l2o8C9qO4/SjRfhSwH8XtR4n2o4D9
+KG4/SrQfBexHcftRov0oYD+K248S7UcB+1HcfpRoPwrYj+L2o0T7UcB+FLcfJdqPAvajuP0o0X4UsB/F7UeJ9qOA/ShuP0q0HwXsR3H7UaL9KGA/ituPEu1HAftR3H6UaD8K2I/i9qNE+1HAfhS3HyXa
+jwL2o7j9KNF+FLAfxe1HifajgP0obj9KtB8F7Edx+1Gi/ShgP4rbjxLtRwH7Udx+lGg/CtiP4vajRPtRwH4Utx8l2o8C9qO4/SjRfhSwH9vZLlZsGbAfxe1HifajgP0obj9KtB8F7Edx+1Gi/ShgP4rb
+jxLtRwH7Udx+lGg/CtiP4vajRPtRwH4Utx8l2o8C9qO4/SjRfhSwH8XtR4n2o4D9KG4/SrQfBexHcftRov0oYD+K248S7UcB+1HcfpRoPwrYj+L2o0T7UcB+FLcfJdqPAvajuP0o0X4UsB/F7UeJ9qOA
+/ShuP0q0HwXsR3H7UaL9KGA/ituPEu1HAftR3H6UaD8K2I/i9qNE+1HAfhS3HyXajwL2o7j9aNF+NLAfze1Hi/ajgf1obj9atB8N7Edz+9Gi/WhgP5rbjxbtRwP70dx+tGg/GtiP5vajRfvRwH40tx8t
+2o8G9qO5/WjRfjSwH83tR4v2o4H9aG4/WrQfDexHc/vRov1oYD+a248W7UcD+9HcfrRoPxrYj+b2o0X70cB+NLcfLdqPBvajuf1o0X40sB/N7UcPsWUDtGzwlon2o4H9aG4/WrQfDexHc/vRov1oYD+a
+248W7UcD+9HcfrRoPxrYj+b2o0X70cB+NLcfLdqPBvajuf1o0X40sB/N7UeL9qOB/WhuP1q0Hw3sR3P70aL9aGA/mtuPFu1HA/vR3H60aD8a2I/m9qNF+9HAfjS3Hy3ajwb2o7n9aNF+NLAfze1Hi/aj
+gf1obj9atB8N7Edz+9Gi/WhgP5rbjxbtRwP70dx+tGg/GtiP5vajRfvRwH40tx8t2o8G9qO5/WjRfjSwH83tR4v2o4H9aG4/WrQfDexHc/vRov1oYD+a248W7UcD+9HcfrRoPxrYj+b2o0X70cB+NLcf
+LdqPBvajuf1o0X40sB/N7UeL9qOB/WhuP1q0Hw3sR3P70aL9aGA/mtuPFu1HA/vR3H60aD8a2I/m9qNF+9HAfjS3Hy3ajwb2o7n9aNF+NLAfze1Hi/ajgf1obj9atB8N7Edz+9Gi/WhgP5rbjxbtRwP7
+0dx+tGg/GtiP5vajRfvRwH40tx8t2o8G9qO5/WjRfjSwH83tR4v2o4H9aG4/WrQfDexHc/vRov1oYD+a248W7UcD+9HcfrRoPxrYj+b2o0X70cB+NLcfLdqPBvajuf1o0X40sB/N7UeL9qOB/WhuP1q0
+Hw3sx3a2ixVbBuxHc/vRov1oYD+OswaxYsuA/TjOUKzYMmA/jjMQK9qPBvbjOEOxYsuA/TjOUKzYMmA/jjMUK7YM2I/jDMWKLQP24zj7Ivb57U/n53d/Prs7e/Xi7MPd9V8u3t2d3zy7OX/78uR3f/zd
++P7+L5/ed/+G9zcXV3f/9f7u4vrq9tMPz348/8+zmx8vrm6f/fP67v4UL09OH8709vr6PuPTjz7dg/OzN8cfvDt/e/fwqpNnN48nfvjnu+v3T+99yv37+d2H98+uby7Or+7OPj3w5cm7s6s3t6/P3p9/
+es2bm7OPF1c/Prv5/uLNy5Ob/3gzHn5FH69vfn749bz6P1BLBwgknWYLmyEAAEM5AQBQSwMEFAAICAgAFV50WwAAAAAAAAAAAAAAACMAAAB4bC93b3Jrc2hlZXRzL19yZWxzL3NoZWV0MS54bWwucmVs
+c42PywoCMQxFf6VkbzvjQkSm40aE2cr4AaHNPHD6oKmvv7cbQcGFuxtyc3Jvs3+4Rdwo8Ry8hlpWIMibYGc/ajj3x9UWBGf0FpfgScOTGPZtc6IFcznhaY4sCsOzhinnuFOKzUQOWYZIvmyGkBzmMqZR
+RTQXHEmtq2qj0icDvpmisxpSZ2sQPaaRsgYplU14L8H4LWpZ+MXxjPTP9zAMs6FDMFdHPv8I8eaCahv1VbF9AVBLBwh1OQ8UsQAAACkBAABQSwECFAAUAAgICAAVXnRbWrpMDFsBAADxBAAAEwAAAAAA
+AAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQIUABQACAgIABVedFv4Y6CL1AAAALgBAAALAAAAAAAAAAAAAAAAAJwBAABfcmVscy8ucmVsc1BLAQIUABQACAgIABVedFtSsTf7wwAAACoB
+AAARAAAAAAAAAAAAAAAAAKkCAABkb2NQcm9wcy9jb3JlLnhtbFBLAQIUABQACAgIABVedFsHYmmDBQEAAAcDAAAYAAAAAAAAAAAAAAAAAKsDAAB4bC9kcmF3aW5ncy9kcmF3aW5nMS54bWxQSwECFAAU
+AAgICAAVXnRbm+QIeLwCAACgCAAAFAAAAAAAAAAAAAAAAAD2BAAAeGwvc2hhcmVkU3RyaW5ncy54bWxQSwECFAAUAAgICAAVXnRb7dDrJgcDAABmFAAADQAAAAAAAAAAAAAAAAD0BwAAeGwvc3R5bGVz
+LnhtbFBLAQIUABQACAgIABVedFtlo4FhKAMAAK0OAAATAAAAAAAAAAAAAAAAADYLAAB4bC90aGVtZS90aGVtZTEueG1sUEsBAhQAFAAICAgAFV50W3DU2Bl+AQAAnAMAAA8AAAAAAAAAAAAAAAAAnw4A
+AHhsL3dvcmtib29rLnhtbFBLAQIUABQACAgIABVedFspAzq15QAAALgCAAAaAAAAAAAAAAAAAAAAAFoQAAB4bC9fcmVscy93b3JrYm9vay54bWwucmVsc1BLAQIUABQACAgIABVedFsknWYLmyEAAEM5
+AQAYAAAAAAAAAAAAAAAAAIcRAAB4bC93b3Jrc2hlZXRzL3NoZWV0MS54bWxQSwECFAAUAAgICAAVXnRbdTkPFLEAAAApAQAAIwAAAAAAAAAAAAAAAABoMwAAeGwvd29ya3NoZWV0cy9fcmVscy9zaGVl
+dDEueG1sLnJlbHNQSwUGAAAAAAsACwDZAgAAajQAAAAA</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="nl-NL" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUE3QjlFNyIgcGFja2FnZUlk
+PSI1MDdlYjFiNS1hMzk5LTRmMjctYWI1NC05YWRmMWM5MTMyYWEiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ibmwtTkwiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMjAgMTE6NDg6NDMrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJUZW1wbGF0ZS54bHN4IiBmaWx0ZXJJZD0ib2tmX29wZW54bWwiIGlucHV0RW5jb2Rp
+bmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9IlRlbXBsYXRlLm91dC54bHN4IiB0YXJnZXRFbmNvZGluZz0iVVRGLTgiIHNlbGVjdGVkPSIxIj5JM1l4Q21KUWNtVm1aWEpsYm1ObFZISmhibk5z
+WVhSbFJHOWpVSEp2Y0dWeWRHbGxjeTVpUFdaaGJITmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUTI5dGJXVnVkSE11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZCdmQy
+VnljRzlwYm5ST2IzUmxjeTVpUFhSeWRXVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZRYjNkbGNuQnZhVzUwVFdGemRHVnljeTVpUFhSeWRXVUtZbEJ5WldabGNtVnVZMlZKWjI1dmNtVlFiR0Zq
+WldodmJHUmxjbk5KYmxCdmQyVnljRzlwYm5STllYTjBaWEp6TG1JOVptRnNjMlVLWWxCeVpXWmxjbVZ1WTJWVWNtRnVjMnhoZEdWWGIzSmtTR1ZoWkdWeWMwWnZiM1JsY25NdVlqMTBjblZsQ21KUWNt
+Vm1aWEpsYm1ObFZISmhibk5zWVhSbFYyOXlaRWhwWkdSbGJpNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxWMjl5WkVWNFkyeDFaR1ZIY21Gd2FHbGpUV1YwWVVSaGRHRXVZajFt
+WVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVkJ2ZDJWeWNHOXBiblJJYVdSa1pXNHVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVVY0WTJWc1NHbGtaR1Z1TG1JOVpt
+RnNjMlVLWWxCeVpXWmxjbVZ1WTJWVWNtRnVjMnhoZEdWRmVHTmxiRVY0WTJ4MVpHVkRiMnh2Y25NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzUlhoamJIVmtaVU52
+YkhWdGJuTXVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVVY0WTJWc1UyaGxaWFJPWVcxbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxRV1JrVEdsdVpWTmxjR0Z5WVhSdmNr
+RnpRMmhoY21GamRHVnlMbUk5Wm1Gc2MyVUtjMUJ5WldabGNtVnVZMlZNYVc1bFUyVndZWEpoZEc5eVVtVndiR0ZqWlcxbGJuUTlKREJoSkFwaVVISmxabVZ5Wlc1alpWSmxjR3hoWTJWT2IwSnlaV0Zy
+U0hsd2FHVnVWR0ZuTG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlVsbmJtOXlaVk52Wm5SSWVYQm9aVzVVWVdjdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFFXUmtWR0ZpUVhORGFHRnlZV04wWlhJdVlq
+MW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpVRm5aM0psYzNOcGRtVkRiR1ZoYm5Wd0xtSTlkSEoxWlFwaVVISmxabVZ5Wlc1alpVRjFkRzl0WVhScFkyRnNiSGxCWTJObGNIUlNaWFpwYzJsdmJuTXVZajEw
+Y25WbENtSlFjbVZtWlhKbGJtTmxVRzkzWlhKd2IybHVkRWx1WTJ4MVpHVmtVMnhwWkdWT2RXMWlaWEp6VDI1c2VTNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxSWGhqWld4RWFX
+Rm5jbUZ0UkdGMFlTNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxSWGhqWld4RWNtRjNhVzVuY3k1aVBXWmhiSE5sQ25OMVltWnBiSFJsY2owS1lrbHVSWGhqYkhWa1pVMXZaR1V1
+WWoxMGNuVmxDbUpKYmtWNFkyeDFaR1ZJYVdkb2JHbG5hSFJOYjJSbExtSTlkSEoxWlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWZHZjbVJGZUdOc2RXUmxRMjlzYjNKekxtSTlabUZzYzJVS1ls
+SmxiM0prWlhKUWIzZGxjbkJ2YVc1MFRtOTBaWE5CYm1SRGIyMXRaVzUwY3k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q25SelEyOXRjR3hsZUVacFpXeGtSR1Zt
+YVc1cGRHbHZibk5VYjBWNGRISmhZM1F1YVQweENtTm1aREE5U0ZsUVJWSk1TVTVMQ25SelJYaGpaV3hGZUdOc2RXUmxaRU52Ykc5eWN5NXBQVEFLZEhORmVHTmxiRVY0WTJ4MVpHVmtRMjlzZFcxdWN5
+NXBQVEFLZEhORmVHTnNkV1JsVjI5eVpGTjBlV3hsY3k1cFBUQUtkSE5YYjNKa1NHbG5hR3hwWjJoMFEyOXNiM0p6TG1rOU1BcDBjMWR2Y21SRmVHTnNkV1JsWkVOdmJHOXljeTVwUFRBS2RITlFiM2Rs
+Y25CdmFXNTBTVzVqYkhWa1pXUlRiR2xrWlU1MWJXSmxjbk11YVQwdzwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="nl-NL">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Foglio1!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">en_GB</source>
+<target xml:lang="nl-NL">en_GB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Foglio1!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_character_limit</source>
+<target xml:lang="nl-NL">cell_character_limit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Foglio1!C1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="nl-NL">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" maxwidth="30" resname="Foglio1!A2" size-unit="char" xml:space="preserve" help-id="4782190751">
+<source xml:lang="en-GB">Plan trips like a pro</source>
+<seg-source><mrk mid="0" mtype="seg">Plan trips like a pro</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Plan trips als een pro</mrk></target>
+<count-group name="P147242AB-tu4"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">1.5</count></count-group>
+<note>Headline 1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Foglio1!C2" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 1</source>
+<target xml:lang="nl-NL">Headline 1</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" maxwidth="30" resname="Foglio1!A3" size-unit="char" xml:space="preserve" help-id="4782190752">
+<source xml:lang="en-GB">Your entire trip. One site.</source>
+<seg-source><mrk mid="0" mtype="seg">Your entire trip. One site.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Je hele trip. Eén site.</mrk></target>
+<count-group name="P147242AB-tu6"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<note>Headline 2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Foglio1!C3" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 2</source>
+<target xml:lang="nl-NL">Headline 2</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" maxwidth="30" resname="Foglio1!A4" size-unit="char" xml:space="preserve" help-id="4782190753">
+<source xml:lang="en-GB">Endless deals for any trip</source>
+<seg-source><mrk mid="0" mtype="seg">Endless deals for any trip</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Eindeloze deals voor elke trip</mrk></target>
+<count-group name="P147242AB-tu8"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">1.5</count></count-group>
+<note>Headline 3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Foglio1!C4" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 3</source>
+<target xml:lang="nl-NL">Headline 3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" maxwidth="30" resname="Foglio1!A5" size-unit="char" xml:space="preserve" help-id="4782190754">
+<source xml:lang="en-GB">Trip planning. The simple way.</source>
+<seg-source><mrk mid="0" mtype="seg">Trip planning. The simple way.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Plan moeiteloos je trip.</mrk></target>
+<count-group name="P147242AB-tu10"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">1.5</count></count-group>
+<note>Headline 4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Foglio1!C5" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 4</source>
+<target xml:lang="nl-NL">Headline 4</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" maxwidth="30" resname="Foglio1!A6" size-unit="char" xml:space="preserve" help-id="4782190755">
+<source xml:lang="en-GB">Your next trip in a few taps</source>
+<seg-source><mrk mid="0" mtype="seg">Your next trip in a few taps</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Jouw trip in een paar tikken&#160;</mrk></target>
+<count-group name="P147242AB-tu12"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.2</count></count-group>
+<note>Headline 5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Foglio1!C6" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 5</source>
+<target xml:lang="nl-NL">Headline 5</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" maxwidth="30" resname="Foglio1!A7" size-unit="char" xml:space="preserve" help-id="4782190756">
+<source xml:lang="en-GB">Travel deals for every budget</source>
+<seg-source><mrk mid="0" mtype="seg">Travel deals for every budget</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Reisdeals voor elk budget</mrk></target>
+<count-group name="P147242AB-tu14"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">1.5</count></count-group>
+<note>Headline 6</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Foglio1!C7" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 6</source>
+<target xml:lang="nl-NL">Headline 6</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" maxwidth="30" resname="Foglio1!A8" size-unit="char" xml:space="preserve" help-id="4782190757">
+<source xml:lang="en-GB">Endless travel prices? Got it.</source>
+<seg-source><mrk mid="0" mtype="seg">Endless travel prices? Got it.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Eindeloze reisprijzen? Oké.&#160;</mrk></target>
+<count-group name="P147242AB-tu16"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<note>Headline 7</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Foglio1!C8" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 7</source>
+<target xml:lang="nl-NL">Headline 7</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" maxwidth="30" resname="Foglio1!A9" size-unit="char" xml:space="preserve" help-id="4782190758">
+<source xml:lang="en-GB">Try the Ultimate Travel Hack</source>
+<seg-source><mrk mid="0" mtype="seg">Try the Ultimate Travel Hack</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Probeer de ultieme reishack</mrk></target>
+<count-group name="P147242AB-tu18"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">1.5</count></count-group>
+<note>Headline 8</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Foglio1!C9" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 8</source>
+<target xml:lang="nl-NL">Headline 8</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" maxwidth="30" resname="Foglio1!A10" size-unit="char" xml:space="preserve" help-id="4782190759">
+<source xml:lang="en-GB">Save big on your next trip</source>
+<seg-source><mrk mid="0" mtype="seg">Save big on your next trip</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Bespaar op je volgende trip&#160;</mrk></target>
+<count-group name="P147242AB-tu20"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<note>Headline 9</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Foglio1!C10" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 9</source>
+<target xml:lang="nl-NL">Headline 9</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" maxwidth="30" resname="Foglio1!A11" size-unit="char" xml:space="preserve" help-id="4782190760">
+<source xml:lang="en-GB">Simple trip planning</source>
+<seg-source><mrk mid="0" mtype="seg">Simple trip planning</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Eenvoudige tripplanning&#160;</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<note>Headline 10</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Foglio1!C11" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 10</source>
+<target xml:lang="nl-NL">Headline 10</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" maxwidth="30" resname="Foglio1!A12" size-unit="char" xml:space="preserve" help-id="4782190761">
+<source xml:lang="en-GB">Travel more. Spend less.</source>
+<seg-source><mrk mid="0" mtype="seg">Travel more. Spend less.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Reis meer. Betaal minder.</mrk></target>
+<count-group name="P147242AB-tu24"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<note>Headline 11</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="Foglio1!C12" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 11</source>
+<target xml:lang="nl-NL">Headline 11</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" maxwidth="30" resname="Foglio1!A13" size-unit="char" xml:space="preserve" help-id="4782190762">
+<source xml:lang="en-GB">Click. Book. Fly.</source>
+<seg-source><mrk mid="0" mtype="seg">Click. Book. Fly.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Klikken. Boeken. Vliegen.</mrk></target>
+<count-group name="P147242AB-tu26"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>Headline 12</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="Foglio1!C13" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 12</source>
+<target xml:lang="nl-NL">Headline 12</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" maxwidth="30" resname="Foglio1!A14" size-unit="char" xml:space="preserve" help-id="4782190763">
+<source xml:lang="en-GB">Trip planning just got simple</source>
+<seg-source><mrk mid="0" mtype="seg">Trip planning just got simple</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Je trip plannen is nu simpel</mrk></target>
+<count-group name="P147242AB-tu28"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>Headline 13</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="Foglio1!C14" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 13</source>
+<target xml:lang="nl-NL">Headline 13</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" maxwidth="30" resname="Foglio1!A15" size-unit="char" xml:space="preserve" help-id="4782190764">
+<source xml:lang="en-GB">Where will you go next?</source>
+<seg-source><mrk mid="0" mtype="seg">Where will you go next?</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Waar ga je heen?</mrk></target>
+<count-group name="P147242AB-tu30"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>Headline 14</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="Foglio1!C15" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 14</source>
+<target xml:lang="nl-NL">Headline 14</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" maxwidth="30" resname="Foglio1!A16" size-unit="char" xml:space="preserve" help-id="4782190765">
+<source xml:lang="en-GB">Find the travel deal for you</source>
+<seg-source><mrk mid="0" mtype="seg">Find the travel deal for you</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Vind de passende reisdeal</mrk></target>
+<count-group name="P147242AB-tu32"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>Headline 15</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu33" resname="Foglio1!C16" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline 15</source>
+<target xml:lang="nl-NL">Headline 15</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu34" maxwidth="90" resname="Foglio1!A17" size-unit="char" xml:space="preserve" help-id="4782190766">
+<source xml:lang="en-GB">Say hello to endless travel prices</source>
+<seg-source><mrk mid="0" mtype="seg">Say hello to endless travel prices</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Zeg hallo tegen eindeloze reisprijzen</mrk></target>
+<count-group name="P147242AB-tu34"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<note>Long headline 1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu35" resname="Foglio1!C17" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Long headline 1</source>
+<target xml:lang="nl-NL">Long headline 1</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu36" maxwidth="90" resname="Foglio1!A18" size-unit="char" xml:space="preserve" help-id="4782190767">
+<source xml:lang="en-GB">Plan your entire trip in one place</source>
+<seg-source><mrk mid="0" mtype="seg">Plan your entire trip in one place</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Plan je hele trip op één plek</mrk></target>
+<count-group name="P147242AB-tu36"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.2</count></count-group>
+<note>Long headline 2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu37" resname="Foglio1!C18" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Long headline 2</source>
+<target xml:lang="nl-NL">Long headline 2</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu38" maxwidth="90" resname="Foglio1!A19" size-unit="char" xml:space="preserve" help-id="4782190768">
+<source xml:lang="en-GB">Your next trip just one search away</source>
+<seg-source><mrk mid="0" mtype="seg">Your next trip just one search away</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Je bent nog maar één zoekopdracht verwijderd van je volgende trip</mrk></target>
+<count-group name="P147242AB-tu38"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">2.1</count></count-group>
+<note>Long headline 3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu39" resname="Foglio1!C19" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Long headline 3</source>
+<target xml:lang="nl-NL">Long headline 3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu40" maxwidth="90" resname="Foglio1!A20" size-unit="char" xml:space="preserve" help-id="4782190769">
+<source xml:lang="en-GB">Flight, hotel and car hire deals - all in one place</source>
+<seg-source><mrk mid="0" mtype="seg">Flight, hotel and car hire deals - all in one place</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Aanbiedingen voor vluchten, hotels en huurauto's – allemaal op één plek</mrk></target>
+<count-group name="P147242AB-tu40"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6</count></count-group>
+<note>Long headline 4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu41" resname="Foglio1!C20" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Long headline 4</source>
+<target xml:lang="nl-NL">Long headline 4</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu42" maxwidth="90" resname="Foglio1!A21" size-unit="char" xml:space="preserve" help-id="4782190770">
+<source xml:lang="en-GB">Compare cheap flights from all your top airlines in one place</source>
+<seg-source><mrk mid="0" mtype="seg">Compare cheap flights from all your top airlines in one place</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Vergelijk goedkope vluchten van al je favoriete luchtvaartmaatschappijen op één plek</mrk></target>
+<count-group name="P147242AB-tu42"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">6.6</count></count-group>
+<note>Long headline 5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu43" resname="Foglio1!C21" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Long headline 5</source>
+<target xml:lang="nl-NL">Long headline 5</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu44" maxwidth="90" resname="Foglio1!A22" size-unit="char" xml:space="preserve" help-id="4782190771">
+<source xml:lang="en-GB">Book cheap flights for your next trip today with Skyscanner</source>
+<seg-source><mrk mid="0" mtype="seg">Book cheap flights for your next trip today with Skyscanner</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Boek vandaag nog goedkope vluchten voor je volgende reis met Skyscanner</mrk></target>
+<count-group name="P147242AB-tu44"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6</count></count-group>
+<note>Description line 1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu45" resname="Foglio1!C22" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Description line 1</source>
+<target xml:lang="nl-NL">Description line 1</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu46" maxwidth="90" resname="Foglio1!A23" size-unit="char" xml:space="preserve" help-id="4782190772">
+<source xml:lang="en-GB">Explore everywhere at every price for your next trip</source>
+<seg-source><mrk mid="0" mtype="seg">Explore everywhere at every price for your next trip</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Verken alle bestemmingen voor elke prijs voor je volgende trip</mrk></target>
+<count-group name="P147242AB-tu46"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">2.7</count></count-group>
+<note>Description line 2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu47" resname="Foglio1!C23" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Description line 2</source>
+<target xml:lang="nl-NL">Description line 2</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu48" maxwidth="90" resname="Foglio1!A24" size-unit="char" xml:space="preserve" help-id="4782190773">
+<source xml:lang="en-GB">Find the best price for your next trip in seconds.</source>
+<seg-source><mrk mid="0" mtype="seg">Find the best price for your next trip in seconds.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Vind in luttele seconden de beste prijs voor je volgende trip.</mrk></target>
+<count-group name="P147242AB-tu48"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">3</count></count-group>
+<note>Description line 4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu49" resname="Foglio1!C24" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Description line 4</source>
+<target xml:lang="nl-NL">Description line 4</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu50" maxwidth="90" resname="Foglio1!A25" size-unit="char" xml:space="preserve" help-id="4782190774">
+<source xml:lang="en-GB">Compare the best travel deals all in one place.</source>
+<seg-source><mrk mid="0" mtype="seg">Compare the best travel deals all in one place.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Vergelijk de beste reisaanbiedingen allemaal op één plek.</mrk></target>
+<count-group name="P147242AB-tu50"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>Description line 5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu51" resname="Foglio1!C25" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Description line 5</source>
+<target xml:lang="nl-NL">Description line 5</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu52" maxwidth="38" resname="Foglio1!A26" size-unit="char" xml:space="preserve" help-id="4782190775">
+<source xml:lang="en-GB">Millions of travel deals in one place.</source>
+<seg-source><mrk mid="0" mtype="seg">Millions of travel deals in one place.</mrk></seg-source>
+<target  xml:lang="nl-NL" state="signed-off"><mrk mid="0" mtype="seg">Miljoenen reisaanbiedingen op één plek.</mrk></target>
+<count-group name="P147242AB-tu52"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>Short Headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu53" resname="Foglio1!C26" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Short Headline</source>
+<target xml:lang="nl-NL">Short Headline</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

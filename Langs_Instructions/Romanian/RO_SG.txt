@@ -1,0 +1,267 @@
+# Skyscanner Romanian (RO) – LQA Calibration & Style Guide
+
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- Use **Romanian** — warm, friendly, conversational, not formal or stiff
+- Address users with **informal singular "tu"** (not formal "dumneavoastră")
+- Write as if talking to a friend — natural, clear, direct
+- **Avoid nominalization:** Use verbs instead of excessive nouns to keep tone casual
+- **Creativity is key:** Translate meaning, not words; make it sound naturally Romanian
+- Skyscanner = **Skyscanner** (keep in English, do not translate)
+
+### 1.2. Punctuation
+
+| Mark | Usage |
+|------|-------|
+| Ampersand (&) | Translate as "și" unless part of a brand name |
+| Dash (—) | Use sparingly; primarily for pauses; can replace with comma or colon |
+| Quotation marks | Use Romanian style: „..." for primary; « » for nested quotes |
+| Exclamation (!) | Use sparingly — don't overuse |
+| Comma (,) | Avoid excessive punctuation |
+
+- **Do not use excessive punctuation** — it makes text harder to read
+- Dash signs should not be overused outside of marking pauses
+
+### 1.3. Numbers & Dates
+
+| Context | Format |
+|---------|--------|
+| Date format | DD.MM.YYYY (14.04.2016) |
+| Full date in text | joi, 14 aprilie 2016 (**lowercase** days/months) |
+| Time format | 24-hour with colon (14:53) |
+| Thousand separator | Full stop (1.000) |
+| Decimal separator | Comma (3,5) |
+| Numbers in text | Use digits (prefer "3 zile" over "trei zile") |
+| Millions/billions | Use words: "3 miliarde" (not "3.000.000.000") |
+| Ranges | Conversational: "între 2 și 7 zile" (not "2-7 zile") |
+
+### 1.4. Currencies
+- **Without number:** Write in letters (e.g., "cont în euro")
+- **With number:** Use code format with space: `250 EUR`
+- **Non-breaking space** between number and currency code
+- **Avoid currency symbols** (€, $) in translations — use letter codes (EUR, USD)
+
+### 1.5. Addressing Users – "Tu"
+- Always use **informal "tu"** form (not "dumneavoastră")
+- Maintains friendly, warm tone consistent with Skyscanner's voice
+- Verb conjugations should match 2nd person singular informal
+
+### 1.6. Anglicisms
+- **Acceptable:** Widely understood English words (e.g., "online", "check-in", "email")
+- **Avoid:** Niche English terms or jargon not widely known to general Romanian audience
+- When in doubt, use Romanian equivalent if one exists and is natural
+
+### 1.7. Names & Toponyms
+- **Skyscanner:** Keep in English (never translate)
+- **Brand/company names:** Keep in English unless established Romanian name exists
+- **Country names:** Follow EU Publications Office Romanian conventions
+- **URLs:** Always keep in English
+
+### 1.8. Units of Measure
+- Use **metric system** (km, m, kg, etc.)
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Quotation Mark Tolerance
+
+Romanian has specific quotation mark conventions, but flexibility is needed.
+
+#### 2.1.1. Acceptable Quotation Mark Styles
+
+| Style | Example | Accept? |
+|-------|---------|---------|
+| Romanian standard | „exemplu" | ✓ Preferred |
+| Guillemets (nested) | „text «citat» text" | ✓ Preferred for nested |
+| Straight double quotes | "exemplu" | ✓ Accept (system limitations) |
+| English curly quotes | "exemplu" | ✓ Accept (minor) |
+
+**Do NOT flag:**
+- Straight quotes when Romanian quotes may not be available in system
+- Minor quotation style variations that don't affect meaning
+
+**Only flag** if quotation marks are missing where required or create confusion.
+
+---
+
+### 2.2. Gender & Case Agreement Tolerance
+
+Romanian has grammatical gender and complex case system. For unknown-gender placeholders, **accept reasonable defaults.**
+
+#### 2.2.1. Acceptable Gender Strategies
+
+| Strategy | Example |
+|----------|---------|
+| Masculine default for unknown users | "Bun venit, {{user}}!" |
+| Restructuring to avoid gender | Using impersonal constructions |
+| Generic forms | Using constructions that work for both genders |
+
+**Do NOT flag:**
+- Masculine default for unknown-gender placeholders
+- Restructuring to avoid gender specification
+- Case variations when placeholder position makes exact case unpredictable
+
+**Only flag** if gender/case is **explicitly specified** in context and translation contradicts it.
+
+---
+
+### 2.3. Meaning-Based Translation Tolerance
+
+The Style Guide encourages natural, conversational translation that sounds originally Romanian.
+
+#### 2.3.1. Do NOT Flag as "Mistranslation"
+- Restructured sentences that preserve meaning
+- Idiomatic adaptations appropriate for Romanian
+- Simplification of complex English structures
+- Natural Romanian word order (which may differ from English)
+- Reduced nominalization (verbs used instead of noun constructions)
+
+#### 2.3.2. Do NOT Flag as "Omission/Addition"
+- Removal of excessive exclamation marks (English → Romanian tone adjustment)
+- Adjustment of articles for natural Romanian flow
+- Definite article placement variations (enclitic article handling)
+- Addition of elements required for grammatical Romanian
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.4. Punctuation & Formatting Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Romanian quotation marks („") vs. straight quotes ("")
+- Minor dash usage variations (em dash vs. en dash for pauses)
+- Removal of exclamation marks when they sound unnatural in Romanian
+- Replacement of dashes with commas or colons for clarity
+- Minor comma placement variations for natural flow
+
+#### 2.4.2. Only Flag If
+- Question becomes statement (? removed from question)
+- Punctuation creates meaning confusion
+- Excessive punctuation that impairs readability
+
+---
+
+### 2.5. Number & Date Format Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Minor variations in date separator (14.04.2016 vs. 14/04/2016) if consistent
+- Written-out small numbers OR digits, unless inconsistent within same text
+- Conversational ranges ("între 2 și 7") OR hyphenated ranges ("2-7") for space constraints
+- "3 milioane" vs. "3.000.000" for large round numbers
+
+#### 2.5.2. Only Flag If
+- Thousands/decimal separators are wrong (comma for thousands, period for decimals = WRONG)
+- Date format is clearly incorrect or confusing
+- Capitalized days/months in running text (Joi, Aprilie = WRONG)
+
+---
+
+### 2.6. Currency Format Tolerance
+
+#### 2.6.1. Do NOT Flag
+- "250 EUR" format (preferred)
+- "250 de euro" in conversational text
+- Minor spacing variations around currency codes
+
+#### 2.6.2. Only Flag If
+- Currency symbol used where code should be (€250 in body text)
+- Wrong currency code
+- Missing space between number and currency code in formal contexts
+
+---
+
+### 2.7. Terminology & Synonym Tolerance
+
+| English | Acceptable Romanian Options |
+|---------|----------------------------|
+| Flight | zbor, cursă aeriană |
+| Book (verb) | rezerva, a face o rezervare |
+| Search | căuta, a efectua o căutare |
+| Deal | ofertă, promoție |
+| Trip | călătorie, excursie, vacanță |
+| Hotel | hotel |
+| Save (money) | economisi, a face economii |
+| Save (bookmark) | salva, păstra |
+| App | aplicație, app |
+| Check-in | check-in, înregistrare |
+
+**Do NOT flag** reasonable synonym choices unless they change meaning.
+
+---
+
+### 2.8. Anglicism Tolerance
+
+#### 2.8.1. Do NOT Flag
+- Widely understood English terms: "online", "check-in", "email", "site", "link", "app"
+- Technical terms without good Romanian equivalents
+- Brand names and product names kept in English
+
+#### 2.8.2. Only Flag If
+- Niche jargon that general audience wouldn't understand
+- English term used when natural Romanian equivalent exists AND is clearly better
+- Inconsistent use of anglicism vs. Romanian equivalent in same text
+
+---
+
+### 2.9. Formality & Register Tolerance
+
+#### 2.9.1. Do NOT Flag
+- Use of "tu" form throughout (this is CORRECT per style guide)
+- Conversational, casual phrasing
+- Reduced nominalization (verbs over noun constructions)
+- Informal expressions appropriate for friendly tone
+
+#### 2.9.2. Only Flag If
+- Mixed formality ("tu" and "dumneavoastră" in same context)
+- Overly formal/bureaucratic tone inappropriate for Skyscanner voice
+- Register clearly wrong for content type (e.g., too casual for legal content)
+
+---
+
+### 2.10. Definite Article & Case Tolerance
+
+Romanian uses enclitic (suffixed) definite articles and has complex case declension.
+
+#### 2.10.1. Do NOT Flag
+- Appropriate case choice for sentence structure (even if different from literal source)
+- Article placement following Romanian grammar rules
+- Restructuring to handle case agreement with placeholders
+
+#### 2.10.2. Only Flag If
+- Incorrect case that creates grammatical error
+- Missing or wrong article that affects meaning
+- Case error that would be noticed by native speaker as incorrect
+
+---
+
+### 2.11. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong currency |
+| **Major** | Core meaning changed, factual errors, wrong formality level for content type |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.10 |
+
+---
+
+### 2.12. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **natural restructuring** for Romanian grammar and flow?
+2. ☐ Is the **informal "tu" register** correctly maintained?
+3. ☐ Is the **core meaning preserved** despite structural changes?
+4. ☐ Does the Style Guide **explicitly prohibit** this choice?
+5. ☐ Would a native Romanian speaker find this **incorrect** (not just different)?
+6. ☐ Is this an **acceptable anglicism** widely understood in Romania?
+7. ☐ Are **quotation marks** functional even if not ideal Romanian style?
+
+**If meaning is preserved AND the structure sounds natural in Romanian → DO NOT FLAG**

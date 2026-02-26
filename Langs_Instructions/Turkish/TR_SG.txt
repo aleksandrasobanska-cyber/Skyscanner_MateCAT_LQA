@@ -1,0 +1,322 @@
+# Skyscanner Turkish (TR) – LQA Calibration & Style Guide
+
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- Use **Turkish** — friendly but polite, not bureaucratic
+- Address users with **formal "siz"** (not informal "sen")
+- **Friendly but formal:** Keep it bold, helpful, joyful, straightforward
+- Write as if talking to a friend — but with polite register
+- **Be brief:** Simplify sentences, remove redundant words, use shorter words
+- **Active voice preferred**
+- Skyscanner = **Skyscanner** (do not translate)
+
+### 1.2. Addressing Users
+
+| Approach | Form |
+|----------|------|
+| Address form | Formal "siz" |
+| Style | Friendly but polite, NOT bureaucratic |
+| Verb conjugations | 2nd person plural (-siniz, -nız, etc.) |
+
+#### Salutations with Names
+| Source | ✓ Correct | ✗ Incorrect |
+|--------|-----------|-------------|
+| Dear [first_name] | Merhaba [first_name] | Sayın [first_name] |
+| Hi [first_name] | Merhaba [first_name] | Sayın [first_name] |
+
+**Note:** "Sayın" + first name sounds awkward in Turkish; use "Merhaba" instead.
+
+### 1.3. Style Guidelines
+- **Simplify sentences** — boil down to essence, recreate in simplest way
+- **Be brief** — break up long sentences, remove excess words
+- **Use shorter words** when longer alternatives exist
+- **Use active voice** as much as possible
+- **Be interesting** but not over-enthusiastic
+- **Avoid too many exclamation marks**
+- **Avoid abbreviations**, jargon, and business speak
+- **Less is better** for repetitions and redundant words
+
+### 1.4. Accents (Circumflex)
+Use accents to differentiate words with similar spellings:
+
+| With Accent | Without Accent |
+|-------------|----------------|
+| hâlâ (still) | hala (aunt) |
+| âdet (custom) | adet (number/piece) |
+| hâl (condition) | hal (hall) |
+
+### 1.5. Punctuation
+
+| Mark | Usage |
+|------|-------|
+| Quotation marks | Double straight " " without spaces |
+| Nested quotes | Single straight ' ' |
+| Exclamation marks | Use sparingly |
+| Period | Follows TDK rules |
+
+- Follow **TDK (Türk Dil Kurumu)** guidance for punctuation, capitalization, numbers
+
+### 1.6. Numbers & Dates (Turkish Conventions)
+
+| Context | Format |
+|---------|--------|
+| Thousands separator | Period (1.000, 10.000) |
+| Decimal separator | Comma (3,5) |
+| Date format | DD.MM.YYYY or D Ayname YYYY |
+| Time format | 24-hour (14:30 or 14.30) |
+| Currency | TRY or TL after number |
+
+### 1.7. Anglicisms
+- **Avoid** niche English terms and jargon
+- **Acceptable:** Widely known English terms used in Turkish
+- **Prefer Turkish** translation if it exists
+- **Transcreate** with simple, clear Turkish sentence structures
+
+### 1.8. Ampersands
+- Replace with **"ve"** or **"ile"**
+- **Keep & in brand names** (Dolce & Gabbana)
+
+### 1.9. Suffix Rules (Turkish Agglutination)
+- Turkish uses suffixes attached to words
+- Observe **vowel harmony** (front/back, rounded/unrounded)
+- Use **apostrophe** before suffixes on proper nouns: Skyscanner'da, İstanbul'a
+- **Buffer consonants** where needed (y, n, s, ş)
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Formal Address ("Siz") Tolerance
+
+Turkish uses formal "siz" but maintains friendly tone.
+
+#### 2.1.1. Acceptable Address Forms
+
+| Form | Accept? |
+|------|---------|
+| "siz" (formal you) | ✓ Correct |
+| "sen" (informal you) | ✗ Flag |
+| Formal verb forms (-siniz, -nız) | ✓ Correct |
+| Friendly tone with formal address | ✓ Correct |
+
+#### 2.1.2. Salutation Handling
+
+| Source | Acceptable | Not Acceptable |
+|--------|------------|----------------|
+| Dear [name] | Merhaba [name] | Sayın [name] (with first name) |
+| Hi [name] | Merhaba [name], Selam [name] | Sayın [name] |
+| Dear Customer | Sayın Müşterimiz | - |
+
+**Do NOT flag:**
+- "Merhaba" for greetings with first names
+- Friendly phrasing with formal verb conjugations
+- Warm tone despite formal register
+
+**Only flag** if informal "sen" used or tone is too bureaucratic.
+
+---
+
+### 2.2. Transcreation Tolerance
+
+The Style Guide explicitly encourages **simplification and brevity**.
+
+#### 2.2.1. Do NOT Flag as "Mistranslation"
+- Simplified sentences that preserve meaning
+- Shorter versions of long source sentences
+- Broken-up sentences (one long → two short)
+- Removed redundant words
+- Shorter word choices
+- Active voice replacing passive
+- Turkish sentence structure (SOV) applied
+
+#### 2.2.2. Do NOT Flag as "Omission/Addition"
+- Words removed for brevity (if meaning preserved)
+- Restructured sentences for Turkish flow
+- Redundancies eliminated
+- Natural Turkish word order applied
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.3. Accent (Circumflex) Tolerance
+
+#### 2.3.1. Do NOT Flag
+- Correct use of accents to differentiate meanings (hâlâ, âdet, hâl)
+- Missing accent when context makes meaning clear
+- Consistent approach to accent usage
+
+#### 2.3.2. Only Flag If
+- Missing accent creates genuine ambiguity
+- Wrong word used due to accent confusion
+- Inconsistent accent usage within same text
+
+---
+
+### 2.4. Vowel Harmony & Suffix Tolerance
+
+Turkish agglutination requires proper vowel harmony and suffix attachment.
+
+#### 2.4.1. Do NOT Flag
+- Correctly harmonized suffixes
+- Proper buffer consonants (y, n, s, ş)
+- Apostrophe before suffixes on proper nouns (Skyscanner'dan)
+- Alternative valid suffix forms where both are grammatically correct
+
+#### 2.4.2. Only Flag If
+- Vowel harmony violation
+- Missing or incorrect buffer consonant
+- Missing apostrophe on proper nouns
+- Incorrect suffix form
+
+---
+
+### 2.5. Punctuation Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Double straight quotation marks (" ")
+- Single quotes for nested quotations (' ')
+- Removed exclamation marks (for more measured tone)
+- TDK-compliant punctuation variations
+
+#### 2.5.2. Only Flag If
+- Question becomes statement
+- Punctuation creates meaning confusion
+- Non-Turkish quotation mark styles (« » in place of " ")
+- Excessive exclamation marks
+
+---
+
+### 2.6. Number & Date Format Tolerance
+
+#### 2.6.1. Acceptable Formats
+
+| Element | Acceptable |
+|---------|------------|
+| Thousands | Period separator (1.000) |
+| Decimals | Comma (3,5) |
+| Date | DD.MM.YYYY OR D Ayname YYYY |
+| Time | 24-hour (14:30 or 14.30) |
+| Currency | After number with space: 100 TL, 100 TRY |
+
+**Do NOT flag** TDK-compliant number/date formats.
+
+#### 2.6.2. Only Flag If
+- Wrong decimal separator (period instead of comma for decimals)
+- Wrong thousands separator (comma instead of period)
+- Clearly incorrect date format
+
+---
+
+### 2.7. Anglicism Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Widely known English terms used naturally in Turkish
+- Turkish translation when it exists (preferred)
+- Technical terms without good Turkish equivalent
+- Brand names and product names in English
+
+#### 2.7.2. Only Flag If
+- Niche jargon that general audience wouldn't understand
+- English term when clear, widely-used Turkish equivalent exists
+- Unnecessary anglicism that hinders comprehension
+
+---
+
+### 2.8. Terminology & Synonym Tolerance
+
+| English | Acceptable Turkish Options |
+|---------|---------------------------|
+| Flight | uçuş, uçak bileti |
+| Book (verb) | rezervasyon yapmak, ayırtmak |
+| Search | aramak, ara |
+| Deal | fırsat, indirim |
+| Trip | seyahat, gezi, yolculuk |
+| Hotel | otel |
+| Save (money) | tasarruf etmek |
+| Save (bookmark) | kaydetmek |
+| App | uygulama |
+| Website | web sitesi, site |
+
+**Do NOT flag** reasonable synonym choices unless they change meaning.
+
+---
+
+### 2.9. Ampersand Tolerance
+
+#### 2.9.1. Do NOT Flag
+- "ve" or "ile" replacing &
+- & kept in brand names
+
+#### 2.9.2. Only Flag If
+- & used where "ve"/"ile" should be
+- Brand name & incorrectly changed to "ve"
+
+---
+
+### 2.10. Word Order Tolerance
+
+Turkish uses SOV (Subject-Object-Verb) order, different from English SVO.
+
+#### 2.10.1. Do NOT Flag
+- Turkish word order applied (verb at end)
+- Restructured sentences following Turkish syntax
+- Topic-prominent structures
+- Natural Turkish flow different from English order
+
+#### 2.10.2. Only Flag If
+- Word order creates grammatical error
+- Word order creates meaning confusion
+- Unnatural Turkish sentence structure
+
+---
+
+### 2.11. Brevity & Simplification Tolerance
+
+The Style Guide explicitly encourages being **brief** and **simple**.
+
+#### 2.11.1. Do NOT Flag
+- Shorter translations than source
+- Removed redundant words
+- Simplified complex sentences
+- Split long sentences into shorter ones
+- Shorter word choices (if meaning preserved)
+
+#### 2.11.2. Only Flag If
+- Essential meaning lost through simplification
+- Over-simplification that removes important information
+- Critical details omitted
+
+---
+
+### 2.12. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong formality (sen vs siz) throughout |
+| **Major** | Core meaning changed, factual errors, vowel harmony violations, "Sayın" with first name |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.11 |
+
+---
+
+### 2.13. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is the **formal "siz" address** consistently used (but friendly tone)?
+2. ☐ Are **salutations** handled correctly ("Merhaba" with first names)?
+3. ☐ Is **vowel harmony** correctly applied in suffixes?
+4. ☐ Is the translation **appropriately brief** as Style Guide requires?
+5. ☐ Are **accents** used correctly where needed for disambiguation?
+6. ☐ Is the **core meaning preserved** despite simplification?
+7. ☐ Does the Style Guide **explicitly prohibit** this choice?
+8. ☐ Would a native Turkish speaker find this **incorrect** (not just different)?
+9. ☐ Is **Turkish preferred** over anglicism where equivalent exists?
+
+**If meaning is preserved AND the structure sounds natural in Turkish → DO NOT FLAG**

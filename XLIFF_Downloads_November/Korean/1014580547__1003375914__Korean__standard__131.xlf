@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="oNk7XKDeMY.jsont2" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6ImRlMWQxYWQyZjM0ZGY0ZTE4Yzg1NDJmZTY0ZTE1NzhhYThlODJjNzdlZTkyOTU5YmRiY2U2NWZiYWI1NzU0ZTkiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0wNS0xMzo0Nzo1
+OCIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl8wNV8xMV8yMDI1IiwiaW5zdHJ1Y3Rpb25zIjpudWxsLCJzdHlsZWd1aWRlIjpudWxsLCJyZWZlcmVuY2VzIjpudWxsLCJyZXF1ZXN0cyI6W3siaWRf
+cmVxdWVzdCI6MjcyNzgxMzEsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9QdXNoX0N5YmVyTW9uZGF5XzIwMjVfQm9keTIiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1p
+dCI6bnVsbCwiY29udGVudCI6IlRoZSBjaGVhcGVzdCBnZXRhd2F5cyBmcm9tIEBAaG9tZUBAIGFyZSB5b3VycyBmb3Igb25seSBAQGRlYWwtcHJpY2VAQCByZXR1cm4iLCJjb250ZXh0Ijp7Im5vdGVz
+IjoiJmx0O2gxJmd0O1NpemUgUmVzdHJpY3Rpb24mbHQ7L2gxJmd0O1xuODFcbiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5UaGlzIHN0cmluZyB3aWxsIGJlIHVzZWQgYXMg
+cGFydCBvdXIgQmxhY2sgRnJpZGF5IGNhbXBhaWduIGZvciAyMDI1LiBUaGlzIHB1c2ggd2lsbCBiZSBzZW50IG9uIEN5YmUgTW9uZGF5IHRvIHNob3cgdGhlIGxvd2VzdCBmbGlnaHQgcHJpY2UgYXZh
+aWxhYmxlIGZyb20gdGhlIHVzZXIncyBob21lIGFpcnBvcnQuXHJcblxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4
+NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVmYmFiNTc1NGU5LzI3Mjc4MTMxL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyNzgyMDYsImlkX2NvbnRlbnQiOiJiYW5h
+bmEva3R4dF9DVEFfYnV0dG9uX2Zyb20iLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6ImZyb20gQEBwcmljZUBAIiwiY29udGV4dCI6eyJub3Rl
+cyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5XaWxsIGJlIHVzZWQgb24gdGhlIENUQSBidXR0b24uIFRleHQgYWJvdmUgd2lsbCByZWFkIFwiWCBib29raW5nIG9wdGlv
+bnNcIlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVm
+YmFiNTc1NGU5LzI3Mjc4MjA2L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyNzgyMTEsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9QdXNoX0JsYWNrRnJpZGF5X0xhdW5jaF9F
+eHBsb3JlX0JvZHkiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkV4cGxvcmUgc2hvd3MgeW91ciBjaGVhcGVzdCBkZXN0aW5hdGlvbnMgdG8g
+dmlzaXQgZnJvbSBAQGhvbWUtY2l0eUBALiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7U2l6ZSBSZXN0cmljdGlvbiZsdDsvaDEmZ3Q7XG43MFxuJmx0O2gxJmd0O0RldmVsb3BlciBDb21t
+ZW50Jmx0Oy9oMSZndDtcblRoaXMgc3RyaW5nIHdpbGwgYmUgdXNlZCBpbiBhIG91ciBCbGFjayBGcmlkYXkgY2FtcGFpZ24gZm9yIDIwMjUuIFRoaXMgcHVzaCB3aWxsIGJlIHVzZWQgcHJpb3IgdG8g
+QmxhY2sgRnJpZGF5IHRvIGhlbHAgdXNlciBnZXQgdGhlIG1vc3Qgb3V0IG9mIHRoZSB3ZWVrZW5kLlxyXG5cblRoaXMgd2lsbCBiZSB0aGUgcHVzaCBib2R5IGNvcHkuXHJcblxuIiwic2NyZWVuc2hv
+dCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVmYmFiNTc1NGU5LzI3Mjc4MjEx
+L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyNzgyODYsImlkX2NvbnRlbnQiOiJiYW5hbmEva3R4dF90aWNrZXRfYm9va2luZ19vcHRpb25zX2Zyb20iLCJjb250ZW50X3R5cGUiOiJ0
+ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Int7bnVtYmVyfX0gYm9va2luZyBvcHRpb25zIGZyb20iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBD
+b21tZW50Jmx0Oy9oMSZndDtcbkNUQSB0ZXh0IG9uIGZsaWdodHMgdGlja2V0IHN0dWIsIHdoZW4gdGhlcmUgYXJlIG11bHRpcGxlIGJvb2tpbmcgb3B0aW9uc1xuIiwic2NyZWVuc2hvdCI6Imh0dHBz
+Oi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVmYmFiNTc1NGU5LzI3Mjc4Mjg2L3NjcmVlbnNo
+b3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyNzgyOTEsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9FbWFpbF9CbGFja0ZyaWRheV8yMDI1X0FwcEJhbm5lcl9TdWJoZWFkZXIiLCJjb250ZW50
+X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlNjYW4gUVIgY29kZSB0byBkb3dubG9hZC4iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O1NpemUgUmVz
+dHJpY3Rpb24mbHQ7L2gxJmd0O1xuMTAwXG4mbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuVGhpcyBzdHJpbmcgd2lsbCBiZSB1c2VkIGFzIHBhcnQgb2Ygb3VyIEJsYWNrIEZy
+aWRheSAyMDI1IGNhbXBhaWduIHdoZXJlIHdlIHdpbGwgc2hvdyB1c2VycyBhIGNvbWJpbmF0aW9uIG9mIHRoZSBsb3dlc3QgZmxpZ2h0cyBwcmljZXMgZm9yIFRyYXZlbCBUdWVzZGF5LlxyXG5cblRo
+aXMgd2lsbCBiZSBwYXJ0IG9mIGEgYmFubmVyIGVuY291cmFnaW5nIHVzZXJzIHRvIGRvd25sb2FkIHRoZSBTa3lzY2FubmVyIGFwcC5cclxuXG5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVz
+LnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZGUxZDFhZDJmMzRkZjRlMThjODU0MmZlNjRlMTU3OGFhOGU4MmM3N2VlOTI5NTliZGJjZTY1ZmJhYjU3NTRlOS8yNzI3ODI5MS9zY3JlZW5zaG90LnVybCJ9
+fSx7ImlkX3JlcXVlc3QiOjI3Mjc4MzM1LCJpZF9jb250ZW50IjoiaW9zX3BsYXRmb3JtX2ZsaWdodHMvQUNDRVNTSUJJTElUWV9QcmljZUFsZXJ0c19PZmYiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3Bs
+YWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ik9mZiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuQWNjZXNzaWJpbGl0eSB2
+YWx1ZSBmb3IgaW5hY3RpdmUgcHJpY2UgYWxlcnQuIFRoZSBiZWxsIGJ1dHRvbiB3aWxsIGJlIHJlYWQgb3V0IGJ5IFZvaWNlT3ZlciBhcyBcIlByaWNlIEFsZXJ0cywgT2ZmXCJcbiIsInNjcmVlbnNo
+b3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZGUxZDFhZDJmMzRkZjRlMThjODU0MmZlNjRlMTU3OGFhOGU4MmM3N2VlOTI5NTliZGJjZTY1ZmJhYjU3NTRlOS8yNzI3ODMz
+NS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3Mjc4NDA2LCJpZF9jb250ZW50IjoiYmFuYW5hL2t0eHRfdGlja2V0X2Jvb2tpbmdfb3B0aW9uc19mcm9tX3Npbmd1bGFyIiwiY29udGVu
+dF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiIxIGJvb2tpbmcgb3B0aW9uIGZyb20iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBD
+b21tZW50Jmx0Oy9oMSZndDtcbkNUQSB0ZXh0IG9uIGZsaWdodHMgdGlja2V0IHN0dWIsIHdoZW4gdGhlcmUgaXMgb25lIGJvb2tpbmcgb3B0aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxl
+cy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2RlMWQxYWQyZjM0ZGY0ZTE4Yzg1NDJmZTY0ZTE1NzhhYThlODJjNzdlZTkyOTU5YmRiY2U2NWZiYWI1NzU0ZTkvMjcyNzg0MDYvc2NyZWVuc2hvdC51cmwi
+fX0seyJpZF9yZXF1ZXN0IjoyNzI3ODQxNSwiaWRfY29udGVudCI6Imlvc19wbGF0Zm9ybV9mbGlnaHRzL0FDQ0VTU0lCSUxJVFlfUHJpY2VBbGVydHNfT24iLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3Bs
+YWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ik9uIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5BY2Nlc3NpYmlsaXR5IHZh
+bHVlIGZvciBhY3RpdmUgcHJpY2UgYWxlcnQuIFRoZSBiZWxsIGJ1dHRvbiB3aWxsIGJlIHJlYWQgb3V0IGJ5IFZvaWNlT3ZlciBhcyBcIlByaWNlIEFsZXJ0cywgT25cIlxuIiwic2NyZWVuc2hvdCI6
+Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVmYmFiNTc1NGU5LzI3Mjc4NDE1L3Nj
+cmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyNzg0NTEsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9FbWFpbF9UcmF2ZWxUdWVzZGF5XzIwMjVfU3ViaGVhZGVyIiwiY29udGVudF90
+eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJPZiAxMDAgYmlsbGlvbiBwcmljZXMgc2Nhbm5lZCBkYWlseSwgdGhlc2UgYXJlIHlvdXIgYWJzb2x1dGUgY2hlYXBl
+c3QgZGVzdGluYXRpb25zIHRvIHZpc2l0LiAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O1NpemUgUmVzdHJpY3Rpb24mbHQ7L2gxJmd0O1xuMTAwXG4mbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENv
+bW1lbnQmbHQ7L2gxJmd0O1xuVGhpcyBzdHJpbmcgd2lsbCBiZSB1c2VkIGFzIHBhcnQgb2Ygb3VyIEJsYWNrIEZyaWRheSAyMDI1IGNhbXBhaWduIHdoZXJlIHdlIHdpbGwgc2hvdyB1c2VycyBhIGNv
+bWJpbmF0aW9uIG9mIHRoZSBsb3dlc3QgZmxpZ2h0cyBwcmljZXMgZm9yIFRyYXZlbCBUdWVzZGF5LlxyXG5cblRoaXMgd2lsbCBiZSB0aGUgZW1haWwgc3ViaGVhZGVyLlxyXG5cblxuIiwic2NyZWVu
+c2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVmYmFiNTc1NGU5LzI3Mjc4
+NDUxL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyNzg0OTEsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9QdXNoX0JsYWNrRnJpZGF5X0xhdW5jaF9Ecm9wc19Cb2R5MSIsImNv
+bnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiRHJvcHMgc2hvd3MgdGhlIGJpZ2dlc3QgcHJpY2UgZHJvcHMgb24gZmxpZ2h0cyBmcm9tIEBAaG9tZS1j
+aXR5QEAuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtTaXplIFJlc3RyaWN0aW9uJmx0Oy9oMSZndDtcbjgwXG4mbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuVGhp
+cyBzdHJpbmcgd2lsbCBiZSB1c2VkIGluIGEgb3VyIEJsYWNrIEZyaWRheSBjYW1wYWlnbiBmb3IgMjAyNS4gVGhpcyBwdXNoIHdpbGwgYmUgdXNlZCBwcmlvciB0byBCbGFjayBGcmlkYXkgdG8gaGVs
+cCB1c2VyIGdldCB0aGUgbW9zdCBvdXQgb2YgdGhlIHdlZWtlbmQuXHJcblxuVGhpcyB3aWxsIGJlIHRoZSBwdXNoIGJvZHkgY29weS5cclxuXG5AQGhvbWUtY2l0eUBAIHdpbGwgYmUgcG9wdWxhdGVk
+IHdpdGggdGhlIG5hbWUgb2YgY2l0eSBvZiB0aGUgdXNlcidzIGhvbWUgYWlycG9ydC5cclxuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2RlMWQx
+YWQyZjM0ZGY0ZTE4Yzg1NDJmZTY0ZTE1NzhhYThlODJjNzdlZTkyOTU5YmRiY2U2NWZiYWI1NzU0ZTkvMjcyNzg0OTEvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzI3ODU2NiwiaWRf
+Y29udGVudCI6ImJhbmFuYS9wYWNrYWdlc19lbnRyeV9wb2ludF92YWx1ZV90ZXh0IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJCdW5kbGUg
+ZmxpZ2h0cyB3aXRoIGEgaG90ZWwgYW5kIGJhZyBhIGdyZWF0IGRlYWwiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O1NpemUgUmVzdHJpY3Rpb24mbHQ7L2gxJmd0O1xuMTIwXG4mbHQ7aDEm
+Z3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuQm9keSB0ZXh0IGZvciBwYWNrYWdlcyBlbnRyeXBvaW50IGJhbm5lciBpbiBCYW5hbmFcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVz
+LnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZGUxZDFhZDJmMzRkZjRlMThjODU0MmZlNjRlMTU3OGFhOGU4MmM3N2VlOTI5NTliZGJjZTY1ZmJhYjU3NTRlOS8yNzI3ODU2Ni9zY3JlZW5zaG90LnVybCJ9
+fSx7ImlkX3JlcXVlc3QiOjI3Mjc4NjA2LCJpZF9jb250ZW50IjoiYmFuYW5hL3BhY2thZ2VzX2VudHJ5X3BvaW50X2N0YV90ZXh0IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGlt
+aXQiOm51bGwsImNvbnRlbnQiOiJHbyB0byBwYWNrYWdlcyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7U2l6ZSBSZXN0cmljdGlvbiZsdDsvaDEmZ3Q7XG4xMjBcbiZsdDtoMSZndDtEZXZl
+bG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5DYWxsIHRvIGFjdGlvbiBidXR0b24gdGV4dCBmb3IgcGFja2FnZXMgZW50cnlwb2ludCBiYW5uZXIgaW4gQmFuYW5hXG4iLCJzY3JlZW5zaG90IjoiaHR0
+cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2RlMWQxYWQyZjM0ZGY0ZTE4Yzg1NDJmZTY0ZTE1NzhhYThlODJjNzdlZTkyOTU5YmRiY2U2NWZiYWI1NzU0ZTkvMjcyNzg2MDYvc2NyZWVu
+c2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzI3ODYyMywiaWRfY29udGVudCI6ImhvdGVsc193ZWJzaXRlL3VuY2F0ZWdvcml6ZWQiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9s
+aW1pdCI6bnVsbCwiY29udGVudCI6IkFkZGl0aW9uYWwgZmVlcyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuQSBuZXcgdHlwZSBoYXMg
+YmVlbiBpbnRyb2R1Y2VkIHRvIHJlcHJlc2VudCBhIHRheCBvciBmZWUsIHdoaWNoIGlzIG5vdyBkaXNwbGF5ZWQgaW4gdGhlIHByaWNlIGJyZWFrZG93biBjb21wb25lbnQgZm9yIGJvdGggRFYgYW5k
+IEhELlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVm
+YmFiNTc1NGU5LzI3Mjc4NjIzL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyNzg2NzIsImlkX2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9DYXJIaXJlX1JlY29tbWVuZGVkX0Rlc2NyaXB0
+aW9uX0NvbnRlbnRfRlIiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlJlY29tbWVuZGVkIHJlc3VsdHMgYXJlIGJhc2VkIG9uIG91ciBjb21t
+ZXJjaWFsIGFncmVlbWVudHMuICBUaGV5IGRvbuKAmXQgY292ZXIgdGhlIHdob2xlIG1hcmtldC5cbldlIGdyb3VwIGNhcnMgYnkgdHlwZSBhbmQgcGljay11cCBsb2NhdGlvbiwgdGhlbiByYW5rIHRo
+ZW0gY29uc2lkZXJpbmcgcHJpY2UsIHBvcHVsYXJpdHksIHZhbHVlIGZvciBtb25leSBhbmQgcG90ZW50aWFsIHJldmVudWUuXG5JZiB0aGUgc2FtZSBjYXIgaXMgb2ZmZXJlZCBieSBtdWx0aXBsZSBw
+cm92aWRlcnMsIHdlIHJhbmsgdGhlaXIgb2ZmZXJzIHVzaW5nIHByaWNlLCBwb3B1bGFyaXR5LCBhbmQgb3VyIHBvdGVudGlhbCByZXZlbnVlLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7
+RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuVGhpcyBpcyBzaG93biBhdCBzb3J0aW5nIHBhbmVsIHRvIGV4cGxhaW4gaG93IHRoZSByZWNvbW1lbmRlZCBzb3J0aW5nIHdvcmtpbmcuIEFzIEZy
+YW5jZSBpbmRlZWQgaGF2ZSBtb3JlIHN0cmljdCBsZWdhbCByZXF1aXJlbWVudCB0byBleHBvc2UgaG93IHdlIHRha2UgdGhvc2UgYWxnb3JpdGhtIHRoaW5ncy4gIFxuIiwic2NyZWVuc2hvdCI6Imh0
+dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kZTFkMWFkMmYzNGRmNGUxOGM4NTQyZmU2NGUxNTc4YWE4ZTgyYzc3ZWU5Mjk1OWJkYmNlNjVmYmFiNTc1NGU5LzI3Mjc4NjcyL3NjcmVl
+bnNob3QudXJsIn19XX1d</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTdFRDAyQSIgcGFja2FnZUlk
+PSJkZGVjMjdhMi1hZmZhLTQ1NjYtYTU3NC1lNDY1YTQ4N2IzZTciIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ia28tS1IiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMDUgMTU6NDg6MjcrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJvTms3WEtEZU1ZLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9Im9OazdYS0RlTVkub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-05-13:47:58" mtc:id-order-group="handoff_05_11_2025" original="de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9" source-language="en-GB" target-language="ko-KR">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4769269742">
+<source xml:lang="en-GB">The cheapest getaways from @@home@@ are yours for only @@deal-price@@ return</source>
+<seg-source><mrk mid="0" mtype="seg">The cheapest getaways from @@home@@ are yours for only @@deal-price@@ return</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">@@home@@에서 출발하는 왕복 단돈 @@deal-price@@의 저렴한 휴가를 손에 넣으세요.</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">8.47</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278131</note>
+<note>translation_context|¶|publisher/ktxt_Push_CyberMonday_2025_Body2</note>
+<note annotates="source" from="id_content">publisher/ktxt_Push_CyberMonday_2025_Body2</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+81
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+This string will be used as part our Black Friday campaign for 2025. This push will be sent on Cybe Monday to show the lowest flight price available from the user's home airport.
+
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278131/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4769269743">
+<source xml:lang="en-GB">from @@price@@</source>
+<seg-source><mrk mid="0" mtype="seg">from @@price@@</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">최저가 @@price@@부터</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278206</note>
+<note>translation_context|¶|banana/ktxt_CTA_button_from</note>
+<note annotates="source" from="id_content">banana/ktxt_CTA_button_from</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Will be used on the CTA button. Text above will read "X booking options"
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278206/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4769269744">
+<source xml:lang="en-GB">Explore shows your cheapest destinations to visit from @@home-city@@.</source>
+<seg-source><mrk mid="0" mtype="seg">Explore shows your cheapest destinations to visit from @@home-city@@.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">@@home-city@@에서 갈 만한 최저가 여행지를 지금 확인해 보세요.</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">5.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278211</note>
+<note>translation_context|¶|publisher/ktxt_Push_BlackFriday_Launch_Explore_Body</note>
+<note annotates="source" from="id_content">publisher/ktxt_Push_BlackFriday_Launch_Explore_Body</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+70
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+This string will be used in a our Black Friday campaign for 2025. This push will be used prior to Black Friday to help user get the most out of the weekend.
+
+This will be the push body copy.
+
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278211/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4769269745">
+<source xml:lang="en-GB">{{number}} booking options from</source>
+<seg-source><mrk mid="0" mtype="seg">{{number}} booking options from</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">{{number}}가지 예약 옵션 최저가</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278286</note>
+<note>translation_context|¶|banana/ktxt_ticket_booking_options_from</note>
+<note annotates="source" from="id_content">banana/ktxt_ticket_booking_options_from</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+CTA text on flights ticket stub, when there are multiple booking options
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278286/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4769269746">
+<source xml:lang="en-GB">Scan QR code to download.</source>
+<seg-source><mrk mid="0" mtype="seg">Scan QR code to download.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">QR 코드를 스캔하여 다운로드하세요.</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278291</note>
+<note>translation_context|¶|publisher/ktxt_Email_BlackFriday_2025_AppBanner_Subheader</note>
+<note annotates="source" from="id_content">publisher/ktxt_Email_BlackFriday_2025_AppBanner_Subheader</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+100
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+This string will be used as part of our Black Friday 2025 campaign where we will show users a combination of the lowest flights prices for Travel Tuesday.
+
+This will be part of a banner encouraging users to download the Skyscanner app.
+
+
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278291/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4769269747">
+<source xml:lang="en-GB">Off</source>
+<seg-source><mrk mid="0" mtype="seg">Off</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">꺼짐</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278335</note>
+<note>translation_context|¶|ios_platform_flights/ACCESSIBILITY_PriceAlerts_Off</note>
+<note annotates="source" from="id_content">ios_platform_flights/ACCESSIBILITY_PriceAlerts_Off</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Accessibility value for inactive price alert. The bell button will be read out by VoiceOver as "Price Alerts, Off"
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278335/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4769269748">
+<source xml:lang="en-GB">1 booking option from</source>
+<seg-source><mrk mid="0" mtype="seg">1 booking option from</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">1가지 예약 옵션 최저가</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278406</note>
+<note>translation_context|¶|banana/ktxt_ticket_booking_options_from_singular</note>
+<note annotates="source" from="id_content">banana/ktxt_ticket_booking_options_from_singular</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+CTA text on flights ticket stub, when there is one booking option
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278406/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4769269749">
+<source xml:lang="en-GB">On</source>
+<seg-source><mrk mid="0" mtype="seg">On</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">켜짐</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278415</note>
+<note>translation_context|¶|ios_platform_flights/ACCESSIBILITY_PriceAlerts_On</note>
+<note annotates="source" from="id_content">ios_platform_flights/ACCESSIBILITY_PriceAlerts_On</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Accessibility value for active price alert. The bell button will be read out by VoiceOver as "Price Alerts, On"
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278415/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4769269750">
+<source xml:lang="en-GB">Of 100 billion prices scanned daily, these are your absolute cheapest destinations to visit. </source>
+<seg-source><mrk mid="0" mtype="seg">Of 100 billion prices scanned daily, these are your absolute cheapest destinations to visit.</mrk> </seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">스카이스캐너가 매일 1,000억 개의 항공권을 스캔해서 찾아낸 가장 저렴한 여행지들을 보여드립니다.</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">10.78</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278451</note>
+<note>translation_context|¶|publisher/ktxt_Email_TravelTuesday_2025_Subheader</note>
+<note annotates="source" from="id_content">publisher/ktxt_Email_TravelTuesday_2025_Subheader</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+100
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+This string will be used as part of our Black Friday 2025 campaign where we will show users a combination of the lowest flights prices for Travel Tuesday.
+
+This will be the email subheader.
+
+
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278451/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4769269751">
+<source xml:lang="en-GB">Drops shows the biggest price drops on flights from @@home-city@@.</source>
+<seg-source><mrk mid="0" mtype="seg">Drops shows the biggest price drops on flights from @@home-city@@.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">Drops는 할인율이 가장 높은 @@home-city@@발 항공권들을 보여드립니다.</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">7.7</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278491</note>
+<note>translation_context|¶|publisher/ktxt_Push_BlackFriday_Launch_Drops_Body1</note>
+<note annotates="source" from="id_content">publisher/ktxt_Push_BlackFriday_Launch_Drops_Body1</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+80
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+This string will be used in a our Black Friday campaign for 2025. This push will be used prior to Black Friday to help user get the most out of the weekend.
+
+This will be the push body copy.
+
+@@home-city@@ will be populated with the name of city of the user's home airport.
+
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278491/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4769269752">
+<source xml:lang="en-GB">Bundle flights with a hotel and bag a great deal</source>
+<seg-source><mrk mid="0" mtype="seg">Bundle flights with a hotel and bag a great deal</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">항공권과 호텔을 함께 예약하고 특가 혜택을 잡으세요</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278566</note>
+<note>translation_context|¶|banana/packages_entry_point_value_text</note>
+<note annotates="source" from="id_content">banana/packages_entry_point_value_text</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+120
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Body text for packages entrypoint banner in Banana
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278566/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4769269753">
+<source xml:lang="en-GB">Go to packages</source>
+<seg-source><mrk mid="0" mtype="seg">Go to packages</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">여행 패키지로 이동하기</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278606</note>
+<note>translation_context|¶|banana/packages_entry_point_cta_text</note>
+<note annotates="source" from="id_content">banana/packages_entry_point_cta_text</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+120
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Call to action button text for packages entrypoint banner in Banana
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278606/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4769269754">
+<source xml:lang="en-GB">Additional fees</source>
+<seg-source><mrk mid="0" mtype="seg">Additional fees</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">추가 수수료</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278623</note>
+<note>translation_context|¶|hotels_website/uncategorized</note>
+<note annotates="source" from="id_content">hotels_website/uncategorized</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+A new type has been introduced to represent a tax or fee, which is now displayed in the price breakdown component for both DV and HD.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278623/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+<group id="sg28">
+<trans-unit id="tu14" xml:space="preserve" help-id="4769269755">
+<source xml:lang="en-GB">Recommended results are based on our commercial agreements.  They don’t cover the whole market.
+We group cars by type and pick-up location, then rank them considering price, popularity, value for money and potential revenue.
+If the same car is offered by multiple providers, we rank their offers using price, popularity, and our potential revenue.</source>
+<seg-source><mrk mid="0" mtype="seg">Recommended results are based on our commercial agreements.  They don’t cover the whole market.
+We group cars by type and pick-up location, then rank them considering price, popularity, value for money and potential revenue.
+If the same car is offered by multiple providers, we rank their offers using price, popularity, and our potential revenue.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">스카이스캐너가 보여드리는 추천 결과는 당사와의 상업적 계약에 기반하며 모든 시장을 포괄하지는 않습니다.&#10;렌터카는 차량 유형과 인수 위치에 따라 분류하고 가격, 인기도, 가성비, 수익 가능성을 기준으로 순위를 매깁니다.&#10;여러 판매사가 동일한 차량을 제공하는 경우 가격, 인기도, 스카이스캐너의 수익 가능성을 기준으로 순위를 매깁니다.</mrk></target>
+<count-group name="tu14"><count count-type="x-matecat-raw">55</count><count count-type="x-matecat-weighted">42.35</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27278672</note>
+<note>translation_context|¶|carhire_web/CarHire_Recommended_Description_Content_FR</note>
+<note annotates="source" from="id_content">carhire_web/CarHire_Recommended_Description_Content_FR</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+This is shown at sorting panel to explain how the recommended sorting working. As France indeed have more strict legal requirement to expose how we take those algorithm things.  
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/de1d1ad2f34df4e18c8542fe64e1578aa8e82c77ee92959bdbce65fbab5754e9/27278672/screenshot.url</note>
+</trans-unit>
+<group id="sg29">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

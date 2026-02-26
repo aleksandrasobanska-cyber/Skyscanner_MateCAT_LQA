@@ -1,118 +1,315 @@
-Spanish LQA Model Instructions
-1. Translation Approach
- • Be creative and transcreate when necessary. Modify wording to ensure natural Spanish, not forced by English structure.
- • Always preserve the original meaning.
- • Avoid literal, word-for-word translations if they sound unnatural in Spanish.
-2. Communication Style
- • Use clear, direct, transparent, and open language.
- • Appeal to user emotions.
- • Be accurate and inspiring; make the message stand out.
- • Write as if speaking to a friend; use a conversational tone.
- • Avoid repeating the same words; use synonyms to prevent redundancy.
-3. Punctuation and Spacing
- • Use punctuation to clarify meaning and ease reading; avoid unnecessary punctuation.
- • Exclamation Marks: Use sparingly; remove or add as needed for a natural tone.
- • Quotation Marks: Use angular quotation marks (« »), not English-style (“ ”).
- • Hyphens: Rare in Spanish; use only if required by convention.
- • Full Stops: Do not use in buttons, menu text, headers, or titles. Headers should be concise and match English length.
- • Bulleted Lists: Ensure correct punctuation and capitalization.
- • Special Cases: Adjust punctuation and merge sentences to improve readability.
-4. Capitalization
- • Titles and Buttons: Do not capitalize every word; follow Spanish capitalization rules.
- • Months and Days: Do not capitalize unless at the start of a sentence.
- • After Colon: Do not capitalize after a colon, except:
-  - After greetings in emails/letters.
-  - After “Nota:”, “Aviso:”, “Urgente:”.
-  - When the text after the colon is a quote.
-5. Non-breaking Spaces
- • Use non-breaking spaces (_) for dates and between numbers and symbols.
-  - Correct: 18_de_marzo_de_2020, 20_€, Ahorra un 10_% en vuelos
-  - Incorrect: 18 de marzo de 2020, 20 €, 10 % de descuento
-6. Addressing Users
- • Use informal “tú” for users.
- • Use “nosotros, nos, nuestro” for Skyscanner.
- • Use a conversational tone.
- • Exception: Use formal “usted” only in legal texts.
-7. Numbers
- • 0-10: Write out in conversational form, except for prices and percentages.
- • Four-figure numbers: No dot as thousand separator.
- • Numbers over four figures: Use non-breaking space as thousand separator.
- • Decimals: Use a comma as the decimal separator.
-8. Anglicisms
- • Avoid English words unless commonly accepted in Spanish, especially for social media and marketing. Decide on a case-by-case basis.
-9. Voice
- • Prefer active voice over passive voice.
-  - Example: “El hotel ha cancelado tu reserva.” (YES)
-  - “Tu reserva ha sido cancelada por el hotel.” (NO)
-10. Formats (Dates, Currencies, etc.)
- • Dates: Use DD/MM/YYYY format.
- • In full text, do not capitalize days or months.
-  - Correct: El viernes, 2 de septiembre de 2021
-  - Incorrect: El Viernes, 2 de Septiembre de 2021
- • Time: Use 24-hour format with colon separator.
-  - Correct: Salida hasta las 14:00
-  - Incorrect: Salida hasta las 2.00
- • “h” after time is optional; if used, add a non-breaking space before it.
- • For time variables, use “A partir de las %{time}”, not “A partir de la(s) %{time}”.
-11. URL Translation Requirements
- • No spaces; use hyphens if needed (e.g., “city-break”, not “city break”).
- • All characters must be lowercase (e.g., “city-break”, not “City-break”).
- • No extended or special characters (e.g., “e”, not “é”).
- • Only Latin characters allowed.
- • For multi-string URLs, reverse order if there is an established Spanish term (e.g., “city-breaks”).
- • Do not translate “Skyscanner” in URLs.
-12. Organization Names
- • Research official Spanish names for organizations; use the most common if no official name exists.
- • Do not translate “Skyscanner”.
- • For other companies, NGOs, and associations, use the commonly used Spanish name if available; otherwise, leave in English.
-13. Geo-terms
- • Use country names as per RAE or FAO lists.
-14. Tax/Legal Terms
- • Ensure accuracy and find the local Spanish equivalent. Research thoroughly; consult Language Lead if unsure.
-15. Inclusion
- • Phrase translations to be as gender-neutral as possible.
-16. Examples of Improved Translations
+# Skyscanner Spanish Spain (es-ES) – LQA Calibration & Style Guide
 
-English: When we started in 2003, we set out to do things differently. We wanted to show all flight options in one place, creating a simple alternative to the confusing sites that make travel feel like hard work.
-Spanish: Cuando comenzamos nuestra andadura en 2003, nos propusimos hacer las cosas de otro modo. Nuestra idea era mostrar todas las opciones de vuelo en un mismo lugar y crear una alternativa sencilla a las experiencias confusas que ofrecían algunos sitios web, que convertían los viajes en un auténtico calvario.
-IMPROVED VERSION: Cuando comenzamos nuestra andadura en 2003, nos propusimos emprender una pequeña revolución. Nuestra idea era sencilla: juntar todas las opciones de vuelo en una misma plataforma y presentárselas así al usuario; algo que nos permitiría dejar de lado los dolores de cabeza y la complejidad de las páginas de reservas de viaje.
+## 1. Style Guide Summary
 
-English: Fast forward to today and we’ve gone from a flight search engine to a global leader in travel. We're proud that more than 100 million people across the world (that's quite a few!) rely on our app and website each month to help them with their travel plans.
-Spanish: Si miramos atrás, hemos pasado de ser un motor de búsqueda de vuelos a convertirnos en líderes mundiales del sector turístico. Nos enorgullece saber que más de 100 millones de personas en todo el mundo (una cifra nada desdeñable) confían en nuestra aplicación y sitio web cada mes para ayudarles con sus planes de viaje.
-IMPROVED VERSION: Si echamos la vista atrás, hemos pasado de ser un motor de búsqueda de vuelos a convertirnos en líderes mundiales del sector turístico. Todos los meses más de 100 millones de personas en todo el mundo (¡que se dice pronto!) confían en nuestra aplicación y nuestro sitio web para planificar sus viajes, y no podríamos estar más orgullosos.
+### 1.1. Voice & Tone
+- Use **Castilian Spanish (Spain)** — warm, conversational, friendly
+- Address users with **informal "tú"** (not formal "usted")
+- **Exception:** Legal texts use formal "usted"
+- Use **"nosotros/nos/nuestro"** to refer to Skyscanner
+- Write as if talking to a friend — clear, direct, inspiring
+- **Creativity is key:** Feel free to transcreate; don't follow English structure blindly
+- **Avoid word repetition:** Use synonyms where possible
+- Skyscanner = **Skyscanner** (do not translate)
 
-English: Dedicated to making travel as simple as possible, we help each and every one of them find the best options across flights, hotels and car hire to book the perfect trip.
-Spanish: Nos dedicamos a hacer que viajar sea lo más sencillo posible y ayudamos a todas esas personas a encontrar las mejores opciones de vuelos, hoteles y alquiler de coches para reservar el viaje perfecto.
-IMPROVED VERSION: Nuestro trabajo se centra en ayudar a todas y cada una de esas personas a encontrar las mejores opciones de vuelos, hoteles y alquiler de coches, para que puedan reservar el viaje perfecto sin quebraderos de cabeza.
+### 1.2. Punctuation
 
-English: But we’re not stopping there.
-Spanish: Pero aún hay más.
-IMPROVED VERSION: ¡Pero esto no termina aquí!
+| Mark | Usage |
+|------|-------|
+| Exclamation marks (¡!) | Use prudently — can sound overexcited in Spanish |
+| Quotation marks | Use angular «» instead of English "" |
+| Hyphens | Unusual in Spanish — avoid hyphenated words |
+| Full stops | NO full stops for: buttons, menus, headers, titles |
+| Commas | Follow Spanish rules, not English source |
 
-English: It’s our mission to lead the global transformation to modern and sustainable travel
-Spanish: Nuestra misión es liderar a nivel mundial la transición hacia un modelo turístico moderno y sostenible.
-IMPROVED VERSION: Nuestra misión es encabezar/abanderar la transición hacia un modelo turístico moderno y sostenible en todo el mundo.
+- **Free to change punctuation** and merge sentences for readability
+- **Bulleted lists:** Follow Spanish punctuation/capitalization conventions
 
-English: Travel is all about freedom. So it makes sense that planning and booking your trip should be simple, not a chore.
-Spanish: Viajar es todo acerca de la libertad. Por esta razón, es importante que planificar y reservar tu viaje sea un proceso simple y no una tarea.
-IMPROVED VERSION: Viajar es sinónimo de libertad. Por eso, es importante que planificar el viaje y reservarlo sea un proceso sencillo, y no algo complejo y aburrido.
+### 1.3. Capitalization
 
-English: We know you're looking for the best prices and most flexibility to choose what's right for you. Which is why we're always hard at work making sure our app and website are super straightforward and speedy.
-Spanish: Sabemos que buscas los mejores precios y la mayor flexibilidad a la hora de elegir lo que más te conviene. Es por eso que siempre trabajamos duro para asegurarnos de que nuestra aplicación y sitio web sean muy sencillos y rápidos de usar.
-IMPROVED VERSION: Sabemos que, a la hora de elegir, las opciones que ofrecen los mejores precios y la mayor flexibilidad son las que tienen más peso en la balanza. Por eso, para nosotros es muy importante que nuestra aplicación y nuestro sitio web muestren la información de forma clara y sin retrasos/al instante/sin que te hagan perder ni un segundo. Y trabajamos sin descanso para que así sea.
+| Element | Rule |
+|---------|------|
+| Titles and buttons | Do NOT capitalize every word (unlike English) |
+| Months and days | Lowercase (enero, lunes) unless starting sentence |
+| After colon | Usually lowercase |
 
-English: Choose where you want to go, when you want to go and get the very best price from thousands of sites without having to look anywhere else. Plus, check out all the ways we can help you find a trip that's tailored to what you’re looking for, no matter your travel style or your budget.
-Spanish: Elige adónde y cuándo quieres ir, y consigue el mejor precio entre miles de sitios web sin tener que buscar en ninguna otra parte. Descubre de cuántas maneras podemos ayudarte a buscar un viaje a tu medida, independientemente del presupuesto o el estilo de viaje.
-IMPROVED VERSION: Elige tu destino y tus fechas, y consigue el mejor precio entre miles de sitios web sin salir de nuestra plataforma. Además, tenemos un montón de recursos para ayudarte a encontrar un viaje a tu medida, independientemente de cómo te guste viajar y del presupuesto que tengas. ¿A qué esperar para descubrirlos?
+**Exceptions for capital after colon:**
+- After greeting in email/letter
+- After "Nota:", "Aviso:", "Urgente:"
+- When following text is a quote
 
-English: Feeling flexible? Search ‘Everywhere’ to see where you can go for a great price. Got a destination in mind? Use our Price Alerts to find out when the fare changes.
-Spanish: ¿No tienes un plan definido? Busca «A cualquier lugar» para ver adónde puedes ir a un buen precio. ¿Tienes algún destino en mente? Utiliza nuestras alertas de precios para saber si la tarifa cambia.
-IMPROVED VERSION: ¿No tienes un plan definido? Con la opción «A cualquier lugar» te damos ideas para que viajes al mejor precio. ¿Tienes algún destino en mente? Activa nuestras alertas de precios para saber si la tarifa cambia.
+### 1.4. Non-breaking Spaces
 
-English: And once you know when and where you’re going, book in just a few quick steps, whether on our app or website which are available in more than 30 languages.
-Spanish: Y cuando sepas adónde y cuándo te vas, haz la reserva en tan solo unos pasos rápidos, ya sea a través de nuestra aplicación o sitio web, que están disponibles en más de 30 idiomas.
-IMPROVED VERSION: Y cuando tengas el viaje claro, reserva en unos pocos pasos a través de nuestra aplicación o sitio web, disponibles en más de 30 idiomas.
+Use non-breaking spaces in these contexts:
 
-English: Bringing the travel industry together
-Spanish: Uniendo el sector turístico
-IMPROVED VERSION: Unimos el sector turístico
+| Context | Correct | Incorrect |
+|---------|---------|-----------|
+| Dates | 18 de marzo de 2020 | 18de marzo de2020 |
+| Currency | 20 € | 20€ |
+| Percentage | 10 % | 10% |
+
+### 1.5. Numbers
+
+| Context | Format |
+|---------|--------|
+| 0–10 in text | Written form preferred (dos, cinco) — but flexible |
+| 4-digit numbers | No separator (1000, 2500) |
+| 5+ digit numbers | Non-breaking space separator (10 000, 100 000) |
+| Decimals | Comma (3,5) |
+| Prices/percentages | Numerals always acceptable |
+
+### 1.6. Dates & Time
+
+| Format | Example |
+|--------|---------|
+| Date | DD/MM/YYYY (02/09/2021) |
+| Full date | El viernes, 2 de septiembre de 2021 (lowercase) |
+| Time | 24-hour with colon (14:00) |
+| Time with "h" | Optional: 14:00 or 14:00 h (space before h) |
+| Time placeholders | Use "las" (covers all times except 01:00) |
+
+### 1.7. Active Voice
+- **Prefer active voice** over passive voice
+  - ✓ "El hotel ha cancelado tu reserva."
+  - ✗ "Tu reserva ha sido cancelada por el hotel."
+
+### 1.8. Anglicisms
+- **Avoid** English words when Spanish equivalent exists
+- **Exceptions:** Some terms allowed for Social Media/Marketing (case-by-case)
+- Common accepted terms: check-in, online, email (verify with context)
+
+### 1.9. Inclusion & Gender
+- **Try to phrase as gender neutral as possible**
+- Use inclusive constructions where natural
+
+### 1.10. Names & Geo-terms
+- **Skyscanner:** Keep in English (never translate)
+- **Country names:** Follow RAE spelling
+- **Organization names:** Research official Spanish names; keep English if no Spanish exists
+- **URLs:** No spaces, lowercase, no special characters (ñ → n, á → a)
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Creative Translation Tolerance
+
+The Style Guide explicitly encourages **transcreation and creative adaptation**.
+
+#### 2.1.1. Do NOT Flag as "Mistranslation"
+- Restructured sentences that preserve meaning
+- Different wording that sounds more natural in Spanish
+- Merged or split sentences for better readability
+- Changed sentence structure from English source
+- Idiomatic Spanish expressions replacing literal translations
+- Synonym use to avoid word repetition
+
+#### 2.1.2. Do NOT Flag as "Omission/Addition"
+- Words added for natural Spanish flow
+- Words omitted that are redundant in Spanish
+- Restructuring that conveys same message differently
+- Cultural adaptations that preserve intent
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.2. Punctuation Tolerance
+
+The Style Guide states translators are **free to change punctuation**.
+
+#### 2.2.1. Acceptable Quotation Mark Variations
+
+| Style | Accept? |
+|-------|---------|
+| Angular «ejemplo» | ✓ Preferred |
+| Straight "ejemplo" | ✓ Accept (system limitations) |
+| English curly "ejemplo" | ✓ Accept (minor) |
+
+#### 2.2.2. Do NOT Flag
+- Exclamation marks added or removed for appropriate Spanish tone
+- Merged sentences for readability
+- Changed comma placement following Spanish rules
+- No full stop on buttons, CTAs, titles, headers
+- Different punctuation than source if meaning is preserved
+
+#### 2.2.3. Only Flag If
+- Question becomes statement (¿? removed from question)
+- Punctuation creates meaning confusion
+- Full stop on button/CTA (should not have one)
+
+---
+
+### 2.3. Capitalization Tolerance
+
+Spanish capitalization differs significantly from English.
+
+#### 2.3.1. Do NOT Flag
+- Lowercase titles/buttons (correct for Spanish)
+- Lowercase months/days (enero, lunes)
+- Lowercase after colon (in most contexts)
+- Title case NOT matching English source (this is CORRECT)
+
+#### 2.3.2. Only Flag If
+- Missing capital at sentence start
+- Proper nouns in lowercase
+- Clear capitalization error by Spanish standards
+
+---
+
+### 2.4. Number & Date Format Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Written numbers 0-10 (dos, tres) OR numerals — both acceptable
+- Numerals for prices/percentages regardless of value
+- 4-digit numbers without separator (1000)
+- Comma as decimal separator (3,5)
+- Lowercase months/days in full dates
+
+#### 2.4.2. Only Flag If
+- Wrong decimal separator (period instead of comma)
+- Capitalized months/days (Enero, Lunes)
+- Clearly incorrect date format
+- AM/PM instead of 24-hour format
+
+---
+
+### 2.5. Gender Agreement Tolerance
+
+#### 2.5.1. Acceptable Gender Strategies
+
+| Strategy | Example |
+|----------|---------|
+| Masculine default for unknown users | Standard generic usage |
+| Gender-neutral restructuring | Using constructions that avoid marking gender |
+| Inclusive phrasing | Natural-sounding alternatives |
+
+**Do NOT flag:**
+- Masculine generic for unknown-gender contexts
+- Restructuring to achieve gender neutrality
+- Standard Spanish gender agreement patterns
+
+**Only flag** if gender is explicitly specified and translation contradicts it.
+
+---
+
+### 2.6. Formality Tolerance
+
+#### 2.6.1. Do NOT Flag
+- Consistent use of informal "tú" (this is CORRECT)
+- Conversational tone throughout
+- "Nosotros/nos/nuestro" for Skyscanner
+
+#### 2.6.2. Only Flag If
+- Mixed formality (tú/usted in same context)
+- Formal "usted" in non-legal content
+- Informal "tú" in legal content (should be "usted")
+
+---
+
+### 2.7. Active Voice Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Active voice constructions (preferred)
+- Passive voice when it sounds natural in Spanish
+- Restructuring from passive to active
+
+#### 2.7.2. Only Flag If
+- Awkward passive construction when active would be clearly better
+- Meaning changed by voice transformation
+
+---
+
+### 2.8. Terminology & Synonym Tolerance
+
+The Style Guide encourages **synonym use to avoid repetition**.
+
+| English | Acceptable Spanish Options |
+|---------|----------------------------|
+| Flight | vuelo |
+| Book (verb) | reservar, hacer una reserva |
+| Search | buscar, busca |
+| Deal | oferta, promoción, chollo (marketing) |
+| Trip | viaje, escapada, aventura |
+| Hotel | hotel, alojamiento |
+| Save (money) | ahorrar, ahorra |
+| Save (bookmark) | guardar |
+| App | aplicación, app |
+| Website | sitio web, página web, web |
+
+**Do NOT flag** reasonable synonym choices or varied vocabulary.
+
+---
+
+### 2.9. Anglicism Tolerance
+
+#### 2.9.1. Do NOT Flag
+- Widely accepted terms: online, email, check-in, app, web
+- Terms without good Spanish equivalent
+- Marketing/Social Media contexts with appropriate anglicisms
+
+#### 2.9.2. Only Flag If
+- Anglicism when clear Spanish equivalent exists and would be better
+- Unnecessary English that hinders comprehension
+- Inconsistent use in same text
+
+---
+
+### 2.10. Non-breaking Space Tolerance
+
+#### 2.10.1. Do NOT Flag
+- Regular spaces where non-breaking should technically be used (often system-dependent)
+- Minor spacing variations around currency/percentage symbols
+
+#### 2.10.2. Only Flag If
+- No space at all between number and symbol (20€ vs 20 €) — minor
+- Spacing creates readability issues
+
+---
+
+### 2.11. Time Placeholder Tolerance
+
+#### 2.11.1. Acceptable Time Article Handling
+
+| Source | Acceptable Spanish |
+|--------|-------------------|
+| `after {{time}}` | `a partir de las {{time}}` |
+| `at {{time}}` | `a las {{time}}` |
+
+**Do NOT flag:**
+- Use of "las" for time placeholders (covers all times except 01:00)
+- Avoiding "la(s)" construction
+
+**Only flag** if article usage creates clear grammatical error.
+
+---
+
+### 2.12. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong currency |
+| **Major** | Core meaning changed, factual errors, wrong formality (tú/usted mismatch) |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.11 |
+
+---
+
+### 2.13. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **creative adaptation** that sounds natural in Spanish?
+2. ☐ Is the **informal "tú" register** consistently used (except legal)?
+3. ☐ Does **capitalization** follow Spanish rules (not English)?
+4. ☐ Is the **core meaning preserved** despite structural changes?
+5. ☐ Does the Style Guide **explicitly prohibit** this choice?
+6. ☐ Would a native Spain Spanish speaker find this **incorrect** (not just different)?
+7. ☐ Is **synonym variation** being used appropriately to avoid repetition?
+8. ☐ Are **quotation marks** functional even if not angular style?
+
+**If meaning is preserved AND the structure sounds natural in Spanish → DO NOT FLAG**

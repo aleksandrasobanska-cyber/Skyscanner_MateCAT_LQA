@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="EgtAGdSwnP.jsont2" source-language="en-GB" target-language="ca-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6IjUyNzY0NmYzMWJkMjYzMDkwNjM2N2NkMjAzYWJkYjVmNWNiNWQ5OWVlNjJmZDI2MjRkZDJhMDkyYTkzMmMyMTMiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0xNy0wOTo1Njo0
+NCIsImlkX29yZGVyX2dyb3VwIjpudWxsLCJpbnN0cnVjdGlvbnMiOm51bGwsInN0eWxlZ3VpZGUiOm51bGwsInJlZmVyZW5jZXMiOm51bGwsInJlcXVlc3RzIjpbeyJpZF9yZXF1ZXN0IjoyNzU2NDc0
+NywiaWRfY29udGVudCI6ImNvbWJpbmVkX3NlYXJjaF9leHBsb3JlL3NlYXJjaF93aWRnZXRfY2FsZW5kYXJfc2VhcmNoX2FueXRpbWUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9s
+aW1pdCI6bnVsbCwiY29udGVudCI6IlNlYXJjaCBhbnl0aW1lIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5DVEEgYnV0dG9uIHRoYXQg
+c2VhcmNoZXMgZm9yIFwiQW55dGltZVwiIGluc3RlYWQgb2YgYSBzcGVjaWZpYyBkYXRlIGluIHRoZSBmbGlnaHQgc2VhcmNoLlxuJmx0O2gxJmd0O1RyYW5zbGF0b3IgQ29tbWVudCZsdDsvaDEmZ3Q7
+XG5QbGVhc2UgdHJ5IHRvIHNob3J0ZW4gdG8gYXBwcm94aW1hdGVseSAyMyBjaGFyYWN0ZXJzXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzUyNzY0
+NmYzMWJkMjYzMDkwNjM2N2NkMjAzYWJkYjVmNWNiNWQ5OWVlNjJmZDI2MjRkZDJhMDkyYTkzMmMyMTMvMjc1NjQ3NDcvc2NyZWVuc2hvdC51cmwifX1dfV0=</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="ca-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTA3QjYzNyIgcGFja2FnZUlk
+PSI4YWMyMDcxYi1lYzgwLTRiOGUtYWMzMS0zMWJlMDA5ZTdiODYiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iY2EtRVMiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMTcgMTE6NTc6MjMrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJFZ3RBR2RTd25QLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9IkVndEFHZFN3blAub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-17-09:56:44" original="527646f31bd2630906367cd203abdb5f5cb5d99ee62fd2624dd2a092a932c213" source-language="en-GB" target-language="ca-ES">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4779070223">
+<source xml:lang="en-GB">Search anytime</source>
+<seg-source><mrk mid="0" mtype="seg">Search anytime</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Cerca qualsevol data</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27564747</note>
+<note>translation_context|¶|combined_search_explore/search_widget_calendar_search_anytime</note>
+<note annotates="source" from="id_content">combined_search_explore/search_widget_calendar_search_anytime</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+CTA button that searches for "Anytime" instead of a specific date in the flight search.
+&amp;lt;h1&amp;gt;Translator Comment&amp;lt;/h1&amp;gt;
+Please try to shorten to approximately 23 characters
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/527646f31bd2630906367cd203abdb5f5cb5d99ee62fd2624dd2a092a932c213/27564747/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

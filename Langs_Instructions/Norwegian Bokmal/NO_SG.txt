@@ -1,0 +1,332 @@
+# Skyscanner Norwegian Bokmål (NB) – LQA Calibration & Style Guide
+
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- **Imagine talking to a friend** — say what you mean and say it clearly
+- **Boil down sentences to their essence** — recreate meaning in the simplest way possible
+- **Be brief:**
+  - Long sentences? Break them up
+  - Too many words? Get rid of some
+  - Long words? Use shorter ones
+- Use **active voice** as much as possible
+- **Be interesting but not over-enthusiastic** — use strong adjectives and active verbs
+- **Avoid too many exclamation marks**
+- **Avoid industry jargon** and business speak — don't assume people know terminology
+- Skyscanner = **Skyscanner** (keep in English)
+
+### 1.2. Punctuation
+| Mark | Usage |
+|------|-------|
+| Period (.) | End of sentences |
+| Comma (,) | Between clauses |
+| Quotation marks | **« »** (guillemets) — NOT " " |
+| Exclamation mark (!) | Use sparingly — avoid overuse |
+
+### 1.3. Non-Breaking Spaces (harde mellomrom)
+Use non-breaking spaces according to official Norwegian guidelines:
+- Between **number and currency:** 100 kr, 50 €
+- Between **number and percentage symbol:** 25 %
+- Between **number and unit:** 5 km, 30 min
+
+### 1.4. Numbers & Formatting
+- Follow Norwegian conventions for number formatting
+- **Decimal separator:** comma (1,5)
+- **Thousand separator:** space or period (1 000 or 1.000)
+- Reference Språkrådet for specific conventions
+
+### 1.5. Possessives (Eiendomspronomen)
+English uses possessives more frequently than Norwegian. **Question whether possessive is necessary.**
+
+**Normal placement:** AFTER the word it modifies
+- ✅ "Hvor finner jeg bestillingen min?"
+- ❌ "Hvor finner jeg min bestilling?"
+
+**Exception:** Place BEFORE when indicating explicit contrast
+- "Dette er *din* sykkel" (contrasting with other bikes)
+
+### 1.6. Use of "Free" / "Gratis"
+**IMPORTANT: Norwegian legal restriction**
+
+According to Norwegian law (Regulation of Unreasonable Commercial Practice, §1-20):
+> "Free", "free of charge", and similar expressions may not be used in marketing if the free service is conditional on the purchase of other benefits.
+
+**Required workarounds:**
+| Avoid | Use Instead |
+|-------|-------------|
+| gratis | uten tilleggskostnader |
+| kostnadsfri | inkludert tilleggstjenester |
+| free | uten ekstra kostnad |
+
+### 1.7. Anglicisms
+Use the most widely known term in Norwegian. If it's an established anglicism, it's acceptable. However, **prefer Norwegian alternatives when available:**
+
+| Avoid | Prefer |
+|-------|--------|
+| online | tilkoblet, på nettet, tilgjengelig |
+| sjekke | se nærmere på, ta en titt på, undersøke, besøke, se, kontrollere, gå gjennom |
+| matche | svarer til, er lik, tilsvarer, passe sammen med, stemme overens (med) |
+
+### 1.8. Transcreation & Natural Norwegian
+- Use **simple, clear Norwegian sentence structures**
+- **Avoid literal translations**
+- **Avoid translating "will" as "vil"** — use present tense instead:
+  - ❌ "Vi vil kontakte deg"
+  - ✅ "Vi kontakter deg"
+
+### 1.9. Privacy & Data Protection Content
+- Reference the **official Norwegian translation of the GDPR**
+- Use established terminology from official sources
+
+### 1.10. Reference Sources
+- **Språkrådet** (Language Council of Norway): www.sprakradet.no
+- **Bokmålsordboka**: ordbok.uib.no
+- **Det norske akademis ordbok**: naob.no
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Transcreation & Simplification Tolerance
+
+The Style Guide explicitly encourages boiling down sentences to their essence. **Accept significant restructuring that preserves meaning.**
+
+#### 2.1.1. Acceptable Transcreation Approaches
+
+| Source | Acceptable Norwegian Approaches |
+|--------|------------------------------|
+| `We will contact you` | `Vi kontakter deg` (present tense, NOT "Vi vil kontakte deg") |
+| `You will receive an email` | `Du får en e-post` OR `Du mottar en e-post` |
+| `Your booking has been confirmed` | `Bestillingen er bekreftet` OR `Bestillingen din er bekreftet` |
+| `Check out our latest deals` | `Se våre siste tilbud` OR `Ta en titt på de nyeste tilbudene` |
+| `This feature allows you to...` | `Med denne funksjonen kan du...` OR `Her kan du...` |
+
+**Do NOT flag** if the translator:
+- Simplifies complex sentence structures
+- Breaks long sentences into shorter ones
+- Uses shorter words with equivalent meaning
+- Removes unnecessary words while preserving meaning
+- Uses present tense instead of "vil + infinitive"
+
+#### 2.1.2. Do NOT Flag as "Mistranslation"
+- Simplified sentences that preserve core meaning
+- Restructured sentences using natural Norwegian word order
+- Condensed phrasing that eliminates redundancy
+- Active voice replacing passive voice
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.2. Possessive Placement Tolerance
+
+Norwegian possessive placement differs from English. **Accept Norwegian-standard placement.**
+
+#### 2.2.1. Acceptable Possessive Approaches
+
+| Source | Acceptable Norwegian |
+|--------|---------------------|
+| `your booking` | `bestillingen din` (possessive AFTER — standard) |
+| `my account` | `kontoen min` (possessive AFTER — standard) |
+| `your trip` | `reisen din` OR `turen din` |
+| `Check your email` | `Sjekk e-posten din` OR `Sjekk e-posten` (possessive omitted) |
+
+**Do NOT flag:**
+- Possessive placed AFTER noun (standard Norwegian)
+- Possessive omitted when meaning is clear from context
+- Possessive placed BEFORE noun when indicating contrast
+
+**Only flag** if possessive placement creates ambiguity or unnatural phrasing.
+
+---
+
+### 2.3. "Free" / "Gratis" Handling Tolerance
+
+Due to Norwegian legal restrictions, translators must avoid "gratis" in certain contexts.
+
+#### 2.3.1. Acceptable Workarounds for "Free"
+
+| Source | Acceptable Norwegian Approaches |
+|--------|------------------------------|
+| `Free cancellation` | `Avbestilling uten tilleggskostnad` OR `Gratis avbestilling` (if truly free) |
+| `Free service included` | `Inkludert tilleggstjenester` OR `Uten ekstra kostnad` |
+| `Book for free` | `Bestill uten tilleggskostnader` |
+
+**Do NOT flag:**
+- "Gratis" replaced with "uten tilleggskostnader" or similar
+- "Kostnadsfri" replaced with "inkludert" constructions
+- Creative workarounds that avoid legal issues while preserving meaning
+
+**Only flag** if the workaround changes the core meaning OR if "gratis" is used where it may violate Norwegian marketing law.
+
+---
+
+### 2.4. Anglicism Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Established anglicisms widely used in Norwegian
+- Technical terms without good Norwegian equivalents
+- Brand/product names in English
+- Norwegian alternatives used instead of anglicisms (preferred)
+
+#### 2.4.2. Acceptable Anglicism Replacements
+
+| Anglicism | Acceptable Norwegian Alternatives |
+|-----------|----------------------------------|
+| online | tilkoblet, på nettet, tilgjengelig, på nett |
+| sjekke | se nærmere på, ta en titt på, undersøke, besøke, se, kontrollere |
+| matche | svarer til, er lik, tilsvarer, passe sammen med, stemme overens med |
+| checke inn | sjekke inn (for flights - acceptable) |
+| email | e-post (preferred) |
+
+**Only flag** if anglicism creates comprehension issues or a clear Norwegian equivalent exists and wasn't used.
+
+---
+
+### 2.5. Quotation Mark Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Correct use of guillemets « »
+- Minor variations in quotation mark style within acceptable range
+
+#### 2.5.2. Only Flag If
+- Straight quotes " " used instead of guillemets « »
+- Quotation marks missing where required
+- Inconsistent quotation mark usage within same text
+
+---
+
+### 2.6. Punctuation & Formatting Tolerance
+
+#### 2.6.1. Do NOT Flag
+- Reduced exclamation marks (one instead of multiple)
+- Simplified punctuation that maintains clarity
+- Non-breaking spaces used according to Norwegian standards
+- Comma usage variations within Norwegian norms
+
+#### 2.6.2. Only Flag If
+- Excessive exclamation marks
+- Missing non-breaking space where required (number + currency/percentage)
+- Punctuation creates meaning confusion
+- Question mark missing from questions
+
+---
+
+### 2.7. Meaning-Based Translation Tolerance
+
+The Style Guide explicitly encourages saying what you mean clearly and simply.
+
+#### 2.7.1. Do NOT Flag as "Omission/Addition"
+- Words removed that are unnecessary in Norwegian
+- Words added for natural Norwegian expression
+- Possessives omitted when context makes ownership clear
+- "Will" not translated as "vil" (present tense used instead)
+- Implied subjects/objects when clear from context
+
+#### 2.7.2. Do NOT Flag as "Mistranslation"
+- Idiomatic Norwegian expressions replacing English idioms
+- Simplified explanations of complex concepts
+- Industry jargon replaced with plain language
+- Business speak replaced with conversational tone
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.8. Terminology & Synonym Tolerance
+
+| English | Acceptable Norwegian Options |
+|---------|------------------------------|
+| Flight | flyreise, fly, flyvning |
+| Book | bestill, reserver, book |
+| Search | søk, finn, let etter |
+| Deal/Offer | tilbud, avtale |
+| Trip | reise, tur |
+| Hotel | hotell, overnattingssted |
+| Discover | oppdag, utforsk, finn |
+| View | se, vis, ta en titt på |
+| Save | spar (money), lagre (data) |
+| Check | sjekk, se, kontroller |
+
+**Do NOT flag** reasonable synonym choices unless they change meaning.
+
+---
+
+### 2.9. Brevity Tolerance
+
+The Style Guide explicitly requires brevity. **Accept condensed translations.**
+
+#### 2.9.1. Do NOT Flag
+- Shorter translations that preserve meaning
+- Long sentences broken into shorter ones
+- Redundant words removed
+- Complex structures simplified
+- Contextually obvious words omitted
+
+#### 2.9.2. Only Flag If
+- Essential information omitted
+- Brevity causes ambiguity
+- Meaning is lost
+
+---
+
+### 2.10. Tone & Register Tolerance
+
+#### 2.10.1. Do NOT Flag
+- Conversational, friendly tone (as if talking to a friend)
+- Direct, clear phrasing
+- Jargon-free language replacing technical terms
+- Active voice replacing passive voice
+- Simple words replacing complex ones
+
+#### 2.10.2. Only Flag If
+- Tone is inappropriate for context (too formal in casual content or vice versa)
+- Register inconsistent within same text
+- Language is confusing or unclear
+
+---
+
+### 2.11. Legal/GDPR Content Tolerance
+
+#### 2.11.1. Do NOT Flag
+- Terminology from official Norwegian GDPR translation
+- Formal register in legal/privacy content
+- Technical legal terms used correctly
+
+#### 2.11.2. Only Flag If
+- Legal terminology deviates from official Norwegian standards
+- Privacy/data protection terms are inaccurate
+- Legal meaning is changed
+
+---
+
+### 2.12. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong language, legal compliance issues (gratis misuse) |
+| **Major** | Core meaning changed, factual errors, grammatical errors that impede understanding |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range, quotation mark style |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.11 |
+
+---
+
+### 2.13. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **simplification or transcreation** encouraged by the Style Guide?
+2. ☐ Is the **core meaning preserved** despite structural changes?
+3. ☐ Is the **possessive placement** following Norwegian norms (after noun)?
+4. ☐ Is "gratis" avoided appropriately due to **Norwegian legal requirements**?
+5. ☐ Is an **anglicism replaced with Norwegian equivalent** (preferred by Style Guide)?
+6. ☐ Does the Style Guide **explicitly prohibit** this choice?
+7. ☐ Would a native Norwegian speaker find this **incorrect** (not just different)?
+8. ☐ Is the translation **appropriately brief** as required?
+9. ☐ Are **guillemets « »** used instead of straight quotes (Norwegian standard)?
+
+**If meaning is preserved AND the translation follows Norwegian language norms → DO NOT FLAG**

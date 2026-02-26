@@ -13,6 +13,18 @@ def format_tb_matches_friendly(matches_list):
     Converts a list of dicts [{'source': 'A', 'target': 'B'}]
     into a string "A -> B\nC -> D".
     """
+    if matches_list is None:
+        return "No matches"
+
+    # Handle numpy arrays / tuples produced by parquet round-trip
+    if hasattr(matches_list, "tolist"):
+        try:
+            matches_list = matches_list.tolist()
+        except Exception:
+            pass
+    if isinstance(matches_list, tuple):
+        matches_list = list(matches_list)
+
     if not isinstance(matches_list, list) or not matches_list:
         return "No matches"
 

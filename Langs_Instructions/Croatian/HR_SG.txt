@@ -1,72 +1,251 @@
-Skyscanner Croatian LQA Model Instructions
+# Skyscanner Croatian (HR) – LQA Calibration & Style Guide
 
-1. General Principles
- • Familiarization: Review the Skyscanner website and/or download the iOS or Android app to understand the product and context.
- • Reference Materials: For grammar, syntax, and spelling, refer to:
-  - Hrvatski pravopis (spelling)
-  - Pravopisna pravila (punctuation)
-  - Hrvatski jezični priručnik (inflections)
-  - Enciklopedija (clarification)
-  - Common data repository for Croatian (accepted terminology)
-  - Kolokacijska baza hrvatskog jezika
-  - Hrvatsko strukovno nazivlje
+## 1. Style Guide Summary
 
-2. Tone of Voice
- • Be Specific: Avoid vague statements. Provide concrete, actionable details.
-  - Example: Instead of “The hotel is a short walk from the train station,” use “The hotel is a mile’s walk (with lots of steps, be prepared if you’ve got kids) from the train station.”
- • Conversational Style: Write as if speaking to a friend. Use natural, clear language.
- • Personal Touch: Use personal experience to add credibility and detail.
-  - Example: Instead of “The food was delicious,” use “The restaurant fuses Italian and Californian flavours. Their short rib with gnocchi is one of the best things I’ve ever tasted: really smoky and rich.”
- • Engaging Content: Make the text interesting and lively.
-  - Example: Instead of “The museum has lots of historical artefacts,” use “The museum is awesome - I saw a collection of real-life shrunken heads.”
- • Honesty: Be transparent about pros and cons.
-  - Example: “This BBQ restaurant is one of the best in the city. Not so many options for vegetarians though.”
-  - Example: “This is one of the best hotels I’ve ever stayed in - but it’s also one of the most expensive.”
- • Accuracy: Double-check all factual information (spellings, opening times, locations, historical details, names).
- • Exclamation Marks: Use sparingly.
+### 1.1. Voice & Tone
+- Use a **friendly, personal, conversational tone** — write as if talking to a friend
+- Be **specific, interesting, and honest** — provide useful, concrete information
+- Say what you mean clearly and naturally
+- Use **exclamation marks sparingly**
+- Brand name: **Skyscanner** (keep in English)
 
-3. Language-Specific Translation Guidelines
-Form of Address (“you”)
- • Use 2nd person plural (vi) when addressing, encouraging, instructing, or prompting the user to do something.
- • Use 2nd person singular (ti) when the user is addressing, instructing, or telling the system to do something for them.
+### 1.2. Form of Address (Translation of "you")
+Croatian distinguishes between formal/informal and singular/plural address:
 
-4. Formatting and Technical Conventions
-Dates and Time
- • Capitalization: Days, months, and seasons are not capitalized.
- • Order: Day comes before month, year at the end.
-  - Examples:
-   - 12. 4. 2019.
-   - 12. travnja 2019.
-   - 12. ožu 2020.
- • Abbreviations:
-  - Days: pon, uto, sri, čet, pet, sub, ned
-  - Months: sij, velj, ožu, tra, svi, lip, srp, kol, ruj, lis, stu, pro (no endpoints)
- • Time Format: Use 24-hour format with a colon.
-  - Example: 9:00 – 16:00
-Numbers
- • Decimal Separator: Use comma.
- • Thousand Separator: Use point for numbers above 999.
-  - Example: 1.000.000,00
- • Numbers 1–10: Prefer alphabetic form in descriptive text, but numeric form is acceptable for clarity.
-  - Example: “7 nights” or “seven nights”
-Currencies
- • Foreign Currencies: Use currency symbol separated from the number by a non-breaking space.
- • Croatian Currency: Use “kn”.
-Units of Measure
- • Localization: Convert to metric units commonly used in Croatia.
- • Imperial Units: If present in source, provide both original and metric (e.g., “5 in/13 cm”).
- • Non-breaking Space: Use before unit designation, %, currency, and month/year abbreviations.
-  - Shortcuts:
-   - Mac: Alt+space
-   - PC: Alt+255, Alt+0160, or Shift+Ctrl+Space
-Hyphens and Dashes
- • Hyphens (-): Use in compound nouns (e.g., web-mjesto) or for inflecting acronyms (e.g., na USB-u).
- • N Dashes (–): Use in vertical lists and ranges, surrounded by non-breaking spaces (e.g., 5 – 6 pm, 2018. – 2029.).
- • Em Dashes (—): Do not use in Croatian.
- • Pauses: Do not use dashes to mark pauses. Rephrase, start a new sentence, or use colons/semi-colons.
-Addresses
- • Localization: Localize city and country names; retain all other address elements as in the source.
-  - Example:
-   - Source: Floor 6, The Avenue, 1 Bedford Avenue, London, United Kingdom, WC1B 3AU
-   - Localized: Floor 6, The Avenue, 1 Bedford Avenue, London, Ujedinjena Kraljevina, WC1B 3AU
+| Context | Form | Example |
+|---------|------|---------|
+| Skyscanner → User (addressing, instructing, prompting) | **2nd person plural "vi"** | Istražite, Uštedite, Pratite cijene |
+| User → System (user commands, telling system what to do) | **2nd person singular "ti"** | Istraži sve, Pokaži mi |
 
+**Note:** Although friendly, the plural "vi" form is used for politeness when Skyscanner addresses users.
+
+### 1.3. Dates & Time
+| Element | Format | Example |
+|---------|--------|---------|
+| Date (numeric) | DD. MM. YYYY. | 12. 4. 2019. |
+| Date (with month name) | DD. month YYYY. | 12. travnja 2019. |
+| Date (abbreviated) | DD. mon YY. | 12. ožu 20. |
+| Day abbreviations | No periods | pon, uto, sri, čet, pet, sub, ned |
+| Month abbreviations | No periods | sij, velj, ožu, tra, svi, lip, srp, kol, ruj, lis, stu, pro |
+| Time | 24-hour with colon | 9:00 – 16:00 |
+
+**Important:** Days, months, and seasons are **NOT capitalised** in Croatian.
+
+### 1.4. Numbers & Currencies
+| Element | Format | Example |
+|---------|--------|---------|
+| Decimal separator | Comma | 108,99 |
+| Thousand separator | Point (for 1000+) | 1.000.000,00 |
+| Currency position | After number with non-breaking space | 602 kn, 1.525 € |
+| Numbers 1-10 | Flexible (spelled out OR numeric) | 7 noćenja OR sedam noćenja |
+
+### 1.5. Units of Measure
+- **Always localise** to metric units used in Croatia
+- When source uses **imperial units**, provide both: "5 in/13 cm"
+- Use **non-breaking space** before: units, %, currency symbols, month/year abbreviations
+
+### 1.6. Punctuation & Dashes
+| Element | Usage | Example |
+|---------|-------|---------|
+| Hyphen (-) | Compound nouns, acronym inflection | web-mjesto, na USB-u |
+| N dash (–) | Ranges, lists (with non-breaking spaces) | 5 – 6 pm, 2018. – 2029. |
+| Em dash (—) | **NOT used** in Croatian | — |
+| Pause in sentence | Use colon, semi-colon, or rephrase | Do NOT use dashes |
+
+### 1.7. Addresses & Toponyms
+- **Localise:** City names, country names
+- **Keep as source:** Street names, building numbers, postal codes
+- Example: "London, United Kingdom" → "London, Ujedinjena Kraljevina"
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Form of Address Tolerance
+
+The vi/ti distinction follows specific contextual rules, not rigid formality rules.
+
+#### 2.1.1. Do NOT Flag
+- "Vi" form when Skyscanner addresses, instructs, or prompts the user
+- "Ti" form for user-initiated commands or system instructions
+- Consistent use of either form within appropriate context
+- Imperative forms matching the correct register (Istražite vs. Istraži)
+
+#### 2.1.2. Only Flag If
+- "Ti" used where "vi" is required (Skyscanner → user communication)
+- "Vi" used where "ti" is required (user command contexts)
+- Inconsistent mixing within the same context/string
+- Register mismatch creates confusion or inappropriate tone
+
+---
+
+### 2.2. Date & Time Format Tolerance
+
+#### 2.2.1. Do NOT Flag
+- Minor spacing variations around periods in dates
+- Abbreviated month forms (ožu, tra) vs. full month names (ožujka, travnja)
+- 24-hour time format variations (9:00 vs. 09:00)
+- Standard Croatian abbreviations for days/months
+
+#### 2.2.2. Only Flag If
+- Wrong date order (month before day)
+- Capitalised days, months, or seasons
+- 12-hour format used without AM/PM clarity
+- Incorrect month/day abbreviations
+
+---
+
+### 2.3. Number & Currency Format Tolerance
+
+#### 2.3.1. Do NOT Flag
+- Numbers 1-10 written as digits instead of words (both acceptable)
+- Numbers 1-10 spelled out instead of digits (both acceptable)
+- Minor spacing variations around currency symbols
+- Correct use of comma for decimals and point for thousands
+
+#### 2.3.2. Only Flag If
+- Wrong decimal separator (point instead of comma)
+- Wrong thousand separator (comma instead of point)
+- Currency symbol in wrong position (before number when should be after)
+- Format creates confusion or is clearly incorrect
+
+---
+
+### 2.4. Punctuation & Dash Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Correct use of hyphen (-) for compounds and acronym inflection
+- N dash (–) used for ranges with appropriate spacing
+- Colons or semi-colons used instead of dashes for pauses
+- Minor variations in spacing around dashes in ranges
+
+#### 2.4.2. Only Flag If
+- Em dash (—) used (not standard in Croatian)
+- Dashes used to mark pauses instead of colons/semi-colons
+- Hyphen vs. n dash confusion that affects meaning
+- Missing or incorrect punctuation that creates ambiguity
+
+---
+
+### 2.5. Unit of Measure Tolerance
+
+#### 2.5.1. Do NOT Flag
+- Metric units used (correct for Croatian market)
+- Both imperial and metric provided when source was imperial
+- Rounded conversions to whole numbers
+- Non-breaking space before units (even if not visually verifiable)
+
+#### 2.5.2. Only Flag If
+- Imperial units used without metric equivalent
+- Conversion is mathematically incorrect
+- Wrong unit type entirely (weight instead of distance, etc.)
+
+---
+
+### 2.6. Meaning-Based Translation Tolerance
+
+The Style Guide encourages natural, clear communication over literal translation.
+
+#### 2.6.1. Do NOT Flag as "Mistranslation"
+- Sentences restructured for natural Croatian flow
+- Idiomatic adaptations appropriate for Croatian
+- Rephrasing that preserves core meaning
+- Condensed or simplified sentences that maintain clarity
+
+#### 2.6.2. Do NOT Flag as "Omission/Addition"
+- Articles, pronouns, or connectors adjusted for Croatian grammar
+- Elements restructured for natural expression
+- Context-appropriate adaptations
+
+**Only flag** if **core meaning is changed, lost, or contradicted**.
+
+---
+
+### 2.7. Capitalisation Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Lowercase days, months, seasons (correct for Croatian)
+- Sentence case in titles/headings
+- Proper nouns following Croatian conventions
+
+#### 2.7.2. Only Flag If
+- Days, months, or seasons incorrectly capitalised
+- Proper nouns incorrectly lowercased
+- English-style title case applied inappropriately
+
+---
+
+### 2.8. Address & Toponym Tolerance
+
+#### 2.8.1. Do NOT Flag
+- City/country names localised to Croatian
+- Street names, building details kept in source language
+- Postal codes unchanged
+- Known place names in their common Croatian form
+
+#### 2.8.2. Only Flag If
+- Country name not localised when standard Croatian name exists
+- City name incorrectly transliterated or spelled
+- Address structure broken or confusing
+
+---
+
+### 2.9. Terminology & Synonym Tolerance
+
+| English | Acceptable Croatian Options |
+|---------|----------------------------|
+| Flight | let, letovi |
+| Book | rezervirajte, napravite rezervaciju |
+| Search | pretražite, tražite |
+| Deal / Offer | ponuda, akcija |
+| Trip | putovanje, put |
+| Hotel | hotel, smještaj |
+| Save (money) | uštedite |
+| Save (data) | spremite, pohranite |
+| Car rental | najam automobila, rent-a-car |
+
+**Do NOT flag** reasonable synonym choices that preserve meaning and fit context.
+
+---
+
+### 2.10. Spacing & Non-Breaking Space Tolerance
+
+#### 2.10.1. Do NOT Flag
+- Non-breaking spaces before units, %, currency (often not visually distinguishable)
+- Regular spaces in contexts where non-breaking would be ideal but display is correct
+- Minor spacing variations that don't affect readability
+
+#### 2.10.2. Only Flag If
+- Missing space entirely between number and unit/currency
+- Spacing creates clear visual or functional issues
+- Line breaks occur inappropriately within number-unit pairs (if verifiable)
+
+---
+
+### 2.11. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, functional errors |
+| **Major** | Core meaning changed, factual errors, wrong register (ti/vi misuse in clear context), inappropriate tone |
+| **Minor** | Style preferences within acceptable range, minor inconsistencies, formatting preferences |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.10 |
+
+---
+
+### 2.12. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is the **vi/ti usage** appropriate for the specific context (Skyscanner→user vs. user→system)?
+2. ☐ Are **dates, numbers, currencies** in acceptable Croatian format?
+3. ☐ Is this a **natural Croatian expression** rather than a literal translation issue?
+4. ☐ Does the Style Guide **explicitly prohibit** this choice?
+5. ☐ Would a native Croatian speaker find this **incorrect** (not just different from source)?
+6. ☐ Is the flagged issue about **literal fidelity** rather than actual error?
+
+**If meaning is preserved AND the translation follows Croatian conventions → DO NOT FLAG**

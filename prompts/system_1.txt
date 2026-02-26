@@ -23,6 +23,7 @@ You will receive a JSON object containing three main keys:
     *   `character_limit`: (Optional) An integer representing the maximum allowed length.
         *   **Constraint:** If you provide an `edited_target` to fix a linguistic error, it **must** respect this limit.
         *   **Rule:** Do **not** log an error solely for length violations (e.g., do not flag "Design > Truncation" if the text is simply too long but linguistically correct). Only flag genuine linguistic/functional errors.
+    *   `note`: (Optional) Developer/content note. Use it to disambiguate intent (e.g., accessibility labels, state vs. action). If it conflicts with your guess, the note wins.
 2.  **`context`**: A single string containing the segment sequence (Preceding || Current || Succeeding).
     *   *Structure:* Segments are separated by ` || `.
     *   *Usage:* Use this to check flow, pronouns, gender agreement, and conjunctions.

@@ -1,53 +1,318 @@
-Instructions for Skyscanner Slovak LQA Assessment
-Section 1: General Guidelines
- • Apply Skyscanner’s tone of voice principles in all Slovak translations and writing: aim for clear, specific, friendly, and honest communication.
- • Ensure all content is natural, personal, interesting, and honest. Use the following as reference:
-  - Be specific: Provide useful, concrete details instead of vague statements. Example: Prefer “The hotel is a mile’s walk (with lots of steps, be prepared if you’ve got kids) from the train station” over “The hotel is a short walk from the train station.”
-  - Imagine you’re talking to a friend: Keep language natural and avoid trying to sound overly clever.
-  - Make it personal: Share experience-based insights instead of generic statements. Example: Prefer “The restaurant fuses Italian and Californian flavours. Their short rib with gnocchi is one of the best things I’ve ever tasted: really smoky and rich” over “The food was delicious.”
-  - Be interesting: Avoid boring formulations. Example: Prefer “The museum is awesome - I saw a collection of real-life shrunken heads” over “The museum has lots of historical artefacts.”
-  - Be honest: Disclose any potentially negative details to help users make informed decisions. Examples: “This BBQ restaurant is one of the best in the city. Not so many options for vegetarians though.” “This is one of the best hotels I’ve ever stayed in - but it’s also one of the most expensive.”
-  - Double-check for accuracy: Verify spellings, opening times, locations, and other facts since any incorrect information can damage user trust.
-  - Use exclamation marks rarely.
-Section 2: Language-Specific Instructions
-Formality and Address
- • Use the formal form of “you” (“Vy”) to address users.
- • In personalized emails and messages, capitalize “V.” Example: “Dobrý deň, [user name], máme pre Vás mimoriadnu ponuku.”
-Creativity and Freedom in Translation
- • Avoid word-for-word translation. Ensure the sentence sounds natural, flows well in Slovak, and culturally fits the context.
- • Make adaptations, rephrase, add or omit words as needed to ensure clarity and a natural reading experience, while remaining close to the original meaning and segment length.
- • You may adapt cultural concepts for Slovak users as appropriate.
-Glossary and Translation Memory (TM)
- • Use the glossary and TM matches for background, but prioritize naturalness and human-like translation.
- • If deviating from a TM or glossary entry for improved accuracy or naturalness, leave a note justifying your choice.
- • Suggest new glossary entries as needed; communicate these suggestions to your LL.
- • Legacy TM matches from previous vendors do not have to be followed.
-Declension of the Brand Name
- • Use “Skyscanner” as a Slovak noun and decline as follows:
-  - Nominative: Skyscanner
-  - Genitive: Skyscannera
-  - Dative: Skyscanneru
-  - Accusative: Skyscanner
-  - Locative: Skyscanneri
-  - Instrumental: Skyscannerom
- • Especially apply declension for short strings and UI elements.
- • In legal or highly formal content/messages, use the brand name together with a descriptor.
-Punctuation Rules
- • You do not need to follow source punctuation strictly.
- • Omit a full stop if your translation is a fragment; add a full stop if converting a fragment to a full sentence.
- • For titles or headings with multiple sentences, use full stops regardless of the guidance below.
- • Do not add full stops to the ends of: titles, headings, email subjects, buttons, CTAs, UI elements.
- • Use exclamation marks sparingly.
- • Adapt comma use to Slovak, not simply copying English punctuation.
-Gender and Pluralization
- • Using formal “Vy” can simplify gender, but when both male and female endings are possible, indicate accordingly: Example: “Prečítal (-a) som si podmienky. Som spokojný (-á) s prekladom tejto stránky.”
- • For plural and number references, ensure all plausible options are represented:
-  - For a single adult: “dospelý” is acceptable, though not fully inclusive; “dospelá osoba” is fully inclusive.
-  - For multiple adults: Use “dospelí,” as this works with any quantity (e.g., “dvaja dospelí,” “piati dospelí”). Avoid using “dospelé osoby/dospelých osôb” in variable number contexts; find workarounds to maintain clarity and naturalness.
-Descriptors and Placeholders
- • If a placeholder requires nominative case and cannot fit naturally, use a descriptor (except for international airport codes). Example: “Let z [code] do [code]” is sufficient; avoid repeating “letisko” (airport) unnecessarily in short strings.
-Hyperlinks
- • Hyperlinks should always be clear and visible: use at least two words for hyperlinks where possible.
-Cultural References, Locations, Names
- • Adapt cultural references, examples with locations, or proper names as needed for Slovak reality, unless you know they will be accompanied by visuals.
+# Skyscanner Slovak (SK) – LQA Calibration & Style Guide
 
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- Use **Slovak** — natural, friendly, but with formal address
+- Address users with **formal "Vy"** (not informal "ty")
+- **Capitalize "V"** in personalized emails/messages (e.g., "máme pre Vás")
+- Write naturally — creative translation, not word-for-word
+- **Creativity is encouraged:** Add, omit, rephrase to make translation feel natural
+- Skyscanner = **Skyscanner** (declined as Slovak word — see 1.2)
+
+### 1.2. Brand Name Declension
+
+Skyscanner should be **declined as a Slovak word** in UI and marketing content:
+
+| Case | Form |
+|------|------|
+| Nominatív (N) | Skyscanner |
+| Genitív (G) | Skyscannera |
+| Datív (D) | Skyscanneru |
+| Akuzatív (A) | Skyscanner |
+| Lokál (L) | Skyscanneri |
+| Inštrumentál (I) | Skyscannerom |
+
+- **UI/short strings:** Use declined forms
+- **Legal/formal content:** Use brand name with descriptor (e.g., "spoločnosť Skyscanner")
+
+### 1.3. Punctuation
+
+| Element | Punctuation Rule |
+|---------|------------------|
+| Titles, headings | No full stop (unless multiple sentences) |
+| Email subjects | No full stop |
+| Buttons, CTAs | No full stop |
+| UI elements | No full stop |
+| Multi-sentence headings | Use full stops |
+| Exclamation marks | Use sparingly |
+
+- **Not obligated to follow source punctuation**
+- If translation is a fragment → no full stop needed
+- If translation is a sentence → use full stop
+- **Don't follow English comma usage blindly** — apply Slovak rules
+
+### 1.4. Gender & Plural Handling
+
+#### Gender with Formal "Vy"
+- Formal "Vy" reduces gender issues
+- When gender distinction needed, use: `Prečítal (-a) som si` or `spokojný (-á)`
+
+#### Slovak Plural Complexity
+Slovak has different forms for different number ranges:
+
+| Count | Example |
+|-------|---------|
+| 1 | 1 dospelý |
+| 2–4 | 2 dospelí, 3 dospelé osoby |
+| 5+ | 5 dospelých, 10 dospelých osôb |
+
+- **No smart count rule** — must account for all possibilities
+- **Use workarounds:** Choose words that work for all number forms (e.g., "dospelí" works for both "dvaja dospelí" and "piati dospelí")
+
+### 1.5. Placeholders & Descriptors
+
+- Placeholder content inserts in **nominative case**
+- Restructure sentences so placeholder can be in nominative
+- Use **descriptors** when case agreement is impossible
+- **Airport codes:** Descriptor not necessary (e.g., "Let z [code] do [code]" is acceptable)
+- Keep translations **as short as possible**
+
+### 1.6. Numbers & Formatting
+
+| Context | Format |
+|---------|--------|
+| Thousands separator | Space (1 000) |
+| Decimal separator | Comma (3,5) |
+| Date format | DD. MM. YYYY or DD.MM.YYYY |
+| Time format | 24-hour (14:53) |
+
+### 1.7. Cultural Adaptation
+- Cultural references, locations, names **can be adapted** to Slovak reality
+- Only adapt if examples won't have accompanying visuals
+
+### 1.8. Hyperlinks
+- Should catch reader's eye
+- Use **at least two words** for hyperlink text where possible
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Brand Name Declension Tolerance
+
+#### 2.1.1. Acceptable Brand Name Forms
+
+| Context | Acceptable Forms |
+|---------|------------------|
+| UI/Marketing | Skyscannera, Skyscanneru, Skyscanneri, Skyscannerom |
+| Legal/Formal | "spoločnosť Skyscanner", "Skyscanner Limited" |
+| Mixed context | Either declined or with descriptor |
+
+**Do NOT flag:**
+- Properly declined forms of Skyscanner
+- Use of descriptor in formal contexts
+- Nominative "Skyscanner" where grammatically appropriate
+
+**Only flag** if declension is incorrect (wrong case ending) or inconsistent within same content type.
+
+---
+
+### 2.2. Formal Address ("Vy") Tolerance
+
+#### 2.2.1. Acceptable Formal Address Patterns
+
+| Context | Acceptable |
+|---------|------------|
+| General UI | "Vy", "Vás", "Vám", "Váš" (capitalized) |
+| Personalized emails | Capital "V" required: "máme pre Vás" |
+| General instructions | Lowercase acceptable in some contexts |
+
+**Do NOT flag:**
+- Consistent use of formal "Vy" address
+- Capitalized "V" in direct address
+- Lowercase "v" in non-personalized, general contexts (minor)
+
+**Only flag** if:
+- Informal "ty" used (should be formal "Vy")
+- Mixed formality in same context (ty/Vy)
+- Missing capital "V" in clearly personalized message
+
+---
+
+### 2.3. Gender Agreement Tolerance
+
+#### 2.3.1. Acceptable Gender Handling
+
+| Strategy | Example |
+|----------|---------|
+| Parenthetical alternatives | "Prečítal (-a) som si", "spokojný (-á)" |
+| Masculine default | For unknown-gender contexts |
+| Gender-neutral restructuring | Using constructions that avoid gender |
+| Formal "Vy" forms | Naturally reduce gender marking |
+
+**Do NOT flag:**
+- Masculine default for unknown-gender placeholders
+- Parenthetical gender alternatives: `(-a)`, `(-á)`, `(-é)`
+- Restructuring to avoid gender specification
+- Formal "Vy" conjugations that are gender-neutral
+
+**Only flag** if gender is explicitly specified in context and translation contradicts it.
+
+---
+
+### 2.4. Plural & Number Agreement Tolerance
+
+Slovak has complex plural rules. **Accept creative solutions for number placeholders.**
+
+#### 2.4.1. Acceptable Plural Strategies
+
+| Source | Acceptable Slovak Approaches |
+|--------|------------------------------|
+| `{{0}} adults` | Word form that works for 2-4 AND 5+ (e.g., "dospelí") |
+| `{{0}} nights` | `{{0}} nocí` OR restructured form |
+| `{{0}} results` | `Počet výsledkov: {{0}}` OR `{{0}} výsledkov` |
+
+**Do NOT flag:**
+- Creative word choice to handle all plural forms
+- Restructuring to avoid plural agreement issues
+- Use of constructions like "počet" + genitive
+- Singular form where translator anticipated specific number range
+
+**Only flag** if plural form would be **incorrect for ALL possible values**.
+
+---
+
+### 2.5. Placeholder & Case Tolerance
+
+Slovak requires case agreement, but placeholders insert in nominative.
+
+#### 2.5.1. Acceptable Placeholder Handling
+
+| Strategy | Example |
+|----------|---------|
+| Restructure for nominative | Rephrase so placeholder is subject |
+| Use descriptor | "z letiska {{code}}" |
+| Omit descriptor for codes | "Let z {{code}} do {{code}}" (airport codes) |
+| Creative rephrasing | Any structure that makes grammatical sense |
+
+**Do NOT flag:**
+- Restructured sentences accommodating nominative placeholders
+- Omitted descriptors for airport codes, flight numbers, etc.
+- Creative rephrasing that maintains meaning
+- Descriptor use when case agreement requires it
+
+**Only flag** if placeholder handling creates grammatical error or meaning confusion.
+
+---
+
+### 2.6. Punctuation Tolerance
+
+The Style Guide explicitly states translators are **not obligated to follow source punctuation**.
+
+#### 2.6.1. Do NOT Flag
+- Full stop added to fragment that became sentence
+- Full stop removed from sentence that became fragment
+- No full stop on titles, headings, buttons, CTAs, UI elements
+- Full stops in multi-sentence headings
+- Different comma placement following Slovak rules
+- Removal of excessive exclamation marks
+
+#### 2.6.2. Only Flag If
+- Question becomes statement (? removed from question)
+- Punctuation creates meaning confusion
+- Full stop on button/CTA (should not have one)
+- Missing full stops in running text
+
+---
+
+### 2.7. Meaning-Based Translation Tolerance
+
+The Style Guide explicitly encourages **creative, non-literal translation**.
+
+#### 2.7.1. Do NOT Flag as "Mistranslation"
+- Restructured sentences that preserve meaning
+- Added or omitted words for natural flow
+- Rephrased sentences for Slovak grammar
+- Cultural concept adaptations
+- Deviation from TM matches for more natural phrasing
+
+#### 2.7.2. Do NOT Flag as "Omission/Addition"
+- Words added for grammatical Slovak
+- Words omitted that are implied
+- Restructuring for natural expression
+- Cultural adaptations of examples/locations
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.8. Terminology & Synonym Tolerance
+
+| English | Acceptable Slovak Options |
+|---------|---------------------------|
+| Flight | let, linka |
+| Book (verb) | rezervovať, zarezervovať |
+| Search | hľadať, vyhľadať, vyhľadávanie |
+| Deal | ponuka, akcia, výhodná ponuka |
+| Trip | cesta, výlet, dovolenka |
+| Hotel | hotel, ubytovanie |
+| Save (money) | ušetriť, šetriť |
+| Save (bookmark) | uložiť |
+| App | aplikácia, appka (informal) |
+
+**Do NOT flag** reasonable synonym choices unless they change meaning.
+
+---
+
+### 2.9. TM & Glossary Deviation Tolerance
+
+The Style Guide explicitly states TM and glossary are **"good helpers but bad masters."**
+
+#### 2.9.1. Do NOT Flag
+- Deviation from TM match for more natural translation
+- Different term than glossary if contextually better
+- Ignoring legacy TM from previous vendor
+- Creative solutions not matching TM exactly
+
+#### 2.9.2. Only Flag If
+- Key terminology inconsistency within same content
+- Deviation creates factual error
+- Core product terms translated incorrectly
+
+---
+
+### 2.10. Cultural Adaptation Tolerance
+
+#### 2.10.1. Do NOT Flag
+- Location examples adapted to Slovak equivalents
+- Cultural references adapted to Slovak context
+- Name examples adapted when no visual aids accompany them
+- Measurement conversions to metric system
+
+#### 2.10.2. Only Flag If
+- Adaptation creates factual error
+- Specific location/name that should remain unchanged is altered
+- Cultural adaptation changes core meaning
+
+---
+
+### 2.11. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, wrong formal address throughout |
+| **Major** | Core meaning changed, factual errors, incorrect case declension of brand name, wrong plural forms |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.10 |
+
+---
+
+### 2.12. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **creative restructuring** for natural Slovak expression?
+2. ☐ Is the **formal "Vy" address** consistently used?
+3. ☐ Is the **brand name declension** correct for the case required?
+4. ☐ Does the **plural form work** for likely number values?
+5. ☐ Is the **core meaning preserved** despite structural changes?
+6. ☐ Does the Style Guide **explicitly prohibit** this choice?
+7. ☐ Would a native Slovak speaker find this **incorrect** (not just different)?
+8. ☐ Is this a valid **deviation from TM/glossary** for naturalness?
+
+**If meaning is preserved AND the structure sounds natural in Slovak → DO NOT FLAG**

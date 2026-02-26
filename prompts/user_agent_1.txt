@@ -1,4 +1,4 @@
-You will receive a JSON payload for Agent 1.
+Here is the batch to review:
 
 Payload:
 $payload

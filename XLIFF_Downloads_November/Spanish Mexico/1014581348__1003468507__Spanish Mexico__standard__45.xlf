@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="LUYEZuLVLo.jsont2" source-language="en-GB" target-language="es-MX" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6IjA4NGY1YWNjMTM0NjY5MmZmM2I4ZjU0Mjg5N2FhMGE5MzcxNWIyZWFjOGRlOGY2MjhkZjY5ZmM1NmNiOGRlM2MiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0xMS0xMzozMjoy
+NSIsImlkX29yZGVyX2dyb3VwIjoibXhfZWxidWVuZmluX3B1c2hfbm90IiwiaW5zdHJ1Y3Rpb25zIjpudWxsLCJzdHlsZWd1aWRlIjpudWxsLCJyZWZlcmVuY2VzIjpudWxsLCJyZXF1ZXN0cyI6W3si
+aWRfcmVxdWVzdCI6Mjc0Mzk5MzcsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9CdWVuX0Zpbl9PbmVPZmZfUHVzaF9WMV9Cb2R5IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJf
+bGltaXQiOm51bGwsImNvbnRlbnQiOiJDaGVjayBvdXQgb3VyIGJlc3Qgb2ZmZXJzIGZvciBFbCBCdWVuIEZpbiDinqHvuI8gIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIg
+Q29tbWVudCZsdDsvaDEmZ3Q7XG4qKmVzLU1YIExvY2FsZSBvbmx5KipcclxuUHVzaCBjb3B5IHJlcXVlc3QgZm9yIEJ1ZW4gRmluLlxyXG5FbCBCdWVuIEZpbiBpcyBlc3NlbnRpYWxseSB0aGUgTWV4
+aWNhbiB2ZXJzaW9uIG9mIEJsYWNrIEZyaWRheSBpbiB0aGUgVS5TLiBUaGUgc2hvcHBpbmcgZXZlbnQgdGFrZXMgcGxhY2UgYW5udWFsbHkgdGhlIHdlZWtlbmQgYmVmb3JlIE1leGljYW4gUmV2b2x1
+dGlvbiBEYXkuXHJcblxuTm92ZW1iZXIgMTMtMTdcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvMDg0ZjVhY2MxMzQ2NjkyZmYzYjhmNTQyODk3YWEw
+YTkzNzE1YjJlYWM4ZGU4ZjYyOGRmNjlmYzU2Y2I4ZGUzYy8yNzQzOTkzNy9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDM5OTM4LCJpZF9jb250ZW50IjoicHVibGlzaGVyL2t0eHRf
+QnVlbl9GaW5fT25lT2ZmX1B1c2hfVjRfQm9keSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiQ2hlY2sgb3V0IHlvdXIgY2hlYXBlc3QgcmV0
+dXJuIGZsaWdodHMgZnJvbSBAQGhvbWUtY2l0eUBALiAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbioqZXMtTVggTG9jYWxlIG9ubHkq
+KlxyXG5QdXNoIGNvcHkgcmVxdWVzdCBmb3IgQnVlbiBGaW4uXHJcbkVsIEJ1ZW4gRmluIGlzIGVzc2VudGlhbGx5IHRoZSBNZXhpY2FuIHZlcnNpb24gb2YgQmxhY2sgRnJpZGF5IGluIHRoZSBVLlMu
+IFRoZSBzaG9wcGluZyBldmVudCB0YWtlcyBwbGFjZSBhbm51YWxseSB0aGUgd2Vla2VuZCBiZWZvcmUgTWV4aWNhbiBSZXZvbHV0aW9uIERheS5cclxuXG5Ob3ZlbWJlciAxMy0xN1xuIiwic2NyZWVu
+c2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8wODRmNWFjYzEzNDY2OTJmZjNiOGY1NDI4OTdhYTBhOTM3MTViMmVhYzhkZThmNjI4ZGY2OWZjNTZjYjhkZTNjLzI3NDM5
+OTM4L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0Mzk5MzksImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9CdWVuX0Zpbl9PbmVPZmZfUHVzaF9WMl9UaXRsZSIsImNvbnRlbnRf
+dHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiSXTigJlzIEVsIEJ1ZW4gRmluIPCfjokiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBD
+b21tZW50Jmx0Oy9oMSZndDtcbioqZXMtTVggTG9jYWxlIG9ubHkqKlxyXG5QdXNoIGNvcHkgcmVxdWVzdCBmb3IgQnVlbiBGaW4uXHJcbkVsIEJ1ZW4gRmluIGlzIGVzc2VudGlhbGx5IHRoZSBNZXhp
+Y2FuIHZlcnNpb24gb2YgQmxhY2sgRnJpZGF5IGluIHRoZSBVLlMuIFRoZSBzaG9wcGluZyBldmVudCB0YWtlcyBwbGFjZSBhbm51YWxseSB0aGUgd2Vla2VuZCBiZWZvcmUgTWV4aWNhbiBSZXZvbHV0
+aW9uIERheS5cclxuXG5Ob3ZlbWJlciAxMy0xN1xuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8wODRmNWFjYzEzNDY2OTJmZjNiOGY1NDI4OTdhYTBh
+OTM3MTViMmVhYzhkZThmNjI4ZGY2OWZjNTZjYjhkZTNjLzI3NDM5OTM5L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0Mzk5NDAsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dF9C
+dWVuX0Zpbl9PbmVPZmZfUHVzaF9WM19Cb2R5IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJIZXJl4oCZcyB3aGVyZSB0byBicm93c2UgdGhl
+IGJlc3Qgb2ZmZXJzIGF2YWlsYWJsZSDinqHvuI8gIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG4qKmVzLU1YIExvY2FsZSBvbmx5Kipc
+clxuUHVzaCBjb3B5IHJlcXVlc3QgZm9yIEJ1ZW4gRmluLlxyXG5FbCBCdWVuIEZpbiBpcyBlc3NlbnRpYWxseSB0aGUgTWV4aWNhbiB2ZXJzaW9uIG9mIEJsYWNrIEZyaWRheSBpbiB0aGUgVS5TLiBU
+aGUgc2hvcHBpbmcgZXZlbnQgdGFrZXMgcGxhY2UgYW5udWFsbHkgdGhlIHdlZWtlbmQgYmVmb3JlIE1leGljYW4gUmV2b2x1dGlvbiBEYXkuXHJcblxuTm92ZW1iZXIgMTMtMTdcbiIsInNjcmVlbnNo
+b3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvMDg0ZjVhY2MxMzQ2NjkyZmYzYjhmNTQyODk3YWEwYTkzNzE1YjJlYWM4ZGU4ZjYyOGRmNjlmYzU2Y2I4ZGUzYy8yNzQzOTk0
+MC9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDM5OTQxLCJpZF9jb250ZW50IjoicHVibGlzaGVyL2t0eHRfQnVlbl9GaW5fT25lT2ZmX1B1c2hfVjFfVGl0bGUiLCJjb250ZW50X3R5
+cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlJldHVybiBmbGlnaHRzIGZyb20gQEBkZWFsLXByaWNlQEAg8J+OiSAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gx
+Jmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbioqZXMtTVggTG9jYWxlIG9ubHkqKlxyXG5QdXNoIGNvcHkgcmVxdWVzdCBmb3IgQnVlbiBGaW4uXHJcbkVsIEJ1ZW4gRmluIGlzIGVzc2Vu
+dGlhbGx5IHRoZSBNZXhpY2FuIHZlcnNpb24gb2YgQmxhY2sgRnJpZGF5IGluIHRoZSBVLlMuIFRoZSBzaG9wcGluZyBldmVudCB0YWtlcyBwbGFjZSBhbm51YWxseSB0aGUgd2Vla2VuZCBiZWZvcmUg
+TWV4aWNhbiBSZXZvbHV0aW9uIERheS5cclxuXG5Ob3ZlbWJlciAxMy0xN1xuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8wODRmNWFjYzEzNDY2OTJm
+ZjNiOGY1NDI4OTdhYTBhOTM3MTViMmVhYzhkZThmNjI4ZGY2OWZjNTZjYjhkZTNjLzI3NDM5OTQxL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0Mzk5NDIsImlkX2NvbnRlbnQiOiJw
+dWJsaXNoZXIva3R4dF9CdWVuX0Zpbl9PbmVPZmZfUHVzaF9WMl9Cb2R5IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJDZWxlYnJhdGUgd2l0
+aCByZXR1cm4gZmxpZ2h0cyBmcm9tIG9ubHkgQEBkZWFsLXByaWNlQEAg4p6h77iPICIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuKipl
+cy1NWCBMb2NhbGUgb25seSoqXHJcblB1c2ggY29weSByZXF1ZXN0IGZvciBCdWVuIEZpbi5cclxuRWwgQnVlbiBGaW4gaXMgZXNzZW50aWFsbHkgdGhlIE1leGljYW4gdmVyc2lvbiBvZiBCbGFjayBG
+cmlkYXkgaW4gdGhlIFUuUy4gVGhlIHNob3BwaW5nIGV2ZW50IHRha2VzIHBsYWNlIGFubnVhbGx5IHRoZSB3ZWVrZW5kIGJlZm9yZSBNZXhpY2FuIFJldm9sdXRpb24gRGF5LlxyXG5cbk5vdmVtYmVy
+IDEzLTE3XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzA4NGY1YWNjMTM0NjY5MmZmM2I4ZjU0Mjg5N2FhMGE5MzcxNWIyZWFjOGRlOGY2MjhkZjY5
+ZmM1NmNiOGRlM2MvMjc0Mzk5NDIvc2NyZWVuc2hvdC51cmwifX1dfV0=</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="es-MX" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTJDMTRFNCIgcGFja2FnZUlk
+PSI5MWY4MjhhYS0xMWRjLTQzMTUtYjk3MC1hMTc3MDk5OGIzZTQiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iZXMtTVgiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMTEgMTU6MzI6NTQrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJMVVlFWnVMVkxvLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9IkxVWUVadUxWTG8ub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-11-13:32:25" mtc:id-order-group="mx_elbuenfin_push_not" original="084f5acc1346692ff3b8f542897aa0a93715b2eac8de8f628df69fc56cb8de3c" source-language="en-GB" target-language="es-MX">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4774036897">
+<source xml:lang="en-GB">Check out our best offers for El Buen Fin ➡️ </source>
+<seg-source><mrk mid="0" mtype="seg">Check out our best offers for El Buen Fin ➡️</mrk> </seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Descubre nuestras mejores ofertas para El Buen Fin ➡️</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">7.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27439937</note>
+<note>translation_context|¶|publisher/ktxt_Buen_Fin_OneOff_Push_V1_Body</note>
+<note annotates="source" from="id_content">publisher/ktxt_Buen_Fin_OneOff_Push_V1_Body</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+**es-MX Locale only**
+Push copy request for Buen Fin.
+El Buen Fin is essentially the Mexican version of Black Friday in the U.S. The shopping event takes place annually the weekend before Mexican Revolution Day.
+
+November 13-17
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/084f5acc1346692ff3b8f542897aa0a93715b2eac8de8f628df69fc56cb8de3c/27439937/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4774036898">
+<source xml:lang="en-GB">Check out your cheapest return flights from @@home-city@@. </source>
+<seg-source><mrk mid="0" mtype="seg">Check out your cheapest return flights from @@home-city@@.</mrk> </seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Los vuelos redondos más baratos desde @@home-city@@.</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">4.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27439938</note>
+<note>translation_context|¶|publisher/ktxt_Buen_Fin_OneOff_Push_V4_Body</note>
+<note annotates="source" from="id_content">publisher/ktxt_Buen_Fin_OneOff_Push_V4_Body</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+**es-MX Locale only**
+Push copy request for Buen Fin.
+El Buen Fin is essentially the Mexican version of Black Friday in the U.S. The shopping event takes place annually the weekend before Mexican Revolution Day.
+
+November 13-17
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/084f5acc1346692ff3b8f542897aa0a93715b2eac8de8f628df69fc56cb8de3c/27439938/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4774036899">
+<source xml:lang="en-GB">It’s El Buen Fin &#127881;</source>
+<seg-source><mrk mid="0" mtype="seg">It’s El Buen Fin &#127881;</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Llegó El Buen Fin &#127881;</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27439939</note>
+<note>translation_context|¶|publisher/ktxt_Buen_Fin_OneOff_Push_V2_Title</note>
+<note annotates="source" from="id_content">publisher/ktxt_Buen_Fin_OneOff_Push_V2_Title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+**es-MX Locale only**
+Push copy request for Buen Fin.
+El Buen Fin is essentially the Mexican version of Black Friday in the U.S. The shopping event takes place annually the weekend before Mexican Revolution Day.
+
+November 13-17
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/084f5acc1346692ff3b8f542897aa0a93715b2eac8de8f628df69fc56cb8de3c/27439939/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4774036900">
+<source xml:lang="en-GB">Here’s where to browse the best offers available ➡️ </source>
+<seg-source><mrk mid="0" mtype="seg">Here’s where to browse the best offers available ➡️</mrk> </seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Aquí puedes explorar las mejores ofertas disponibles ➡️</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">6.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27439940</note>
+<note>translation_context|¶|publisher/ktxt_Buen_Fin_OneOff_Push_V3_Body</note>
+<note annotates="source" from="id_content">publisher/ktxt_Buen_Fin_OneOff_Push_V3_Body</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+**es-MX Locale only**
+Push copy request for Buen Fin.
+El Buen Fin is essentially the Mexican version of Black Friday in the U.S. The shopping event takes place annually the weekend before Mexican Revolution Day.
+
+November 13-17
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/084f5acc1346692ff3b8f542897aa0a93715b2eac8de8f628df69fc56cb8de3c/27439940/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4774036901">
+<source xml:lang="en-GB">Return flights from @@deal-price@@ &#127881; </source>
+<seg-source><mrk mid="0" mtype="seg">Return flights from @@deal-price@@ &#127881;</mrk> </seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Vuelos redondos desde @@deal-price@@ &#127881;</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27439941</note>
+<note>translation_context|¶|publisher/ktxt_Buen_Fin_OneOff_Push_V1_Title</note>
+<note annotates="source" from="id_content">publisher/ktxt_Buen_Fin_OneOff_Push_V1_Title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+**es-MX Locale only**
+Push copy request for Buen Fin.
+El Buen Fin is essentially the Mexican version of Black Friday in the U.S. The shopping event takes place annually the weekend before Mexican Revolution Day.
+
+November 13-17
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/084f5acc1346692ff3b8f542897aa0a93715b2eac8de8f628df69fc56cb8de3c/27439941/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4774036902">
+<source xml:lang="en-GB">Celebrate with return flights from only @@deal-price@@ ➡️ </source>
+<seg-source><mrk mid="0" mtype="seg">Celebrate with return flights from only @@deal-price@@ ➡️</mrk> </seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Celebra con vuelos redondos desde solo @@deal-price@@ ➡️</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.76</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27439942</note>
+<note>translation_context|¶|publisher/ktxt_Buen_Fin_OneOff_Push_V2_Body</note>
+<note annotates="source" from="id_content">publisher/ktxt_Buen_Fin_OneOff_Push_V2_Body</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+**es-MX Locale only**
+Push copy request for Buen Fin.
+El Buen Fin is essentially the Mexican version of Black Friday in the U.S. The shopping event takes place annually the weekend before Mexican Revolution Day.
+
+November 13-17
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/084f5acc1346692ff3b8f542897aa0a93715b2eac8de8f628df69fc56cb8de3c/27439942/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

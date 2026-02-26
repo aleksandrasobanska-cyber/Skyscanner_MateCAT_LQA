@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="yeQyI6Pk5X.jsont2" source-language="en-GB" target-language="es-MX" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6IjM4NDY1MDFhMzk3NzllMjNjYzVmMmFhZDJiOWUwZWQzMDA0ZDA0MzliYTk4YmI2YzZlYTg5MjE3N2M4Mjk2MWQiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0wNC0xNDozMTo1
+MyIsImlkX29yZGVyX2dyb3VwIjpudWxsLCJpbnN0cnVjdGlvbnMiOm51bGwsInN0eWxlZ3VpZGUiOm51bGwsInJlZmVyZW5jZXMiOm51bGwsInJlcXVlc3RzIjpbeyJpZF9yZXF1ZXN0IjoyNzIzOTcy
+MiwiaWRfY29udGVudCI6Imlvc19tZXRhZGF0YS9zdG9yZV9kZXNjcmlwdGlvbiIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiU2t5c2Nhbm5l
+ciBtYWtlcyBwbGFubmluZyB5b3VyIG5leHQgdHJpcCBlYXN5LiBGaW5kIHRoZSBiZXN0IHByaWNlcyBvbiBmbGlnaHRzLCBob3RlbHMgJiByZW50YWwgY2FycyDigJMgYWxsIGluIG9uZSBwbGFjZS5c
+blxuTm8gbWF0dGVyIHdoZXJlIHlvdSBhcmUg4oCTIHNlYXJjaCBmb3IgY2hlYXAgYWlybGluZSB0aWNrZXRzLCBsb3ctY29zdCBmbGlnaHRzLCBhbmQgdGhlIGJlc3QgYWlyIGZhcmUgZGVhbHMgdG8g
+ZGVzdGluYXRpb25zIHdvcmxkd2lkZS4gRWFzaWx5IGZpbmQgYW5kIGJvb2sgZmxpZ2h0cywgSG90ZWxzIGFuZCBjYXIgaGlyZSB3aXRoIG1ham9yIGFpcmxpbmVzIGFuZCBwcm92aWRlcnMgIGxpa2Ug
+UnlhbmFpciwgZWFzeUpldCwgQnJpdGlzaCBBaXJ3YXlzIGFsbCBpbiBvbmUgcGxhY2UuICBTYXZlIHRpbWUgYW5kIG1vbmV5IGJ5IGNvbXBhcmluZyBmYXJlcyBhY3Jvc3MgbXVsdGlwbGUgYWlybGlu
+ZXMgYW5kIHRyYXZlbCBib29raW5nIHBsYXRmb3JtcyB0byBnZXQgdGhlIGJlc3QgcHJpY2UuIFRoZXJlIGFyZSBubyBib29raW5nIGZlZXMgb3IgaGlkZGVuIGNoYXJnZXPigJRqdXN0IHRoZSBsb3dl
+c3QgcHJpY2VzIG9uIGRvbWVzdGljIGFuZCBpbnRlcm5hdGlvbmFsIGZsaWdodHMuXG5cbkJ1dCBTa3lzY2FubmVyIGlzIG1vcmUgdGhhbiBqdXN0IGZsaWdodHMuIEZpbmQgYnVkZ2V0LWZyaWVuZGx5
+IGhvdGVscywgbHV4dXJ5IHJlc29ydHMsIGFpcnBvcnQgaG90ZWxzLCBhbmQgaG9saWRheSByZW50YWxzIHdpdGggb3VyIGhvdGVsIHNlYXJjaCwgZW5zdXJpbmcgeW91IGhhdmUgdGhlIHBlcmZlY3Qg
+cGxhY2UgdG8gc3RheSB3aGVyZXZlciB5b3UgZ28uIE5lZWQgdHJhbnNwb3J0YXRpb24/IENvbXBhcmUgYW5kIGJvb2sgYWZmb3JkYWJsZSBjYXIgaGlyZSBmcm9tIHRvcCBwcm92aWRlcnMsIHdpdGgg
+b3B0aW9ucyB0byBmaWx0ZXIgYnkgdmVoaWNsZSB0eXBlLCBmdWVsIHBvbGljeSwgYW5kIG1vcmUuXG5IZXJl4oCZcyBob3cgdG8gdXNlIG91ciBhcHA6XG5cbkZpbmQgaW5zcGlyYXRpb25cbkNhbuKA
+mXQgZGVjaWRlIHdoZXJlIHRvIGdvPyBTdGFydCBieSBleHBsb3JpbmcgZXZlcnl3aGVyZSBmaXJzdC4gVGFwIOKAmEV2ZXJ5d2hlcmXigJkgaW4gb3VyIHNlYXJjaCBiYXIgdG8gZmluZCBsb3ctY29z
+dCBmbGlnaHRzIGxpdGVyYWxseSBhbnl3aGVyZSBhcm91bmQgdGhlIHdvcmxkIGFuZCBnZXQgaWRlYXMgZm9yIHlvdXIgbmV4dCBob2xpZGF5LlxuXG5GaWx0ZXIgeW91ciBzZWFyY2hcbktub3cgd2hh
+dCB5b3XigJlyZSBsb29raW5nIGZvcj8gVXNlIG91ciBzbWFydCBmaWx0ZXJzIHRvIHNlYXJjaCBieSBmbGlnaHQgZHVyYXRpb24sIGFpcmxpbmUsIG51bWJlciBvZiBzdG9wcywgdHJhdmVsIGNsYXNz
+LCBkZXBhcnR1cmUgYW5kIGFycml2YWwgdGltZXMuIExvb2tpbmcgZm9yIGxhc3QtbWludXRlIHRyYXZlbCBkZWFscz8gVXNlIGZpbHRlcnMgdG8gZmluZCBmbGV4aWJsZSBvcHRpb25zIGFuZCBzcG9u
+dGFuZW91cyBnZXRhd2F5cyBhdCB0aGUgbG93ZXN0IHByaWNlcy5cblxuVGhlIGJlc3QgdGltZSB0byBmbHlcbllvdeKAmXZlIGNob3NlbiB3aGVyZSBpdCB3aWxsIGJlLCBub3cgdG8gZmluZCB0aGUg
+YmVzdCBkYXRlcyB0byBib29rIHlvdXIgaG9saWRheS4gT3VyIGNhbGVuZGFyIHZpZXcgYnJlYWtzIGRvd24gdGhlIGNoZWFwZXN0IGRhdGVzIGluIGEgY2hvc2VuIG1vbnRoIHNvIHlvdSBjYW4gZmlu
+ZCB0aGUgcmlnaHQgZmxpZ2h0IGRlYWwuIE5vdCByZWFkeSB0byBib29rIHlldD8gU2V0IHVwIGEgUHJpY2UgQWxlcnQgYW5kIHdl4oCZbGwgbGV0IHlvdSBrbm93IHdoZW4gdGhlIGZsaWdodCBwcmlj
+ZSBjaGFuZ2VzIHNvIHlvdeKAmXJlIGFsd2F5cyBib29raW5nIGF0IHRoZSByaWdodCB0aW1lLlxuXG5UaGUgcmlnaHQgaG90ZWwgYXQgdGhlIHJpZ2h0IHByaWNlXG5UaG91Z2h0IHdlIHdlcmUganVz
+dCBhYm91dCBkaXNjb3VudGVkIGZsaWdodHM/IE5vcGUsIHdl4oCZdmUgZ290IHlvdXIgc3RheSBjb3ZlcmVkIHRvby4gQ29tcGFyZSBhbmQgYm9vayBidWRnZXQgaG90ZWxzLCBsdXh1cnkgcmVzb3J0
+cywgaG9saWRheSBhcGFydG1lbnQgcmVudGFscyAsIG1vdGVscyBhbmQgaG9zdGVscyBhbGwgb3ZlciB0aGUgd29ybGQuIE9yIGZpbmQgcm9vbXMgbmVhciB5b3VyIGN1cnJlbnQgbG9jYXRpb24gYW5k
+IGdyYWIgYSBsYXN0LW1pbnV0ZSBob3RlbCBkZWFsIGZvciB5b3VyIG5leHQgaG9saWRheS4gXG5cbkhpcmUgYSBjYXJcbkNob29zZSB3aGVyZSBhbmQgd2hlbiB0byBwaWNrIHVwIHlvdXIgY2FyIGhp
+cmUsIGFuZCB3ZeKAmWxsIHNob3cgeW91IGFmZm9yZGFibGUgb3B0aW9ucyBmcm9tIHRvcCBjYXIgaGlyZSBhZ2VuY2llcywgaW5jbHVkaW5nIEhlcnR6LCBBdmlzLCBFbnRlcnByaXNlIGFuZCBFdXJv
+cGNhciAuIFlvdSBjYW4gZmlsdGVyIHlvdXIgc2VhcmNoIGJ5IHZlaGljbGUgdHlwZSwgZnVlbCB0eXBlIGFuZCBmZWF0dXJlcy4gQW5kIG91ciBGYWlyIEZ1ZWwgUG9saWN5IGZsYWcgd2lsbCBtYWtl
+IHN1cmUgeW914oCZcmUgbm90IHBheWluZyB0b28gbXVjaCBvbiBmdWVsIOKAkyB3ZeKAmXZlIGdvdCB5b3VyIGJhY2suIFxuXG5Cb29rIHdpdGggd2hvIHlvdSB0cnVzdFxuQ29tcGFyZSBhbGwgeW91
+ciB0b3AgdHJhdmVsIGFuZCBhaXJsaW5lcywgaW5jbHVkaW5nIG9ubGluZSB0cmF2ZWwgYWdlbmNpZXMgKE9UQSksIGluIG9uZSBwbGFjZSAtIGVhc3lKZXQsIFJ5YW5haXIsIEJyaXRpc2ggQWlyd2F5
+cywgTHVmdGhhbnNhLCBXaXp6IEFpciwgRXhwZWRpYSwgQm9va2luZy5jb20sIGxhc3RtaW51dGUuY29tIGFuZCBtb3JlLiBQbHVzLCBnZXQgcmVjZW50IHJldmlld3Mgb24gb3VyIHRyYXZlbCBwYXJ0
+bmVycyBmcm9tIG91ciBjb21tdW5pdHkgb2YgdHJhdmVsbGVycy4gXG5cbk5vIGFkZGVkIGZlZXMgZXZlclxuRGlkIHdlIG1lbnRpb24gd2UgZG9u4oCZdCBjaGFyZ2UgYW55IGJvb2tpbmcgZmVlcz8g
+TmV2ZXIuIE5vbmUgYXQgYWxsLiBCb29rIGRpcmVjdGx5IHdpdGggYWlybGluZXMsIGhvdGVscywgYW5kIHRyYXZlbCBhZ2VuY3kgc2VydmljZXMgd2l0aCB0b3RhbCB0cmFuc3BhcmVuY3kuXG5cblNh
+dmUgeW91ciBmbGlnaHRzXG5XYW50IHRvIGxvb2sgYnV0IG5vdCByZWFkeSB0byBib29rIGEgZmxpZ2h0PyBObyBwcm9ibGVtLiBXZSBoYXZlIGEg4oCYc2F2ZWTigJkgZmVhdHVyZSB3aGVyZSB5b3Ug
+Y2FuIOKAmGhlYXJ04oCZIGZsaWdodHMgb3IgaG90ZWxzIHlvdSBsaWtlLiBUaGVuIGl04oCZbGwgc2hvdyB1cCBvbiB5b3VyIHRyaXBzLCBzbyB5b3UgY2FuIHBpY2sgdXAgd2hlcmUgeW91IGxlZnQg
+b2ZmIGFuZCBib29rIHlvdXIgaG9saWRheS4gXG5cbldoeSBTa3lzY2FubmVyP1xu4oCiIFRoZSBUZWxlZ3JhcGg7IOKAnFRoZSBvbmx5IDIwIHRyYXZlbCBhcHBzIHlvdeKAmWxsIGV2ZXIgbmVlZOKA
+nVxu4oCiIFRoZSBOZXcgWW9yayBUaW1lczsg4oCcQXBwcyBmb3IgVHJhdmVsZXJzIERyZWFtaW5nIG9mIFRoZWlyIE5leHQgVHJpcOKAnVxu4oCiIEVsaXRlIERhaWx5OyDigJw3IGhvbGlkYXkgdHJh
+dmVsIGFwcHMgdGhhdOKAmWxsIGxldCB5b3UgamluZ2xlIGFyb3VuZCB0aGUgd29ybGTigJlcbuKAoiBQb2NrZXQtbGludDsg4oCcNCBhcHBzIHRvIGdldCB5b3UgcmVhZHkgZm9yIHN1bW1lcuKAnVxu
+XHRcbkxldOKAmXMgZ2V0IHNvY2lhbFxu4oCiIEZhY2Vib29rOiBodHRwczovL3d3dy5mYWNlYm9vay5jb20vc2t5c2Nhbm5lciBcbuKAoiBJbnN0YWdyYW06IEBza3lzY2FubmVyIFxu4oCiIFg6IEBz
+a3lzY2FubmVyXG7igKIgVGlrVG9rOiBAc2t5c2Nhbm5lclxu4oCiIExpbmtlZEluOiBodHRwczovL3d3dy5saW5rZWRpbi5jb20vY29tcGFueS9za3lzY2FubmVyLyBcbuKAoiBXZWJzaXRlOiB3d3cu
+c2t5c2Nhbm5lci5uZXQiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkxvbmcgZGVzY3JpcHRpb24gb2YgdGhlIGFwcCBhbmQgaXRzIGRp
+ZmZlcmVudCBmZWF0dXJlcy5cbiZsdDtoMSZndDtUcmFuc2xhdG9yIENvbW1lbnQmbHQ7L2gxJmd0O1xuUGxlYXNlIHVwZGF0ZSBlcy1NWCB0byBuZXV0cmFsIFNwYW5pc2ggZm9yIExB4oCUdGFyZ2V0
+IG1hcmtldHMgYXJlIE1leGljbywgQ29sb21iaWEgYW5kIEFyZ2VudGluYS4gXG5cblBsZWFzZSBsb2NhbGlzZSB0aGUgY2FycmllcnMgYW5kIGJyYW5kcyB0byBIZXJ0eiwgQnVkZ2V0LCBBdmlzLCBF
+bnRlcnByaXNlOyBTcGlyaXQgQWlybGluZXMsIFVuaXRlZCBBaXJsaW5lcywgQW1lcmljYW4gQWlybGluZXMsIEpldEJsdWUsIEZyb250aWVyIEFpcmxpbmVzLCBEZWx0YSwgQ3RyaXAsIEV4cGVkaWEs
+IEtpd2kuY29tLCBUcmlwLmNvbSwgQWdvZGEsIGJvb2tpbmcuY29tIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8zODQ2NTAxYTM5Nzc5ZTIzY2M1
+ZjJhYWQyYjllMGVkMzAwNGQwNDM5YmE5OGJiNmM2ZWE4OTIxNzdjODI5NjFkLzI3MjM5NzIyL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjcyMzk3MjQsImlkX2NvbnRlbnQiOiJhbmRy
+b2lkX21ldGFkYXRhL3N0b3JlX2Rlc2NyaXB0aW9uIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiI8Yj5Ta3lzY2FubmVyIG1ha2VzIHBsYW5u
+aW5nIHlvdXIgbmV4dCB0cmlwIGVhc3kuIEZpbmQgdGhlIGJlc3QgcHJpY2VzIG9uIGZsaWdodHMsIGhvdGVscyAmIHJlbnRhbCBjYXJzIOKAkyBhbGwgaW4gb25lIHBsYWNlLjwvYj5cblxuTm8gbWF0
+dGVyIHdoZXJlIHlvdSBhcmUg4oCTIHNlYXJjaCBmb3IgY2hlYXAgYWlybGluZSB0aWNrZXRzLCBsb3ctY29zdCBmbGlnaHRzLCBhbmQgdGhlIGJlc3QgYWlyIGZhcmUgZGVhbHMgdG8gZGVzdGluYXRp
+b25zIHdvcmxkd2lkZS4gRWFzaWx5IGZpbmQgYW5kIGJvb2sgZmxpZ2h0cywgSG90ZWxzIGFuZCBjYXIgaGlyZSB3aXRoIG1ham9yIGFpcmxpbmVzIGFuZCBwcm92aWRlcnMgbGlrZSBSeWFuYWlyLCBl
+YXN5SmV0LCBCcml0aXNoIEFpcndheXMgYWxsIGluIG9uZSBwbGFjZS4gU2F2ZSB0aW1lIGFuZCBtb25leSBieSBjb21wYXJpbmcgZmFyZXMgYWNyb3NzIG11bHRpcGxlIGFpcmxpbmVzIGFuZCB0cmF2
+ZWwgYm9va2luZyBwbGF0Zm9ybXMgdG8gZ2V0IHRoZSBiZXN0IHByaWNlLiBUaGVyZSBhcmUgbm8gYm9va2luZyBmZWVzIG9yIGhpZGRlbiBjaGFyZ2Vz4oCUanVzdCB0aGUgbG93ZXN0IHByaWNlcyBv
+biBkb21lc3RpYyBhbmQgaW50ZXJuYXRpb25hbCBmbGlnaHRzLlxuXG5CdXQgU2t5c2Nhbm5lciBpcyBtb3JlIHRoYW4ganVzdCBmbGlnaHRzLiBGaW5kIGJ1ZGdldC1mcmllbmRseSBob3RlbHMsIGx1
+eHVyeSByZXNvcnRzLCBhaXJwb3J0IGhvdGVscywgYW5kIGhvbGlkYXkgcmVudGFscyB3aXRoIG91ciBob3RlbCBzZWFyY2gsIGVuc3VyaW5nIHlvdSBoYXZlIHRoZSBwZXJmZWN0IHBsYWNlIHRvIHN0
+YXkgd2hlcmV2ZXIgeW91IGdvLiBOZWVkIHRyYW5zcG9ydGF0aW9uPyBDb21wYXJlIGFuZCBib29rIGFmZm9yZGFibGUgY2FyIGhpcmUgZnJvbSB0b3AgcHJvdmlkZXJzLCB3aXRoIG9wdGlvbnMgdG8g
+ZmlsdGVyIGJ5IHZlaGljbGUgdHlwZSwgZnVlbCBwb2xpY3ksIGFuZCBtb3JlLlxuXG5IZXJl4oCZcyBob3cgdG8gdXNlIG91ciBhcHA6XG5cbjxiPkZpbmQgaW5zcGlyYXRpb248L2I+XG5DYW7igJl0
+IGRlY2lkZSB3aGVyZSB0byBnbz8gU3RhcnQgYnkgZXhwbG9yaW5nIGV2ZXJ5d2hlcmUgZmlyc3QuIFRhcCDigJhFdmVyeXdoZXJl4oCZIGluIG91ciBzZWFyY2ggYmFyIHRvIGZpbmQgbG93LWNvc3Qg
+ZmxpZ2h0cyBsaXRlcmFsbHkgYW55d2hlcmUgYXJvdW5kIHRoZSB3b3JsZCBhbmQgZ2V0IGlkZWFzIGZvciB5b3VyIG5leHQgaG9saWRheS5cblxuPGI+RmlsdGVyIHlvdXIgc2VhcmNoPC9iPlxuS25v
+dyB3aGF0IHlvdeKAmXJlIGxvb2tpbmcgZm9yPyBVc2Ugb3VyIHNtYXJ0IGZpbHRlcnMgdG8gc2VhcmNoIGJ5IGZsaWdodCBkdXJhdGlvbiwgYWlybGluZSwgbnVtYmVyIG9mIHN0b3BzLCB0cmF2ZWwg
+Y2xhc3MsIGRlcGFydHVyZSBhbmQgYXJyaXZhbCB0aW1lcy4gTG9va2luZyBmb3IgbGFzdC1taW51dGUgdHJhdmVsIGRlYWxzPyBVc2UgZmlsdGVycyB0byBmaW5kIGZsZXhpYmxlIG9wdGlvbnMgYW5k
+IHNwb250YW5lb3VzIGdldGF3YXlzIGF0IHRoZSBsb3dlc3QgcHJpY2VzLlxuXG48Yj5UaGUgYmVzdCB0aW1lIHRvIGZseTwvYj5cbllvdeKAmXZlIGNob3NlbiB3aGVyZSBpdCB3aWxsIGJlLCBub3cg
+dG8gZmluZCB0aGUgYmVzdCBkYXRlcyB0byBib29rIHlvdXIgaG9saWRheS4gT3VyIGNhbGVuZGFyIHZpZXcgYnJlYWtzIGRvd24gdGhlIGNoZWFwZXN0IGRhdGVzIGluIGEgY2hvc2VuIG1vbnRoIHNv
+IHlvdSBjYW4gZmluZCB0aGUgcmlnaHQgZmxpZ2h0IGRlYWwuIE5vdCByZWFkeSB0byBib29rIHlldD8gU2V0IHVwIGEgUHJpY2UgQWxlcnQgYW5kIHdl4oCZbGwgbGV0IHlvdSBrbm93IHdoZW4gdGhl
+IGZsaWdodCBwcmljZSBjaGFuZ2VzIHNvIHlvdeKAmXJlIGFsd2F5cyBib29raW5nIGF0IHRoZSByaWdodCB0aW1lLlxuXG48Yj5UaGUgcmlnaHQgaG90ZWwgYXQgdGhlIHJpZ2h0IHByaWNlPC9iPlxu
+VGhvdWdodCB3ZSB3ZXJlIGp1c3QgYWJvdXQgZGlzY291bnRlZCBmbGlnaHRzPyBOb3BlLCB3ZeKAmXZlIGdvdCB5b3VyIHN0YXkgY292ZXJlZCB0b28uIENvbXBhcmUgYW5kIGJvb2sgYnVkZ2V0IGhv
+dGVscywgbHV4dXJ5IHJlc29ydHMsIGhvbGlkYXkgYXBhcnRtZW50IHJlbnRhbHMsIG1vdGVscyBhbmQgaG9zdGVscyBhbGwgb3ZlciB0aGUgd29ybGQuIE9yIGZpbmQgcm9vbXMgbmVhciB5b3VyIGN1
+cnJlbnQgbG9jYXRpb24gYW5kIGdyYWIgYSBsYXN0LW1pbnV0ZSBob3RlbCBkZWFsIGZvciB5b3VyIG5leHQgaG9saWRheS5cblxuPGI+SGlyZSBhIGNhcjwvYj5cbkNob29zZSB3aGVyZSBhbmQgd2hl
+biB0byBwaWNrIHVwIHlvdXIgY2FyIGhpcmUsIGFuZCB3ZeKAmWxsIHNob3cgeW91IGFmZm9yZGFibGUgb3B0aW9ucyBmcm9tIHRvcCBjYXIgaGlyZSBhZ2VuY2llcywgaW5jbHVkaW5nIEhlcnR6LCBB
+dmlzLCBFbnRlcnByaXNlIGFuZCBFdXJvcGNhci4gWW91IGNhbiBmaWx0ZXIgeW91ciBzZWFyY2ggYnkgdmVoaWNsZSB0eXBlLCBmdWVsIHR5cGUgYW5kIGZlYXR1cmVzLiBBbmQgb3VyIEZhaXIgRnVl
+bCBQb2xpY3kgZmxhZyB3aWxsIG1ha2Ugc3VyZSB5b3XigJlyZSBub3QgcGF5aW5nIHRvbyBtdWNoIG9uIGZ1ZWwg4oCTIHdl4oCZdmUgZ290IHlvdXIgYmFjay5cblxuPGI+Qm9vayB3aXRoIHdobyB5
+b3UgdHJ1c3Q8L2I+XG5Db21wYXJlIGFsbCB5b3VyIHRvcCB0cmF2ZWwgYW5kIGFpcmxpbmVzLCBpbmNsdWRpbmcgb25saW5lIHRyYXZlbCBhZ2VuY2llcyAoT1RBKSwgaW4gb25lIHBsYWNlIC0gZWFz
+eUpldCwgUnlhbmFpciwgQnJpdGlzaCBBaXJ3YXlzLCBMdWZ0aGFuc2EsIFdpenogQWlyLCBFeHBlZGlhLCBCb29raW5nLmNvbSwgbGFzdG1pbnV0ZS5jb20gYW5kIG1vcmUuIFBsdXMsIGdldCByZWNl
+bnQgcmV2aWV3cyBvbiBvdXIgdHJhdmVsIHBhcnRuZXJzIGZyb20gb3VyIGNvbW11bml0eSBvZiB0cmF2ZWxsZXJzLlxuXG48Yj5ObyBhZGRlZCBmZWVzIGV2ZXI8L2I+XG5EaWQgd2UgbWVudGlvbiB3
+ZSBkb27igJl0IGNoYXJnZSBhbnkgYm9va2luZyBmZWVzPyBOZXZlci4gTm9uZSBhdCBhbGwuIEJvb2sgZGlyZWN0bHkgd2l0aCBhaXJsaW5lcywgaG90ZWxzLCBhbmQgdHJhdmVsIGFnZW5jeSBzZXJ2
+aWNlcyB3aXRoIHRvdGFsIHRyYW5zcGFyZW5jeS5cblxuPGI+U2F2ZSB5b3VyIGZsaWdodHM8L2I+XG5XYW50IHRvIGxvb2sgYnV0IG5vdCByZWFkeSB0byBib29rIGEgZmxpZ2h0PyBObyBwcm9ibGVt
+LiBXZSBoYXZlIGEg4oCYc2F2ZWTigJkgZmVhdHVyZSB3aGVyZSB5b3UgY2FuIOKAmGhlYXJ04oCZIGZsaWdodHMgb3IgaG90ZWxzIHlvdSBsaWtlLiBUaGVuIGl04oCZbGwgc2hvdyB1cCBvbiB5b3Vy
+IHRyaXBzLCBzbyB5b3UgY2FuIHBpY2sgdXAgd2hlcmUgeW91IGxlZnQgb2ZmIGFuZCBib29rIHlvdXIgaG9saWRheS5cblxuPGI+V2h5IFNreXNjYW5uZXI/PC9iPlxu4oCiIFRoZSBUZWxlZ3JhcGg7
+IOKAnFRoZSBvbmx5IDIwIHRyYXZlbCBhcHBzIHlvdeKAmWxsIGV2ZXIgbmVlZOKAnVxu4oCiIFRoZSBOZXcgWW9yayBUaW1lczsg4oCcQXBwcyBmb3IgVHJhdmVsZXJzIERyZWFtaW5nIG9mIFRoZWly
+IE5leHQgVHJpcOKAnVxu4oCiIEVsaXRlIERhaWx5OyDigJw3IGhvbGlkYXkgdHJhdmVsIGFwcHMgdGhhdOKAmWxsIGxldCB5b3UgamluZ2xlIGFyb3VuZCB0aGUgd29ybGTigJlcbuKAoiBQb2NrZXQt
+bGludDsg4oCcNCBhcHBzIHRvIGdldCB5b3UgcmVhZHkgZm9yIHN1bW1lcuKAnVxuXG48Yj5MZXTigJlzIGdldCBzb2NpYWw8L2I+XG7igKIgRmFjZWJvb2s6IGh0dHBzOi8vd3d3LmZhY2Vib29rLmNv
+bS9za3lzY2FubmVyXG7igKIgSW5zdGFncmFtOiBAc2t5c2Nhbm5lclxu4oCiIFg6IEBza3lzY2FubmVyXG7igKIgVGlrVG9rOiBAc2t5c2Nhbm5lclxu4oCiIExpbmtlZEluOiBodHRwczovL3d3dy5s
+aW5rZWRpbi5jb20vY29tcGFueS9za3lzY2FubmVyL1xu4oCiIFdlYnNpdGU6IHd3dy5za3lzY2FubmVyLm5ldCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQm
+bHQ7L2gxJmd0O1xuTG9uZyBkZXNjcmlwdGlvbiBvZiB0aGUgYXBwIGFuZCBpdHMgZmVhdHVyZXMgKEFuZHJvaWQpXHJcblxuUGxlYXNlIHRyYW5zbGF0ZSBpbiBhbGwgbG9jYWxlLCBtYWtpbmcgc3Vy
+ZSB5b3UgdXNlIFBhcnRuZXIgYW5kIE9UQSBiYXNlZCBvbiB5b3VyIGxvY2FsZSAoIHNlZSBleGNlbCB3ZSBzaGFyZWQgKSBcclxuXG5cbkludGVybmFsIG5vdGU6XHJcbi1GSVhFRCBIVE1MIFRBRyBJ
+U1NVRVMgSU4gRVMsIEZSLCBJVCwgSlAsIEtSLCBERSwgQlIgKFRSQU4tMjU4NDEpIE9OIE1BWSA4IDIwMjVcclxuLVVQREFURUQgQkFDSyBBUyBPUklHSU5BTCBUUkFOU0xBVElPTiBPTiAgMTMuMDgu
+MjAyNCAoIGFzIGl0IHdhcyBiZWZvcmUgbWFyY2ggMjAyNCApXHJcbi1UUkFOU0xBVEVEIElOIEFMTCBMQU5HIE1BWSAxNSAyMDI0XHJcbi1VUERBVEVEIE9OIE1BUkNIIDE1IDIwMjQgaW4gZW5HQlxy
+XG5cbiZsdDtoMSZndDtUcmFuc2xhdG9yIENvbW1lbnQmbHQ7L2gxJmd0O1xuUGxlYXNlIHVwZGF0ZSBlcy1NWCB0byBuZXV0cmFsIFNwYW5pc2ggZm9yIExB4oCUdGFyZ2V0IG1hcmtldHMgYXJlIE1l
+eGljbywgQ29sb21iaWEgYW5kIEFyZ2VudGluYS4gXG5cblBsZWFzZSBsb2NhbGlzZSB0aGUgY2FycmllcnMgYW5kIGJyYW5kcyB0byBIZXJ0eiwgQnVkZ2V0LCBBdmlzLCBFbnRlcnByaXNlOyBTcGly
+aXQgQWlybGluZXMsIFVuaXRlZCBBaXJsaW5lcywgQW1lcmljYW4gQWlybGluZXMsIEpldEJsdWUsIEZyb250aWVyIEFpcmxpbmVzLCBEZWx0YSwgQ3RyaXAsIEV4cGVkaWEsIEtpd2kuY29tLCBUcmlw
+LmNvbSwgQWdvZGEsIGJvb2tpbmcuY29tIFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8zODQ2NTAxYTM5Nzc5ZTIzY2M1ZjJhYWQyYjllMGVkMzAw
+NGQwNDM5YmE5OGJiNmM2ZWE4OTIxNzdjODI5NjFkLzI3MjM5NzI0L3NjcmVlbnNob3QudXJsIn19XX1d</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="es-MX" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTJDMTRFNCIgcGFja2FnZUlk
+PSI1MTliODAzNS1jYjUwLTQ4OTQtOGE4Ny04NGI0M2UwODJjYWYiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iZXMtTVgiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMDQgMTY6MzI6MTYrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJ5ZVF5STZQazVYLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9InllUXlJNlBrNVgub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-04-14:31:53" original="3846501a39779e23cc5f2aad2b9e0ed3004d0439ba98bb6c6ea892177c82961d" source-language="en-GB" target-language="es-MX">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4768185906">
+<source xml:lang="en-GB">Skyscanner makes planning your next trip easy. Find the best prices on flights, hotels &amp; rental cars – all in one place.
+
+No matter where you are – search for cheap airline tickets, low-cost flights, and the best air fare deals to destinations worldwide. Easily find and book flights, Hotels and car hire with major airlines and providers  like Ryanair, easyJet, British Airways all in one place.  Save time and money by comparing fares across multiple airlines and travel booking platforms to get the best price. There are no booking fees or hidden charges—just the lowest prices on domestic and international flights.
+
+But Skyscanner is more than just flights. Find budget-friendly hotels, luxury resorts, airport hotels, and holiday rentals with our hotel search, ensuring you have the perfect place to stay wherever you go. Need transportation? Compare and book affordable car hire from top providers, with options to filter by vehicle type, fuel policy, and more.
+Here’s how to use our app:
+
+Find inspiration
+Can’t decide where to go? Start by exploring everywhere first. Tap ‘Everywhere’ in our search bar to find low-cost flights literally anywhere around the world and get ideas for your next holiday.
+
+Filter your search
+Know what you’re looking for? Use our smart filters to search by flight duration, airline, number of stops, travel class, departure and arrival times. Looking for last-minute travel deals? Use filters to find flexible options and spontaneous getaways at the lowest prices.
+
+The best time to fly
+You’ve chosen where it will be, now to find the best dates to book your holiday. Our calendar view breaks down the cheapest dates in a chosen month so you can find the right flight deal. Not ready to book yet? Set up a Price Alert and we’ll let you know when the flight price changes so you’re always booking at the right time.
+
+The right hotel at the right price
+Thought we were just about discounted flights? Nope, we’ve got your stay covered too. Compare and book budget hotels, luxury resorts, holiday apartment rentals , motels and hostels all over the world. Or find rooms near your current location and grab a last-minute hotel deal for your next holiday. 
+
+Hire a car
+Choose where and when to pick up your car hire, and we’ll show you affordable options from top car hire agencies, including Hertz, Avis, Enterprise and Europcar . You can filter your search by vehicle type, fuel type and features. And our Fair Fuel Policy flag will make sure you’re not paying too much on fuel – we’ve got your back. 
+
+Book with who you trust
+Compare all your top travel and airlines, including online travel agencies (OTA), in one place - easyJet, Ryanair, British Airways, Lufthansa, Wizz Air, Expedia, Booking.com, lastminute.com and more. Plus, get recent reviews on our travel partners from our community of travellers. 
+
+No added fees ever
+Did we mention we don’t charge any booking fees? Never. None at all. Book directly with airlines, hotels, and travel agency services with total transparency.
+
+Save your flights
+Want to look but not ready to book a flight? No problem. We have a ‘saved’ feature where you can ‘heart’ flights or hotels you like. Then it’ll show up on your trips, so you can pick up where you left off and book your holiday. 
+
+Why Skyscanner?
+• The Telegraph; “The only 20 travel apps you’ll ever need”
+• The New York Times; “Apps for Travelers Dreaming of Their Next Trip”
+• Elite Daily; “7 holiday travel apps that’ll let you jingle around the world’
+• Pocket-lint; “4 apps to get you ready for summer”
+	
+Let’s get social
+• Facebook: https://www.facebook.com/skyscanner 
+• Instagram: @skyscanner 
+• X: @skyscanner
+• TikTok: @skyscanner
+• LinkedIn: https://www.linkedin.com/company/skyscanner/ 
+• Website: www.skyscanner.net</source>
+<seg-source><mrk mid="0" mtype="seg">Skyscanner makes planning your next trip easy. Find the best prices on flights, hotels &amp; rental cars – all in one place.
+
+No matter where you are – search for cheap airline tickets, low-cost flights, and the best air fare deals to destinations worldwide. Easily find and book flights, Hotels and car hire with major airlines and providers  like Ryanair, easyJet, British Airways all in one place.  Save time and money by comparing fares across multiple airlines and travel booking platforms to get the best price. There are no booking fees or hidden charges—just the lowest prices on domestic and international flights.
+
+But Skyscanner is more than just flights. Find budget-friendly hotels, luxury resorts, airport hotels, and holiday rentals with our hotel search, ensuring you have the perfect place to stay wherever you go. Need transportation? Compare and book affordable car hire from top providers, with options to filter by vehicle type, fuel policy, and more.
+Here’s how to use our app:
+
+Find inspiration
+Can’t decide where to go? Start by exploring everywhere first. Tap ‘Everywhere’ in our search bar to find low-cost flights literally anywhere around the world and get ideas for your next holiday.
+
+Filter your search
+Know what you’re looking for? Use our smart filters to search by flight duration, airline, number of stops, travel class, departure and arrival times. Looking for last-minute travel deals? Use filters to find flexible options and spontaneous getaways at the lowest prices.
+
+The best time to fly
+You’ve chosen where it will be, now to find the best dates to book your holiday. Our calendar view breaks down the cheapest dates in a chosen month so you can find the right flight deal. Not ready to book yet? Set up a Price Alert and we’ll let you know when the flight price changes so you’re always booking at the right time.
+
+The right hotel at the right price
+Thought we were just about discounted flights? Nope, we’ve got your stay covered too. Compare and book budget hotels, luxury resorts, holiday apartment rentals , motels and hostels all over the world. Or find rooms near your current location and grab a last-minute hotel deal for your next holiday. 
+
+Hire a car
+Choose where and when to pick up your car hire, and we’ll show you affordable options from top car hire agencies, including Hertz, Avis, Enterprise and Europcar . You can filter your search by vehicle type, fuel type and features. And our Fair Fuel Policy flag will make sure you’re not paying too much on fuel – we’ve got your back. 
+
+Book with who you trust
+Compare all your top travel and airlines, including online travel agencies (OTA), in one place - easyJet, Ryanair, British Airways, Lufthansa, Wizz Air, Expedia, Booking.com, lastminute.com and more. Plus, get recent reviews on our travel partners from our community of travellers. 
+
+No added fees ever
+Did we mention we don’t charge any booking fees? Never. None at all. Book directly with airlines, hotels, and travel agency services with total transparency.
+
+Save your flights
+Want to look but not ready to book a flight? No problem. We have a ‘saved’ feature where you can ‘heart’ flights or hotels you like. Then it’ll show up on your trips, so you can pick up where you left off and book your holiday. 
+
+Why Skyscanner?
+• The Telegraph; “The only 20 travel apps you’ll ever need”
+• The New York Times; “Apps for Travelers Dreaming of Their Next Trip”
+• Elite Daily; “7 holiday travel apps that’ll let you jingle around the world’
+• Pocket-lint; “4 apps to get you ready for summer”
+	
+Let’s get social
+• Facebook: https://www.facebook.com/skyscanner 
+• Instagram: @skyscanner 
+• X: @skyscanner
+• TikTok: @skyscanner
+• LinkedIn: https://www.linkedin.com/company/skyscanner/ 
+• Website: www.skyscanner.net</mrk></seg-source>
+<target  xml:lang="es-MX" state="translated"><mrk mid="0" mtype="seg">Con Skyscanner, planear tu viaje es fácil y rápido.&#10;&#10;Compara y encuentra los mejores precios en vuelos, hoteles y renta de autos en un solo lugar, sin tarifas ocultas ni cargos extra.&#10;&#10;Vuelos baratos a todo el mundo&#10;&#10;Busca boletos económicos con aerolíneas como Spirit, United, Southwest, Delta o American Airlines. Ahorra tiempo y dinero comparando tarifas y elige el vuelo ideal sin complicaciones.&#10;&#10;Más que solo vuelos&#10;&#10;Skyscanner también te ayuda a reservar hoteles y autos de renta al mejor precio. Encuentra alojamiento perfecto —desde hoteles económicos hasta resorts de lujo— o renta un vehículo con proveedores de confianza como Hertz, Budget, Avis o Enterprise.&#10;&#10;Cómo usar la app:&#10;&#10;Encuentra inspiración: ¿Aún sin destino? Usa la opción “Cualquier lugar” para descubrir vuelos económicos a miles de sitios.&#10;Filtra tu búsqueda: Ajusta duración, aerolínea, escalas o clase de viaje y encuentra incluso ofertas de última hora.&#10;El mejor momento para volar: La vista de calendario muestra las fechas más baratas. Activa una alerta de precios para saber cuándo reservar.&#10;Tu hotel ideal: Compara opciones y reserva desde un hostal hasta un resort. Incluso busca ofertas de último minuto cerca de donde estés.&#10;Renta un auto: Elige dónde recogerlo y filtra por tipo, combustible o características. Nuestra Política de combustible justa garantiza transparencia total.&#10;Confianza y transparencia&#10;&#10;Compara precios de aerolíneas y agencias líderes (Expedia, Booking, Trip.com, Agoda, Kiwi.com, entre otras) y consulta reseñas de otros viajeros. Nunca cobramos tarifas de reservación.&#10;&#10;Guarda tus favoritos&#10;&#10;¿Aún no listas para reservar? Marca vuelos u hoteles con un corazón y retómalos cuando quieras.&#10;&#10;Por qué elegir Skyscanner:&#10;&#10;Recomendado por The Telegraph, The New York Times, Elite Daily y Pocket-lint como una de las mejores apps de viajes.&#10;Síguenos en redes sociales:&#10;&#10;Facebook: facebook.com/skyscanner&#10;Instagram / X / TikTok: @skyscanner&#10;LinkedIn: Skyscanner&#10;Sitio web: www.skyscanner.net</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">626</count><count count-type="x-matecat-weighted">0</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27239722</note>
+<note>translation_context|¶|ios_metadata/store_description</note>
+<note annotates="source" from="id_content">ios_metadata/store_description</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Long description of the app and its different features.
+&amp;lt;h1&amp;gt;Translator Comment&amp;lt;/h1&amp;gt;
+Please update es-MX to neutral Spanish for LA—target markets are Mexico, Colombia and Argentina. 
+
+Please localise the carriers and brands to Hertz, Budget, Avis, Enterprise; Spirit Airlines, United Airlines, American Airlines, JetBlue, Frontier Airlines, Delta, Ctrip, Expedia, Kiwi.com, Trip.com, Agoda, booking.com 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3846501a39779e23cc5f2aad2b9e0ed3004d0439ba98bb6c6ea892177c82961d/27239722/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4768185907">
+<source xml:lang="en-GB">&lt;b&gt;Skyscanner makes planning your next trip easy. Find the best prices on flights, hotels &amp; rental cars – all in one place.&lt;/b&gt;
+
+No matter where you are – search for cheap airline tickets, low-cost flights, and the best air fare deals to destinations worldwide. Easily find and book flights, Hotels and car hire with major airlines and providers like Ryanair, easyJet, British Airways all in one place. Save time and money by comparing fares across multiple airlines and travel booking platforms to get the best price. There are no booking fees or hidden charges—just the lowest prices on domestic and international flights.
+
+But Skyscanner is more than just flights. Find budget-friendly hotels, luxury resorts, airport hotels, and holiday rentals with our hotel search, ensuring you have the perfect place to stay wherever you go. Need transportation? Compare and book affordable car hire from top providers, with options to filter by vehicle type, fuel policy, and more.
+
+Here’s how to use our app:
+
+&lt;b&gt;Find inspiration&lt;/b&gt;
+Can’t decide where to go? Start by exploring everywhere first. Tap ‘Everywhere’ in our search bar to find low-cost flights literally anywhere around the world and get ideas for your next holiday.
+
+&lt;b&gt;Filter your search&lt;/b&gt;
+Know what you’re looking for? Use our smart filters to search by flight duration, airline, number of stops, travel class, departure and arrival times. Looking for last-minute travel deals? Use filters to find flexible options and spontaneous getaways at the lowest prices.
+
+&lt;b&gt;The best time to fly&lt;/b&gt;
+You’ve chosen where it will be, now to find the best dates to book your holiday. Our calendar view breaks down the cheapest dates in a chosen month so you can find the right flight deal. Not ready to book yet? Set up a Price Alert and we’ll let you know when the flight price changes so you’re always booking at the right time.
+
+&lt;b&gt;The right hotel at the right price&lt;/b&gt;
+Thought we were just about discounted flights? Nope, we’ve got your stay covered too. Compare and book budget hotels, luxury resorts, holiday apartment rentals, motels and hostels all over the world. Or find rooms near your current location and grab a last-minute hotel deal for your next holiday.
+
+&lt;b&gt;Hire a car&lt;/b&gt;
+Choose where and when to pick up your car hire, and we’ll show you affordable options from top car hire agencies, including Hertz, Avis, Enterprise and Europcar. You can filter your search by vehicle type, fuel type and features. And our Fair Fuel Policy flag will make sure you’re not paying too much on fuel – we’ve got your back.
+
+&lt;b&gt;Book with who you trust&lt;/b&gt;
+Compare all your top travel and airlines, including online travel agencies (OTA), in one place - easyJet, Ryanair, British Airways, Lufthansa, Wizz Air, Expedia, Booking.com, lastminute.com and more. Plus, get recent reviews on our travel partners from our community of travellers.
+
+&lt;b&gt;No added fees ever&lt;/b&gt;
+Did we mention we don’t charge any booking fees? Never. None at all. Book directly with airlines, hotels, and travel agency services with total transparency.
+
+&lt;b&gt;Save your flights&lt;/b&gt;
+Want to look but not ready to book a flight? No problem. We have a ‘saved’ feature where you can ‘heart’ flights or hotels you like. Then it’ll show up on your trips, so you can pick up where you left off and book your holiday.
+
+&lt;b&gt;Why Skyscanner?&lt;/b&gt;
+• The Telegraph; “The only 20 travel apps you’ll ever need”
+• The New York Times; “Apps for Travelers Dreaming of Their Next Trip”
+• Elite Daily; “7 holiday travel apps that’ll let you jingle around the world’
+• Pocket-lint; “4 apps to get you ready for summer”
+
+&lt;b&gt;Let’s get social&lt;/b&gt;
+• Facebook: https://www.facebook.com/skyscanner
+• Instagram: @skyscanner
+• X: @skyscanner
+• TikTok: @skyscanner
+• LinkedIn: https://www.linkedin.com/company/skyscanner/
+• Website: www.skyscanner.net</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;b&gt;Skyscanner makes planning your next trip easy. Find the best prices on flights, hotels &amp; rental cars – all in one place.&lt;/b&gt;
+
+No matter where you are – search for cheap airline tickets, low-cost flights, and the best air fare deals to destinations worldwide. Easily find and book flights, Hotels and car hire with major airlines and providers like Ryanair, easyJet, British Airways all in one place. Save time and money by comparing fares across multiple airlines and travel booking platforms to get the best price. There are no booking fees or hidden charges—just the lowest prices on domestic and international flights.
+
+But Skyscanner is more than just flights. Find budget-friendly hotels, luxury resorts, airport hotels, and holiday rentals with our hotel search, ensuring you have the perfect place to stay wherever you go. Need transportation? Compare and book affordable car hire from top providers, with options to filter by vehicle type, fuel policy, and more.
+
+Here’s how to use our app:
+
+&lt;b&gt;Find inspiration&lt;/b&gt;
+Can’t decide where to go? Start by exploring everywhere first. Tap ‘Everywhere’ in our search bar to find low-cost flights literally anywhere around the world and get ideas for your next holiday.
+
+&lt;b&gt;Filter your search&lt;/b&gt;
+Know what you’re looking for? Use our smart filters to search by flight duration, airline, number of stops, travel class, departure and arrival times. Looking for last-minute travel deals? Use filters to find flexible options and spontaneous getaways at the lowest prices.
+
+&lt;b&gt;The best time to fly&lt;/b&gt;
+You’ve chosen where it will be, now to find the best dates to book your holiday. Our calendar view breaks down the cheapest dates in a chosen month so you can find the right flight deal. Not ready to book yet? Set up a Price Alert and we’ll let you know when the flight price changes so you’re always booking at the right time.
+
+&lt;b&gt;The right hotel at the right price&lt;/b&gt;
+Thought we were just about discounted flights? Nope, we’ve got your stay covered too. Compare and book budget hotels, luxury resorts, holiday apartment rentals, motels and hostels all over the world. Or find rooms near your current location and grab a last-minute hotel deal for your next holiday.
+
+&lt;b&gt;Hire a car&lt;/b&gt;
+Choose where and when to pick up your car hire, and we’ll show you affordable options from top car hire agencies, including Hertz, Avis, Enterprise and Europcar. You can filter your search by vehicle type, fuel type and features. And our Fair Fuel Policy flag will make sure you’re not paying too much on fuel – we’ve got your back.
+
+&lt;b&gt;Book with who you trust&lt;/b&gt;
+Compare all your top travel and airlines, including online travel agencies (OTA), in one place - easyJet, Ryanair, British Airways, Lufthansa, Wizz Air, Expedia, Booking.com, lastminute.com and more. Plus, get recent reviews on our travel partners from our community of travellers.
+
+&lt;b&gt;No added fees ever&lt;/b&gt;
+Did we mention we don’t charge any booking fees? Never. None at all. Book directly with airlines, hotels, and travel agency services with total transparency.
+
+&lt;b&gt;Save your flights&lt;/b&gt;
+Want to look but not ready to book a flight? No problem. We have a ‘saved’ feature where you can ‘heart’ flights or hotels you like. Then it’ll show up on your trips, so you can pick up where you left off and book your holiday.
+
+&lt;b&gt;Why Skyscanner?&lt;/b&gt;
+• The Telegraph; “The only 20 travel apps you’ll ever need”
+• The New York Times; “Apps for Travelers Dreaming of Their Next Trip”
+• Elite Daily; “7 holiday travel apps that’ll let you jingle around the world’
+• Pocket-lint; “4 apps to get you ready for summer”
+
+&lt;b&gt;Let’s get social&lt;/b&gt;
+• Facebook: https://www.facebook.com/skyscanner
+• Instagram: @skyscanner
+• X: @skyscanner
+• TikTok: @skyscanner
+• LinkedIn: https://www.linkedin.com/company/skyscanner/
+• Website: www.skyscanner.net</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">&lt;b&gt;Con Skyscanner, planear tu próximo viaje es muy fácil. Encuentra los mejores precios en vuelos, hoteles y renta de autos, todo en un solo lugar.&lt;/b&gt;&#10;No importa dónde estés: busca boletos de avión baratos, vuelos de bajo costo y las mejores ofertas a destinos de todo el mundo. Encuentra y reserva fácilmente vuelos, hoteles y autos con las principales aerolíneas. Ahorra tiempo y dinero al comparar tarifas de varias aerolíneas y plataformas para obtener el mejor precio. Sin tarifas de reservación ni cargos ocultos, solo los precios más bajos en vuelos nacionales e internacionales.&#10;Skyscanner es mucho más que vuelos. Encuentra hoteles económicos, resorts, alojamientos vacacionales o cerca del aeropuerto con nuestro buscador, asegurando el lugar perfecto para tu estadía. ¿Necesitas transporte? Compara y renta vehículos económicos de los principales proveedores, con opciones para filtrar por tipo, combustible y más.&#10;Cómo usar nuestra app:&#10;&lt;b&gt;Encuentra inspiración&lt;/b&gt;&#10;¿Aún no decides a dónde viajar? Empieza explorando todos los destinos. Selecciona la opción “Cualquier lugar” en nuestra barra de búsqueda para descubrir vuelos baratos a cualquier parte del mundo y encontrar ideas para tus próximas vacaciones.&#10;&lt;b&gt;Filtra tu búsqueda&lt;/b&gt;&#10;¿Sabes lo que buscas? Utiliza nuestros filtros inteligentes para buscar por duración del vuelo, aerolínea, número de escalas, clase de viaje y horarios de salida y llegada. ¿Buscas ofertas de viaje de última hora? Usa los filtros para encontrar opciones flexibles y escapadas espontáneas con los precios más bajos.&#10;&lt;b&gt;El mejor momento para volar&lt;/b&gt;&#10;Ya elegiste el destino; ahora encuentra las mejores fechas y precios para volar. Usa el calendario para ver los días más baratos o configura alertas y recibe avisos cuando bajen los precios. ¡Reserva justo a tiempo!&#10;&lt;b&gt;El hotel ideal al precio ideal&lt;/b&gt;&#10;¿Creías que solo buscábamos vuelos con descuento? No, también tenemos todo cubierto para tu estadía. Compara y reserva hoteles económicos, resorts de lujo, departamentos vacacionales, moteles y hostales en cualquier parte del mundo. También puedes buscar habitaciones cerca de tu ubicación actual y conseguir una oferta de hotel de último minuto para tus próximas vacaciones.&#10;&lt;b&gt;Renta un auto&lt;/b&gt;&#10;Elige dónde y cuándo recoger tu auto y encuentra opciones económicas de las principales agencias como Hertz, Budget, Avis y Enterprise. Filtra por tipo de vehículo, combustible y características. Con nuestra Política de combustible justa, evitarás pagar de más. ¡Te respaldamos!&#10;&lt;b&gt;Reserva con proveedores de confianza&lt;/b&gt;&#10;Compara en un solo lugar todas las principales aerolíneas y agencias de viaje en línea (OTA) líderes, incluyendo a Spirit Airlines, Agoda, booking.com y más. Además, consulta las opiniones recientes de nuestra comunidad de viajeros sobre nuestros socios de viaje.&#10;&lt;b&gt;Sin tarifas adicionales&lt;/b&gt;&#10;¿Ya te dijimos que no cobramos tarifas de reservación? Nunca. Absolutamente ninguna. Reserva directamente con aerolíneas, hoteles y servicios de agencias de viajes con total transparencia.&#10;&lt;b&gt;Guarda tus vuelos&lt;/b&gt;&#10;¿Quieres buscar pero aún no tienes todo listo para reservar un vuelo? No hay problema. Tenemos una función de “favoritos” donde puedes marcar con un corazón los vuelos u hoteles que te gusten. Así aparecerán en tus viajes, para que puedas continuar donde te quedaste y reservar tus vacaciones.&#10;&lt;b&gt;¿Por qué Skyscanner?&lt;/b&gt;&#10;• The Telegraph: “Las únicas 20&#160;apps de viajes que necesitarás”&#10;• The New York Times: “Aplicaciones para viajeros que sueñan con su próximo viaje”&#10;• Elite Daily: “7&#160;apps de viaje para que pases las festividades en cualquier parte del mundo”&#10;• Pocket-lint: “4&#160;apps para prepararte para el verano”&#10;&lt;b&gt;Síguenos en redes sociales&lt;/b&gt;&#10;Facebook: facebook.com/skyscanner&#10;Instagram / X / TikTok: @skyscanner&#10;LinkedIn: Skyscanner&#10;Sitio web: www.skyscanner.net</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">626</count><count count-type="x-matecat-weighted">0</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27239724</note>
+<note>translation_context|¶|android_metadata/store_description</note>
+<note annotates="source" from="id_content">android_metadata/store_description</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Long description of the app and its features (Android)
+
+Please translate in all locale, making sure you use Partner and OTA based on your locale ( see excel we shared ) 
+
+
+Internal note:
+-FIXED HTML TAG ISSUES IN ES, FR, IT, JP, KR, DE, BR (TRAN-25841) ON MAY 8 2025
+-UPDATED BACK AS ORIGINAL TRANSLATION ON  13.08.2024 ( as it was before march 2024 )
+-TRANSLATED IN ALL LANG MAY 15 2024
+-UPDATED ON MARCH 15 2024 in enGB
+
+&amp;lt;h1&amp;gt;Translator Comment&amp;lt;/h1&amp;gt;
+Please update es-MX to neutral Spanish for LA—target markets are Mexico, Colombia and Argentina. 
+
+Please localise the carriers and brands to Hertz, Budget, Avis, Enterprise; Spirit Airlines, United Airlines, American Airlines, JetBlue, Frontier Airlines, Delta, Ctrip, Expedia, Kiwi.com, Trip.com, Agoda, booking.com 
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/3846501a39779e23cc5f2aad2b9e0ed3004d0439ba98bb6c6ea892177c82961d/27239724/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

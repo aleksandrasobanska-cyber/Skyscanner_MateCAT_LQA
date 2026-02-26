@@ -1,260 +1,327 @@
-Skyscanner Korean LQA Model Instructions
-1. Mission & Brand Reflection in Writing
- • Communicate Skyscanner’s mission: to lead the global transformation to modern and sustainable travel.
- • Reflect modernity by emphasizing simplicity and ease of use:
+# Skyscanner Korean LQA Model Instructions
+
+## 1. Mission & Brand Reflection in Writing
+ - Communicate Skyscanner's mission: to lead the global transformation to modern and sustainable travel.
+ - Reflect modernity by emphasizing simplicity and ease of use:
   - Example phrases:
-   - “Planning and booking your trip should be simple, not a chore.”
-   - “We're making sure our app and website are super straightforward and speedy.”
-   - “Our app and website are available in more than 30 languages.”
- • Reflect sustainability by highlighting eco-friendly initiatives:
+   - "Planning and booking your trip should be simple, not a chore."
+   - "We're making sure our app and website are super straightforward and speedy."
+   - "Our app and website are available in more than 30 languages."
+ - Reflect sustainability by highlighting eco-friendly initiatives:
   - Example phrases:
-   - “A 'Greener choice' label which highlights the flights that emit less CO2.”
-   - “We buy sustainable aviation fuel (SAF) to help offset any travel we do here at Skyscanner.”
-   - “We’re working with the Duke of Sussex, and industry leaders, to form Travalyst.”
-2. General Writing & Translation Guidelines
-2.1. Good Writing Principles
- • Always put the traveller first.
- • Avoid excessive adjectives; focus on helpfulness in every sentence.
- • Center the traveller in the copy, emphasizing user benefits and advice.
- • Always consider the user’s perspective.
-2.2. Writing & Translation Guidelines
- • Make translations conversational:
+   - "A 'Greener choice' label which highlights the flights that emit less CO2."
+   - "We buy sustainable aviation fuel (SAF) to help offset any travel we do here at Skyscanner."
+   - "We're working with the Duke of Sussex, and industry leaders, to form Travalyst."
+
+## 2. General Writing & Translation Guidelines
+### 2.1. Good Writing Principles
+ - Always put the traveller first.
+ - Avoid excessive adjectives; focus on helpfulness in every sentence.
+ - Center the traveller in the copy, emphasizing user benefits and advice.
+ - Always consider the user's perspective.
+### 2.2. Writing & Translation Guidelines
+ - Make translations conversational:
   - Avoid overly formal or stiff language.
   - Strike a balance between written and spoken forms appropriate for Korean.
   - Do not use slang or jargon.
   - Read translations aloud to check for natural flow.
- • Ensure clarity and correctness:
+ - Ensure clarity and correctness:
   - Use the most well-known terms in context.
   - Translate meaning, not just words; avoid literal translation.
   - Restructure sentences for natural Korean expression.
   - Do not add or remove facts.
-  - Examples:
-   - COVID-19 (Coronavirus) may impact your travel plans. Wherever you're going, you'll find the latest advice here.
-   - ✘ 코로나바이러스는 여러분의 여행 계획에 영향을 끼칠 수 있습니다. 어디로 가시든지, 여러분은 여기에서 최신 지침을 찾으실 수 있습니다.
-   - ✔ 코로나19로 인해 여행 계획에 차질이 발생할 수 있습니다. 여행과 관련한 최신 정보를 여기에서 확인하세요.
-   - Stay on track
-   - ✘ 궤도에 머무르세요
-   - ✔ 목적지까지 쉽게 이동하세요
- • Keep it simple:
+ - Keep it simple:
   - Use simple words and short sentences.
-  - Example:
-   - We are aware that due to the Coronavirus situation, some of the travel providers we show on Skyscanner are experiencing customer service capacity issues as a result of unprecedented demand.
-   - ✘ 코로나바이러스 상황으로 인해 저희 스카이스캐너에서 연결해드리는 몇몇 여행 제공업체들이 문의량이 급증함에 따라 고객 서비스 인력 부족으로 인한 문제가 발생하고 있음을 인지하고 있습니다.
-   - ✔ 스카이스캐너에서 연결해드리는 일부 여행업체가 코로나19로 인한 문의량 급증으로 고객 서비스 인력 부족 문제를 겪고 있습니다.
- • Use active voice:
+ - Use active voice:
   - Prefer active voice, especially in headlines and CTAs.
-  - Headlines: End with “~(하)세요” rather than noun form (“~하기”).
-  - CTAs: Use noun form ending with “~하기”.
-  - Examples (Titles): 전 세계 어디로든 떠나세요, 간편하고 명쾌하게, 여행을 내 마음대로
-  - Examples (CTAs): 항공권 가격 알아보기 >, 가격 확인하기 >, 호텔 검색하기 >
- • Translation of “you”:
-  - Omit “you” if context is clear and honorifics are used.
+  - Headlines: End with "~(하)세요" rather than noun form ("~하기").
+  - CTAs: Use noun form ending with "~하기".
+ - Translation of "you":
+  - Omit "you" if context is clear and honorifics are used.
   - If needed, address users as a group (여러분, 여행자).
-  - Example:
-   - You can find the latest information here.
-   - ✘ 여러분은 여기에서 최신 정보를 찾으실 수 있습니다.
-   - ✔ 여기에서 최신 정보를 확인하실 수 있습니다.
- • Friendly and approachable tone:
-  - Use “고객” if needed, but avoid “귀하”.
-  - Use “~세요” and “~요?” instead of “~ㅂ시오” and “~까?”.
-  - Examples:
-   - ✘ 여행과 관련된 문의 사항은 해당 여행업체에 직접 문의하십시오.
-   - ✔ 여행과 관련된 문의 사항은 해당 여행업체에 직접 문의하세요.
-   - ✘ 저렴한 항공권을 찾고 계십니까?
-   - ✔ 저렴한 항공권을 찾고 계시나요?
-   - ✘ 당사 가 아닌 해당 업체에서 귀하의 예약이 처리됩니다.
-   - ✔ 고객의 예약은 스카이스캐너가 아닌 해당 업체에서 처리합니다.
- • Check grammar and spelling:
+ - Friendly and approachable tone:
+  - Use "고객" if needed, but avoid "귀하".
+  - Use "~세요" and "~요?" instead of "~ㅂ시오" and "~까?".
+ - Check grammar and spelling:
   - Double-check for spelling, spacing, and grammar mistakes.
- • Use exclamation marks sparingly.
-3. Language-Specific Translation Guidelines
-3.1. Punctuation & Spacing
- • Follow Korean punctuation rules.
- • Do not end Korean sentences with a colon (:); use only for noun descriptions.
- • Use single quotes (‘ ’) for quotations, no space between quotes and enclosed text.
- • No space before/after parentheses.
- • Do not add a full stop at the end of titles/headlines.
-  - Example:
-   - Be inspired
-   - ✘ 여행 아이디어를 얻으세요.
-   - ✔ 여행 아이디어를 얻으세요
-3.2. Quantifiers
- • Always use quantifiers after numbers.
-  - Example:
-   - 3 adults, 1 room
-   - ✘ 3 성인, 1 객실
-   - ✔ 성인 3명, 객실 1개
-3.3. Addressing Users – “You”
- • Omit “you” or “your” unless needed for clarity.
- • Never use “귀하”; use “여러분” or “여행자” for groups, “당신” for inspiration in marketing.
-3.4. Active Voice
- • Prefer active over passive voice.
- • Adjust subject to fit Korean norms; avoid inanimate subjects when unnatural.
-  - Example:
-   - The dates can be changed within 24 hours of booking.
-   - ✘ 날짜는 예약 후 24시간 이내에 변경될 수 있습니다.
-   - ✔ 예약 후 24시간 이내에 날짜를 변경할 수 있습니다.
-3.5. Formats
-3.5.1. Numbers, Dates, and Time
- • Use numerals except for numbers over one million.
- • Use comma as thousand separator (except for years).
- • Dates: Use YYYY-MM-DD order, with 년, 월, 일 or periods/dashes.
- • Time: Use “오전/오후 HH시 MM분”; 12:00 PM = “낮 12시”, 12:00 AM = “밤 12시”.
-3.5.2. Currencies
- • Do not localize currencies; keep as in source.
-  - Example:
-   - $650 / €400
-   - ✘ 70만원 or 650달러 / 400유로
-   - ✔ $650 / €400
-3.5.3. Units of Measure
- • Localize to metric units; convert imperial to metric and round.
- • No space between number and unit.
-  - Example:
-   - 30 feet
-   - ✘ 30피트
-   - ✔ 9미터
-3.5.4. Countries
- • Use official Korean names; check Naver, 국립국어원, and Korean Ministry of Foreign Affairs.
-3.5.5. URL
- • Leave URLs in English.
-3.6. Linguistic Sequence
-3.6.1. Transliteration
- • Use transliteration only if widely adopted; otherwise, use natural Korean equivalents.
- • Check orthography against 외래어 표기법.
-3.6.2. Organization Names
- • Use official Korean names if available; otherwise, use the most common version.
-3.6.3. NGO, Company, Association Names
- • Always translate Skyscanner as “스카이스캐너”.
- • For others, use Korean name if common; otherwise, leave in English.
-3.6.4. Geo-terms
- • Transliterate location names per 외래어 표기법; do not use Google Maps/Naver transliterations without verification.
-3.6.5. Tax/Legal Terms
- • Ensure accuracy and find local equivalents; research thoroughly.
-3.7. Foreignization vs Localization
-3.7.1. Subtitling
- • Subtitles: Max two lines, one line ≤ 32 bytes.
- • Focus on key message; use familiar/localized concepts.
-3.7.2. Naming Process
- • Consult Language Lead for new product names; prioritize intuitive, memorable names.
-3.7.3. Subject Repetition
- • Omit repeated subjects in Korean if context is clear.
-  - Example:
-   - We never use your data to bump up prices or artificially create demand. We believe the price you see should be the price you pay and we won't pressure you to book.
-   - ✘ 스카이스캐너는 여러분의 데이터를 사용해서 가격을 올리거나 수요를 조작하지 않습니다. 스카이스캐너는 여러분이 보는 가격과 실제 결제 가격이 같아야 한다고 생각하며, 절대 예약하라는 압박을 가하지 않습니다. 교묘하게 더해지는 요금이나 숨은 수수료도 없습니다.
-   - ✔ 스카이스캐너는 고객 데이터를 사용해 가격을 올리거나 수요를 조작하지 않습니다. 고객이 실제 결제하는 요금이 표시됐던 요금과 달라서는 안 된다고 생각하며, 빨리 예약하라는 압박도 가하지 않습니다.
-4. Translation Guidelines per Content Type
-4.1. User Interface (UI)
- • Present information clearly and straightforwardly.
- • Apply general translation guidelines from Section 2.
-4.2. Marketing
- • Inspire users to travel.
- • Translation should sound original in Korean, not “translated”.
- • Use trending expressions if commonly used.
-4.3. App Store
- • For promotional content: Use inspiring tone and active voice.
- • For feature/update content: Be clear, specific, and avoid technical jargon.
-4.4. Editorial & Blog Posts
- • Prioritize readability and natural flow.
- • Change sentence structure/wording as needed to maintain message.
-4.5. Emails
- • Ensure 100% accuracy and typo-free text.
- • Add a warm, personal touch where possible.
-4.6. Legal, Policies, Terms & Conditions
- • Accuracy is paramount; stay close to the source.
- • Do not omit/add/merge/split sentences.
- • Use “당사” for “Skyscanner” and “사용자” for “You”.
- • Pay extra attention to numbers and dates.
-5. Common Mistakes
- • Avoid niche anglicisms; use only if widely known in Korean.
- • Main audience is young and travel-savvy; anglicisms/transliteration are acceptable if common.
- • Do not automatically transliterate; use best judgment.
-6. Preferred Alternative Words & Expressions
- • Use preferred alternatives to maintain Skyscanner’s tone (helpful, straightforward, joyful, bold).
- • Examples:
-  - accommodation → hotels, hostels, apartments, room, where you’re staying
-  - acquire → get
-  - additional → extra, more
-  - administration → admin
-  - adverse → bad, harmful, dangerous
-  - allow → let
-  - alternative → different, other
-  - amenities → features
-  - apologies → sorry
-  - assist → help
-  - avoid → make sure you don’t, try not to
-  - benefit from → get
-  - baggage → baggage, bags
-  - clarify → tell you about, explain, make clear
-  - click → be descriptive (e.g., Visit hotels page)
-  - commence → start
-  - contact us → get in touch, give us a call, email us
-  - convenient → good, easy, useful
-  - correct → right
-  - customer → you, your traveller
-  - discuss → chat, talk
-  - due to → because of
-  - enables → lets, empowers
-  - encounter → have, come across, see, find
-  - enquire → ask
-  - ensure → make sure
-  - establish → set up, create, build
-  - failure → if you can’t, unable to
-  - feedback → tell us your thoughts, let us know what you think
-  - funds → money, cash
-  - generate → make, build, create
-  - holiday → trip, holiday, break, getaway
-  - however → but, although
-  - identify → spot, find, choose, see
-  - impacted → affected
-  - inconvenient → annoying, frustrating, tricky, difficult, awkward
-  - inform → tell, talk
-  - invalid → wrong, incorrect, doesn’t work, not true, false
-  - issue → issue, problem, error, gone wrong
-  - key → main, important, vital, you must, you should
-  - maximise → boost, raise, increase
-  - minimum → at least, from
-  - notify → let you know, let us know, tell us
-  - obligation → promise, commitment, agreement
-  - obtain → get
-  - offer → give, give you, you get
-  - online → online (never on-line)
-  - order → to
-  - partners → travel providers, providers, travel companies
-  - previous → last
-  - principal → main
-  - provide → give
-  - purchase → buy
-  - qualify for → can get
-  - receive → get
-  - refer → put you in touch with, send
-  - regarding → about
-  - register → sign up
-  - regret → we’re sorry
-  - remain → stay
-  - request → ask for
-  - require → want, need, if you’d like
-  - retain → keep, hold
-  - review → check, look into, see, view, read, watch
-  - segment → leg, part
-  - select airlines → some airlines, a few airlines
-  - Skyscanner → we, us
-  - streamlined → easier, tidier, simpler
-  - suitable → right, OK, relevant, good, useful
-  - suppliers → providers
-  - take effect → start
-  - terminate → stop, end, close
-  - thank you → thanks
-  - therefore → so
-  - travel arrangements → travel plans
-  - travel experience → holiday, trip, getaway, break
-  - travel period → travel dates, holiday dates
-  - user → traveller, you, your
-  - utilise → use
-  - variation → change, edit
-  - vendor → airline, provider
-  - verify → check, confirm
-  - via → by, with, through
-  - visitor → traveller, you, your
-  - wish → want, like
-  - whilst → while
+ - Use exclamation marks sparingly.
 
+## 3. Language-Specific Translation Guidelines
+### 3.1. Punctuation & Spacing
+ - Follow Korean punctuation rules.
+ - Do not end Korean sentences with a colon (:); use only for noun descriptions.
+ - Use single quotes (' ') for quotations, no space between quotes and enclosed text.
+ - No space before/after parentheses.
+ - Do not add a full stop at the end of titles/headlines.
+### 3.2. Quantifiers
+ - Always use quantifiers after numbers.
+  - Example: 3 adults -> 성인 3명
+### 3.3. Addressing Users – "You"
+ - Omit "you" or "your" unless needed for clarity.
+ - Never use "귀하"; use "여러분" or "여행자" for groups, "당신" for inspiration in marketing.
+### 3.4. Active Voice
+ - Prefer active over passive voice.
+ - Adjust subject to fit Korean norms; avoid inanimate subjects when unnatural.
+### 3.5. Formats
+#### 3.5.1. Numbers, Dates, and Time
+ - Use numerals except for numbers over one million.
+ - Use comma as thousand separator (except for years).
+ - Dates: Use YYYY-MM-DD order, with 년, 월, 일 or periods/dashes.
+ - Time: Use "오전/오후 HH시 MM분"; 12:00 PM = "낮 12시", 12:00 AM = "밤 12시".
+#### 3.5.2. Currencies
+ - Do not localize currencies; keep as in source.
+#### 3.5.3. Units of Measure
+ - Localize to metric units; convert imperial to metric and round.
+ - No space between number and unit.
+#### 3.5.4. Countries
+ - Use official Korean names; check Naver, 국립국어원, and Korean Ministry of Foreign Affairs.
+#### 3.5.5. URL
+ - Leave URLs in English.
+### 3.6. Linguistic Sequence
+#### 3.6.1. Transliteration
+ - Use transliteration only if widely adopted; otherwise, use natural Korean equivalents.
+ - Check orthography against 외래어 표기법.
+#### 3.6.2. Organization Names
+ - Use official Korean names if available; otherwise, use the most common version.
+#### 3.6.3. NGO, Company, Association Names
+ - Always translate Skyscanner as "스카이스캐너".
+ - For others, use Korean name if common; otherwise, leave in English.
+#### 3.6.4. Geo-terms
+ - Transliterate location names per 외래어 표기법; do not use Google Maps/Naver transliterations without verification.
+#### 3.6.5. Tax/Legal Terms
+ - Ensure accuracy and find local equivalents; research thoroughly.
+### 3.7. Foreignization vs Localization
+#### 3.7.1. Subtitling
+ - Subtitles: Max two lines, one line ≤ 32 bytes.
+ - Focus on key message; use familiar/localized concepts.
+#### 3.7.2. Naming Process
+ - Consult Language Lead for new product names; prioritize intuitive, memorable names.
+#### 3.7.3. Subject Repetition
+ - Omit repeated subjects in Korean if context is clear.
+
+## 4. Translation Guidelines per Content Type
+### 4.1. User Interface (UI)
+ - Present information clearly and straightforwardly.
+ - Apply general translation guidelines from Section 2.
+### 4.2. Marketing
+ - Inspire users to travel.
+ - Translation should sound original in Korean, not "translated".
+ - Use trending expressions if commonly used.
+### 4.3. App Store
+ - For promotional content: Use inspiring tone and active voice.
+ - For feature/update content: Be clear, specific, and avoid technical jargon.
+### 4.4. Editorial & Blog Posts
+ - Prioritize readability and natural flow.
+ - Change sentence structure/wording as needed to maintain message.
+### 4.5. Emails
+ - Ensure 100% accuracy and typo-free text.
+ - Add a warm, personal touch where possible.
+### 4.6. Legal, Policies, Terms & Conditions
+ - Accuracy is paramount; stay close to the source.
+ - Do not omit/add/merge/split sentences.
+ - Use "당사" for "Skyscanner" and "사용자" for "You".
+ - Pay extra attention to numbers and dates.
+
+## 5. Common Mistakes
+ - Avoid niche anglicisms; use only if widely known in Korean.
+ - Main audience is young and travel-savvy; anglicisms/transliteration are acceptable if common.
+ - Do not automatically transliterate; use best judgment.
+
+## 6. Preferred Alternative Words & Expressions
+ - Use preferred alternatives to maintain Skyscanner's tone (helpful, straightforward, joyful, bold).
+ - Refer to the detailed list provided in the original Style Guide (e.g., acquire -> get, assist -> help).
+
+---
+
+## 7. LQA CALIBRATION: FALSE POSITIVE PREVENTION GUIDELINES
+
+**CRITICAL INSTRUCTION:** The following rules define what the LQA Evaluator must **IGNORE or ACCEPT**. These patterns represent acceptable variations, standard Korean localization practices, or minor stylistic differences that do NOT warrant flagging. Flagging these will be considered an evaluator error.
+
+---
+
+### 7.1. Speech Level & Tone Tolerance
+
+The style guide expresses **preferences**, not absolute requirements. Apply these tolerance rules:
+
+#### 7.1.1. Acceptable Sentence Endings by Context
+| Context | Acceptable Endings | Do NOT Flag |
+|---------|-------------------|-------------|
+| **Buttons/CTAs** | `~하기`, `~하세요`, noun forms (`검색`, `예약`) | Any of these variations |
+| **Headlines/Headers** | `~(하)세요`, `~하기`, noun phrases | Noun-ending forms in headlines |
+| **Subheaders** | `~(하)세요`, `~요`, `~니다` | `~니다` if the content is informative rather than promotional |
+| **Push Notifications** | `~요`, `~세요`, `~니다` | Any polite/formal ending |
+| **Legal/Policy/System Messages** | `~니다`, `~습니다` | Formal endings are EXPECTED here |
+| **Confirmations/Notifications** | `~되었습니다`, `~완료되었습니다` | Formal completive forms |
+
+#### 7.1.2. Connector Formality
+- `~하여` and `~해` are **interchangeable**. Do NOT flag one as "too formal" vs the other.
+- `~(으)며` and `~고` are both acceptable conjunctions.
+
+#### 7.1.3. When to Flag Tone Issues
+Only flag tone/register if:
+- The text is **inconsistent within the same segment** (mixing `~요` and `~니다` awkwardly)
+- The tone is **inappropriate for context** (e.g., casual slang in legal text, or stiff formal language in playful marketing with emojis)
+- The formality level **actively harms comprehension or brand voice**
+
+---
+
+### 7.2. "You" (여러분/당신) Usage Tolerance
+
+#### 7.2.1. Do NOT Flag
+- **Inclusion** of `여러분이` or `여러분의` even when omittable — this is a stylistic choice, not an error
+- **Omission** of "you/your" when context makes the subject clear
+- Use of `여러분` in marketing content for warmth
+
+#### 7.2.2. Only Flag If
+- `귀하` is used (explicitly prohibited)
+- The subject becomes genuinely ambiguous without "you"
+- `당신` is used outside inspirational/poetic marketing contexts
+
+---
+
+### 7.3. Company & Airline Name Handling
+
+#### 7.3.1. Transliteration is Acceptable
+Korean transliteration of foreign company/airline names is **standard localization practice**. Do NOT flag:
+- `Gum Air` → `검에어(Gum Air)` ✓
+- `St Barth Executive` → `세인트바스이그제큐티브(St Barth Executive)` ✓
+- `Sunclass Airlines` → `선클래스항공(Sunclass Airlines)` ✓
+
+#### 7.3.2. Both Formats Acceptable
+The following are **equally valid**:
+- Korean transliteration with English in parentheses: `검에어(Gum Air)`
+- English only: `Gum Air`
+- Korean only (if commonly known): `대한항공`
+
+#### 7.3.3. Only Flag If
+- The transliteration violates 외래어 표기법 orthography rules
+- A well-known official Korean name exists but wasn't used (e.g., `Korean Air` should be `대한항공`)
+- The name is corrupted or misspelled
+
+---
+
+### 7.4. Term Variation Tolerance
+
+#### 7.4.1. Acceptable Synonyms (Do NOT Flag as "Term Inconsistency")
+| English | All Acceptable Korean Options |
+|---------|------------------------------|
+| Flights | `항공권`, `항공편` (both valid in different contexts) |
+| Book | `예약하다`, `예매하다` |
+| Search | `검색`, `조회`, `찾기` |
+| Options | `옵션`, `선택지`, contextual equivalents (e.g., `열차편` for "rail options") |
+| Deal | `특가`, `상품`, `특가 상품` |
+| Budget (hotels) | `저가`, `알뜰`, `저렴한` |
+| Bus station | `버스 터미널`, `버스 정류장` (context-dependent) |
+| Exclusive | `단독`, `독점`, `특별` |
+| Room | `객실`, `방` |
+| Pick-up | `대여`, `인수`, `픽업` |
+
+#### 7.4.2. Only Flag Terminology If
+- The term **contradicts explicit TB (Termbase) entries** AND causes meaning change
+- The term creates **factual inaccuracy** (e.g., "outbound" translated as "inbound")
+- A **product name** is mistranslated (e.g., "Explore" feature name omitted)
+
+---
+
+### 7.5. Minor Elaboration & Naturalization Tolerance
+
+#### 7.5.1. Acceptable Additions (Do NOT Flag as "Addition")
+- Adding `상품` or `서비스` to make nouns natural: `Car hire` → `렌터카 상품` ✓
+- Adding brand name for clarity in standalone strings where context is ambiguous
+- Adding particles or postpositions required by Korean grammar
+
+#### 7.5.2. Acceptable Omissions (Do NOT Flag as "Omission")
+- Omitting "you/your" when subject is contextually clear
+- Omitting redundant words that would sound unnatural if literally translated
+- Condensing repetitive phrasing for natural Korean flow
+
+#### 7.5.3. Only Flag Additions/Omissions If
+- **Key meaning is changed** (e.g., adding "lowest" when source says "great")
+- **Product/feature names** are omitted
+- **Numerical values or superlatives** are added without source support
+- **Scope is restricted** (e.g., "compare and book" becomes only "book")
+
+---
+
+### 7.6. Stylistic "Improvement" Tolerance
+
+Do NOT flag translations as errors when the issue is merely a **possible improvement** rather than a mistake:
+
+#### 7.6.1. Do NOT Flag
+- "Unnatural" if the translation is **grammatically correct and comprehensible**
+- Minor word order preferences that don't affect meaning
+- Stylistic choices in metaphor/idiom translation (e.g., "soul" → "심장" vs "영혼" — both convey the metaphor)
+- Redundancy that doesn't harm comprehension
+
+#### 7.6.2. Only Flag Style Issues If
+- The translation is **grammatically incorrect**
+- The phrasing creates **ambiguity or confusion**
+- The style is **grossly inappropriate** for the content type
+
+---
+
+### 7.7. Severity Calibration Rules
+
+Apply these severity thresholds strictly:
+
+#### 7.7.1. CRITICAL (Must Always Flag)
+- Placeholder corruption/truncation (e.g., `{lowest_price_l` instead of `{lowest_price_all}`)
+- Tag/HTML entity errors (e.g., `&amp;` rendered literally)
+- Complete meaning inversion
+
+#### 7.7.2. MAJOR (Flag Only If)
+- Factual meaning is changed (superlatives added/removed, numbers wrong)
+- Key product/feature names omitted
+- Content misaligned across segments
+- Logical errors (direction inversion, temporal logic errors)
+- Scope restriction that changes what users can do
+
+#### 7.7.3. MINOR (Flag Conservatively)
+- TB term preferences where both options are valid Korean
+- Style preferences within acceptable range
+- Minor omissions of non-essential descriptors
+
+#### 7.7.4. DO NOT FLAG (Suppress)
+- Tone/formality variations within acceptable ranges (see 7.1)
+- Acceptable synonym usage (see 7.4)
+- Company name transliteration choices (see 7.3)
+- Minor stylistic preferences
+
+---
+
+### 7.8. Duplicate Content Handling
+
+- If the **same source text appears in multiple segments**, do NOT flag identical issues multiple times
+- Reference the first occurrence and note "Same issue as Segment [ID]" for subsequent instances
+- This reduces reviewer workload and avoids redundant validation
+
+---
+
+### 7.9. Critical Logic Checks (MUST Flag)
+
+Despite the tolerance rules above, **ALWAYS flag** these issues regardless of context:
+
+| Issue Type | Example | Why Critical |
+|------------|---------|--------------|
+| **Directional Inversion** | "From Seoul" → "서울행" (should be "서울발/출발") | Booking error risk |
+| **Temporal Logic Error** | "Cancel up to 24h before" → "24시간 후 취소" | Policy misrepresentation |
+| **Numerical Error** | "1000's" → "약 1,000개" (thousands vs ~1,000) | Factual misrepresentation |
+| **Price Modifier Addition** | Adding `최저가`, `단돈` next to `{{price}}` | False advertising risk |
+| **Superlative Addition** | "Great prices" → "최저가" (great ≠ lowest) | Legal/trust risk |
+| **Product Name Omission** | "Explore shows..." → feature name "Explore" missing | Feature identification failure |
+| **Placeholder Mismatch** | Any corruption, truncation, or wrong placeholder name | Functional breakage |
+| **Content Misalignment** | Translated content doesn't match source in split segments | Display errors |
+
+---
+
+### 7.10. Pre-Flag Checklist
+
+Before flagging ANY issue, the evaluator must confirm:
+
+1. ☐ Is this a **genuine error** or merely a **stylistic preference**?
+2. ☐ Does this issue **change meaning** or just wording?
+3. ☐ Is the translation **grammatically incorrect** or just different from my preference?
+4. ☐ Would a native Korean speaker find this **confusing or wrong**, or just "not how I'd phrase it"?
+5. ☐ Is this covered by the **tolerance rules above**?
+
+**If the answer to questions 1-4 suggests "preference" rather than "error," and question 5 indicates tolerance applies → DO NOT FLAG.**

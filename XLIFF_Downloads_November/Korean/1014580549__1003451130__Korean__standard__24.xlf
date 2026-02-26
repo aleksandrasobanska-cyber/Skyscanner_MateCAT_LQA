@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Prep_carrier-7-nov.xlsx" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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
+ABIDAAD1IAAAAAA=</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTU1RTY2NyIgcGFja2FnZUlk
+PSI3NzEwYWNlNS02Y2M0LTQxNWUtOTc0My1kNmUyNTBmODMwODEiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iaHItSFIiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMTAgMTQ6Mzg6MTgrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJQcmVwX2NhcnJpZXItNy1ub3YueGxzeCIgZmlsdGVySWQ9Im9rZl9vcGVueG1sIiBp
+bnB1dEVuY29kaW5nPSJVVEYtOCIgcmVsYXRpdmVUYXJnZXRQYXRoPSJQcmVwX2NhcnJpZXItNy1ub3Yub3V0Lnhsc3giIHRhcmdldEVuY29kaW5nPSJVVEYtOCIgc2VsZWN0ZWQ9IjEiPkkzWXhDbUpR
+Y21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUkc5alVISnZjR1Z5ZEdsbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxRMjl0YldWdWRITXVZajFtWVd4elpRcGlVSEpsWm1WeVpX
+NWpaVlJ5WVc1emJHRjBaVkJ2ZDJWeWNHOXBiblJPYjNSbGN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVkyVlVjbUZ1YzJ4aGRHVlFiM2RsY25CdmFXNTBUV0Z6ZEdWeWN5NWlQWFJ5ZFdVS1lsQnlaV1ps
+Y21WdVkyVkpaMjV2Y21WUWJHRmpaV2h2YkdSbGNuTkpibEJ2ZDJWeWNHOXBiblJOWVhOMFpYSnpMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZYYjNKa1NHVmhaR1Z5YzBadmIz
+Umxjbk11WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsVjI5eVpFaHBaR1JsYmk1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFYyOXlaRVY0WTJ4MVpHVkhjbUZ3
+YUdsalRXVjBZVVJoZEdFdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWQnZkMlZ5Y0c5cGJuUklhV1JrWlc0dVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpV
+VjRZMlZzU0dsa1pHVnVMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZGZUdObGJFVjRZMngxWkdWRGIyeHZjbk11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0Yw
+WlVWNFkyVnNSWGhqYkhWa1pVTnZiSFZ0Ym5NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzVTJobFpYUk9ZVzFsY3k1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFFX
+UmtUR2x1WlZObGNHRnlZWFJ2Y2tGelEyaGhjbUZqZEdWeUxtSTlabUZzYzJVS2MxQnlaV1psY21WdVkyVk1hVzVsVTJWd1lYSmhkRzl5VW1Wd2JHRmpaVzFsYm5ROUpEQmhKQXBpVUhKbFptVnlaVzVq
+WlZKbGNHeGhZMlZPYjBKeVpXRnJTSGx3YUdWdVZHRm5MbUk5ZEhKMVpRcGlVSEpsWm1WeVpXNWpaVWxuYm05eVpWTnZablJJZVhCb1pXNVVZV2N1WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sUVdSa1ZH
+RmlRWE5EYUdGeVlXTjBaWEl1WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlVGblozSmxjM05wZG1WRGJHVmhiblZ3TG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlVGMWRHOXRZWFJwWTJGc2JIbEJZMk5s
+Y0hSU1pYWnBjMmx2Ym5NdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFVHOTNaWEp3YjJsdWRFbHVZMngxWkdWa1UyeHBaR1ZPZFcxaVpYSnpUMjVzZVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZI
+Smhibk5zWVhSbFJYaGpaV3hFYVdGbmNtRnRSR0YwWVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJYaGpaV3hFY21GM2FXNW5jeTVpUFdaaGJITmxDbk4xWW1acGJIUmxjajBL
+WWtsdVJYaGpiSFZrWlUxdlpHVXVZajEwY25WbENtSkpia1Y0WTJ4MVpHVklhV2RvYkdsbmFIUk5iMlJsTG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZkdmNtUkZlR05zZFdSbFEy
+OXNiM0p6TG1JOVptRnNjMlVLWWxKbGIzSmtaWEpRYjNkbGNuQnZhVzUwVG05MFpYTkJibVJEYjIxdFpXNTBjeTVpUFdaaGJITmxDbTkxZEhCMWRGTmxaMjFsYm5SaGRHbHZibFI1Y0dVdWFUMHpDblJ6
+UTI5dGNHeGxlRVpwWld4a1JHVm1hVzVwZEdsdmJuTlViMFY0ZEhKaFkzUXVhVDB4Q21ObVpEQTlTRmxRUlZKTVNVNUxDblJ6UlhoalpXeEZlR05zZFdSbFpFTnZiRzl5Y3k1cFBUQUtkSE5GZUdObGJF
+VjRZMngxWkdWa1EyOXNkVzF1Y3k1cFBUQUtkSE5GZUdOc2RXUmxWMjl5WkZOMGVXeGxjeTVwUFRBS2RITlhiM0prU0dsbmFHeHBaMmgwUTI5c2IzSnpMbWs5TUFwMGMxZHZjbVJGZUdOc2RXUmxaRU52
+Ykc5eWN5NXBQVEFLZEhOUWIzZGxjbkJ2YVc1MFNXNWpiSFZrWldSVGJHbGtaVTUxYldKbGNuTXVhVDB3PC9kb2M+CjwvbWFuaWZlc3Q+</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="ko-KR">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Sheet1!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">en-GB</source>
+<target xml:lang="hr-HR">en-GB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Sheet1!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="hr-HR">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Sheet1!A2" xml:space="preserve" help-id="4772866848">
+<source xml:lang="en-GB">Gum Air</source>
+<seg-source><mrk mid="0" mtype="seg">Gum Air</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">검에어(Gum Air)</mrk></target>
+<count-group name="P147242AB-tu3"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<note>https://gumair.sr/en/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Sheet1!B2" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://gumair.sr/en/</source>
+<target xml:lang="hr-HR">https://gumair.sr/en/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Sheet1!A3" xml:space="preserve" help-id="4772866849">
+<source xml:lang="en-GB">St Barth Executive</source>
+<seg-source><mrk mid="0" mtype="seg">St Barth Executive</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">세인트바스이그제큐티브(St Barth Executive)</mrk></target>
+<count-group name="P147242AB-tu5"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.31</count></count-group>
+<note>https://www.stbarthexecutive.com/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="Sheet1!B3" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://www.stbarthexecutive.com/</source>
+<target xml:lang="hr-HR">https://www.stbarthexecutive.com/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Sheet1!A4" xml:space="preserve" help-id="4772866850">
+<source xml:lang="en-GB">Airvan Kenya</source>
+<seg-source><mrk mid="0" mtype="seg">Airvan Kenya</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">에어밴케냐(Airvan Kenya)</mrk></target>
+<count-group name="P147242AB-tu7"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.54</count></count-group>
+<note>https://flyairvan.com/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="Sheet1!B4" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://flyairvan.com/</source>
+<target xml:lang="hr-HR">https://flyairvan.com/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Sheet1!A5" xml:space="preserve" help-id="4772866851">
+<source xml:lang="en-GB">SolitAir</source>
+<seg-source><mrk mid="0" mtype="seg">SolitAir</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">솔리트에어(SolitAir)</mrk></target>
+<count-group name="P147242AB-tu9"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.77</count></count-group>
+<note>https://www.solitairholding.com/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="Sheet1!B5" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://www.solitairholding.com/</source>
+<target xml:lang="hr-HR">https://www.solitairholding.com/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Sheet1!A6" xml:space="preserve" help-id="4772866852">
+<source xml:lang="en-GB">La Costena</source>
+<seg-source><mrk mid="0" mtype="seg">La Costena</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">라코스테나(La Costena)</mrk></target>
+<count-group name="P147242AB-tu11"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.54</count></count-group>
+<note>https://www.lacostena.com.ni/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="Sheet1!B6" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://www.lacostena.com.ni/</source>
+<target xml:lang="hr-HR">https://www.lacostena.com.ni/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Sheet1!A7" xml:space="preserve" help-id="4772866853">
+<source xml:lang="en-GB">Sun PhuQuoc Airways</source>
+<seg-source><mrk mid="0" mtype="seg">Sun PhuQuoc Airways</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">선푸꾸옥항공</mrk></target>
+<count-group name="P147242AB-tu13"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.31</count></count-group>
+<note>https://www.sunphuquocairways.com/gl/en</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Sheet1!B7" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://www.sunphuquocairways.com/gl/en</source>
+<target xml:lang="hr-HR">https://www.sunphuquocairways.com/gl/en</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Sheet1!A8" xml:space="preserve" help-id="4772866854">
+<source xml:lang="en-GB">Alaska as Hawaiian Airlines</source>
+<seg-source><mrk mid="0" mtype="seg">Alaska as Hawaiian Airlines</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">알래스카항공(하와이안항공)</mrk></target>
+<count-group name="P147242AB-tu15"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">3.08</count></count-group>
+<note>n/a</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="Sheet1!B8" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">n/a</source>
+<target xml:lang="hr-HR">n/a</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Sheet1!A9" xml:space="preserve" help-id="4772866855">
+<source xml:lang="en-GB">Aero </source>
+<seg-source><mrk mid="0" mtype="seg">Aero </mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">에어로(Aero) </mrk></target>
+<count-group name="P147242AB-tu17"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.77</count></count-group>
+<note>https://www.flyaero.com/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="Sheet1!B9" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://www.flyaero.com/</source>
+<target xml:lang="hr-HR">https://www.flyaero.com/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Sheet1!A10" xml:space="preserve" help-id="4772866856">
+<source xml:lang="en-GB">Fanjet Express</source>
+<seg-source><mrk mid="0" mtype="seg">Fanjet Express</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">팬제트익스프레스(Fanjet Express)</mrk></target>
+<count-group name="P147242AB-tu19"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.54</count></count-group>
+<note>https://www.fanjett.com/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="Sheet1!B10" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://www.fanjett.com/</source>
+<target xml:lang="hr-HR">https://www.fanjett.com/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Sheet1!A11" xml:space="preserve" help-id="4772866857">
+<source xml:lang="en-GB">Sunclass Airlines</source>
+<seg-source><mrk mid="0" mtype="seg">Sunclass Airlines</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">선클래스항공(Sunclass Airlines)</mrk></target>
+<count-group name="P147242AB-tu21"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.54</count></count-group>
+<note>https://dk.sunclassairlines.dk/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="Sheet1!B11" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://dk.sunclassairlines.dk/</source>
+<target xml:lang="hr-HR">https://dk.sunclassairlines.dk/</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Sheet1!A12" xml:space="preserve" help-id="4772866858">
+<source xml:lang="en-GB">Airhub Airlines</source>
+<seg-source><mrk mid="0" mtype="seg">Airhub Airlines</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">에어허브항공(Airhub Airlines)</mrk></target>
+<count-group name="P147242AB-tu23"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.54</count></count-group>
+<note>https://airhubaviation.com/</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="Sheet1!B12" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">https://airhubaviation.com/</source>
+<target xml:lang="hr-HR">https://airhubaviation.com/</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

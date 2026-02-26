@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="K6BUdY8wPX.jsont2" source-language="en-GB" target-language="ca-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6ImQ4OGMyZWJiYjdiN2I1NmZkNzE4MDliYzlmMjA4ZjkxMzhkNjkxOThlM2RmNGE4NWQwODIxNWM5YzgwNmVmMGUiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0xMi0xMjowNjow
+NCIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl8xMl8xMV8yMDI1IiwiaW5zdHJ1Y3Rpb25zIjpudWxsLCJzdHlsZWd1aWRlIjpudWxsLCJyZWZlcmVuY2VzIjpudWxsLCJyZXF1ZXN0cyI6W3siaWRf
+cmVxdWVzdCI6Mjc0NzQ4NDcsImlkX2NvbnRlbnQiOiJhbmRyb2lkX3BsYXRmb3JtX2NhcmhpcmUvQ2FySGlyZV9SZXN1bHRzX2RlYWxzX2Zyb21fcHJpY2VfNSIsImNvbnRlbnRfdHlwZSI6InRleHQv
+cGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiNSBkZWFscyBmcm9tIHswfSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xu
+aW5kaWNhdGUgdXNlcnMgdGhhdCB0aGVyZSA1IGRlYWxzIGNhbiB2aWV3XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2Q4OGMyZWJiYjdiN2I1NmZk
+NzE4MDliYzlmMjA4ZjkxMzhkNjkxOThlM2RmNGE4NWQwODIxNWM5YzgwNmVmMGUvMjc0NzQ4NDcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NDg4NywiaWRfY29udGVudCI6ImFu
+ZHJvaWRfcGxhdGZvcm1fY2FyaGlyZS9DYXJIaXJlX1Jlc3VsdHNfZGVhbHNfZnJvbV9wcmljZV80IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQi
+OiI0IGRlYWxzIGZyb20gezB9IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5pbmRpY2F0ZSB1c2VycyB0aGF0IHRoZXJlIDQgZGVhbHMg
+Y2FuIHZpZXdcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZDg4YzJlYmJiN2I3YjU2ZmQ3MTgwOWJjOWYyMDhmOTEzOGQ2OTE5OGUzZGY0YTg1ZDA4
+MjE1YzljODA2ZWYwZS8yNzQ3NDg4Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc0OTI3LCJpZF9jb250ZW50IjoiYW5kcm9pZF9wbGF0Zm9ybV9jYXJoaXJlL0NhckhpcmVfUmVz
+dWx0c19kZWFsc19mcm9tX3ByaWNlXzciLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IjcgZGVhbHMgZnJvbSB7MH0iLCJjb250ZXh0Ijp7Im5v
+dGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbmluZGljYXRlIHVzZXJzIHRoYXQgdGhlcmUgNyBkZWFscyBjYW4gdmlld1xuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8v
+ZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kODhjMmViYmI3YjdiNTZmZDcxODA5YmM5ZjIwOGY5MTM4ZDY5MTk4ZTNkZjRhODVkMDgyMTVjOWM4MDZlZjBlLzI3NDc0OTI3L3NjcmVlbnNob3Qu
+dXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzQ5NjcsImlkX2NvbnRlbnQiOiJhbmRyb2lkX3BsYXRmb3JtX2NhcmhpcmUvQ2FySGlyZV9SZXN1bHRzX2RlYWxzX2Zyb21fcHJpY2VfNiIsImNvbnRlbnRf
+dHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiNiBkZWFscyBmcm9tIHswfSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQm
+bHQ7L2gxJmd0O1xuaW5kaWNhdGUgdXNlcnMgdGhhdCB0aGVyZSA2IGRlYWxzIGNhbiB2aWV3XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2Q4OGMy
+ZWJiYjdiN2I1NmZkNzE4MDliYzlmMjA4ZjkxMzhkNjkxOThlM2RmNGE4NWQwODIxNWM5YzgwNmVmMGUvMjc0NzQ5Njcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTAzNiwiaWRf
+Y29udGVudCI6ImhvdGVsc193ZWJzaXRlL1BhcmFsbGVsU2VhcmNoX21vZGFsX3N1YnRpdGxlX2NoZWNrX3BsYWNlcyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxs
+LCJjb250ZW50IjoiQ2hlY2sgb3V0IHNvbWUgZ3JlYXQgcGxhY2VzIHRvIHN0YXkgd2hpbGUgeW914oCZcmUgaW4ge2VudGl0eV9uYW1lfSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2
+ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuV2Ugd2lsbCBhZGQgYSBtb2RhbCBvbiBob3RlbCBkYXl2aWV3IGZvciB0aGUgdXNlciBjb21lIGZyb20gUGFyYWxsZWwgU2VhcmNoLiBUaGlzIGlzIHRo
+ZSBzdWJ0aXRsZS5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZDg4YzJlYmJiN2I3YjU2ZmQ3MTgwOWJjOWYyMDhmOTEzOGQ2OTE5OGUzZGY0YTg1
+ZDA4MjE1YzljODA2ZWYwZS8yNzQ3NTAzNi9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1MDQ3LCJpZF9jb250ZW50IjoiYW5kcm9pZF9wbGF0Zm9ybV9jYXJoaXJlL0NhckhpcmVf
+UmVzdWx0c19kZWFsc19mcm9tX3ByaWNlXzEiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IjEgZGVhbCBmcm9tIHswfSIsImNvbnRleHQiOnsi
+bm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuaW5kaWNhdGUgdXNlcnMgdGhhdCB0aGVyZSAxIGRlYWwgY2FuIHZpZXdcbiIsInNjcmVlbnNob3QiOiJodHRwczov
+L2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZDg4YzJlYmJiN2I3YjU2ZmQ3MTgwOWJjOWYyMDhmOTEzOGQ2OTE5OGUzZGY0YTg1ZDA4MjE1YzljODA2ZWYwZS8yNzQ3NTA0Ny9zY3JlZW5zaG90
+LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1MTE2LCJpZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvUGFyYWxsZWxTZWFyY2hfbW9kYWxfdGl0bGVfZm91bmRfaG90ZWxzIiwiY29udGVudF90eXBl
+IjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJXZSBmb3VuZCB7bnVtYmVyfSBob3RlbHMgZm9yIHlvdXIgZGF0ZXMgdG9vIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDto
+MSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5XZSB3aWxsIGFkZCBhIG1vZGFsIG9uIGhvdGVsIGRheXZpZXcgZm9yIHRoZSB1c2VyIGNvbWUgZnJvbSBQYXJhbGxlbCBTZWFyY2guIFRo
+aXMgaXMgdGhlIHRpdGxlLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kODhjMmViYmI3YjdiNTZmZDcxODA5YmM5ZjIwOGY5MTM4ZDY5MTk4ZTNk
+ZjRhODVkMDgyMTVjOWM4MDZlZjBlLzI3NDc1MTE2L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzUxMjcsImlkX2NvbnRlbnQiOiJhbmRyb2lkX3BsYXRmb3JtX2NhcmhpcmUvQ2Fy
+SGlyZV9SZXN1bHRzX2RlYWxzX2Zyb21fcHJpY2VfMyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiMyBkZWFscyBmcm9tIHswfSIsImNvbnRl
+eHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuaW5kaWNhdGUgdXNlcnMgdGhhdCB0aGVyZSAzIGRlYWxzIGNhbiB2aWV3XG4iLCJzY3JlZW5zaG90Ijoi
+aHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2Q4OGMyZWJiYjdiN2I1NmZkNzE4MDliYzlmMjA4ZjkxMzhkNjkxOThlM2RmNGE4NWQwODIxNWM5YzgwNmVmMGUvMjc0NzUxMjcvc2Ny
+ZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTE2NywiaWRfY29udGVudCI6ImFuZHJvaWRfcGxhdGZvcm1fY2FyaGlyZS9DYXJIaXJlX1Jlc3VsdHNfZGVhbHNfZnJvbV9wcmljZSIsImNv
+bnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiezB9IGRlYWxzIGZyb20gezF9IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIg
+Q29tbWVudCZsdDsvaDEmZ3Q7XG5pbmRpY2F0ZSB1c2VycyB0aGF0IHRoZXJlIG1vcmUgZGVhbHMgY2FuIHZpZXdcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2Nv
+bnRleHQvZDg4YzJlYmJiN2I3YjU2ZmQ3MTgwOWJjOWYyMDhmOTEzOGQ2OTE5OGUzZGY0YTg1ZDA4MjE1YzljODA2ZWYwZS8yNzQ3NTE2Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3
+NDc1MjA3LCJpZF9jb250ZW50IjoiYW5kcm9pZF9wbGF0Zm9ybV9jYXJoaXJlL0NhckhpcmVfUmVzdWx0c19kZWFsc19mcm9tX3ByaWNlXzIiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hh
+cl9saW1pdCI6bnVsbCwiY29udGVudCI6IjIgZGVhbHMgZnJvbSB7MH0iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbmluZGljYXRlIHVz
+ZXJzIHRoYXQgdGhlcmUgMiBkZWFscyBjYW4gdmlld1xuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kODhjMmViYmI3YjdiNTZmZDcxODA5YmM5ZjIw
+OGY5MTM4ZDY5MTk4ZTNkZjRhODVkMDgyMTVjOWM4MDZlZjBlLzI3NDc1MjA3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzUyNDcsImlkX2NvbnRlbnQiOiJhbmRyb2lkX3BsYXRm
+b3JtX2NhcmhpcmUvQ2FySGlyZV9SZXN1bHRzX2RlYWxzX2Zyb21fcHJpY2VfOSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiOSBkZWFscyBm
+cm9tIHswfSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuaW5kaWNhdGUgdXNlcnMgdGhhdCB0aGVyZSA5IGRlYWxzIGNhbiB2aWV3XG4i
+LCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2Q4OGMyZWJiYjdiN2I1NmZkNzE4MDliYzlmMjA4ZjkxMzhkNjkxOThlM2RmNGE4NWQwODIxNWM5YzgwNmVm
+MGUvMjc0NzUyNDcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTI4NywiaWRfY29udGVudCI6ImFuZHJvaWRfcGxhdGZvcm1fY2FyaGlyZS9DYXJIaXJlX1Jlc3VsdHNfZGVhbHNf
+ZnJvbV9wcmljZV84IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiI4IGRlYWxzIGZyb20gezB9IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDto
+MSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5pbmRpY2F0ZSB1c2VycyB0aGF0IHRoZXJlIDggZGVhbHMgY2FuIHZpZXdcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5z
+bGF0ZWQuY29tL2NvbnRleHQvZDg4YzJlYmJiN2I3YjU2ZmQ3MTgwOWJjOWYyMDhmOTEzOGQ2OTE5OGUzZGY0YTg1ZDA4MjE1YzljODA2ZWYwZS8yNzQ3NTI4Ny9zY3JlZW5zaG90LnVybCJ9fSx7Imlk
+X3JlcXVlc3QiOjI3NDc1MzU2LCJpZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvUGFyYWxsZWxTZWFyY2hfbW9kYWxfdGl0bGVfY2hlY2tfZmxpZ2h0cyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxh
+aW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiQ2hlY2tpbmcgZmxpZ2h0cz8gRmluZCBhIGhvdGVsIHdoaWxlIHlvdeKAmXJlIGF0IGl0IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZn
+dDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5XZSB3aWxsIGFkZCBhIG1vZGFsIG9uIGhvdGVsIGRheXZpZXcgZm9yIHRoZSB1c2VyIGNvbWUgZnJvbSBQYXJhbGxlbCBTZWFyY2guIFRoaXMg
+aXMgdGhlIHRpdGxlLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kODhjMmViYmI3YjdiNTZmZDcxODA5YmM5ZjIwOGY5MTM4ZDY5MTk4ZTNkZjRh
+ODVkMDgyMTVjOWM4MDZlZjBlLzI3NDc1MzU2L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzUzOTYsImlkX2NvbnRlbnQiOiJob3RlbHNfd2Vic2l0ZS9QYXJhbGxlbFNlYXJjaF9t
+b2RhbF9zdWJ0aXRsZV9jYXVnaHRfYXR0ZW50aW9uIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJUaGVzZSBwbGFjZXMgY2F1Z2h0IG91ciBh
+dHRlbnRpb24gd2hpbGUgd2Ugd2VyZSBmaW5kaW5nIHlvdXIgZmxpZ2h0cyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuV2Ugd2lsbCBh
+ZGQgYSBtb2RhbCBvbiBob3RlbCBkYXl2aWV3IGZvciB0aGUgdXNlciBjb21lIGZyb20gUGFyYWxsZWwgU2VhcmNoLiBUaGlzIGlzIHRoZSBzdWJ0aXRsZS5cbiIsInNjcmVlbnNob3QiOiJodHRwczov
+L2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZDg4YzJlYmJiN2I3YjU2ZmQ3MTgwOWJjOWYyMDhmOTEzOGQ2OTE5OGUzZGY0YTg1ZDA4MjE1YzljODA2ZWYwZS8yNzQ3NTM5Ni9zY3JlZW5zaG90
+LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1NDM2LCJpZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvUGFyYWxsZWxTZWFyY2hfbW9kYWxfc3VidGl0bGVfY2VudHJhbF9ob3RlbCIsImNvbnRlbnRf
+dHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiQ2VudHJhbCBob3RlbD8gUXVpZXQgYXBhcnRtZW50PyBDaGVjayBvdXQgd2hhdOKAmXMgYXZhaWxhYmxlIG9uIHlv
+dXIgdHJhdmVsIGRhdGVzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5XZSB3aWxsIGFkZCBhIG1vZGFsIG9uIGhvdGVsIGRheXZpZXcg
+Zm9yIHRoZSB1c2VyIGNvbWUgZnJvbSBQYXJhbGxlbCBTZWFyY2guIFRoaXMgaXMgdGhlIHN1YnRpdGxlLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4
+dC9kODhjMmViYmI3YjdiNTZmZDcxODA5YmM5ZjIwOGY5MTM4ZDY5MTk4ZTNkZjRhODVkMDgyMTVjOWM4MDZlZjBlLzI3NDc1NDM2L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzU0
+NDcsImlkX2NvbnRlbnQiOiJhbmRyb2lkX3BsYXRmb3JtX2NhcmhpcmUvQ2FySGlyZV9SZXN1bHRzX291cl9jaGVhcGVzdF9wcmljZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xp
+bWl0IjpudWxsLCJjb250ZW50IjoiT3VyIGNoZWFwZXN0IHByaWNlIHswfSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuaW5kaWNhdGUg
+dXNlcnMgdGhhdCB0aGUgY2hlYXBlc3QgcHJpY2UgaW4gdGhlIGdyb3VwLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9kODhjMmViYmI3YjdiNTZm
+ZDcxODA5YmM5ZjIwOGY5MTM4ZDY5MTk4ZTNkZjRhODVkMDgyMTVjOWM4MDZlZjBlLzI3NDc1NDQ3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzU1MTYsImlkX2NvbnRlbnQiOiJo
+b3RlbHNfd2Vic2l0ZS9QYXJhbGxlbFNlYXJjaF9tb2RhbF9idXR0b25fbGFiZWwiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkV4cGxvcmUg
+aG90ZWxzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5XZSB3aWxsIGFkZCBhIG1vZGFsIG9uIGhvdGVsIGRheXZpZXcgZm9yIHRoZSB1
+c2VyIGNvbWUgZnJvbSBQYXJhbGxlbCBTZWFyY2guIFRoaXMgaXMgdGhlIGJ1dHRvbiBsYWJlbC5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvZDg4
+YzJlYmJiN2I3YjU2ZmQ3MTgwOWJjOWYyMDhmOTEzOGQ2OTE5OGUzZGY0YTg1ZDA4MjE1YzljODA2ZWYwZS8yNzQ3NTUxNi9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1NTU2LCJp
+ZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvUGFyYWxsZWxTZWFyY2hfbW9kYWxfdGl0bGVfc2V0X3ZpYmUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29u
+dGVudCI6IlNldCB0aGUgdmliZSBmb3IgeW91ciB7ZW50aXR5X25hbWV9IHRyaXAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbldlIHdp
+bGwgYWRkIGEgbW9kYWwgb24gaG90ZWwgZGF5dmlldyBmb3IgdGhlIHVzZXIgY29tZSBmcm9tIFBhcmFsbGVsIFNlYXJjaC4gVGhpcyBpcyB0aGUgdGl0bGUuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6
+Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2Q4OGMyZWJiYjdiN2I1NmZkNzE4MDliYzlmMjA4ZjkxMzhkNjkxOThlM2RmNGE4NWQwODIxNWM5YzgwNmVmMGUvMjc0NzU1NTYvc2NyZWVuc2hv
+dC51cmwifX1dfV0=</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="ca-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTA3QjYzNyIgcGFja2FnZUlk
+PSJjYzEyYjQ4Mi04ZDk1LTQ0NTMtYTYzZC1iN2U0Mzk2NTQ5NzMiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iY2EtRVMiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMTIgMTQ6MDY6NTkrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJLNkJVZFk4d1BYLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9Iks2QlVkWTh3UFgub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-12-12:06:04" mtc:id-order-group="handoff_12_11_2025" original="d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e" source-language="en-GB" target-language="ca-ES">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4774953477">
+<source xml:lang="en-GB">5 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">5 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">5&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27474847</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_5</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_5</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 5 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27474847/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4774953478">
+<source xml:lang="en-GB">4 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">4 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">4&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27474887</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_4</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_4</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 4 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27474887/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4774953479">
+<source xml:lang="en-GB">7 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">7 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">7&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27474927</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_7</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_7</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 7 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27474927/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4774953480">
+<source xml:lang="en-GB">6 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">6 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">6&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27474967</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_6</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_6</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 6 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27474967/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4774953481">
+<source xml:lang="en-GB">Check out some great places to stay while you’re in {{|entity_name|}}</source>
+<seg-source><mrk mid="0" mtype="seg">Check out some great places to stay while you’re in {{|entity_name|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Descobreix llocs fantàstics per allotjar-te a {{|entity_name|}}</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">8.64</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475036</note>
+<note>translation_context|¶|hotels_website/ParallelSearch_modal_subtitle_check_places</note>
+<note annotates="source" from="id_content">hotels_website/ParallelSearch_modal_subtitle_check_places</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+We will add a modal on hotel dayview for the user come from Parallel Search. This is the subtitle.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475036/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4774953482">
+<source xml:lang="en-GB">1 deal from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">1 deal from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">1&#160;oferta des de només {{|0|}}</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475047</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_1</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_1</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 1 deal can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475047/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4774953483">
+<source xml:lang="en-GB">We found {{|number|}} hotels for your dates too</source>
+<seg-source><mrk mid="0" mtype="seg">We found {{|number|}} hotels for your dates too</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">També hem trobat {{|number|}}&#160;hotels per a les teves dates</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.76</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475116</note>
+<note>translation_context|¶|hotels_website/ParallelSearch_modal_title_found_hotels</note>
+<note annotates="source" from="id_content">hotels_website/ParallelSearch_modal_title_found_hotels</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+We will add a modal on hotel dayview for the user come from Parallel Search. This is the title.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475116/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4774953484">
+<source xml:lang="en-GB">3 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">3 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">3&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475127</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_3</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_3</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 3 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475127/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4774953485">
+<source xml:lang="en-GB">{{|0|}} deals from {{|1|}}</source>
+<seg-source><mrk mid="0" mtype="seg">{{|0|}} deals from {{|1|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">{{|0|}}&#160;ofertes des de només {{|1|}}</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475167</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there more deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475167/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4774953486">
+<source xml:lang="en-GB">2 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">2 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">2&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475207</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_2</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_2</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 2 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475207/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4774953487">
+<source xml:lang="en-GB">9 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">9 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">9&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475247</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_9</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_9</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 9 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475247/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4774953488">
+<source xml:lang="en-GB">8 deals from {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">8 deals from {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">8&#160;ofertes des de només {{|0|}}</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475287</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_deals_from_price_8</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_deals_from_price_8</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that there 8 deals can view
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475287/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4774953489">
+<source xml:lang="en-GB">Checking flights? Find a hotel while you’re at it</source>
+<seg-source><mrk mid="0" mtype="seg">Checking flights? Find a hotel while you’re at it</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Mirant vols? Aprofita i troba un hotel!</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">7.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475356</note>
+<note>translation_context|¶|hotels_website/ParallelSearch_modal_title_check_flights</note>
+<note annotates="source" from="id_content">hotels_website/ParallelSearch_modal_title_check_flights</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+We will add a modal on hotel dayview for the user come from Parallel Search. This is the title.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475356/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+<group id="sg28">
+<trans-unit id="tu14" xml:space="preserve" help-id="4774953490">
+<source xml:lang="en-GB">These places caught our attention while we were finding your flights</source>
+<seg-source><mrk mid="0" mtype="seg">These places caught our attention while we were finding your flights</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Aquests llocs ens han cridat l'atenció mentre cercàvem els teus vols</mrk></target>
+<count-group name="tu14"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">7.92</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475396</note>
+<note>translation_context|¶|hotels_website/ParallelSearch_modal_subtitle_caught_attention</note>
+<note annotates="source" from="id_content">hotels_website/ParallelSearch_modal_subtitle_caught_attention</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+We will add a modal on hotel dayview for the user come from Parallel Search. This is the subtitle.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475396/screenshot.url</note>
+</trans-unit>
+<group id="sg29">
+</group>
+</group>
+<group id="sg30">
+<trans-unit id="tu15" xml:space="preserve" help-id="4774953491">
+<source xml:lang="en-GB">Central hotel? Quiet apartment? Check out what’s available on your travel dates</source>
+<seg-source><mrk mid="0" mtype="seg">Central hotel? Quiet apartment? Check out what’s available on your travel dates</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Un hotel al centre? Un apartament tranquil? Consulta què hi ha disponible per a les teves dates</mrk></target>
+<count-group name="tu15"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">8.64</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475436</note>
+<note>translation_context|¶|hotels_website/ParallelSearch_modal_subtitle_central_hotel</note>
+<note annotates="source" from="id_content">hotels_website/ParallelSearch_modal_subtitle_central_hotel</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+We will add a modal on hotel dayview for the user come from Parallel Search. This is the subtitle.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475436/screenshot.url</note>
+</trans-unit>
+<group id="sg31">
+</group>
+</group>
+<group id="sg32">
+<trans-unit id="tu16" xml:space="preserve" help-id="4774953492">
+<source xml:lang="en-GB">Our cheapest price {{|0|}}</source>
+<seg-source><mrk mid="0" mtype="seg">Our cheapest price {{|0|}}</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">El nostre preu més baix: {{|0|}}</mrk></target>
+<count-group name="tu16"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475447</note>
+<note>translation_context|¶|android_platform_carhire/CarHire_Results_our_cheapest_price</note>
+<note annotates="source" from="id_content">android_platform_carhire/CarHire_Results_our_cheapest_price</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+indicate users that the cheapest price in the group.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475447/screenshot.url</note>
+</trans-unit>
+<group id="sg33">
+</group>
+</group>
+<group id="sg34">
+<trans-unit id="tu17" xml:space="preserve" help-id="4774953493">
+<source xml:lang="en-GB">Explore hotels</source>
+<seg-source><mrk mid="0" mtype="seg">Explore hotels</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Explora hotels</mrk></target>
+<count-group name="tu17"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475516</note>
+<note>translation_context|¶|hotels_website/ParallelSearch_modal_button_label</note>
+<note annotates="source" from="id_content">hotels_website/ParallelSearch_modal_button_label</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+We will add a modal on hotel dayview for the user come from Parallel Search. This is the button label.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475516/screenshot.url</note>
+</trans-unit>
+<group id="sg35">
+</group>
+</group>
+<group id="sg36">
+<trans-unit id="tu18" xml:space="preserve" help-id="4774953494">
+<source xml:lang="en-GB">Set the vibe for your {{|entity_name|}} trip</source>
+<seg-source><mrk mid="0" mtype="seg">Set the vibe for your {{|entity_name|}} trip</mrk></seg-source>
+<target  xml:lang="ca-ES" state="signed-off"><mrk mid="0" mtype="seg">Tria quin tipus de viatge vols per a {{|entity_name|}}</mrk></target>
+<count-group name="tu18"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">5.04</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475556</note>
+<note>translation_context|¶|hotels_website/ParallelSearch_modal_title_set_vibe</note>
+<note annotates="source" from="id_content">hotels_website/ParallelSearch_modal_title_set_vibe</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+We will add a modal on hotel dayview for the user come from Parallel Search. This is the title.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/d88c2ebbb7b7b56fd71809bc9f208f9138d69198e3df4a85d08215c9c806ef0e/27475556/screenshot.url</note>
+</trans-unit>
+<group id="sg37">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

@@ -1,39 +1,39 @@
-Skyscanner ZH-TW LQA Model Instructions
+# Skyscanner ZH-TW LQA Model Instructions
 
-1. General Writing & Translation Guidelines
-Be Specific
+## 1. General Writing & Translation Guidelines
+### Be Specific
  • Provide actionable, concrete information.
   - Example OK: 飯店在距離火車站 600 公尺處（請小心途中有許多階梯，若帶著孩子上路請做好準備）。
   - Example KO: 飯店距離火車站不遠。
-Conversational Tone
+### Conversational Tone
  • Write as if talking to a friend: clear, direct, and natural.
-Be Interesting, Not Over-Enthusiastic
+### Be Interesting, Not Over-Enthusiastic
  • Use strong adjectives and active verbs.
  • Avoid excessive exclamation marks.
-Be Brief
+### Be Brief
  • Break up long sentences.
  • Remove unnecessary words.
  • Prefer shorter words.
-Use Active Voice
+### Use Active Voice
  • Prefer active over passive voice for clarity and directness.
  • Exception: Retain passive voice if it softens negative messages.
   - Example Passive (OK): 你的預訂申請已被拒絕。
   - Example Active (KO): 業主拒絕了你的預訂申請。
-Avoid Industry Jargon
+### Avoid Industry Jargon
  • Do not use business-speak or assume user knowledge.
  • Simplify sentences to their essence.
-Avoid Literal Translation
+### Avoid Literal Translation
  • Focus on meaning and context, not word-for-word translation.
   - Example OK: 瀏覽飯店 (for "find hotels")
   - Example KO: 尋找飯店
-Adding Information
+### Adding Information
  • Add clarifying information if it aids user understanding or localization.
  • Do not add irrelevant information.
-Accuracy
+### Accuracy
  • Double-check spellings, times, locations, and details.
 
-2. Language-Specific Translation Guidelines
-Punctuation & Spacing
+## 2. Language-Specific Translation Guidelines
+### Punctuation & Spacing
  • Use traditional Chinese full-width punctuation (繁體全形) and traditional Chinese characters.
  • Dash (破折號 ——):
   - Rare in Chinese; rearrange sentences to avoid unless used for explanation.
@@ -57,19 +57,19 @@ Punctuation & Spacing
  • Spacing: Add half-width space before/after Latin alphabet words/numbers, except with full-width punctuation.
   - Example OK: 前往 www.skyscanner.com，
   - Example KO: 前往www.skyscanner.com ，
-Quantifiers
+### Quantifiers
  • Avoid using ‘one’ (一個) for general situations.
   - Example OK: 想解決問題嗎？
   - Example KO: 想解決一個問題嗎？
  • Use Chinese characters for descriptive quantifiers; Arabic numerals for counting.
   - Example OK: 一種旅遊方式 / 一套系統 / 需要 3 至 5 個工作天
   - Example KO: 1個旅遊方法 / 1套系統 / 需要三至五個工作天
-Addressing Users
+### Addressing Users
  • Use 你 (friendly tone); usually omit in optimized translation.
  • Use 您 only for legal content.
-Active Voice
+### Active Voice
  • Use active voice unless passive is needed to soften negativity.
-Numbers, Dates, Currencies
+### Numbers, Dates, Currencies
  • Numbers:
   - Small numbers: Arabic numerals.
   - <1000: Follow source.
@@ -93,19 +93,19 @@ Numbers, Dates, Currencies
    - EUR/€ 歐元, USD/$ 美元, CNY/¥ 人民幣, HKD/HK$ 港幣, TWD/NT$ 新臺幣, GBP/£ 英鎊
   - Example OK: NT$150
   - Example KO: $100元 / $100塊 / 台幣100元 / NT$100元 / NTD$100元
-Units of Measure
+### Units of Measure
  • Convert to metric units; add 約 if approximate; round to one decimal.
   - Example: 40 acre → 16公頃
-Countries/Places
+### Countries/Places
  • List from larger to smaller region.
   - Example OK: 美國費城
   - Example KO: 費城，美國
  • Use correct bracket/spacing as per punctuation rules.
-URLs
+### URLs
  • Do not translate/transliterate URLs; leave as is.
-Linguistic Sequence
+### Linguistic Sequence
  • Adjust sentence order for natural cause/effect in Chinese.
-Transliteration
+### Transliteration
  • People’s Names:
   - Famous: Use common ZH-TW transliteration.
    - Example OK: 愛因斯坦 / 茱莉亞·羅勃茲
@@ -130,7 +130,7 @@ Transliteration
   - Use official ZH-TW name if exists; otherwise, translate and include original in half-width brackets with half-space.
    - Example OK: 旅遊發展稅 (TDT)
    - Example KO: 旅遊發展稅 / TDT
-Foreignization vs Localization
+### Foreignization vs Localization
  • Prefer localization for cultural relevance and naturalness.
   - Example OK: 週末香檳早午餐 (for "Sunday Mimosa Brunch")
   - Example KO: 週末含羞草調酒早午餐
@@ -138,70 +138,79 @@ Foreignization vs Localization
   - Example KO: 7*24小時
   - Example OK: 隨時隨地，隨手可得 (for "Anytime, anywhere, all at your fingertips")
   - Example KO: 任何時間，任何地方，盡在你的指尖
-Subject Repetition
+### Subject Repetition
  • Avoid unnatural repetition; break up or rearrange sentences.
   - Example OK: Skyscanner 需要遵守國際法規，而這些法規限制某些國家的居民使用我們的網站。
   - Example KO: Skyscanner 需要遵守國際法規，而國際法規限制某些國家的居民使用我們的網站。
 
-3. Translation Guidelines per Content Type
-User Interface (UI)
+## 3. Translation Guidelines per Content Type
+### User Interface (UI)
  • UI elements (banners, buttons, menu titles) must be clear, short, and efficient.
  • No punctuation for buttons/menus.
-Call to Actions (CTAs) and Buttons
+### Call to Actions (CTAs) and Buttons
  • Keep text short, specific, and action-oriented.
  • No punctuation.
-Marketing
+### Marketing
  • Use casual, authentic, and friendly style.
  • Consider local conversational terms and emotional impact.
  • Write as if speaking to a good friend.
-Legal, Policies, Terms & Conditions
+### Legal, Policies, Terms & Conditions
  • Translate accurately and faithfully; do not omit, add, merge, or split sentences.
  • Pay special attention to numbers and dates.
  • Notify PM if legal content is found.
 
-4. Common Mistakes & Tricky Terminology
-Non ZH-TW Expressions
+## 4. Common Mistakes & Tricky Terminology
+### Non ZH-TW Expressions
  • Do not use zh-cn or zh-hk expressions uncommon in Taiwan.
   - Example OK: 資訊
   - Example KO: 信息
-Typos
+### Typos
  • Proofread for homophones and commonly confused characters.
   - Example OK: 回覆／帳號／轉帳 / 聯絡
   - Example KO: 回復 / 賬號 / 轉賬 / 連絡
-Contextual Word Choice
+### Contextual Word Choice
  • Ensure words are contextually appropriate.
-Tourism Terminology
+### Tourism Terminology
  • Use “旅客” for “traveller”, not “遊客”.
 
-5. Variables and HTML Tags
- • Do not damage variables or HTML tags.
- • For %{smart_count}, add appropriate quantifier after the variable.
-  - Example: 旅客必須在 %{smart_count} 小時內完成付款才能確認此預訂
- • Use provided tools to decode HTML if needed.
+---
 
-6. Subtitling
- • Max 18 Chinese characters per line (including punctuation), max 2 lines per string.
- • Replace all punctuation with half-width space, except 書名號 or 引號 for emphasis.
- • No space between single/double-byte characters for character limits.
- • For multiple speakers, use one line per speaker, hyphen at start.
-  - Example:
-   - Hello, I am Mark.
-   - Nice to meet you! I am Sarah.
- • Use 你 for friendly tone.
- • Do not translate background song lyrics.
- • Remove redundant speech; keep subtitles clean.
-  - Example: 我這邊要舉的例子是有琳瑯滿目的商品
- • Rearrange words for comfortable reading pace.
- • Shorten subtitles to main ideas if too long.
- • Translate on-screen text/ambient sound as per source formatting; delete if it impairs readability.
+## 5. LQA CALIBRATION: ANTI-FALSE POSITIVE GUIDELINES
+**IMPORTANT:** The AI Evaluator must use the following rules to **IGNORE** potential errors. These patterns represent acceptable stylistic variations or natural elaborations in Traditional Chinese (Taiwan). **Do NOT report** issues falling under these categories.
 
-7. Naming Process
- • Brainstorm and propose new names for products/programs/events.
- • Consult LL for final decision.
- • Use updated list for consistency.
+### 5.1. Acceptable Synonymy & Variation
+Do not flag a translation as an error if the Target conveys the same functional meaning as the Source, even if a different word is used.
+- **Search/Find:** "Search", "Find" can be translated as `搜尋` or `查找`. Both are acceptable unless the glossary mandates one specific term for a UI Button.
+- **Book/Order:** "Book" can be `預訂`. Avoid `購買` (Buy) unless it's a specific transaction context.
+- **Price/Fare:** "Price" can be `價格`, `費用`.
+- **Offers/Deals:** In quantitative lists (e.g., "5 deals"), `5 筆結果` (5 results), `5 筆優惠` (5 offers), or `5 個選項` (5 options) are acceptable synonyms. Do not flag this as a mistranslation.
 
-8. Useful Resources
- • Use provided dictionaries and databases for terminology and consistency.
- • Use Google search with quotation marks or asterisks for frequency and collocation checks.
- • Use character/word count tools as needed.
+### 5.2. Semantic Elaboration (Explicit Nouns)
+Chinese often requires a "Head Noun" to make a phrase sound natural. Do not flag the addition of generic helper nouns as "Additions".
+- **Rule:** Target = [Source Concept] + [Generic Helper Noun].
+- **Examples to IGNORE (Do not flag):**
+  - Source: "Car hire" -> Target: `租車服務` (Car hire **service**). *Acceptable.*
+  - Source: "Flight info" -> Target: `航班資訊` (**Information**). *Acceptable.*
+  - Source: "Privacy" -> Target: `隱私權政策` (Privacy **Policy**). *Acceptable.*
 
+### 5.3. Structural & Syntactic Flexibility
+Do not flag changes in sentence structure if they improve flow in Chinese.
+- **Parentheses Usage:** If the translator moves a descriptive clause into parentheses (or vice versa) to make the sentence readable, do NOT flag this as a Style/Grammar error unless it makes the sentence grammatically incorrect.
+  - *Example:* Source "Flights from Taipei" -> Target `航班 (從台北出發)` is **Acceptable**.
+- **Sentence Structure:** Passive vs Active voice is acceptable if grammatical.
+
+### 5.4. Contextual Terminology Leniency
+While the Glossary (TB) is important, context dictates usage.
+- **"Deal" in UI:** If the source says "{{number}} deals", and the target says `{{number}} 筆結果` (results) or `{{number}} 起` (starting from), **Do NOT flag**. This is a standard UI pattern to avoid over-promising "discounts" when displaying general search results.
+- **"Cheap" vs "Value":** If the source says "Cheapest" and the target says `最划算` (Best value) or `超值` (Super value), allow this in Marketing contexts. Only flag if it creates a factual lie (e.g., calling an expensive item "cheap").
+
+### 5.5. Tone/Register False Positives
+- **"Please":** The addition or removal of `請` (Please) is often a localization choice. Do not flag unless it makes the tone rude.
+- **"We":** Changing "Skyscanner" to `我們` (We) or vice versa is a valid localization technique. **Do NOT flag.**
+
+### 5.6. Critical Logic Check (Must Flag)
+- **Directional Logic:** "From {City}" (Origin) vs. "To {City}" (Destination). Flag any inversion.
+- **Math:** "Price drops **of** 20%" (Discount ≥ 20%) ≠ "Price is 80%".
+- **Dynamic Price Integrity:** Do NOT accept intensifiers ("only", "just") next to dynamic prices (`{{price}}`) unless in source.
+- **UI Functionality:** "Sign up" (Newsletter) ≠ "Register" (Account).
+- **Technical Terms:** "Header Bidding" = "Header Bidding" (Keep English) or "標頭競價". DO NOT accept "標題出價" (Title Bidding).

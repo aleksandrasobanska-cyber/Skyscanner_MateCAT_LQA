@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Translation-Request-Paid-team-(Hindi--Croatian--Slovak)_coratina and slo.xlsx" source-language="en-GB" target-language="sk-SK" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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
+KRoAAAAA</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="sk-SK" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUE3QjlFNyIgcGFja2FnZUlk
+PSIwNjU2YWZkMS1jM2UwLTRkY2MtYmZkYi02MTVhNDA2YTU1NGYiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ibmwtTkwiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMDcgMTY6NDQ6NDkrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJUcmFuc2xhdGlvbi1SZXF1ZXN0LVBhaWQtdGVhbS0oSGluZGktLUNyb2F0aWFuLS1T
+bG92YWspX2NvcmF0aW5hIGFuZCBzbG8ueGxzeCIgZmlsdGVySWQ9Im9rZl9vcGVueG1sIiBpbnB1dEVuY29kaW5nPSJVVEYtOCIgcmVsYXRpdmVUYXJnZXRQYXRoPSJUcmFuc2xhdGlvbi1SZXF1ZXN0
+LVBhaWQtdGVhbS0oSGluZGktLUNyb2F0aWFuLS1TbG92YWspX2NvcmF0aW5hIGFuZCBzbG8ub3V0Lnhsc3giIHRhcmdldEVuY29kaW5nPSJVVEYtOCIgc2VsZWN0ZWQ9IjEiPkkzWXhDbUpRY21WbVpY
+SmxibU5sVkhKaGJuTnNZWFJsUkc5alVISnZjR1Z5ZEdsbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxRMjl0YldWdWRITXVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5
+WVc1emJHRjBaVkJ2ZDJWeWNHOXBiblJPYjNSbGN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVkyVlVjbUZ1YzJ4aGRHVlFiM2RsY25CdmFXNTBUV0Z6ZEdWeWN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVky
+VkpaMjV2Y21WUWJHRmpaV2h2YkdSbGNuTkpibEJ2ZDJWeWNHOXBiblJOWVhOMFpYSnpMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZYYjNKa1NHVmhaR1Z5YzBadmIzUmxjbk11
+WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsVjI5eVpFaHBaR1JsYmk1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFYyOXlaRVY0WTJ4MVpHVkhjbUZ3YUdsalRX
+VjBZVVJoZEdFdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWQnZkMlZ5Y0c5cGJuUklhV1JrWlc0dVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZz
+U0dsa1pHVnVMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZGZUdObGJFVjRZMngxWkdWRGIyeHZjbk11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlVWNFky
+VnNSWGhqYkhWa1pVTnZiSFZ0Ym5NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzVTJobFpYUk9ZVzFsY3k1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFFXUmtUR2x1
+WlZObGNHRnlZWFJ2Y2tGelEyaGhjbUZqZEdWeUxtSTlabUZzYzJVS2MxQnlaV1psY21WdVkyVk1hVzVsVTJWd1lYSmhkRzl5VW1Wd2JHRmpaVzFsYm5ROUpEQmhKQXBpVUhKbFptVnlaVzVqWlZKbGNH
+eGhZMlZPYjBKeVpXRnJTSGx3YUdWdVZHRm5MbUk5ZEhKMVpRcGlVSEpsWm1WeVpXNWpaVWxuYm05eVpWTnZablJJZVhCb1pXNVVZV2N1WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sUVdSa1ZHRmlRWE5E
+YUdGeVlXTjBaWEl1WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlVGblozSmxjM05wZG1WRGJHVmhiblZ3TG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlVGMWRHOXRZWFJwWTJGc2JIbEJZMk5sY0hSU1pY
+WnBjMmx2Ym5NdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFVHOTNaWEp3YjJsdWRFbHVZMngxWkdWa1UyeHBaR1ZPZFcxaVpYSnpUMjVzZVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5z
+WVhSbFJYaGpaV3hFYVdGbmNtRnRSR0YwWVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJYaGpaV3hFY21GM2FXNW5jeTVpUFdaaGJITmxDbk4xWW1acGJIUmxjajBLWWtsdVJY
+aGpiSFZrWlUxdlpHVXVZajEwY25WbENtSkpia1Y0WTJ4MVpHVklhV2RvYkdsbmFIUk5iMlJsTG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZkdmNtUkZlR05zZFdSbFEyOXNiM0p6
+TG1JOVptRnNjMlVLWWxKbGIzSmtaWEpRYjNkbGNuQnZhVzUwVG05MFpYTkJibVJEYjIxdFpXNTBjeTVpUFdaaGJITmxDbTkxZEhCMWRGTmxaMjFsYm5SaGRHbHZibFI1Y0dVdWFUMHpDblJ6UTI5dGNH
+eGxlRVpwWld4a1JHVm1hVzVwZEdsdmJuTlViMFY0ZEhKaFkzUXVhVDB4Q21ObVpEQTlTRmxRUlZKTVNVNUxDblJ6UlhoalpXeEZlR05zZFdSbFpFTnZiRzl5Y3k1cFBUQUtkSE5GZUdObGJFVjRZMngx
+WkdWa1EyOXNkVzF1Y3k1cFBUQUtkSE5GZUdOc2RXUmxWMjl5WkZOMGVXeGxjeTVwUFRBS2RITlhiM0prU0dsbmFHeHBaMmgwUTI5c2IzSnpMbWs5TUFwMGMxZHZjbVJGZUdOc2RXUmxaRU52Ykc5eWN5
+NXBQVEFLZEhOUWIzZGxjbkJ2YVc1MFNXNWpiSFZrWldSVGJHbGtaVTUxYldKbGNuTXVhVDB3PC9kb2M+CjwvbWFuaWZlc3Q+</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="sk-SK">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Sheet1!A2" xml:space="preserve" help-id="4771279014">
+<source xml:lang="en-GB">to</source>
+<seg-source><mrk mid="0" mtype="seg">to</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">–</mrk></target>
+<count-group name="P147242AB-tu1"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Sheet1!A3" xml:space="preserve" help-id="4771279015">
+<source xml:lang="en-GB">from</source>
+<seg-source><mrk mid="0" mtype="seg">from</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">z lokality</mrk></target>
+<count-group name="P147242AB-tu2"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Sheet1!A4" xml:space="preserve" help-id="4771279016">
+<source xml:lang="en-GB">cheap flights to</source>
+<seg-source><mrk mid="0" mtype="seg">cheap flights to</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">lacné lety do destinácie</mrk></target>
+<count-group name="P147242AB-tu3"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Sheet1!A5" xml:space="preserve" help-id="4771279017">
+<source xml:lang="en-GB">cheap flights from</source>
+<seg-source><mrk mid="0" mtype="seg">cheap flights from</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">lacné letenky z lokality</mrk></target>
+<count-group name="P147242AB-tu4"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" maxwidth="27" resname="Sheet1!A6" size-unit="char" xml:space="preserve" help-id="4771279018">
+<source xml:lang="en-GB">Planning your next trip?</source>
+<seg-source><mrk mid="0" mtype="seg">Planning your next trip?</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Plánujete ďalšiu cestu?</mrk></target>
+<count-group name="P147242AB-tu5"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" maxwidth="27" resname="Sheet1!A7" size-unit="char" xml:space="preserve" help-id="4771279019">
+<source xml:lang="en-GB">Find cheap flights</source>
+<seg-source><mrk mid="0" mtype="seg">Find cheap flights</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Vyhľadajte lacné lety</mrk></target>
+<count-group name="P147242AB-tu6"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" maxwidth="27" resname="Sheet1!A8" size-unit="char" xml:space="preserve" help-id="4771279020">
+<source xml:lang="en-GB">Flight deals for your trip</source>
+<seg-source><mrk mid="0" mtype="seg">Flight deals for your trip</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Ponuky letov pre vašu cestu</mrk></target>
+<count-group name="P147242AB-tu7"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" maxwidth="27" resname="Sheet1!A9" size-unit="char" xml:space="preserve" help-id="4771279021">
+<source xml:lang="en-GB">Searching for the best price?</source>
+<seg-source><mrk mid="0" mtype="seg">Searching for the best price?</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Hľadáte najlepšiu cenu?</mrk></target>
+<count-group name="P147242AB-tu8"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" maxwidth="27" resname="Sheet1!A10" size-unit="char" xml:space="preserve" help-id="4771279022">
+<source xml:lang="en-GB">See a world of travel deals</source>
+<seg-source><mrk mid="0" mtype="seg">See a world of travel deals</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Objavte svet ponúk</mrk></target>
+<count-group name="P147242AB-tu9"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.32</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" maxwidth="27" resname="Sheet1!A11" size-unit="char" xml:space="preserve" help-id="4771279023">
+<source xml:lang="en-GB">Get the best deal for you</source>
+<seg-source><mrk mid="0" mtype="seg">Get the best deal for you</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Získajte najlepšiu ponuku</mrk></target>
+<count-group name="P147242AB-tu10"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.32</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" maxwidth="27" resname="Sheet1!A12" size-unit="char" xml:space="preserve" help-id="4771279024">
+<source xml:lang="en-GB">Save on flights today</source>
+<seg-source><mrk mid="0" mtype="seg">Save on flights today</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Ušetrite na letoch už dnes</mrk></target>
+<count-group name="P147242AB-tu11"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.88</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" maxwidth="27" resname="Sheet1!A13" size-unit="char" xml:space="preserve" help-id="4771279025">
+<source xml:lang="en-GB">Stop dreaming, start booking</source>
+<seg-source><mrk mid="0" mtype="seg">Stop dreaming, start booking</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Nesnívajte, rezervujte si</mrk></target>
+<count-group name="P147242AB-tu12"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.88</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" maxwidth="90" resname="Sheet1!A19" size-unit="char" xml:space="preserve" help-id="4771279026">
+<source xml:lang="en-GB">Ever wish planning a trip could feel as good as taking one? Us too</source>
+<seg-source><mrk mid="0" mtype="seg">Ever wish planning a trip could feel as good as taking one? Us too</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Chceli by ste, aby plánovanie cesty bolo rovnako príjemné ako samotná cesta? My tiež</mrk></target>
+<count-group name="P147242AB-tu13"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">10.08</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" maxwidth="90" resname="Sheet1!A20" size-unit="char" xml:space="preserve" help-id="4771279027">
+<source xml:lang="en-GB">We’re the clever search engine that turns travel planning chaos into a breeze.</source>
+<seg-source><mrk mid="0" mtype="seg">We’re the clever search engine that turns travel planning chaos into a breeze.</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Sme inteligentný vyhľadávač, ktorý mení chaos pri plánovaní ciest na hračku</mrk></target>
+<count-group name="P147242AB-tu14"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">10.08</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" maxwidth="90" resname="Sheet1!A21" size-unit="char" xml:space="preserve" help-id="4771279028">
+<source xml:lang="en-GB">Everyone loves travelling. Planning it? Not so much.</source>
+<seg-source><mrk mid="0" mtype="seg">Everyone loves travelling. Planning it? Not so much.</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Každý miluje cestovanie. Ale plánovanie? To už veľmi nie</mrk></target>
+<count-group name="P147242AB-tu15"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.76</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" maxwidth="90" resname="Sheet1!A22" size-unit="char" xml:space="preserve" help-id="4771279029">
+<source xml:lang="en-GB">Our smart filters help you find your best price in a few clicks</source>
+<seg-source><mrk mid="0" mtype="seg">Our smart filters help you find your best price in a few clicks</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Naše inteligentné filtre vám pomôžu nájsť najlepšiu cenu niekoľkými kliknutiami</mrk></target>
+<count-group name="P147242AB-tu16"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">9.36</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" maxwidth="90" resname="Sheet1!A23" size-unit="char" xml:space="preserve" help-id="4771279030">
+<source xml:lang="en-GB">Search and compare travel deals in once place</source>
+<seg-source><mrk mid="0" mtype="seg">Search and compare travel deals in once place</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Vyhľadávajte a porovnávajte cestovné ponuky na jednom mieste</mrk></target>
+<count-group name="P147242AB-tu17"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.76</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" maxwidth="90" resname="Sheet1!A24" size-unit="char" xml:space="preserve" help-id="4771279031">
+<source xml:lang="en-GB">That next adventure is just a click away</source>
+<seg-source><mrk mid="0" mtype="seg">That next adventure is just a click away</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Od ďalšieho dobrodružstva vás delí len jedno kliknutie</mrk></target>
+<count-group name="P147242AB-tu18"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.76</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" maxwidth="90" resname="Sheet1!A25" size-unit="char" xml:space="preserve" help-id="4771279032">
+<source xml:lang="en-GB">We scan billions of prices so you can find flights, hotels and car rentals easily.</source>
+<seg-source><mrk mid="0" mtype="seg">We scan billions of prices so you can find flights, hotels and car rentals easily.</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Prehľadávame miliardy cien, aby ste mohli ľahko nájsť lety, hotely a prenájmy vozidiel</mrk></target>
+<count-group name="P147242AB-tu19"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">10.8</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" maxwidth="90" resname="Sheet1!A26" size-unit="char" xml:space="preserve" help-id="4771279033">
+<source xml:lang="en-GB">Billions of prices. One simple search. Flights, hotels &amp; car hire.</source>
+<seg-source><mrk mid="0" mtype="seg">Billions of prices. One simple search. Flights, hotels &amp; car hire.</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Miliardy cien. Jedno jednoduché vyhľadávanie. Lety, hotely a&#160;prenájom vozidiel</mrk></target>
+<count-group name="P147242AB-tu20"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">7.2</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" maxwidth="90" resname="Sheet1!A27" size-unit="char" xml:space="preserve" help-id="4771279034">
+<source xml:lang="en-GB">Save on your next holiday by using Skyscanner</source>
+<seg-source><mrk mid="0" mtype="seg">Save on your next holiday by using Skyscanner</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Ušetrite na ďalšej dovolenke pomocou Skyscannera</mrk></target>
+<count-group name="P147242AB-tu21"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.76</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" maxwidth="90" resname="Sheet1!A28" size-unit="char" xml:space="preserve" help-id="4771279035">
+<source xml:lang="en-GB">With every search, we scan billions of prices from trusted travel partners.</source>
+<seg-source><mrk mid="0" mtype="seg">With every search, we scan billions of prices from trusted travel partners.</mrk></seg-source>
+<target  xml:lang="sk-SK" state="signed-off"><mrk mid="0" mtype="seg">Pri každom vyhľadávaní prehľadávame miliardy cien od dôveryhodných cestovných partnerov</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">8.64</count></count-group>
+</trans-unit>
+</body>
+</file>
+</xliff>

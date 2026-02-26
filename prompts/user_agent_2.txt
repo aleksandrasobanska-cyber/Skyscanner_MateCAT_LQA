@@ -1,4 +1,4 @@
-You will receive two JSON payloads:
+Here are the two JSON payloads:
 
 Input payload (original segments, context, TB):
 $input_payload

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="7qwXuGYlq9.jsont2" source-language="en-GB" target-language="es-MX" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6Ijg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4Y2FiNDIxODNmYzExMWY2YzAiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNS0xMS0xMi0xMjoxMjo1
+NCIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl9zZW9fMTJfMTFfMjAyNSIsImluc3RydWN0aW9ucyI6bnVsbCwic3R5bGVndWlkZSI6bnVsbCwicmVmZXJlbmNlcyI6bnVsbCwicmVxdWVzdHMiOlt7
+ImlkX3JlcXVlc3QiOjI3NDc1NTc2LCJpZF9jb250ZW50IjoiZmFsY29uX3BhY2thZ2VzL3BhY2thZ2VzX3BvcHVsYXJfZGVzdGluYXRpb25zX2Rlc2NyaXB0aW9uX1BNSSIsImNvbnRlbnRfdHlwZSI6
+InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiRXhwZXJpZW5jZSB0aGUgcGVyZmVjdCBibGVuZCBvZiBzdHVubmluZyBiZWFjaGVzLCBoaXN0b3JpYyBzaXRlcywgYW5kIHZp
+YnJhbnQgbmlnaHRsaWZlLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gZm9yIHRoZSBwb3B1bGFyIGRlc3RpbmF0
+aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4Y2FiNDIxODNm
+YzExMWY2YzAvMjc0NzU1NzYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTYyNiwiaWRfY29udGVudCI6InRlY2hfc2VvX2ludGVybmFsX2xpbmtzL0dyb3VwLWhlYWRpbmctZmxp
+Z2h0cy1vcHRpb25zLWluLWNpdHkiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkBAZW50aXR5X2NpdHlfbmFtZUBAIGZsaWdodHMiLCJjb250
+ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblNFTyBJbnRlcm5hbCBMaW5raW5nIHByb2plY3RcclxuXG5Hcm91cCBoZWFkaW5nIGZvcjogRmxpZ2h0
+cyBvcHRpb25zXHJcblxuQ29udGV4dDogR3JvdXAgaGVhZGluZyB0ZXh0IG5lZWRzIHRvIGJlIGtleXdvcmQgb3B0aW1pc2VkIGZvciB0aGUgcGFnZXMgaXQncyBwb2ludGluZyB0by4gVGhlc2UgZ3Jv
+dXBzIGNhbiBhcHBlYXIgb24gYSB2YXJpZXR5IG9mIHBhZ2UgdHlwZXMsIGJ1dCB3aWxsIGNvbnRhaW4gbGlua3MgdG8gdGhlIHNhbWUgcGFnZSB0eXBlcy5cbiIsInNjcmVlbnNob3QiOiJodHRwczov
+L2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODY1ZTE4M2ZkNzg0ZjMwMDY1ZWMxNjI5YzBjZGJmZTUzODBjYmQ0ZGNhNDBkODhjYWI0MjE4M2ZjMTExZjZjMC8yNzQ3NTYyNi9zY3JlZW5zaG90
+LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1NjU2LCJpZF9jb250ZW50IjoiZmFsY29uX3BhY2thZ2VzL3BhY2thZ2VzX3BvcHVsYXJfZGVzdGluYXRpb25zX2Rlc2NyaXB0aW9uX0FHUCIsImNvbnRl
+bnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiUmVsYXggb24gc3VubnkgYmVhY2hlcywgZXhwbG9yZSBjaGFybWluZyB0b3ducywgYW5kIHNhdm91ciB0aGUg
+Zmxhdm91cnMgb2YgQW5kYWx1c2lhLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gZm9yIHRoZSBwb3B1bGFyIGRl
+c3RpbmF0aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4Y2Fi
+NDIxODNmYzExMWY2YzAvMjc0NzU2NTYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTcwNiwiaWRfY29udGVudCI6InRlY2hfc2VvX2ludGVybmFsX2xpbmtzL0dyb3VwLWhlYWRp
+bmctb3RoZXItaG90ZWwtYnJhbmRzLWluLWNpdHkiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ik90aGVyIEBAZW50aXR5X2NpdHlfbmFtZUBA
+IGhvdGVsIGJyYW5kcyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU0VPIEludGVybmFsIExpbmtpbmcgcHJvamVjdFxyXG5cbkdyb3Vw
+IGhlYWRpbmcgZm9yOiBPdGhlciBob3RlbHMgYnJhbmRzXHJcblxuQ29udGV4dDogR3JvdXAgaGVhZGluZyB0ZXh0IG5lZWRzIHRvIGJlIGtleXdvcmQgb3B0aW1pc2VkIGZvciB0aGUgcGFnZXMgaXQn
+cyBwb2ludGluZyB0by4gVGhlc2UgZ3JvdXBzIGNhbiBhcHBlYXIgb24gYSB2YXJpZXR5IG9mIHBhZ2UgdHlwZXMsIGJ1dCB3aWxsIGNvbnRhaW4gbGlua3MgdG8gdGhlIHNhbWUgcGFnZSB0eXBlcy5c
+biIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODY1ZTE4M2ZkNzg0ZjMwMDY1ZWMxNjI5YzBjZGJmZTUzODBjYmQ0ZGNhNDBkODhjYWI0MjE4M2ZjMTEx
+ZjZjMC8yNzQ3NTcwNi9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1NzM2LCJpZF9jb250ZW50IjoiZmFsY29uX3BhY2thZ2VzL3BhY2thZ2VzX3BvcHVsYXJfZGVzdGluYXRpb25z
+X2Rlc2NyaXB0aW9uX0FMQyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiRnJvbSBCZW5pZG9ybSB0byBBbGljYW50ZSwgc2F2b3VyIHRoZSBz
+dW4sIHNlYSwgYW5kIHZpYnJhbnQgU3BhbmlzaCBjdWx0dXJlLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gZm9y
+IHRoZSBwb3B1bGFyIGRlc3RpbmF0aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1Mzgw
+Y2JkNGRjYTQwZDg4Y2FiNDIxODNmYzExMWY2YzAvMjc0NzU3MzYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTc4NiwiaWRfY29udGVudCI6InRlY2hfc2VvX2ludGVybmFsX2xp
+bmtzL0dyb3VwLWhlYWRpbmctaG90ZWxzLW5lYXItYWlycG9ydHMiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkhvdGVscyBuZWFyIGFpcnBv
+cnRzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gSW50ZXJuYWwgTGlua2luZyBwcm9qZWN0XHJcblxuR3JvdXAgaGVhZGluZyBm
+b3I6IEhvdGVscyBuZWFyIGFpcnBvcnRzXHJcblxuQ29udGV4dDogR3JvdXAgaGVhZGluZyB0ZXh0IG5lZWRzIHRvIGJlIGtleXdvcmQgb3B0aW1pc2VkIGZvciB0aGUgcGFnZXMgaXQncyBwb2ludGlu
+ZyB0by4gVGhlc2UgZ3JvdXBzIGNhbiBhcHBlYXIgb24gYSB2YXJpZXR5IG9mIHBhZ2UgdHlwZXMsIGJ1dCB3aWxsIGNvbnRhaW4gbGlua3MgdG8gdGhlIHNhbWUgcGFnZSB0eXBlcy5cbiIsInNjcmVl
+bnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODY1ZTE4M2ZkNzg0ZjMwMDY1ZWMxNjI5YzBjZGJmZTUzODBjYmQ0ZGNhNDBkODhjYWI0MjE4M2ZjMTExZjZjMC8yNzQ3
+NTc4Ni9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1ODE2LCJpZF9jb250ZW50IjoiZmFsY29uX3BhY2thZ2VzL3BhY2thZ2VzX3BvcHVsYXJfZGVzdGluYXRpb25zX2Rlc2NyaXB0
+aW9uX0ZBTyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiRW5qb3kgc3VuLXNvYWtlZCBiZWFjaGVzLCBjaGFybWluZyB2aWxsYWdlcywgYW5k
+IHdvcmxkLWNsYXNzIGdvbGYgaW4gUG9ydHVnYWwncyBzb3V0aGVybiBwYXJhZGlzZS4iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkRl
+c2NyaXB0aW9uIGZvciB0aGUgcG9wdWxhciBkZXN0aW5hdGlvblxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC84NjVlMTgzZmQ3ODRmMzAwNjVlYzE2
+MjljMGNkYmZlNTM4MGNiZDRkY2E0MGQ4OGNhYjQyMTgzZmMxMTFmNmMwLzI3NDc1ODE2L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzU4NjYsImlkX2NvbnRlbnQiOiJ0ZWNoX3Nl
+b19pbnRlcm5hbF9saW5rcy9Hcm91cC1oZWFkaW5nLWNhci1oaXJlLW9wdGlvbnMtaW4tY2l0eSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50Ijoi
+QEBlbnRpdHlfY2l0eV9uYW1lQEAgY2FyIGhpcmUiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblNFTyBJbnRlcm5hbCBMaW5raW5nIHBy
+b2plY3RcclxuXG5Hcm91cCBoZWFkaW5nIGZvcjogQ2FyIGhpcmUgb3B0aW9uc1xyXG5cbkNvbnRleHQ6IEdyb3VwIGhlYWRpbmcgdGV4dCBuZWVkcyB0byBiZSBrZXl3b3JkIG9wdGltaXNlZCBmb3Ig
+dGhlIHBhZ2VzIGl0J3MgcG9pbnRpbmcgdG8uIFRoZXNlIGdyb3VwcyBjYW4gYXBwZWFyIG9uIGEgdmFyaWV0eSBvZiBwYWdlIHR5cGVzLCBidXQgd2lsbCBjb250YWluIGxpbmtzIHRvIHRoZSBzYW1l
+IHBhZ2UgdHlwZXMuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4
+Y2FiNDIxODNmYzExMWY2YzAvMjc0NzU4NjYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTg5NiwiaWRfY29udGVudCI6ImZhbGNvbl9wYWNrYWdlcy9wYWNrYWdlc19wb3B1bGFy
+X2Rlc3RpbmF0aW9uc19kZXNjcmlwdGlvbl9BWVQiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkRpc2NvdmVyIGFuY2llbnQgcnVpbnMsIHR1
+cnF1b2lzZSB3YXRlcnMsIGFuZCB0aGUgd2FybSB3ZWxjb21lIG9mIFR1cmtleSdzIE1lZGl0ZXJyYW5lYW4gZ2VtLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1l
+bnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gZm9yIHRoZSBwb3B1bGFyIGRlc3RpbmF0aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUx
+ODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4Y2FiNDIxODNmYzExMWY2YzAvMjc0NzU4OTYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NTkzNiwiaWRf
+Y29udGVudCI6ImZhbGNvbl9wYWNrYWdlcy9wYWNrYWdlc19wb3B1bGFyX2Rlc3RpbmF0aW9uc19kZXNjcmlwdGlvbl9EWEJBIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQi
+Om51bGwsImNvbnRlbnQiOiJFeHBlcmllbmNlIGx1eHVyeSBhbmQgYWR2ZW50dXJlIGluIHRoZSBjaXR5IG9mIHNreXNjcmFwZXJzLCBkZXNlcnRzLCBhbmQgd29ybGQtY2xhc3Mgc2hvcHBpbmcuIiwi
+Y29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5EZXNjcmlwdGlvbiBmb3IgdGhlIHBvcHVsYXIgZGVzdGluYXRpb25cbiIsInNjcmVlbnNob3Qi
+OiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODY1ZTE4M2ZkNzg0ZjMwMDY1ZWMxNjI5YzBjZGJmZTUzODBjYmQ0ZGNhNDBkODhjYWI0MjE4M2ZjMTExZjZjMC8yNzQ3NTkzNi9z
+Y3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc1OTc2LCJpZF9jb250ZW50IjoiZmFsY29uX3BhY2thZ2VzL3BhY2thZ2VzX3BvcHVsYXJfZGVzdGluYXRpb25zX2Rlc2NyaXB0aW9uX1JB
+SyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiSW1tZXJzZSB5b3Vyc2VsZiBpbiB0aGUgdmlicmFudCBjb2xvdXJzLCBidXN0bGluZyBtYXJr
+ZXRzLCBhbmQgcmljaCBoaXN0b3J5IG9mIHRoaXMgYW5jaWVudCBjaXR5LiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRp
+b24gZm9yIHRoZSBwb3B1bGFyIGRlc3RpbmF0aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2Ri
+ZmU1MzgwY2JkNGRjYTQwZDg4Y2FiNDIxODNmYzExMWY2YzAvMjc0NzU5NzYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NjAyNiwiaWRfY29udGVudCI6InRlY2hfc2VvX2ludGVy
+bmFsX2xpbmtzL0dyb3VwLWhlYWRpbmctaG90ZWxzLWluLWNpdHktbmFtZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiSG90ZWxzIGluIEBA
+ZW50aXR5X2NpdHlfbmFtZUBAIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gSW50ZXJuYWwgTGlua2luZyBwcm9qZWN0XHJcblxu
+R3JvdXAgaGVhZGluZyBmb3I6IEhvdGVscyBpbiBAQGVudGl0eV9jaXR5X25hbWVAQFxyXG5cbkNvbnRleHQ6IEdyb3VwIGhlYWRpbmcgdGV4dCBuZWVkcyB0byBiZSBrZXl3b3JkIG9wdGltaXNlZCBm
+b3IgdGhlIHBhZ2VzIGl0J3MgcG9pbnRpbmcgdG8uIFRoZXNlIGdyb3VwcyBjYW4gYXBwZWFyIG9uIGEgdmFyaWV0eSBvZiBwYWdlIHR5cGVzLCBidXQgd2lsbCBjb250YWluIGxpbmtzIHRvIHRoZSBz
+YW1lIHBhZ2UgdHlwZXMuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQw
+ZDg4Y2FiNDIxODNmYzExMWY2YzAvMjc0NzYwMjYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NjA1NiwiaWRfY29udGVudCI6ImZhbGNvbl9wYWNrYWdlcy9wYWNrYWdlc19wb3B1
+bGFyX2Rlc3RpbmF0aW9uc19kZXNjcmlwdGlvbl9BQ0UiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ikhpa2UgdGhyb3VnaCB2b2xjYW5pYyBs
+YW5kc2NhcGVzLCByZWxheCBvbiBnb2xkZW4gYmVhY2hlcyBhbmQgZW5qb3kgdGhlIGxhaWQtYmFjayBDYW5hcmlhbiB2aWJlLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVy
+IENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gZm9yIHRoZSBwb3B1bGFyIGRlc3RpbmF0aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0
+Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4Y2FiNDIxODNmYzExMWY2YzAvMjc0NzYwNTYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NjEw
+NiwiaWRfY29udGVudCI6InRlY2hfc2VvX2ludGVybmFsX2xpbmtzL0dyb3VwLWhlYWRpbmctbW9yZS1ob3RlbC1vcHRpb25zIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQi
+Om51bGwsImNvbnRlbnQiOiJNb3JlIGhvdGVscyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU0VPIEludGVybmFsIExpbmtpbmcgcHJv
+amVjdFxyXG5cbkdyb3VwIGhlYWRpbmcgZm9yOiBNb3JlIGhvdGVsIG9wdGlvbnNcclxuXG5Db250ZXh0OiBHcm91cCBoZWFkaW5nIHRleHQgbmVlZHMgdG8gYmUga2V5d29yZCBvcHRpbWlzZWQgZm9y
+IHRoZSBwYWdlcyBpdCdzIHBvaW50aW5nIHRvLiBUaGVzZSBncm91cHMgY2FuIGFwcGVhciBvbiBhIHZhcmlldHkgb2YgcGFnZSB0eXBlcywgYnV0IHdpbGwgY29udGFpbiBsaW5rcyB0byB0aGUgc2Ft
+ZSBwYWdlIHR5cGVzLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC84NjVlMTgzZmQ3ODRmMzAwNjVlYzE2MjljMGNkYmZlNTM4MGNiZDRkY2E0MGQ4
+OGNhYjQyMTgzZmMxMTFmNmMwLzI3NDc2MTA2L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjc0NzYxMzYsImlkX2NvbnRlbnQiOiJmYWxjb25fcGFja2FnZXMvcGFja2FnZXNfcG9wdWxh
+cl9kZXN0aW5hdGlvbnNfZGVzY3JpcHRpb25fTUxBIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJTdGVwIGJhY2sgaW4gdGltZSB3aXRoIGFu
+Y2llbnQgaGlzdG9yeSwgY3J5c3RhbC1jbGVhciB3YXRlcnMsIGFuZCBhIHZpYnJhbnQgTWVkaXRlcnJhbmVhbiBhdG1vc3BoZXJlLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxv
+cGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gZm9yIHRoZSBwb3B1bGFyIGRlc3RpbmF0aW9uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250
+ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4Y2FiNDIxODNmYzExMWY2YzAvMjc0NzYxMzYvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3
+NjE3NiwiaWRfY29udGVudCI6ImZhbGNvbl9wYWNrYWdlcy9wYWNrYWdlc19wb3B1bGFyX2Rlc3RpbmF0aW9uc19kZXNjcmlwdGlvbl9OWUNBIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNo
+YXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJEaXNjb3ZlciB0aGUgZW5lcmd5IG9mIHRoZSBCaWcgQXBwbGUsIGZyb20gaWNvbmljIGxhbmRtYXJrcyB0byB2aWJyYW50IG5laWdoYm91cmhvb2RzLiIs
+ImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gZm9yIHRoZSBwb3B1bGFyIGRlc3RpbmF0aW9uXG4iLCJzY3JlZW5zaG90
+IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0Lzg2NWUxODNmZDc4NGYzMDA2NWVjMTYyOWMwY2RiZmU1MzgwY2JkNGRjYTQwZDg4Y2FiNDIxODNmYzExMWY2YzAvMjc0NzYxNzYv
+c2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyNzQ3NjIxNiwiaWRfY29udGVudCI6ImZhbGNvbl9wYWNrYWdlcy9wYWNrYWdlc19wb3B1bGFyX2Rlc3RpbmF0aW9uc19kZXNjcmlwdGlvbl9U
+RU5FIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJGcm9tIHRoZSBtYWplc3RpYyBNb3VudCBUZWlkZSB0byBzdW5ueSBiZWFjaGVzLCB0aGVy
+ZSdzIGFkdmVudHVyZSBhbmQgcmVsYXhhdGlvbiBoZXJlIGluIGVxdWFsIG1lYXN1cmUuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5E
+ZXNjcmlwdGlvbiBmb3IgdGhlIHBvcHVsYXIgZGVzdGluYXRpb25cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODY1ZTE4M2ZkNzg0ZjMwMDY1ZWMx
+NjI5YzBjZGJmZTUzODBjYmQ0ZGNhNDBkODhjYWI0MjE4M2ZjMTExZjZjMC8yNzQ3NjIxNi9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI3NDc2MjU2LCJpZF9jb250ZW50IjoiZmFsY29u
+X3BhY2thZ2VzL3BhY2thZ2VzX3BvcHVsYXJfZGVzdGluYXRpb25zX2Rlc2NyaXB0aW9uX0lCWiIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50Ijoi
+RGFuY2UgdGhlIG5pZ2h0IGF3YXkgYW5kIHNvYWsgdXAgdGhlIHN1biBvbiB0aGUgaXNsYW5kIG9mIGV0ZXJuYWwgcGFydHkgYW5kIHByaXN0aW5lIGJlYWNoZXMuIiwiY29udGV4dCI6eyJub3RlcyI6
+IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5EZXNjcmlwdGlvbiBmb3IgdGhlIHBvcHVsYXIgZGVzdGluYXRpb25cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRy
+YW5zbGF0ZWQuY29tL2NvbnRleHQvODY1ZTE4M2ZkNzg0ZjMwMDY1ZWMxNjI5YzBjZGJmZTUzODBjYmQ0ZGNhNDBkODhjYWI0MjE4M2ZjMTExZjZjMC8yNzQ3NjI1Ni9zY3JlZW5zaG90LnVybCJ9fV19
+XQ==</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="es-MX" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTJDMTRFNCIgcGFja2FnZUlk
+PSJiNTQ2ZDU3Ny1iZDliLTRkYzctODg5Zi1jYjIyODlhNjhkZDIiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iZXMtTVgiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMTIgMTQ6MTM6MzgrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSI3cXdYdUdZbHE5Lmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9Ijdxd1h1R1lscTkub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2025-11-12-12:12:54" mtc:id-order-group="handoff_seo_12_11_2025" original="865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0" source-language="en-GB" target-language="es-MX">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4774955779">
+<source xml:lang="en-GB">Experience the perfect blend of stunning beaches, historic sites, and vibrant nightlife.</source>
+<seg-source><mrk mid="0" mtype="seg">Experience the perfect blend of stunning beaches, historic sites, and vibrant nightlife.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Disfruta de la combinación perfecta de playas impresionantes, sitios históricos y una emocionante vida nocturna.</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">8.64</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475576</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_PMI</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_PMI</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475576/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4774955780">
+<source xml:lang="en-GB">@@entity_city_name@@ flights</source>
+<seg-source><mrk mid="0" mtype="seg">@@entity_city_name@@ flights</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Vuelos a @@entity_city_name@@</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.44</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475626</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-flights-options-in-city</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-flights-options-in-city</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Internal Linking project
+
+Group heading for: Flights options
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475626/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4774955781">
+<source xml:lang="en-GB">Relax on sunny beaches, explore charming towns, and savour the flavours of Andalusia.</source>
+<seg-source><mrk mid="0" mtype="seg">Relax on sunny beaches, explore charming towns, and savour the flavours of Andalusia.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Relájate en playas soleadas, explora pueblos encantadores y descubre los sabores de Andalucía.</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">9.36</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475656</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_AGP</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_AGP</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475656/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4774955782">
+<source xml:lang="en-GB">Other @@entity_city_name@@ hotel brands</source>
+<seg-source><mrk mid="0" mtype="seg">Other @@entity_city_name@@ hotel brands</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Otras marcas de hoteles en @@entity_city_name@@</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.88</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475706</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-other-hotel-brands-in-city</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-other-hotel-brands-in-city</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Internal Linking project
+
+Group heading for: Other hotels brands
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475706/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4774955783">
+<source xml:lang="en-GB">From Benidorm to Alicante, savour the sun, sea, and vibrant Spanish culture.</source>
+<seg-source><mrk mid="0" mtype="seg">From Benidorm to Alicante, savour the sun, sea, and vibrant Spanish culture.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">De Benidorm a Alicante, disfruta del sol, el mar y la vibrante cultura española.</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">8.64</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475736</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_ALC</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_ALC</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475736/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4774955784">
+<source xml:lang="en-GB">Hotels near airports</source>
+<seg-source><mrk mid="0" mtype="seg">Hotels near airports</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Hoteles cerca de aeropuertos</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475786</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-hotels-near-airports</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-hotels-near-airports</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Internal Linking project
+
+Group heading for: Hotels near airports
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475786/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4774955785">
+<source xml:lang="en-GB">Enjoy sun-soaked beaches, charming villages, and world-class golf in Portugal's southern paradise.</source>
+<seg-source><mrk mid="0" mtype="seg">Enjoy sun-soaked beaches, charming villages, and world-class golf in Portugal's southern paradise.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Disfruta de playas soleadas, pueblos encantadores y golf de clase mundial en el paraíso del sur de Portugal.</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">8.64</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475816</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_FAO</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_FAO</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475816/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4774955786">
+<source xml:lang="en-GB">@@entity_city_name@@ car hire</source>
+<seg-source><mrk mid="0" mtype="seg">@@entity_city_name@@ car hire</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Renta de autos en @@entity_city_name@@</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.16</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475866</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-car-hire-options-in-city</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-car-hire-options-in-city</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Internal Linking project
+
+Group heading for: Car hire options
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475866/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4774955787">
+<source xml:lang="en-GB">Discover ancient ruins, turquoise waters, and the warm welcome of Turkey's Mediterranean gem.</source>
+<seg-source><mrk mid="0" mtype="seg">Discover ancient ruins, turquoise waters, and the warm welcome of Turkey's Mediterranean gem.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Descubre ruinas antiguas, aguas turquesas y la cálida bienvenida de la joya mediterránea de Turquía.</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">9.36</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475896</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_AYT</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_AYT</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475896/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4774955788">
+<source xml:lang="en-GB">Experience luxury and adventure in the city of skyscrapers, deserts, and world-class shopping.</source>
+<seg-source><mrk mid="0" mtype="seg">Experience luxury and adventure in the city of skyscrapers, deserts, and world-class shopping.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Experimenta el lujo y la aventura en la ciudad de los rascacielos, los desiertos y las compras de clase mundial.</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">9.36</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475936</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_DXBA</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_DXBA</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475936/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4774955789">
+<source xml:lang="en-GB">Immerse yourself in the vibrant colours, bustling markets, and rich history of this ancient city.</source>
+<seg-source><mrk mid="0" mtype="seg">Immerse yourself in the vibrant colours, bustling markets, and rich history of this ancient city.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Sumérgete en los colores vibrantes, los mercados bulliciosos y la rica historia de esta antigua ciudad.</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">10.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27475976</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_RAK</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_RAK</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27475976/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4774955790">
+<source xml:lang="en-GB">Hotels in @@entity_city_name@@</source>
+<seg-source><mrk mid="0" mtype="seg">Hotels in @@entity_city_name@@</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Hoteles en @@entity_city_name@@</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2.16</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27476026</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-hotels-in-city-name</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-hotels-in-city-name</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Internal Linking project
+
+Group heading for: Hotels in @@entity_city_name@@
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27476026/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4774955791">
+<source xml:lang="en-GB">Hike through volcanic landscapes, relax on golden beaches and enjoy the laid-back Canarian vibe.</source>
+<seg-source><mrk mid="0" mtype="seg">Hike through volcanic landscapes, relax on golden beaches and enjoy the laid-back Canarian vibe.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Camina por paisajes volcánicos, relájate en playas doradas y disfruta del ambiente relajado de Canarias.</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">10.08</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27476056</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_ACE</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_ACE</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27476056/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+<group id="sg28">
+<trans-unit id="tu14" xml:space="preserve" help-id="4774955792">
+<source xml:lang="en-GB">More hotels</source>
+<seg-source><mrk mid="0" mtype="seg">More hotels</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Más hoteles</mrk></target>
+<count-group name="tu14"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27476106</note>
+<note>translation_context|¶|tech_seo_internal_links/Group-heading-more-hotel-options</note>
+<note annotates="source" from="id_content">tech_seo_internal_links/Group-heading-more-hotel-options</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO Internal Linking project
+
+Group heading for: More hotel options
+
+Context: Group heading text needs to be keyword optimised for the pages it's pointing to. These groups can appear on a variety of page types, but will contain links to the same page types.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27476106/screenshot.url</note>
+</trans-unit>
+<group id="sg29">
+</group>
+</group>
+<group id="sg30">
+<trans-unit id="tu15" xml:space="preserve" help-id="4774955793">
+<source xml:lang="en-GB">Step back in time with ancient history, crystal-clear waters, and a vibrant Mediterranean atmosphere.</source>
+<seg-source><mrk mid="0" mtype="seg">Step back in time with ancient history, crystal-clear waters, and a vibrant Mediterranean atmosphere.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Retrocede en el tiempo con historia antigua, aguas cristalinas y una vibrante atmósfera mediterránea.</mrk></target>
+<count-group name="tu15"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">10.08</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27476136</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_MLA</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_MLA</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27476136/screenshot.url</note>
+</trans-unit>
+<group id="sg31">
+</group>
+</group>
+<group id="sg32">
+<trans-unit id="tu16" xml:space="preserve" help-id="4774955794">
+<source xml:lang="en-GB">Discover the energy of the Big Apple, from iconic landmarks to vibrant neighbourhoods.</source>
+<seg-source><mrk mid="0" mtype="seg">Discover the energy of the Big Apple, from iconic landmarks to vibrant neighbourhoods.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Descubre la energía de la Gran Manzana, desde lugares emblemáticos hasta barrios vibrantes.</mrk></target>
+<count-group name="tu16"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">9.36</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27476176</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_NYCA</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_NYCA</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27476176/screenshot.url</note>
+</trans-unit>
+<group id="sg33">
+</group>
+</group>
+<group id="sg34">
+<trans-unit id="tu17" xml:space="preserve" help-id="4774955795">
+<source xml:lang="en-GB">From the majestic Mount Teide to sunny beaches, there's adventure and relaxation here in equal measure.</source>
+<seg-source><mrk mid="0" mtype="seg">From the majestic Mount Teide to sunny beaches, there's adventure and relaxation here in equal measure.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Desde el majestuoso Teide hasta playas soleadas, aquí hay aventura y relajación en igual medida.</mrk></target>
+<count-group name="tu17"><count count-type="x-matecat-raw">16</count><count count-type="x-matecat-weighted">11.52</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27476216</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_TENE</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_TENE</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27476216/screenshot.url</note>
+</trans-unit>
+<group id="sg35">
+</group>
+</group>
+<group id="sg36">
+<trans-unit id="tu18" xml:space="preserve" help-id="4774955796">
+<source xml:lang="en-GB">Dance the night away and soak up the sun on the island of eternal party and pristine beaches.</source>
+<seg-source><mrk mid="0" mtype="seg">Dance the night away and soak up the sun on the island of eternal party and pristine beaches.</mrk></seg-source>
+<target  xml:lang="es-MX" state="signed-off"><mrk mid="0" mtype="seg">Baila toda la noche y toma el sol en la isla de la fiesta eterna y las playas cristalinas.</mrk></target>
+<count-group name="tu18"><count count-type="x-matecat-raw">18</count><count count-type="x-matecat-weighted">12.96</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">27476256</note>
+<note>translation_context|¶|falcon_packages/packages_popular_destinations_description_IBZ</note>
+<note annotates="source" from="id_content">falcon_packages/packages_popular_destinations_description_IBZ</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description for the popular destination
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/865e183fd784f30065ec1629c0cdbfe5380cbd4dca40d88cab42183fc111f6c0/27476256/screenshot.url</note>
+</trans-unit>
+<group id="sg37">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

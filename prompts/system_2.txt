@@ -21,6 +21,7 @@ You will receive two distinct JSON payloads:
 **1. Input Payload (`input_payload`)**
 The original task data.
 *   **`segments`**: The source/target batch. Includes `character_limit` (if applicable).
+    *   Each segment can also have a `note` field (developer/content note). Use it to resolve intent (e.g., accessibility state vs. action, UI labels). If present, treat it as authoritative context.
 *   **`context`**: A single string separating neighbor segments with ` || `.
 *   **`tb_matches`**: The glossary terms provided for this batch.
 

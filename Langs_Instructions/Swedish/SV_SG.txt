@@ -1,0 +1,292 @@
+# Skyscanner Swedish (SV) – LQA Calibration & Style Guide
+
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- Use **Swedish** — natural, friendly, conversational
+- Address users with **informal singular "du"** (not formal/plural "ni")
+- Write as if talking to a friend — clear, direct, approachable
+- **Transcreation encouraged:** Change word order and structure to sound natural Swedish
+- **Consistency is key:** Use same vocabulary for similar actions
+- **Clarity:** Front-load information, be concise and efficient
+- Skyscanner = **Skyscanner** (do not translate)
+
+### 1.2. Active Voice
+- **Always prefer active voice** — stronger and more direct
+- **Avoid passive voice** — sounds impersonal
+  - ✓ "Vi skickar dig en bekräftelse."
+  - ✗ "En bekräftelse kommer att skickas till dig."
+
+### 1.3. Language & Terminology
+- **Avoid jargon** — use terminology people are familiar with
+- **Avoid uncommon abbreviations**
+- Follow **Svenska skrivregler** (Språkrådet) for general grammar
+
+### 1.4. Punctuation
+
+| Mark | Swedish Usage |
+|------|---------------|
+| Comma (,) | Follow Swedish rules; differs from English in some contexts |
+| Period (.) | Standard sentence ending |
+| Quotation marks | Swedish style: "citattecken" or »citattecken« |
+| Colon (:) | Lowercase after colon (unless proper noun) |
+| Exclamation (!) | Use sparingly |
+
+### 1.5. Numbers & Dates
+
+| Context | Swedish Format |
+|---------|----------------|
+| Thousands separator | Space (1 000, 10 000) |
+| Decimal separator | Comma (3,5) |
+| Date format | YYYY-MM-DD or D månad YYYY (15 januari 2024) |
+| Time format | 24-hour (14:30, 09.00) |
+| Percentages | Space before %: 50 % |
+
+### 1.6. Currencies
+- **Swedish kronor:** SEK or kr
+- Format: 100 kr or 100 SEK (after number)
+- Space between number and currency
+
+### 1.7. Compound Words
+- Swedish typically writes compounds as **one word**
+  - ✓ "flygbokning" (flight booking)
+  - ✓ "prisövervakning" (price alert)
+  - ✗ "flyg bokning" (two words)
+
+### 1.8. Capitalization
+- **Lowercase** for months, days, nationalities, languages
+  - ✓ "januari", "måndag", "svensk", "svenska"
+  - ✗ "Januari", "Måndag", "Svensk"
+- **No title case** — don't capitalize every word in headings
+
+### 1.9. Names & Toponyms
+- **Skyscanner:** Keep in English (never translate)
+- **Brand names:** Keep in original language
+- **City/country names:** Use established Swedish names where they exist
+  - ✓ "Köpenhamn" (Copenhagen), "Tyskland" (Germany)
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Informal Address ("Du") Tolerance
+
+Swedish uses informal "du" for direct, friendly communication.
+
+#### 2.1.1. Acceptable Address Forms
+
+| Form | Accept? |
+|------|---------|
+| "du" (singular informal) | ✓ Correct and preferred |
+| "ni" (plural/formal) | ✗ Flag unless addressing group |
+| Omitted pronoun where natural | ✓ Accept |
+
+**Do NOT flag:**
+- Consistent use of "du" throughout
+- Natural omission of "du" where understood from context
+- "Din/ditt/dina" possessive forms
+
+**Only flag** if "ni" used inappropriately or formality inconsistent.
+
+---
+
+### 2.2. Transcreation Tolerance
+
+The Style Guide explicitly encourages **changing word order** and structure for natural Swedish.
+
+#### 2.2.1. Do NOT Flag as "Mistranslation"
+- Restructured sentences that preserve meaning
+- Different word order than English source
+- Swedish-idiomatic expressions replacing literal translations
+- Front-loaded information (key info moved to beginning)
+- Condensed/more efficient phrasing
+
+#### 2.2.2. Do NOT Flag as "Omission/Addition"
+- Words added for natural Swedish grammar
+- Words omitted that are redundant in Swedish
+- Restructuring that conveys same message more naturally
+- Swedish sentence structure conventions applied
+
+**Only flag** if core meaning is changed or lost.
+
+---
+
+### 2.3. Active Voice Tolerance
+
+#### 2.3.1. Do NOT Flag
+- Active voice constructions (preferred)
+- Restructuring from passive to active
+- Natural Swedish phrasing that avoids passive
+
+#### 2.3.2. Only Flag If
+- Passive voice when active would be clearly better and more direct
+- Meaning changed by voice transformation
+
+---
+
+### 2.4. Compound Word Tolerance
+
+Swedish compounds are typically written as one word.
+
+#### 2.4.1. Do NOT Flag
+- Properly formed compound words (flygresa, hotellbokning)
+- Hyphenated compounds where appropriate
+- Compounds following Swedish word formation rules
+
+#### 2.4.2. Only Flag If
+- Compound incorrectly split into separate words
+- Incorrect compound formation
+- Missing or incorrect hyphenation affecting meaning
+
+---
+
+### 2.5. Number & Date Format Tolerance
+
+#### 2.5.1. Acceptable Formats
+
+| Element | Acceptable |
+|---------|------------|
+| Thousands | Space separator (1 000) |
+| Decimals | Comma (3,5) |
+| Date | YYYY-MM-DD OR D månad YYYY |
+| Time | 24-hour (14:30 or 14.30) |
+| Percentage | Space before %: 50 % |
+| Currency | 100 kr OR 100 SEK |
+
+**Do NOT flag:**
+- Either date format if consistent
+- Colon or period in time (14:30 or 14.30)
+- kr or SEK for Swedish currency
+
+#### 2.5.2. Only Flag If
+- Wrong decimal separator (period instead of comma)
+- Wrong thousands separator (comma or period)
+- Inconsistent date/time format within same text
+
+---
+
+### 2.6. Capitalization Tolerance
+
+Swedish has different capitalization rules than English.
+
+#### 2.6.1. Do NOT Flag
+- Lowercase months (januari, februari)
+- Lowercase days (måndag, tisdag)
+- Lowercase nationalities/languages (svensk, svenska)
+- Lowercase after colon (unless proper noun)
+- No title case in headings (only first word capitalized)
+
+#### 2.6.2. Only Flag If
+- Missing capital at sentence start
+- Proper nouns in lowercase
+- English-style title case (capitalizing every word)
+
+---
+
+### 2.7. Punctuation Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Swedish quotation mark styles ("..." or »...«)
+- Different comma placement following Swedish rules
+- Removal of exclamation marks for more measured Swedish tone
+- Space before percentage (50 %)
+
+#### 2.7.2. Only Flag If
+- Question becomes statement
+- Punctuation creates meaning confusion
+- Clearly incorrect punctuation by Swedish standards
+
+---
+
+### 2.8. Terminology & Synonym Tolerance
+
+| English | Acceptable Swedish Options |
+|---------|---------------------------|
+| Flight | flyg, flygresa, flygning |
+| Book (verb) | boka, reservera |
+| Search | sök, söka, leta |
+| Deal | erbjudande, fynd |
+| Trip | resa, utflykt |
+| Hotel | hotell |
+| Save (money) | spara |
+| Save (bookmark) | spara |
+| App | app, applikation |
+| Price alert | prisbevakning, prisövervakning |
+
+**Do NOT flag** reasonable synonym choices unless they change meaning.
+
+---
+
+### 2.9. Abbreviation Tolerance
+
+#### 2.9.1. Do NOT Flag
+- Common, widely understood abbreviations
+- Spelled-out forms instead of abbreviations (preferred)
+- Standard Swedish abbreviations (t.ex., m.m., osv.)
+
+#### 2.9.2. Only Flag If
+- Uncommon abbreviation that may confuse users
+- Inconsistent abbreviation use
+
+---
+
+### 2.10. Gender & Pronoun Tolerance
+
+Swedish has common (en) and neuter (ett) genders.
+
+#### 2.10.1. Do NOT Flag
+- Correct gender agreement (en resa, ett flyg)
+- "Man" as generic pronoun where natural
+- Gender-neutral alternatives where appropriate
+- "Du" constructions avoiding gendered language
+
+#### 2.10.2. Only Flag If
+- Incorrect grammatical gender (en/ett mismatch)
+- Gender agreement errors in adjectives/articles
+
+---
+
+### 2.11. Definite/Indefinite Article Tolerance
+
+Swedish uses suffixed definite articles.
+
+#### 2.11.1. Do NOT Flag
+- Correct use of suffixed definite form (resan, flyget, hotellet)
+- Freestanding article where grammatically required (den, det, de)
+- Natural variation between definite/indefinite based on context
+
+#### 2.11.2. Only Flag If
+- Incorrect definite form suffix
+- Wrong article affecting meaning
+
+---
+
+### 2.12. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags |
+| **Major** | Core meaning changed, factual errors, wrong formality ("ni" instead of "du" throughout) |
+| **Minor** | Style preferences, minor inconsistencies within acceptable range |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.11 |
+
+---
+
+### 2.13. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **natural restructuring** for Swedish word order and flow?
+2. ☐ Is the **informal "du" address** consistently used?
+3. ☐ Is **active voice** preferred where possible?
+4. ☐ Are **compound words** correctly formed (one word, not split)?
+5. ☐ Does **capitalization** follow Swedish rules (lowercase months, days)?
+6. ☐ Is the **core meaning preserved** despite structural changes?
+7. ☐ Would a native Swedish speaker find this **incorrect** (not just different)?
+8. ☐ Is the translation **clear and concise** as the Style Guide requires?
+
+**If meaning is preserved AND the structure sounds natural in Swedish → DO NOT FLAG**

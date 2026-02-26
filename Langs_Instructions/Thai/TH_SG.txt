@@ -1,0 +1,262 @@
+# Skyscanner Thai (TH-TH) – LQA Calibration & Style Guide
+
+## 1. General Writing and Translation Guidelines
+
+### Skyscanner Voice and Style
+- **Avoid literal translation;** employ meaning-based translation to convey the message of the source text.
+- **Ensure naturalness:** Read translations out loud to verify natural flow.
+- **Simplicity:** Use simple, clear sentences and avoid complex grammatical structures.
+- **Consistency:** Familiarize yourself with the Skyscanner voice, glossary, and existing translations to keep translations consistent.
+
+### Core Principles
+- Do not translate word-for-word from English—capture and convey the intended meaning for Thai users.
+- Prioritize naturalness and clarity in every sentence.
+- Adopt familiar, straightforward phrasing to enhance user understanding and usability.
+
+---
+
+## 2. Language-Specific Guidelines
+
+### Punctuation & Spacing
+
+#### Word/Phrase Spacing
+- Use **one space** between a series or set of words or phrases:
+  - ✅ DO: `ตั๋วเครื่องบิน โรงแรม และรถเช่า`
+  - ❌ DON'T: `ตั๋วเครื่องบิน โรงแรมและรถเช่า`
+
+#### Repetitive Symbol (ๆ)
+- **One space AFTER** the symbol, but **NO space BEFORE** it (to avoid technical issues):
+  - ✅ DO: `ราคาตั๋วเครื่องบินไปโตเกียว เกียวโต และเมืองอื่นๆ ในญี่ปุ่น`
+  - ❌ DON'T: `ราคาตั๋วเครื่องบินไปโตเกียว เกียวโต และเมืองอื่น ๆ ในญี่ปุ่น`
+
+#### Placeholder Spacing (CRITICAL)
+Spacing around placeholders depends on **what the placeholder represents**:
+
+| Placeholder Type | Spacing Rule | Example |
+|------------------|--------------|---------|
+| **NUMBER** | Space before AND after | `{{num_nights}} คืน ใน เวนิซ` → `3 คืนในเวนิซ` |
+| **PLACE (Thai output)** | NO space before/after | `โรงแรมใน{{city}}` → `โรงแรมในกรุงเทพฯ` |
+| **PLACE (English output)** | Space before/after | `โรงแรมใน {{city}}` → `โรงแรมใน Paris` |
+| **PRICE** | Space before/after | `เริ่มต้นที่ {{price}}` |
+
+- ✅ DO: `3 คืนในเวนิซ` (number placeholder with spaces, Thai place without)
+- ❌ DON'T: `3คืน ใน เวนิซ` (missing space after number, unnecessary spaces around Thai place)
+
+**Note:** If you cannot determine whether a place placeholder will render in Thai or English, default to adding spaces for safety.
+
+#### Dashes
+- **Do NOT use dashes for emphasis** in Thai:
+  - ✅ DO: `เราติดตามราคาเฉลี่ยของโรงแรม "ที่ดีที่สุด" 100 อันดับแรกในจุดหมายที่คุณเดินทาง`
+  - ❌ DON'T: `เราติดตามราคากลาง - หรือกลางที่สุด - ของโรงแรม...`
+
+- **Use dashes for ranges** with the following spacing rules:
+  - **Day/Item ranges:** NO spaces around dash
+    - ✅ DO: `จันทร์-ศุกร์`, `2-3 คน`
+    - ❌ DON'T: `จันทร์ - ศุกร์`, `2 - 3 คน`
+  - **Time ranges:** Spaces around dash
+    - ✅ DO: `9:00 น. - 24:00 น.`
+    - ❌ DON'T: `9:00 น.-24:00 น.`
+
+#### Commas
+- Use commas to avoid ambiguity, especially in lists with English items:
+  - ✅ DO: `ระบบจะเรียกเก็บ VAT, JCT หรือ GST ตอนชำระเงิน`
+  - ❌ DON'T: `ระบบจะเรียกเก็บ VAT JCT หรือ GST ตอนชำระเงิน`
+
+#### Question Marks
+- Use `?` to make questions immediately recognizable in UI:
+  - ✅ DO: `จองเลยไหม?`
+  - ❌ DON'T: `จองเลยไหม`
+
+### Capitalisation
+- Apply Title Case only to words written with the Latin alphabet:
+  - ✅ DO: `โอนผ่านระบบ Money Connect`
+  - ❌ DON'T: `โอนผ่านระบบ money connect`
+
+### Transliteration
+- Generally follow Thai Royal Institute guidelines, with these established exceptions:
+
+| English | Thai | Examples |
+|---------|------|----------|
+| k, q | ค | เช็คอิน, บูทีค, บล็อค |
+| p | พ | แอพ, อพาร์ทเมนท์, อัพเกรด |
+| t | ท | อัพเดท, เช็คเอาท์, โปรโมท |
+
+- **Special case:** 'profile' = `โปรไฟล์` (established transliteration)
+
+### Formats: Numbers, Dates, Currencies
+
+#### Dates and Time
+- Use AD (ค.ศ.) and D/M/YYYY format
+- Do NOT add leading zero for numbers below 10
+- Use colon as time delimiter
+- Always use `00` for full hours and add `น.` after time
+- Use `24:00 น.` for midnight (12am)
+  - ✅ DO: `5/5/2017 เวลา 9:00 น. - 24:00 น.`
+  - ❌ DON'T: `05/05/2017 เวลา 9-00:00 น.`
+
+#### Numbers
+- Use Arabic numerals; do not spell out:
+  - ✅ DO: `ผู้โดยสาร 2 คน`, `บุคคลที่ 3`
+  - ❌ DON'T: `ผู้โดยสารสองคน`, `บุคคลที่สาม`
+
+#### Currencies
+- Do NOT convert currencies
+- Symbol/code before number, no space between symbol and number:
+  - Source: `$300` → ✅ `$300` | ❌ `฿900`
+- If source has both symbol and code, translate code and remove symbol:
+  - Source: `$300USD` → ✅ `300 ดอลลาร์สหรัฐ` | ❌ `$300 ดอลลาร์สหรัฐ`
+
+---
+
+## 3. Important Terms
+
+### 'Flight'
+- Can be `เที่ยวบิน` or `ตั๋วเครื่องบิน` depending on context
+
+### 'Return'
+- Round-trip ticket: `ไป-กลับ`
+- Return leg only: `ขากลับ`
+
+### 'Trip'
+- In the 'My Travel' app section: `ทริป`
+
+### 'From' (CRITICAL - Common Mistake)
+| Context | Translation |
+|---------|-------------|
+| From + **Place** | `จาก` (e.g., `จากกรุงเทพฯ`) |
+| From + **Price** | `เริ่มต้นที่` or `เริ่มที่` (e.g., `เริ่มต้นที่ ฿4,033`) |
+
+- ❌ **Common mistake:** Using `จาก` for prices (e.g., `จาก ฿4,033`)
+
+---
+
+## 4. LQA CALIBRATION: FALSE POSITIVE PREVENTION GUIDELINES
+
+**CRITICAL INSTRUCTION:** The following rules define what the LQA Evaluator must **IGNORE or ACCEPT**. Flagging issues covered by these tolerance rules will be considered an evaluator error.
+
+---
+
+### 4.1. Placeholder Spacing Tolerance (CRITICAL UPDATE)
+
+Per the official Style Guide, placeholder spacing depends on content type:
+
+#### 4.1.1. Do NOT Flag as "Missing Space"
+- **Place placeholders adjacent to Thai text** when the placeholder renders in Thai:
+  - `โรงแรมใน{{city}}` → renders as `โรงแรมในกรุงเทพฯ` ✓ CORRECT
+  - `เที่ยวบินไป{{destination}}` → renders as `เที่ยวบินไปเชียงใหม่` ✓ CORRECT
+- These follow the Style Guide rule: "If the placeholder is PLACE, there should not be a space before/after it, unless that particular placeholder will appear in English."
+
+#### 4.1.2. DO Flag as "Missing Space"
+- **Number placeholders** without spaces: `{{num}}คืน` should be `{{num}} คืน`
+- **Place placeholders** that will render in **English** without spaces: `โรงแรมใน{{city}}` when city = "Paris" should have spaces
+
+#### 4.1.3. When Uncertain
+- If placeholder output language is unknown, **do NOT flag** missing spaces as errors
+- Note as "Preferential" only if spacing would clearly improve readability
+
+#### 4.1.4. Consolidation Rule
+- If the same spacing pattern appears in **5+ segments**, consolidate into ONE note
+- Do NOT create individual flags for each instance
+
+---
+
+### 4.2. Naturalness Over Literalness
+
+Thai often requires different structures than English. Do NOT flag these as errors:
+
+| English | Acceptable Thai Translations |
+|---------|------------------------------|
+| "Browse" | `ดู` (View), `ค้นหา` (Search) — `เรียกดู` is too technical |
+| "Get" | `ดู` (View), `รับ` (Receive) — context-dependent |
+| "Check out" | `ดู` (View), `ลองดู` (Try viewing) — NOT always `เช็คเอาท์` |
+| "You/Your" | Often omitted in Thai UI — do NOT flag as Omission |
+
+---
+
+### 4.3. Dash Usage Tolerance
+
+Per Style Guide, dash rules vary by context:
+
+| Context | Rule | Flag If Violated? |
+|---------|------|-------------------|
+| Emphasis | Do NOT use dashes | Yes - Major |
+| Day/Item ranges | No spaces (`จันทร์-ศุกร์`) | Minor only |
+| Time ranges | Spaces allowed (`9:00 น. - 24:00 น.`) | No - both acceptable |
+| Clause separation | Prefer spaces, but dashes acceptable | No - stylistic |
+
+---
+
+### 4.4. Synonym & Elaboration Tolerance
+
+#### 4.4.1. Acceptable Synonyms
+Do NOT flag these as "Wrong Term":
+
+| English | All Acceptable Thai |
+|---------|---------------------|
+| Book | `จอง`, `สำรองที่นั่ง`, `การจอง` |
+| Search | `ค้นหา`, `หา`, `การค้นหา` |
+| Flight | `เที่ยวบิน`, `ตั๋วเครื่องบิน` |
+| Trip | `ทริป`, `การเดินทาง`, `เที่ยว` |
+| Stay | `เข้าพัก`, `พัก`, `ที่พัก` |
+
+#### 4.4.2. Classifier Words
+Thai uses classifier words (`การ`, `ความ`, `ผู้`, `ที่`) for grammatical correctness:
+- Do NOT flag as "Addition" or "Redundancy"
+- Only flag if they make text excessively long for UI constraints
+
+---
+
+### 4.5. Critical Logic Checks (MUST Flag)
+
+Despite tolerance rules, **ALWAYS flag** these issues:
+
+| Issue Type | Example | Severity |
+|------------|---------|----------|
+| **"From" + Price Error** | `จาก $50` (should be `เริ่มต้นที่`) | Major |
+| **Directional Inversion** | "To Bangkok" → `จาก` (from) | Major |
+| **Conjunction Swap** | "X or Y" → `X และ Y` (and) | Major |
+| **Question → Statement** | `จองเลยไหม?` → `หากจอง` | Major |
+| **Unit Error** | Fahrenheit in Thai context | Critical |
+| **Technical Terms** | "Header Bidding" = `Header Bidding` or `การประมูลส่วนหัว` | Major |
+| **Audiences (Marketing)** | Must be `กลุ่มเป้าหมาย`, NOT `ผู้ชม` (viewers) | Major |
+| **Savings vs Discount** | `savings` = `ยอดที่ประหยัดได้`, `discount` = `ส่วนลด` | Major |
+
+---
+
+### 4.6. Transliteration Tolerance
+
+#### 4.6.1. Acceptable Variations
+Both are acceptable for lesser-known brands/airlines:
+- Thai transliteration: `ซันฟูก๊วกแอร์เวย์ส`
+- English only: `Sun PhuQuoc Airways`
+- Combination: `ซันฟูก๊วกแอร์เวย์ส (Sun PhuQuoc Airways)`
+
+#### 4.6.2. Only Flag If
+- Transliteration violates Thai Royal Institute guidelines significantly
+- A well-known official Thai name exists but wasn't used
+- The name is misspelled
+
+---
+
+### 4.7. Severity Calibration
+
+| Severity | When to Apply |
+|----------|---------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, unit errors |
+| **Major** | "From" price errors, directional logic, technical term errors, conjunction swaps |
+| **Minor** | Spacing preferences, minor orthography, style choices |
+| **Do Not Flag** | Placeholder spacing for Thai-output places, acceptable synonyms, classifier additions |
+
+---
+
+### 4.8. Pre-Flag Checklist
+
+Before flagging ANY issue, verify:
+
+1. ☐ Does this violate the **actual Style Guide rules** (not assumed rules)?
+2. ☐ Is this a **placeholder spacing issue**? → Check if it's a PLACE (no space needed) or NUMBER (space needed)
+3. ☐ Does this issue **change meaning** or just style?
+4. ☐ Is this a **systemic issue**? → Consolidate if 5+ instances
+5. ☐ Would flagging this provide **actionable value**?
+
+**If the Style Guide permits it, meaning is unchanged, and the translation is grammatically correct → DO NOT FLAG.**

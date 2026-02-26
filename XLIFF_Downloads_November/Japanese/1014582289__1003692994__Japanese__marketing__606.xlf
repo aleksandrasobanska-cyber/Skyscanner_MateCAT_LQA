@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Template (5).xlsx" source-language="en-GB" target-language="ja-JP" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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
+rUeHtUcH2qOD1qPD2qMD7dFB69Fh7dGB9uig9eiw9uhAe3QQJcjaowPt0ThVrcfapKcZjBUxx+lapqcZjBW1xunap6cZjBU5xulaqacZjBW9xenaqqcZjBVBxelarKcZjBXFxOnaracZjBVJxOlar6cZ
+jBURxOnasKcZjBXZw+lasqcZilVF1QAtG7xlMpkCLRu8ZaqJGqBlg7dMRU8DtGzwlqmqaYCWDd4ylS0N0LLBW6a6pAFaNnjLVHg0QMsGb5lKjQZo2eAtU3HRAC0bvGUiHhoTtGzylok4aEzQsslbJuKf
+MUHLJm+ZiHvGBC2bvGUi3hkTtGzylok4Z0zQsslbJuKbMUHLJm+ZSGvGBC2bvGWipRkTtGzylol2ZkzQsslbJlqZYaBlxlsm2phhoGXGWyZamGGgZcZbJtqXYaBlxlsmWpdhoGXGWybalmGgZcZbJlqW
+YaBlxlsm2pVhoGXGWyZalWGgZcZbJtqUYaBlxlsmWpThoGXOWybak+GgZc5bJlqT4aBlzlsm2pLhoGXOWyZakuGgZc5bJtqR4aBlzlsmWpHhoGXOWybakOGgZc5bJlqQ4aBlzlsm2o/hoGXOWyZajxGg
+ZcFbJtqOEaBlwVsmWo4RoGXBWybajRGgZcFbJlqNEaBlwVsm2owRoGWb2S5WbFmAlm1mu1ixZQBfbGe7WLFlwF9sZ7tYsWWAYGxn21gRYQygMLazXazYMgAxtrNdrNgyYDG2s12s2DLAMbazXazYMiAy
+trNdrNgygDK2s12s+q4s0LLkLRNlxgA0YzvbxYotAzpjO9vFii0DQGM728aKRGMAo7Gd7WLFlgGmsZ3tYsWWAamxne1ixZYBrLGd7WLFlgGvsZ3tYsWWAbKxne1ixZYBtbGd7WLVNzeClhVvmUg3BrAb
+29kuVmwZ4Bvb2TZWBBwDCI7tbBcrtgwgju1sFyu2DDiO7WwXK7YMUI7tbBcrtgxoju1sFyu2DICO7WwXK7YMmI7tbBcrtgywju1sF6u+aRi0rHnLRNsxAO7YzraxIu8YwHdsZ7tYsWWAeGxnu1ixZUB5
+bGe7WLFlAHpsZ7tYsWXAemxnu1ixZYB7bGe7WLFlQHxsZ7tYsWUAfWxnu1ixZcB9bGe7WPXN+KBlB9qyKdqPCezHdraLFd9MD+zHdraLFd8sD+zHdraLFd8MD+zHdraLFd/sDuzHdraL1Vo2gf3Yznax
+4pvVgf3Yznax4lvRgf3Yznax4nvPgf3Yznax4nvNgf3Yzraxov2YwH5sZ7tY9UtWgJYN3jLRfkxgP7azXazYMmA/trNdrNgyYD+2s12s2DJgP7azXazYMmA/trNdrNgyYD+2s12s2DJgP7azXazYMmA/
+trNtrPqFY4D92M52sWLLgP3Yznax6hd+AS2bvGXqF3YB9mM728WKLQP2YzvbxYotA/ZjO9vFii0D9mM728WKLQP2YzvbxYotA/ZjO9vFii0D9mM728aK9mMC+7Gd7WLFlgH7sZ3tYsWWAfuxne1i1S+f
+BFpmvGWi/ZjAfmxnu1ixZcB+bGe7WLFlwH5sZ7tYsWXAfmxnu1ixZcB+bGe7WLFlwH5sZ9tY0X5MYD+2s12s2DJgP7azXazYMmA/trNdrNgyYD+2s12s+kXIQMuct0y0HxPYj+1sFyu2DNiP7WwXK7YM
+2I/tbBcrtgzYj+1sFyu2DNiP7WwbK9qPCezHdraLFVsG7Md2tosVWwbsx3a2ixVbBuzHdraLFVsG7Md2tosVWwbsx+T2Y4r2YwL7Mbn9mKL9mMB+TG4/pmg/JrAfk9uPKdqPCezH5PZjivZjAvsxuf2Y
+ov2YwH5Mbj+maD8msB+T248p2o8J7Mfk9mOK9mMC+zG5/Zii/ZjAfkxuP6ZoPyawH5Pbjynajwnsx+T2Y4r2YwL7Mbn9mKL9mMB+TG4/pmg/JrAfk9uPKdqPCezH5PZjivZjAvsxuf2Yov2YwH5Mbj+m
+aD8msB+T248p2o8J7Md2tosVWwbsx+T2Y4r2YwL7Mbn9mKL9mMB+TG4/pmg/JrAfk9uPKdqPCezH5PZjivZjAvsxuf2Yov2YwH5Mbj+maD8msB+T248p2o8J7Mfk9mOK9mMC+zG5/Zii/ZjAfkxuP6Zo
+PyawH5Pbjynajwnsx+T2Y4r2YwL7Mbn9mKL9mMB+TG4/pmg/JrAfk9uPKdqPCezH5PZjivZjAvsxuf2Yov2YwH5Mbj+maD8msB+T248p2o8J7Mfk9mOK9mMC+zG5/Zii/ZjAfkxuP6ZoPyawH5PbDxPt
+hwH7Ydx+mGg/DNgP4/bDRPthwH4Ytx8m2g8D9sO4/TDRfhiwH8bth4n2w4D9MG4/TLQfBuyHcfthov0wYD+M2w8T7YcB+2HcfphoPwzYD+P2w0T7YcB+GLcfJtoPA/bDuP0w0X4YsB/G7YeJ9sOA/TBu
+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</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="ja-JP" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUE3QjlFNyIgcGFja2FnZUlk
+PSI3Y2YxMWU2NC02NmIxLTQzNmQtYmNlMC1jOGUwNDE1ZWIwZGYiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ibmwtTkwiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjUtMTEtMjUgMDk6MTQ6MzErMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJUZW1wbGF0ZSAoNSkueGxzeCIgZmlsdGVySWQ9Im9rZl9vcGVueG1sIiBpbnB1dEVu
+Y29kaW5nPSJVVEYtOCIgcmVsYXRpdmVUYXJnZXRQYXRoPSJUZW1wbGF0ZSAoNSkub3V0Lnhsc3giIHRhcmdldEVuY29kaW5nPSJVVEYtOCIgc2VsZWN0ZWQ9IjEiPkkzWXhDbUpRY21WbVpYSmxibU5s
+VkhKaGJuTnNZWFJsUkc5alVISnZjR1Z5ZEdsbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxRMjl0YldWdWRITXVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJH
+RjBaVkJ2ZDJWeWNHOXBiblJPYjNSbGN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVkyVlVjbUZ1YzJ4aGRHVlFiM2RsY25CdmFXNTBUV0Z6ZEdWeWN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVkyVkpaMjV2
+Y21WUWJHRmpaV2h2YkdSbGNuTkpibEJ2ZDJWeWNHOXBiblJOWVhOMFpYSnpMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZYYjNKa1NHVmhaR1Z5YzBadmIzUmxjbk11WWoxMGNu
+VmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsVjI5eVpFaHBaR1JsYmk1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFYyOXlaRVY0WTJ4MVpHVkhjbUZ3YUdsalRXVjBZVVJo
+ZEdFdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWQnZkMlZ5Y0c5cGJuUklhV1JrWlc0dVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzU0dsa1pH
+VnVMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZGZUdObGJFVjRZMngxWkdWRGIyeHZjbk11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlVWNFkyVnNSWGhq
+YkhWa1pVTnZiSFZ0Ym5NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzVTJobFpYUk9ZVzFsY3k1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFFXUmtUR2x1WlZObGNH
+RnlZWFJ2Y2tGelEyaGhjbUZqZEdWeUxtSTlabUZzYzJVS2MxQnlaV1psY21WdVkyVk1hVzVsVTJWd1lYSmhkRzl5VW1Wd2JHRmpaVzFsYm5ROUpEQmhKQXBpVUhKbFptVnlaVzVqWlZKbGNHeGhZMlZP
+YjBKeVpXRnJTSGx3YUdWdVZHRm5MbUk5ZEhKMVpRcGlVSEpsWm1WeVpXNWpaVWxuYm05eVpWTnZablJJZVhCb1pXNVVZV2N1WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sUVdSa1ZHRmlRWE5EYUdGeVlX
+TjBaWEl1WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlVGblozSmxjM05wZG1WRGJHVmhiblZ3TG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlVGMWRHOXRZWFJwWTJGc2JIbEJZMk5sY0hSU1pYWnBjMmx2
+Ym5NdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFVHOTNaWEp3YjJsdWRFbHVZMngxWkdWa1UyeHBaR1ZPZFcxaVpYSnpUMjVzZVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJY
+aGpaV3hFYVdGbmNtRnRSR0YwWVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJYaGpaV3hFY21GM2FXNW5jeTVpUFdaaGJITmxDbk4xWW1acGJIUmxjajBLWWtsdVJYaGpiSFZr
+WlUxdlpHVXVZajEwY25WbENtSkpia1Y0WTJ4MVpHVklhV2RvYkdsbmFIUk5iMlJsTG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZkdmNtUkZlR05zZFdSbFEyOXNiM0p6TG1JOVpt
+RnNjMlVLWWxKbGIzSmtaWEpRYjNkbGNuQnZhVzUwVG05MFpYTkJibVJEYjIxdFpXNTBjeTVpUFdaaGJITmxDbTkxZEhCMWRGTmxaMjFsYm5SaGRHbHZibFI1Y0dVdWFUMHpDblJ6UTI5dGNHeGxlRVpw
+Wld4a1JHVm1hVzVwZEdsdmJuTlViMFY0ZEhKaFkzUXVhVDB4Q21ObVpEQTlTRmxRUlZKTVNVNUxDblJ6UlhoalpXeEZlR05zZFdSbFpFTnZiRzl5Y3k1cFBUQUtkSE5GZUdObGJFVjRZMngxWkdWa1Ey
+OXNkVzF1Y3k1cFBUQUtkSE5GZUdOc2RXUmxWMjl5WkZOMGVXeGxjeTVwUFRBS2RITlhiM0prU0dsbmFHeHBaMmgwUTI5c2IzSnpMbWs5TUFwMGMxZHZjbVJGZUdOc2RXUmxaRU52Ykc5eWN5NXBQVEFL
+ZEhOUWIzZGxjbkJ2YVc1MFNXNWpiSFZrWldSVGJHbGtaVTUxYldKbGNuTXVhVDB3PC9kb2M+CjwvbWFuaWZlc3Q+</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="ja-JP">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Foglio1!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">en_GB</source>
+<target xml:lang="nl-NL">en_GB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Foglio1!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_character_limit</source>
+<target xml:lang="nl-NL">cell_character_limit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Foglio1!C1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="nl-NL">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Foglio1!A2" xml:space="preserve" help-id="4785818936">
+<source xml:lang="en-GB">Atlanta’s stadium feels more like a spaceship than a sports venue, its vast dome capped by a retractable roof. When World Cup fever hits this summer, there’s no better place to pregame than Centennial Olympic Park, with its fountains, sculptures and live events. Ditch the car and take the train straight to the stadium gates.
+ Closest airport: Hartsfield–Jackson Atlanta International Airport (16 kilometres)
+ Public transport: Take MARTA to GWCC/CNN Center Station, which is a short walk from the stadium.</source>
+<seg-source><mrk mid="0" mtype="seg">Atlanta’s stadium feels more like a spaceship than a sports venue, its vast dome capped by a retractable roof. When World Cup fever hits this summer, there’s no better place to pregame than Centennial Olympic Park, with its fountains, sculptures and live events. Ditch the car and take the train straight to the stadium gates.
+ Closest airport: Hartsfield–Jackson Atlanta International Airport (16 kilometres)
+ Public transport: Take MARTA to GWCC/CNN Center Station, which is a short walk from the stadium.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">アトランタのスタジアムは、スポーツ会場というよりまるで宇宙船。屋根が開閉式の巨大ドームです。今年の夏、ワールドカップの熱気に包まれながら試合前の時間をつぶすなら、噴水や彫刻、ライブイベントが楽しめるセンテニアル・オリンピック公園が最適です。車は置いて、電車でスタジアムのゲートまで直行しましょう。&#10;最寄りの空港：ハーツフィールド・ジャクソン・アトランタ国際空港（16キロメートル）&#10;公共交通機関：MARTAでGWCC/CNNセンター駅まで乗車し。スタジアムまでは歩いてすぐです。</mrk></target>
+<count-group name="P147242AB-tu4"><count count-type="x-matecat-raw">80</count><count count-type="x-matecat-weighted">57.6</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Foglio1!A3" xml:space="preserve" help-id="4785818937">
+<source xml:lang="en-GB">Foxborough’s stadium rises from the woodlands midway between Boston and Providence, Rhode Island. This summer, football fanatics of a different stripe will flock there to witness the biggest sports tournament on the planet. Most fans take I-95 south to Route 1, where traffic thickens. Arrive early for the full pre-match experience, with smoking grills, music and a sea of jerseys from across the globe.
+ Closest airport: Boston Logan International Airport (48 kilometres)
+ Public transport: MBTA runs special event trains to Foxboro Station.</source>
+<seg-source><mrk mid="0" mtype="seg">Foxborough’s stadium rises from the woodlands midway between Boston and Providence, Rhode Island. This summer, football fanatics of a different stripe will flock there to witness the biggest sports tournament on the planet. Most fans take I-95 south to Route 1, where traffic thickens. Arrive early for the full pre-match experience, with smoking grills, music and a sea of jerseys from across the globe.
+ Closest airport: Boston Logan International Airport (48 kilometres)
+ Public transport: MBTA runs special event trains to Foxboro Station.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">フォックスボローのスタジアムは、ボストンとロードアイランド州プロビデンスの間の森の中にそびえ立っています。今年の夏には、さまざまなジャージー姿のサッカーファンが、地上最大のスポーツトーナメントを観戦するために集まります。ほとんどのファンは州間高速道路I-95を南下し、交通量が増えるルート1までを利用します。早めに行って、煙のあがるグリルや音楽、そして世界各地から集結した一面のジャージーの海など、試合前の雰囲気を満喫しましょう。&#10;最寄りの空港：ボストン・ローガン国際空港（48キロメートル）公共交通機関：MBTAが特別列車をフォックスボロー駅まで運行します。</mrk></target>
+<count-group name="P147242AB-tu5"><count count-type="x-matecat-raw">83</count><count count-type="x-matecat-weighted">59.76</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="Foglio1!A4" xml:space="preserve" help-id="4785818938">
+<source xml:lang="en-GB">Everything feels bigger in Texas, including Arlington’s stadium. Home to the NFL Cowboys, the massive silver dome rises from a sea of car parks 32 kilometres west of Dallas. On match days, the air grows hazy with barbecue smoke, and fans file into Texas Live!, the restaurant and entertainment complex that anchors the area.
+ Closest airport: Dallas–Fort Worth International Airport (25 kilometres)
+ Public transport: Arlington has limited public transit. Use rideshares or shuttles from nearby CentrePort/DFW Airport Station.</source>
+<seg-source><mrk mid="0" mtype="seg">Everything feels bigger in Texas, including Arlington’s stadium. Home to the NFL Cowboys, the massive silver dome rises from a sea of car parks 32 kilometres west of Dallas. On match days, the air grows hazy with barbecue smoke, and fans file into Texas Live!, the restaurant and entertainment complex that anchors the area.
+ Closest airport: Dallas–Fort Worth International Airport (25 kilometres)
+ Public transport: Arlington has limited public transit. Use rideshares or shuttles from nearby CentrePort/DFW Airport Station.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">アーリントンのスタジアムも含め、テキサスでは何もかもが大きく感じられます。NFLカウボーイズの本拠地である巨大なシルバードームはダラスから西へ32キロ、広大な駐車場の海の中にそびえ立っています。試合のある日はバーベキューの煙であたりが霞み、ファンはレストラン・エンターテイメント複合施設「テキサスライブ！」に押し寄せます。&#10;最寄りの空港：ダラス フォート・ワース国際空港（25キロメートル）&#10;公共交通機関：アーリントンの公共交通機関は限られています。最寄りのセンターポート/DFW空港駅から、ライドシェアかシャトルをご利用ください。</mrk></target>
+<count-group name="P147242AB-tu6"><count count-type="x-matecat-raw">79</count><count count-type="x-matecat-weighted">56.88</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Foglio1!A5" xml:space="preserve" help-id="4785818939">
+<source xml:lang="en-GB">Guadalajara’s stadium rises from the city’s western fringe, its sweeping bowl built for big crowds and bigger moments. This summer, join futból fanatics as they pour in along Avenida Vallarta past clusters of food stalls serving tacos and aguas frescas. For a post-match reset, nearby Parque Metropolitano rolls out shaded lawns and lakeside strolls.
+ Closest airport: Guadalajara International Airport (31 kilometres)
+ Public transport: Take the Light Rail towards Zapopan, then catch a bus or rideshare to the stadium.</source>
+<seg-source><mrk mid="0" mtype="seg">Guadalajara’s stadium rises from the city’s western fringe, its sweeping bowl built for big crowds and bigger moments. This summer, join futból fanatics as they pour in along Avenida Vallarta past clusters of food stalls serving tacos and aguas frescas. For a post-match reset, nearby Parque Metropolitano rolls out shaded lawns and lakeside strolls.
+ Closest airport: Guadalajara International Airport (31 kilometres)
+ Public transport: Take the Light Rail towards Zapopan, then catch a bus or rideshare to the stadium.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">市の西端にそびえるグアダラハラのスタジアムは、大観衆や大試合に対応するために設計された弧を描くボウル型の建築です。この夏は、タコスやアグア・フレスカの屋台が並ぶアベニーダ・バジャルタを抜け、サッカーファンの流れに加わりましょう。試合後は、近くのメトロポリターノ公園で芝生や湖畔の散策を楽しんでリフレッシュしてください。&#10;最寄りの空港：グアダラハラ国際空港（31キロメートル）&#10;公共交通機関：ライトレールでサポパンまで行き、バスかライドシェアでスタジアムに向かってください。</mrk></target>
+<count-group name="P147242AB-tu7"><count count-type="x-matecat-raw">78</count><count count-type="x-matecat-weighted">56.16</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="Foglio1!A6" xml:space="preserve" help-id="4785818940">
+<source xml:lang="en-GB">This summer, the world’s biggest tournament comes to Houston’s biggest stadium, where fans from around the globe will fly their flags beneath its enormous retractable roof. The sports complex sits beside the famed Astrodome, with the metro dropping you a short walk from the gates. And if you want to balance fútbol with fine art, the Museum District is just a few stops away.
+ Closest airport: William P. Hobby Airport (18 kilometres)
+ Public transport: METRORail Red Line to Stadium Park/Astrodome Station.</source>
+<seg-source><mrk mid="0" mtype="seg">This summer, the world’s biggest tournament comes to Houston’s biggest stadium, where fans from around the globe will fly their flags beneath its enormous retractable roof. The sports complex sits beside the famed Astrodome, with the metro dropping you a short walk from the gates. And if you want to balance fútbol with fine art, the Museum District is just a few stops away.
+ Closest airport: William P. Hobby Airport (18 kilometres)
+ Public transport: METRORail Red Line to Stadium Park/Astrodome Station.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">この夏、世界最大のスポーツイベントがヒューストン最大のスタジアムで行われます。巨大な開閉式屋根の下で、世界各地からのファンが各国の国旗を振ることでしょう。有名なアストロドームの横にあるこの複合スポーツ施設のゲートまでは、地下鉄駅から歩いてすぐ。数駅先にはミュージアム ディストリクトがあり、美術を鑑賞してスポーツの興奮を鎮めるのも良いでしょう。&#10;最寄りの空港：ウィリアム・P・ホビー空港（18キロメートル）&#10;公共交通機関：METRORail レッドラインでスタジアムパーク/アストロドームまで移動。</mrk></target>
+<count-group name="P147242AB-tu8"><count count-type="x-matecat-raw">82</count><count count-type="x-matecat-weighted">59.04</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Foglio1!A7" xml:space="preserve" help-id="4785818941">
+<source xml:lang="en-GB">The loudest outdoor arena in the world, Kansas City’s stadium will absorb the deafening roar of 76,000 global football fans this summer. Set about 12 kilometres east of downtown, the bowl feels even bigger up close. If the timing works, the Kansas City Royals’ baseball park sits right next door for an easy doubleheader.
+ Closest airport: Kansas City International Airport (45 kilometres).
+ Public transport: Service is limited. Most visitors use rideshares or hotel shuttles.</source>
+<seg-source><mrk mid="0" mtype="seg">The loudest outdoor arena in the world, Kansas City’s stadium will absorb the deafening roar of 76,000 global football fans this summer. Set about 12 kilometres east of downtown, the bowl feels even bigger up close. If the timing works, the Kansas City Royals’ baseball park sits right next door for an easy doubleheader.
+ Closest airport: Kansas City International Airport (45 kilometres).
+ Public transport: Service is limited. Most visitors use rideshares or hotel shuttles.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">この夏、世界中から集まった76,000人のサッカーファンの大歓声で満たされる、世界で最も大音量の屋外スポーツ会場として認定されたカンザスシティ・スタジアム。ダウンタウンから12キロに位置するこのスタジアムは、近づくけばさらに巨大さを感じられるでしょう。タイミングが合えば、すぐ隣のカンザスシティ・ロイヤルズ球場で気軽にダブルヘッダーも楽しめます。&#10;最寄りの空港：カンザスシティ国際空港（45キロメートル）&#10;公共交通機関：限られているため、ほとんどの来場者がライドシェアかホテルのシャトルバスを利用します。</mrk></target>
+<count-group name="P147242AB-tu9"><count count-type="x-matecat-raw">74</count><count count-type="x-matecat-weighted">53.28</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="Foglio1!A8" xml:space="preserve" help-id="4785818942">
+<source xml:lang="en-GB">LA’s stadium looks more like a sci-fi set piece than a sports arena, its sweeping translucent roof floating above the bowl. It will host USA’s first match, so expect a surge of fans early. Craving a postgame breather? The stadium is surrounded by wide lawns, footpaths and even a small lake.
+ Closest airport: Los Angeles International Airport (6 kilometres)
+ Public transport: Ride the Metro K Line into Inglewood, then get a rideshare to the stadium.</source>
+<seg-source><mrk mid="0" mtype="seg">LA’s stadium looks more like a sci-fi set piece than a sports arena, its sweeping translucent roof floating above the bowl. It will host USA’s first match, so expect a surge of fans early. Craving a postgame breather? The stadium is surrounded by wide lawns, footpaths and even a small lake.
+ Closest airport: Los Angeles International Airport (6 kilometres)
+ Public transport: Ride the Metro K Line into Inglewood, then get a rideshare to the stadium.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">ロサンゼルス・スタジアムは、ボウルの上に弧を描く半透明の窓を備え、スポーツ会場というよりSFの舞台を思わせます。米国での第一試合（マッチ1）が行われるため、早くからファンの波で埋め尽くされるでしょう。試合後にひと息つきたい場合は、スタジアム周囲の広い芝生や散歩道、小さな湖でリフレッシュできます。&#10;最寄りの空港：ロサンゼルス国際空港（6キロメートル）&#10;公共交通機関：メトロＫラインでイングルウッドまで行き、そこからスタジアムまではライドシェアで。</mrk></target>
+<count-group name="P147242AB-tu10"><count count-type="x-matecat-raw">75</count><count count-type="x-matecat-weighted">54</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Foglio1!A9" xml:space="preserve" help-id="4785818943">
+<source xml:lang="en-GB">Few arenas carry the weight of Estadio Azteca, the colossal bowl that has witnessed two tournament finals and generations of roaring crowds. On match days, the streets fill with drum beats and jubilant fans streaming towards the stadium. After the final whistle, loop back into the neighbourhood for street tacos and chilled aguas frescas.
+ Closest airport: Mexico City International Airport (20 kilometres)
+ Public transport: Metro Line 2 to Tasqueña, then transfer to the Tren Ligero for Estadio Azteca.</source>
+<seg-source><mrk mid="0" mtype="seg">Few arenas carry the weight of Estadio Azteca, the colossal bowl that has witnessed two tournament finals and generations of roaring crowds. On match days, the streets fill with drum beats and jubilant fans streaming towards the stadium. After the final whistle, loop back into the neighbourhood for street tacos and chilled aguas frescas.
+ Closest airport: Mexico City International Airport (20 kilometres)
+ Public transport: Metro Line 2 to Tasqueña, then transfer to the Tren Ligero for Estadio Azteca.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">エスタディオ・アステカは世界でも重厚感のあることで知られるアリーナ。この巨大スタジアムは2度にわたってワールドカップ決勝の舞台となり、何世代にもわたる観衆の歓声を受けてきました。試合日には通りにドラムのビートが鳴り響き、歓喜に包まれたファンの流れがスタジアムへ向かいます。試合終了のホイッスルが鳴ると、この流れは屋台のタコスやアグア・フレスカを求めて近隣の通りへ戻ります。&#10;最寄りの空港：メキシコシティ国際空港（20キロメートル）&#10;公共交通機関：メトロ2号線でタスケーニャ駅まで乗車し、そこでトレン・リヘロに乗り換えてエスタディオ・アステカまで移動。</mrk></target>
+<count-group name="P147242AB-tu11"><count count-type="x-matecat-raw">78</count><count count-type="x-matecat-weighted">56.16</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="Foglio1!A10" xml:space="preserve" help-id="4785818944">
+<source xml:lang="en-GB">From its city parks to its packed stadiums, South Florida’s fútbol passion runs deep. Expect the energy to kick up when the world’s best players visit Miami Gardens this summer. The open-air canopy keeps most seats shaded, while the surrounding plazas buzz with food trucks and fan zones.
+ Closest airport: Miami International Airport (27 kilometres)
+ Public transport: Take the Metrorail to Dr Martin Luther King Jr Station, then bus 27 or 199 to the stadium.</source>
+<seg-source><mrk mid="0" mtype="seg">From its city parks to its packed stadiums, South Florida’s fútbol passion runs deep. Expect the energy to kick up when the world’s best players visit Miami Gardens this summer. The open-air canopy keeps most seats shaded, while the surrounding plazas buzz with food trucks and fan zones.
+ Closest airport: Miami International Airport (27 kilometres)
+ Public transport: Take the Metrorail to Dr Martin Luther King Jr Station, then bus 27 or 199 to the stadium.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">町の公園から超満員のスタジアムまで、サッカーへの情熱が根付く南フロリダ。この夏、世界最高の選手たちがマイアミガーデンズに集まり、キックオフの瞬間にはどれほどの熱気が生まれることでしょう。ほとんどの席はオープンエアのキャノピーで日差しを遮り、周囲の広場はフードトラックやファンゾーンで賑わいます。&#10;最寄りの空港：マイアミ国際空港（27キロメートル）&#10;公共交通機関：メトロレールでマーティン・ルーサー・キング・ジュニア駅まで行き、27系統または199系統のバスを利用。</mrk></target>
+<count-group name="P147242AB-tu12"><count count-type="x-matecat-raw">75</count><count count-type="x-matecat-weighted">54</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Foglio1!A11" xml:space="preserve" help-id="4785818945">
+<source xml:lang="en-GB">The stadium at the Meadowlands has welcomed everything from Super Bowls to Springsteen concerts. In July, it hosts the final game of the tournament, when fans from all over will cheer at the top of their lungs. Get to your seat early to sneak a peek at the trophy before the opening whistle.
+ Closest airport: Newark Liberty International Airport (24 kilometres)
+ Public transport: From Penn Station, take NJ Transit to Meadowlands Station, then walk to the stadium.</source>
+<seg-source><mrk mid="0" mtype="seg">The stadium at the Meadowlands has welcomed everything from Super Bowls to Springsteen concerts. In July, it hosts the final game of the tournament, when fans from all over will cheer at the top of their lungs. Get to your seat early to sneak a peek at the trophy before the opening whistle.
+ Closest airport: Newark Liberty International Airport (24 kilometres)
+ Public transport: From Penn Station, take NJ Transit to Meadowlands Station, then walk to the stadium.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">メドウランズにあるこのスタジアムは、スーパーボウルからブルース・スプリングスティーンのコンサートまで、あらゆるイベントの舞台となってきました。7月にはここで、世界中のファンが力の限り声援を送るトーナメント最終戦が行われます。早めに入場して、試合開始のホイッスルが鳴る前にトロフィーを見学してみましょう。&#10;最寄りの空港：ニューアーク・リバティー国際空港（24キロメートル）&#10;公共交通機関：ペンステーション（ペンシルバニア駅）からNJトランジットでメドウランズ駅まで移動後、スタジアムまで徒歩。</mrk></target>
+<count-group name="P147242AB-tu13"><count count-type="x-matecat-raw">77</count><count count-type="x-matecat-weighted">55.44</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Foglio1!A12" xml:space="preserve" help-id="4785818946">
+<source xml:lang="en-GB">Sports aren’t just a pastime here — they’re a civic identity. This summer, the world’s game drops into the South Philly complex that usually vibrates with Eagles chants. Expect a crush of global fans moving between the plazas after the match. If you’re heading back downtown, walking to Oregon Station beats waiting in the crowds right outside the complex.
+ Closest airport: Philadelphia International Airport (11 kilometres)
+ Public transport: Take SEPTA’s Broad Street Line to NRG Station, then walk to the stadium.</source>
+<seg-source><mrk mid="0" mtype="seg">Sports aren’t just a pastime here — they’re a civic identity. This summer, the world’s game drops into the South Philly complex that usually vibrates with Eagles chants. Expect a crush of global fans moving between the plazas after the match. If you’re heading back downtown, walking to Oregon Station beats waiting in the crowds right outside the complex.
+ Closest airport: Philadelphia International Airport (11 kilometres)
+ Public transport: Take SEPTA’s Broad Street Line to NRG Station, then walk to the stadium.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">この地ではスポーツは単なる娯楽ではなく、まさに市民のアイデンティティの一部。この夏、普段はイーグルスの応援歌が響くサウスフィラデルフィアの会場に、サッカーの世界大会がやってきます。試合後は、世界中のファンが広場を行き交う光景が見られるでしょう。ダウンタウンに戻る際は、会場のすぐ外で群衆に並ぶより、オレゴン駅まで徒歩で向かうのがおすすめです。&#10;最寄りの空港：フィラデルフィア国際空港（11キロメートル）&#10;公共交通機関：SEPTAのブロードストリート線でNRG駅まで移動後、スタジアムまで徒歩。</mrk></target>
+<count-group name="P147242AB-tu14"><count count-type="x-matecat-raw">83</count><count count-type="x-matecat-weighted">59.76</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Foglio1!A13" xml:space="preserve" help-id="4785818947">
+<source xml:lang="en-GB">Set in Silicon Valley, Santa Clara’s stadium feels more like a tech pavilion than a sports fortress, with sun-soaked concourses and mountain views. When the world’s game arrives, expect train cars full of fans rolling down from San Francisco. After the match, hit nearby Great America Parkway for easy bites like ramen or burgers.
+ Closest airport: San José Mineta International Airport (9 kilometres)
+ Public transport: Caltrain to Mountain View, then VTA light rail to the stadium.</source>
+<seg-source><mrk mid="0" mtype="seg">Set in Silicon Valley, Santa Clara’s stadium feels more like a tech pavilion than a sports fortress, with sun-soaked concourses and mountain views. When the world’s game arrives, expect train cars full of fans rolling down from San Francisco. After the match, hit nearby Great America Parkway for easy bites like ramen or burgers.
+ Closest airport: San José Mineta International Airport (9 kilometres)
+ Public transport: Caltrain to Mountain View, then VTA light rail to the stadium.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">シリコンバレーにあるサンタクララのスタジアムは、陽光あふれるコンコースと山々の眺望が魅力で、スポーツの砦というよりテクノロジーのパビリオンのような雰囲気。サッカー世界大会が始まると、ファンで満載の列車がサンフランシスコからやって来ます。試合後は、近くのグレート・アメリカ・パークウェイでラーメンやバーガーを楽しみましょう。&#10;最寄りの空港：サンノゼ国際空港（9キロメートル）&#10;公共交通機関：カルトレインでマウンテンビューまで行き、VTAライトレールでスタジアムへ。</mrk></target>
+<count-group name="P147242AB-tu15"><count count-type="x-matecat-raw">76</count><count count-type="x-matecat-weighted">54.72</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="Foglio1!A14" xml:space="preserve" help-id="4785818948">
+<source xml:lang="en-GB">Seattle’s stadium shakes louder than most, making it home to the NFL’s famous ‘12th Man roar’. Come tournament time, expect a wave of fans pouring down from Capitol Hill and Pioneer Square, with drums and chants echoing through the plazas. After the match, follow the crowd towards the waterfront and watch the ferries slip across Elliott Bay.
+ Closest airport: Seattle–Tacoma International Airport (20 kilometres)
+ Public transport: Link light rail to Stadium or International District/Chinatown stations.</source>
+<seg-source><mrk mid="0" mtype="seg">Seattle’s stadium shakes louder than most, making it home to the NFL’s famous ‘12th Man roar’. Come tournament time, expect a wave of fans pouring down from Capitol Hill and Pioneer Square, with drums and chants echoing through the plazas. After the match, follow the crowd towards the waterfront and watch the ferries slip across Elliott Bay.
+ Closest airport: Seattle–Tacoma International Airport (20 kilometres)
+ Public transport: Link light rail to Stadium or International District/Chinatown stations.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">シアトルのスタジアムは、ファンの歓声が最も大きいことで知られています。トーナメントの時期には、キャピトル・ヒルやパイオニア・スクエアからファンの波が押し寄せ、ドラムや応援歌が広場に響き渡るでしょう。試合後は、群衆に続いてウォーターフロントへ行き、フェリーがエリオット湾を渡る様子を楽しんでみてください。&#10;最寄りの空港：シアトル タコマ国際空港（20キロメートル）&#10;公共交通機関：リンク・ライト・レールでスタジアム駅またはインターナショナル・ディストリクト/チャイナタウン駅へ。</mrk></target>
+<count-group name="P147242AB-tu16"><count count-type="x-matecat-raw">76</count><count count-type="x-matecat-weighted">54.72</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Foglio1!A15" xml:space="preserve" help-id="4785818949">
+<source xml:lang="en-GB">Canada trades hockey sticks for footballs this summer when Toronto hosts the landmark tournament. The stadium added 17,000 extra seats for the event, so expect the energy to amp up in the surrounding neighbourhood. Sneak away for a pre-match selfie in front of the iconic Princes’ Gates.
+ Closest airport: Toronto Pearson International Airport (23 kilometres)
+ Public transport: Take GO Transit to Exhibition Station or connect from TTC Line 1 via streetcar.</source>
+<seg-source><mrk mid="0" mtype="seg">Canada trades hockey sticks for footballs this summer when Toronto hosts the landmark tournament. The stadium added 17,000 extra seats for the event, so expect the energy to amp up in the surrounding neighbourhood. Sneak away for a pre-match selfie in front of the iconic Princes’ Gates.
+ Closest airport: Toronto Pearson International Airport (23 kilometres)
+ Public transport: Take GO Transit to Exhibition Station or connect from TTC Line 1 via streetcar.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">トロントで重要なトーナメントが開催される今年の夏、、カナダはホッケースティックをサッカーボールに持ち替えます。スタジアムには17,000席が追加され、周辺エリアもさらに活気づくでしょう。試合前に抜け出して、象徴的なプリンセスゲートの前で自撮りをしてみましょう。&#10;最寄りの空港：トロント ピアソン国際空港（23キロメートル）&#10;公共交通機関：GOトランジットでエキシビション駅まで、またはTTC1号線から路面電車経由で。</mrk></target>
+<count-group name="P147242AB-tu17"><count count-type="x-matecat-raw">71</count><count count-type="x-matecat-weighted">51.12</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="Foglio1!A16" xml:space="preserve" help-id="4785818950">
+<source xml:lang="en-GB">Vancouver’s glowing downtown stadium anchors the northern edge of False Creek, a short walk from seawall paths and sunset-facing patios. When tournament fever hits, expect the whole district to buzz, with music drifting across the water and crowds streaming towards the stadium. Arrive early to wander the waterfront or grab a bite in nearby Gastown.
+ Closest airport: Vancouver International Airport (12 kilometres)
+ Public transport: Take a SkyTrain to Stadium–Chinatown Station, then it’s a short walk.</source>
+<seg-source><mrk mid="0" mtype="seg">Vancouver’s glowing downtown stadium anchors the northern edge of False Creek, a short walk from seawall paths and sunset-facing patios. When tournament fever hits, expect the whole district to buzz, with music drifting across the water and crowds streaming towards the stadium. Arrive early to wander the waterfront or grab a bite in nearby Gastown.
+ Closest airport: Vancouver International Airport (12 kilometres)
+ Public transport: Take a SkyTrain to Stadium–Chinatown Station, then it’s a short walk.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">バンクーバーの輝くスタジアムは、ダウンタウンのフォールスクリーク北端に位置し、防波堤の小道や夕陽を望むパティオから歩いてすぐ。トーナメントの熱気が高まると、音楽が水面に響き渡り、群衆がスタジアムへ流れ込み、地区全体が賑わうでしょう。早めに足を運んで、水際を散策し、近くのガスタウンで軽食を楽しみましょう。&#10;最寄りの空港：バンクーバー国際空港（12キロメートル）&#10;公共交通機関：スカイトレインでスタジアム・チャイナタウン駅まで行き、徒歩すぐ。</mrk></target>
+<count-group name="P147242AB-tu18"><count count-type="x-matecat-raw">75</count><count count-type="x-matecat-weighted">54</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Foglio1!A19" xml:space="preserve" help-id="4785818951">
+<source xml:lang="en-GB">Your next trip just one search away</source>
+<seg-source><mrk mid="0" mtype="seg">Your next trip just one search away</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">次の旅行は、検索1つで簡単に</mrk></target>
+<count-group name="P147242AB-tu19"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">5.04</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="Foglio1!A20" xml:space="preserve" help-id="4785818952">
+<source xml:lang="en-GB">Flight, hotel and car hire deals - all in one place</source>
+<seg-source><mrk mid="0" mtype="seg">Flight, hotel and car hire deals - all in one place</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">航空券、ホテル、レンタカーのお得情報をまとめて一か所で</mrk></target>
+<count-group name="P147242AB-tu20"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Foglio1!A21" xml:space="preserve" help-id="4785818953">
+<source xml:lang="en-GB">Compare cheap flights from all your top airlines in one place</source>
+<seg-source><mrk mid="0" mtype="seg">Compare cheap flights from all your top airlines in one place</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">すべての人気航空会社の格安航空券を一か所で比較</mrk></target>
+<count-group name="P147242AB-tu21"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">7.92</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="Foglio1!A22" xml:space="preserve" help-id="4785818954">
+<source xml:lang="en-GB">Book cheap flights for your next trip today with Skyscanner</source>
+<seg-source><mrk mid="0" mtype="seg">Book cheap flights for your next trip today with Skyscanner</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">スカイスキャナーで、次の旅行の格安航空券を今すぐ予約</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">7.2</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Foglio1!A23" xml:space="preserve" help-id="4785818955">
+<source xml:lang="en-GB">Explore everywhere at every price for your next trip</source>
+<seg-source><mrk mid="0" mtype="seg">Explore everywhere at every price for your next trip</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">次の旅行に向けて、様々な価格帯ですべての場所から検索</mrk></target>
+<count-group name="P147242AB-tu23"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">5.4</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="Foglio1!A24" xml:space="preserve" help-id="4785818956">
+<source xml:lang="en-GB">Find the best price for your next trip in seconds.</source>
+<seg-source><mrk mid="0" mtype="seg">Find the best price for your next trip in seconds.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">次の旅行の最安値がすぐ見つかります。</mrk></target>
+<count-group name="P147242AB-tu24"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">7.2</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="Foglio1!A25" xml:space="preserve" help-id="4785818957">
+<source xml:lang="en-GB">Compare the best travel deals all in one place.</source>
+<seg-source><mrk mid="0" mtype="seg">Compare the best travel deals all in one place.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">最もお得な旅行情報をすべて一か所で比較。</mrk></target>
+<count-group name="P147242AB-tu25"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">5.4</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" resname="Foglio1!A26" xml:space="preserve" help-id="4785818958">
+<source xml:lang="en-GB">Millions of travel deals in one place.</source>
+<seg-source><mrk mid="0" mtype="seg">Millions of travel deals in one place.</mrk></seg-source>
+<target  xml:lang="ja-JP" state="signed-off"><mrk mid="0" mtype="seg">何百万件ものお得な旅行情報を一か所で。</mrk></target>
+<count-group name="P147242AB-tu26"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.2</count></count-group>
+</trans-unit>
+</body>
+</file>
+</xliff>

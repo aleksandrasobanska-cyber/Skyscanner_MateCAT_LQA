@@ -1,103 +1,249 @@
-Skyscanner Catalan Instructions
-1. Company Introduction
- • Skyscanner aims to provide all flight options in one place, making travel simple and accessible.
- • Their mission is to lead the global transformation to modern and sustainable travel.
- • Before translating, familiarize yourself with Skyscanner’s website (skyscanner.no) and their app for iOS and Android.
-2. General Guidelines for Translating
- • Write as if speaking to a friend: clear, direct, and simple.
- • Boil sentences down to their essence; recreate meaning in the simplest way possible.
- • Be brief: break up long sentences, remove unnecessary words, and use shorter words.
- • Use active voice as much as possible.
- • Be interesting but not over-enthusiastic; use strong adjectives and active verbs, but avoid excessive exclamation marks.
- • Avoid industry jargon and business speak; do not assume prior knowledge.
-3. Catalan-specific Guidelines
-Tone of Voice
- • Avoid translating “please”, “sorry”, and “unfortunately” whenever possible; convey politeness in another way.
- • Always use informal “tu” when addressing the user.
- • Play on words is encouraged if it positively engages the user.
- • Use active language and exclamation marks as appropriate.
-Translation Approach
- • Be creative: transcreate and modify wording as needed for naturalness, but keep the original meaning intact.
- • Do not feel forced to follow English structure; adapt as necessary for Catalan.
-Tips for Communication
- • Use clear and direct communication.
- • Be transparent and open.
- • Appeal to user emotions.
- • Be accurate.
- • Be inspiring and make the message stand out.
- • Write as if talking to a friend.
-Repetitions
- • Maintain consistency for key terms.
- • Use synonyms where possible to avoid repetition, except for key terms.
-Addressing Users
- • Use informal “tu” for the user.
- • Use “nosaltres, nostre, etc.” to refer to Skyscanner.
- • Maintain a conversational tone.
-Non-breaking Spaces
- • Use non-breaking spaces (_) for:
-  - Writing dates: 18_de_març_del_2020 (not 18 de març del 2020)
-  - Between a number and a symbol: 20_€, Estalvia’t un 10_% en vols (not 20 €, Estalvia’t un 10 % en vols)
-Numbers
- • 0-10: Write in conversational form, except for prices and percentages.
- • Four-figure numbers: Do not use a dot as a thousand separator (e.g., 1234).
- • Numbers with more than four figures: Use a non-breaking space as a thousand separator (e.g., 12_345).
- • Decimals: Use a comma as the decimal separator (e.g., 108,98 €).
-Quotation Marks
- • Use angular quotation marks (« ») for quotations.
- • For quotes inside quotes, use English quotation marks (“ ”).
- • Full stop placement:
-  - If the quote is inside a sentence, the full stop goes outside the closing quotation mark.
-  - If the quote is an entire sentence or at the beginning of a paragraph and starts with a capital letter, the full stop goes inside the closing quotation mark.
- • Examples:
-  - Yes: «És millor viatjar ple d’esperança que arribar, vam pensar: “És així, no podria ser d’altra manera. Aquest proverbi japonès està carregat de sabiesa”».
-  - No: “És millor viatjar ple d’esperança que arribar, vam pensar: ‘És així, no podria ser d’altra manera. Aquest proverbi japonès està carregat de sabiesa’”.
-  - Yes: Cita de Mark Twain: «He descobert que no hi ha manera més segura de saber si estimes o odies algú que fer un viatge amb ell».
-  - No: Cita de Mark Twain: «He descobert que no hi ha manera més segura de saber si estimes o odies algú que fer un viatge amb ell.»
-Capitalisation
- • Do not capitalize every word in titles; follow Catalan capitalization rules.
- • Capitalize the first letter of UI terms instead of using quotation marks.
-  - Example: Si vols veure la pàgina en català, clica el botó Canvia a català.
-Locale Standards Units
- • Do not localize standards (e.g., ZIP code) to only suit Catalonia; users may be based elsewhere but use the app in Catalan.
-Using Anglicisms
- • Avoid English words in Catalan unless allowed, especially for Social Media and Marketing.
- • Allowed English terms (do not use italics):
-  - bed and breakfast
-  - blog
- • For other English terms, consult the Language Lead.
- • Do not write the English translation of a Catalan word in parentheses unless it is a very uncommon sport or a very infrequent/specific concept.
- • Never write the English translation for key words or common words.
-Consistency in Terminology
- • Use the following translations:
-  - wifi: Wi-Fi, wifi
-  - internet: Internet, internet
-  - reembossar: to refund
-  - reembossable: refundable
-  - en línia: on line
-  - trastorn d’horari: jet lag
-  - aeroport de connexió: hub
-  - correu electrònic/correu: e-mail (system)
-  - missatge/missatge de correu electrònic/correu/correu electrònic: e-mail (message)
-  - correu brossa: spam
-  - facturar: to check-in
-  - empresa emergent: start-up
-Accessibility and Inclusion
- • Avoid gendered adjectives when referring to the user; reword to ensure neutrality.
-Content Types – Common Mistakes
-Examples of Errors and Corrections:
- • El millor preu que hem trobat a Internet: 108.98 € → El millor preu que hem trobat a internet: 108,98 €
- • Entrada exprès → Entrada exprés
- • Sortida tardana (late check-out) → Sortida tardana
- • Do not use unnecessary anglicisms.
- • Do not add English terms unless they are very infrequent.
-Translation Examples:
- • ENGLISH: [...] We've always got your back and we're proud to be the most trusted travel search site in the world (our travellers rate us more highly than the likes of Kayak, Momondo and Expedia*).
- • CATALAN: [...] Sempre t’hem donat suport i ens sentim orgullosos de ser el lloc web de cerca de viatges que gaudeix de més confiança al món: els nostres viatgers ens donen una valoració més alta que els “M’agrada” de Kayak, Momondo i Expedia*.
- • CATALAN: [...] Sempre t’hem donat suport i ens sentim orgullosos de ser el lloc web de cerca de viatges en què més confien els usuaris: comptem amb una valoració més alta que la de Kayak, Momondo i Expedia*.
- • ENGLISH: [...] Però el nostre compromís que vosaltres, els nostres viatgers, sigueu el més important no canviarà mai: roman al cor dels qui formem part d’aquesta empresa.
- • CATALAN: [...] Però el compromís que vosaltres, els viatgers, sigueu el més important no canviarà mai: els qui formem part d’aquesta empresa ho portem al cor.
-Additional Comments:
- • Use full sentences for clarity; do not translate literally.
- • Do not overuse possessive pronouns.
- • Avoid excessively formal language; be straightforward.
+# Skyscanner Catalan (CA) – LQA Calibration & Style Guide
 
+## 1. Style Guide Summary
+
+### 1.1. Voice & Tone
+- Use **informal, conversational tone** — write as if talking to a friend
+- Address users with **informal "tu"** (not formal "vostè")
+- Refer to Skyscanner as **"nosaltres", "nostre"**, etc.
+- **Omit** "please", "sorry", "unfortunately" — convey politeness naturally instead
+- **Creativity is encouraged:** Transcreate freely; don't follow English structure literally
+- Use **active language** and strong verbs
+- **Avoid repetition:** Use synonyms where English would repeat words
+- Play on words is allowed if it engages users positively
+- Brand name: **Skyscanner** (keep in English)
+
+### 1.2. Punctuation & Quotation Marks
+| Element | Catalan Standard | Notes |
+|---------|------------------|-------|
+| Quotation marks | « » | Angular marks (not " ") |
+| Nested quotes | " " inside « » | English marks for inner quotes |
+| Full stop + quote | Outside if quote is mid-sentence | Inside if quote is full paragraph/sentence |
+| Decimal separator | , (comma) | 108,98 € (NOT 108.98 €) |
+| Thousand separator (5+ digits) | Non-breaking space | 12 000 (NOT 12.000 or 12,000) |
+| Thousand separator (4 digits) | None | 1000 (NOT 1.000) |
+
+### 1.3. Non-breaking Spaces
+Use non-breaking spaces in:
+- **Dates:** 18 de març del 2020
+- **Numbers + symbols:** 20 €, 10 %
+
+### 1.4. Numbers
+| Context | Format |
+|---------|--------|
+| 0-10 (general text) | Spelled out when natural (flexible, not strict) |
+| Prices & percentages | Always numerals |
+| 4-digit numbers | No separator (1000) |
+| 5+ digit numbers | Non-breaking space separator (10 000) |
+| Decimals | Comma (3,50 €) |
+
+### 1.5. Capitalisation
+- **Do NOT use title case** — follow Catalan sentence case rules
+- Only capitalise first letter of UI elements: *Clica el botó Canvia a català*
+- Do not capitalise every word in titles/buttons as in English
+
+### 1.6. Anglicisms & Terminology
+**Avoid English words** — use Catalan equivalents:
+
+| English | Catalan |
+|---------|---------|
+| Wi-Fi | wifi |
+| Internet | internet (lowercase) |
+| refund / refundable | reembossar / reembossable |
+| online | en línia |
+| jet lag | trastorn d'horari |
+| hub (airport) | aeroport de connexió |
+| e-mail (system) | correu electrònic / correu |
+| e-mail (message) | missatge / correu |
+| spam | correu brossa |
+| check-in | facturar |
+| start-up | empresa emergent |
+| spa | piscina d'hidromassatge (or appropriate term) |
+
+**Allowed anglicisms** (no italics): bed and breakfast, blog, wifi, internet
+
+**Do NOT** add English in parentheses (e.g., "Sortida tardana (late check-out)" ❌)
+
+### 1.7. Accessibility & Inclusion
+- **Avoid gendered adjectives** when addressing the user directly
+- Reword sentences to achieve gender neutrality
+- Do not overuse possessive pronouns (el nostre, la nostra)
+
+---
+
+## 2. LQA CALIBRATION: FALSE POSITIVE PREVENTION
+
+**CRITICAL:** This section defines what the evaluator must **ACCEPT**. Flagging these creates unnecessary validation burden.
+
+---
+
+### 2.1. Meaning-Based Translation Tolerance
+
+The Style Guide explicitly encourages **creative transcreation** and restructuring.
+
+#### 2.1.1. Do NOT Flag as "Mistranslation"
+- Sentences restructured for natural Catalan flow
+- English structure abandoned for more idiomatic Catalan
+- Meaning conveyed differently but accurately
+- Condensed or simplified sentences that preserve core message
+- Idiomatic expressions adapted for Catalan audience
+
+#### 2.1.2. Do NOT Flag as "Omission"
+- "Please" / "si us plau" omitted (politeness conveyed otherwise)
+- "Sorry" / "unfortunately" omitted (per style guide)
+- Excessive possessive pronouns reduced
+- Articles or connectors adjusted for Catalan flow
+- Redundant words removed for brevity
+
+#### 2.1.3. Do NOT Flag as "Addition"
+- Elements added for natural Catalan expression
+- Connectors or transitions required in Catalan
+- Context-appropriate elaboration that clarifies meaning
+
+**Only flag** if **core meaning is changed, lost, or contradicted**.
+
+---
+
+### 2.2. Politeness Expression Tolerance
+
+The Style Guide instructs to **avoid literal translation of politeness markers**.
+
+#### 2.2.1. Do NOT Flag
+- Omission of "please" / "si us plau"
+- Omission of "sorry" / "ho sentim"
+- Omission of "unfortunately" / "malauradament"
+- Alternative politeness strategies (tone, word choice)
+- Direct imperatives without softeners (style-appropriate)
+
+**Only flag** if the tone becomes **rude, aggressive, or inappropriate**.
+
+---
+
+### 2.3. Register & Formality Tolerance
+
+#### 2.3.1. Do NOT Flag
+- Use of "tu" instead of "vostè" (informal required)
+- Conversational constructions
+- Contractions and informal phrasing
+- Play on words or creative expressions
+- Reduced use of possessive pronouns
+
+#### 2.3.2. Only Flag If
+- Formal "vostè" used instead of "tu"
+- Tone is bureaucratic or overly stiff
+- Language is inappropriately casual for context (legal, safety)
+
+---
+
+### 2.4. Punctuation & Formatting Tolerance
+
+#### 2.4.1. Do NOT Flag
+- Minor variations in quotation mark styles (« » vs " ")
+- Full stop position variations with quotes (context-dependent rule)
+- Regular space vs non-breaking space (often not visible/verifiable)
+- Minor comma placement variations that don't affect meaning
+
+#### 2.4.2. Only Flag If
+- Decimal uses wrong separator (. instead of ,) in prices
+- Quotation marks fundamentally misused (creating confusion)
+- Punctuation changes meaning (question becomes statement)
+
+---
+
+### 2.5. Terminology & Synonym Tolerance
+
+| English | Acceptable Catalan Options |
+|---------|----------------------------|
+| Flight | vol, vol d'avió |
+| Book | reserva, fes la reserva |
+| Search | cerca, busca |
+| Deal / Offer | oferta, promoció |
+| Trip | viatge, escapada |
+| Hotel | hotel, allotjament |
+| Save (money) | estalvia |
+| Save (data) | desa, guarda |
+| Traveller | viatger, usuari |
+
+**Do NOT flag** reasonable synonym choices that preserve meaning and fit context.
+
+---
+
+### 2.6. Anglicism Handling Tolerance
+
+#### 2.6.1. Do NOT Flag
+- Catalan equivalents used instead of English terms (even if English is common)
+- Approved anglicisms without italics (wifi, blog, internet)
+- Brand/airline names kept in English
+- Technical terms where Catalan equivalent is acceptable
+
+#### 2.6.2. Only Flag If
+- English term used when clear Catalan equivalent exists AND style guide specifies Catalan
+- Unnecessary English added in parentheses
+- Misspelled anglicisms
+
+---
+
+### 2.7. Number & Format Tolerance
+
+#### 2.7.1. Do NOT Flag
+- Numbers 0-10 written as digits instead of words (flexible rule)
+- Numbers 0-10 spelled out in prices/percentages context
+- Variations in spacing that don't affect readability
+
+#### 2.7.2. Only Flag If
+- Wrong decimal separator (period instead of comma)
+- Wrong thousand separator (period/comma instead of space for 5+ digits)
+- Format creates confusion or is clearly incorrect
+
+---
+
+### 2.8. Capitalisation Tolerance
+
+#### 2.8.1. Do NOT Flag
+- Sentence case in titles/headings (correct for Catalan)
+- UI elements with capitalised first letter only
+- Proper nouns following Catalan conventions
+
+#### 2.8.2. Only Flag If
+- English-style title case applied throughout (Every Word Capitalised)
+- Proper nouns incorrectly lowercased
+- Capitalisation creates meaning confusion
+
+---
+
+### 2.9. Gender Neutrality Tolerance
+
+#### 2.9.1. Do NOT Flag
+- Sentences restructured to avoid gendered adjectives
+- Gender-neutral workarounds
+- Generic masculine when neutrality is impossible and context doesn't specify gender
+
+#### 2.9.2. Only Flag If
+- Gendered language contradicts specified user gender
+- Unnecessarily gendered when neutral option is natural
+
+---
+
+### 2.10. Severity Calibration
+
+| Severity | Apply When |
+|----------|------------|
+| **Critical** | Placeholder corruption, complete meaning inversion, broken tags, functional errors |
+| **Major** | Core meaning changed, factual errors, wrong register (vostè instead of tu), inappropriate tone |
+| **Minor** | Style preferences within acceptable range, minor inconsistencies |
+| **Do Not Flag** | Issues covered by tolerance rules 2.1–2.9 |
+
+---
+
+### 2.11. Pre-Flag Checklist
+
+Before flagging, verify:
+
+1. ☐ Is this a **creative transcreation** that sounds natural in Catalan?
+2. ☐ Was the omission intentional per style guide (please, sorry, unfortunately)?
+3. ☐ Is the **core meaning preserved** despite structural changes?
+4. ☐ Does the Style Guide **explicitly prohibit** this choice?
+5. ☐ Would a native Catalan speaker find this **incorrect** (not just different from source)?
+6. ☐ Is the flagged issue about **literal fidelity** rather than actual error?
+
+**If meaning is preserved AND the translation sounds natural in Catalan → DO NOT FLAG**

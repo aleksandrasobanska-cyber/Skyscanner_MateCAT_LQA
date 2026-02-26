@@ -1,290 +1,314 @@
-Skyscanner Hindi LQA Model Instructions
+# Skyscanner Hindi (HI-IN) – LQA Calibration & Style Guide
 
-1. Brand Mission and Tone
-1.1. Mission
- • All content must reflect Skyscanner’s brand promise: to be the traveller’s helpful, honest ally.
- • Write with empathy and understanding, focusing on the traveller’s needs and journey.
- • Provide clear, actionable information, helpful tips, and honest, transparent advice.
-1.2. Tone of Voice
- • Follow Skyscanner’s Tone of Voice as referenced in the linked document (if available).
- • Always prioritize the traveller’s perspective and benefit.
+## 1. Skyscanner Voice & Mission
 
-2. General Writing & Translation Guidelines
-2.1. Good Writing Principles
- • Always put the traveller first.
- • Avoid excessive adjectives; focus on helpfulness in every sentence.
- • Center the traveller in the copy, emphasizing user benefit and advice.
-Examples:
- • ✔ “चाहे रोमांचक यात्रा हो या रुकने के लिए आरामदायक जगह, हर चीज़ पर डील पाएँ।”
- • ✖ “हम दुनिया के बेहतरीन ट्रैवल सर्च इंजन में से एक हैं।”
-2.2. Writing & Translation Guidelines
- • Conversational Style: Translations should sound natural and spoken, not formal or stiff.
- • Clarity: Use the most well-known terms; translate meaning, not just words.
-  - ✔ “आपका डेटा। आपकी पसंद।”
-  - ✖ “आपका डेटा। आपका चुनाव।”
- • Simplicity: Use simple words and short sentences for inclusivity and accessibility.
- • Specificity: Avoid vagueness; provide concrete, actionable information.
-  - Vague: “ट्रेन स्टेशन से होटल बहुत ही कम दूरी पर है”
-  - Specific: “ट्रेन स्टेशन से होटल की दूरी 1 किमी है”
- • Naturalness: Write as if speaking to a friend; avoid trying to sound overly clever.
- • Interest: Make travel content engaging and lively.
- • Honesty: Be transparent about pros and cons to help users make informed choices.
- • Accuracy: Double-check all factual details (spellings, times, locations, etc.).
- • Exclamation Marks: Use sparingly.
-2.2.1. Discounts
- • Do not imply Skyscanner offers discounts; attribute them to providers.
-  - ✔ “कुछ चुनिंदा होटल पर 10% डिस्काउंट का ऑफ़र है।”
-  - ✖ “चुने हुए कुछ होटल पर हम 10% डिस्काउंट का ऑफ़र दे रहे हैं।”
-2.4. Accessibility
- • For strings marked as "accessibility string," follow source instructions for symbols and number formats (e.g., write “10 percent discount” if source spells it out).
+### 1.1. Brand Promise
+Skyscanner aims to be the traveller's helpful, honest ally. Our writing:
+- Starts with empathy and understanding
+- Provides clear information that inspires action
+- Offers helpful tips that make travel planning simple, easy, and delightful
+- Gives honest, transparent advice
 
-3. Language-Specific Translation Guidelines
-3.1. Spelling Rules
- • Use ए and ई spellings in verb forms: गए, लिए, गई, हुई, हुए (not गये, लिये, गयी, हुयी, हुये).
- • Use anuswar (ं) instead of half पंचम वर्ण:
-  - संपर्क, इंटरनेट, कंप्यूटर, इंडिया, दिसंबर
- • Use chandrabindu (ँ) for plurality and nasalization:
-  - लड़कियाँ, हँसना, पाँच, बाँटना, ढूँढ़ना, जाएँगे
- • Do not replace chandrabindu with anusvar.
- • Use nuqta with ‘ज’ and ‘फ’ for foreign terms; do not use with क, ख, ग.
- • Preferred spellings (use consistently):
-  - ढूँढना, दोबारा, दोपहर, अकसर, बिलकुल
-3.2. Punctuation
- • Follow standard Hindi punctuation.
- • Always add a space after punctuation, not before.
- • Use Khadi Pai (।) as end punctuation.
-3.2.1. UI Translation Punctuation
- • Match source punctuation style in UI; do not add end punctuation if not present in source.
-Example:
- • Source: Book cheap flights, hotels and car hire with Skyscanner
- • Correct: Skyscanner से किफ़ायती होटल, फ़्लाइट और रेंटल कार बुक करें
- • Incorrect: Skyscanner से किफ़ायती होटल, फ़्लाइट और रेंटल कार बुक करें।
-3.3. Addressing Users – YOU
- • Use less formal, conversational, but respectful tone.
- • Avoid slang and jargon.
- • Always use honorific form ‘Aap’ (आप) and corresponding verb forms.
-3.4. Gender of Loan Words
- • Assign gender to all nouns, including loan words.
- • Masculine: Folder, Audio, Browser, Brand, Button, Calendar, Call, Payment, Click, Connection, Credit, Data, Email, Label, Link, Mobile, Video, Network, Media, Password, App, Computer, Transaction, Access, Template, Process, Device
- • Feminine: Photo, File, Billing, Report, Post, Rank, Screen, Team, Library, Profile, Site, Cookies, Feed, Insight
-3.4.1. Gender-Neutral Language
- • Prioritize gender neutrality.
- • Use neutral greetings for placeholders (e.g., “XXX जी, आपका स्वागत है।”).
- • Example:
-  - Source: When can I contact you?
-  - Correct: आपसे संपर्क करने का सही समय क्या रहेगा?
-  - Incorrect: मैं आपसे किस समय संपर्क कर सकता हूँ?
-3.5. Direct Communication with Users
- • Use a neutral, empathetic, and helpful tone.
- • Example:
-  - Source: “Hello, Manish! Good morning. Please tell me your issue. I will be happy to help you.”
-  - Correct: “हैलो, मनीष! गुड मॉर्निंग। कृपया अपनी समस्या मुझे बताएँ। आपकी मदद करके मुझे खुशी होगी।”
-  - Incorrect: “नमस्ते, मनीष! सुप्रभात। कृपया अपनी समस्या के बारे में मुझे बताएँ। मैं आपकी मदद करके खुश होऊँगा।”
- • For form field and error messages:
-  - Keep copy short and succinct.
-  - Flag the error first, then add instructions.
-  - Use passive voice to avoid blame.
-  - Example: “यह नाम रिकॉर्ड में मौजूद नहीं है। कृपया फिर से कोशिश करें।”
-  - Error messaging: Be polite, impersonal, supportive, and non-accusatory.
-  - Always state the problem and solution.
-  - Use plain language and active voice.
-  - Use a friendly tone; never blame travellers.
- • For success messages: Be mindful of user context (e.g., not all travel is for leisure).
-3.6. Active Voice
- • Prefer active voice for directness and effectiveness.
- • Example:
-  - Source: By using this coupon within 24 hours, you will get one more for free.
-  - Correct: 24 घंटों के अंदर इस कूपन का इस्तेमाल करने पर आपको एक और फ़्री कूपन मिलेगा।
-  - Incorrect: अगर आप इस कूपन का इस्तेमाल 24 घंटों के अंदर करेंगे, तभी आपको एक और एक और फ़्री कूपन मिलेगा।
- • Use passive voice only when:
-  - The agent is unimportant or unknown.
-  - An authoritative tone is needed (e.g., terms and conditions).
-3.7. Pluralization of Transliterated Words
- • Do not pluralize English words using Hindi rules (e.g., कंप्यूटरों is incorrect).
- • Transliterate English words in plural form only if necessary to convey plural sense.
- • Use quantifiers (कुछ, कई, अनेक, सभी) for plural forms instead of transliterating plurals.
- • Commonly accepted plural transliterations: फ़ाइलें/फ़ाइलों, साइटें/साइटों, वेबसाइटें/वेबसाइटों, कंपनियाँ/कंपनियों, डिवाइसों.
-3.8. Formats
-3.8.1. Numbers, Dates, and Time
- • Use international numerals (1, 2, 3, …), not Devanagari (१, २, ३, …).
- • Use सौ, हज़ार, लाख, करोड़, अरब for large numbers.
- • Convert millions to lakhs/crores as per table:
+### 1.2. Core Writing Principles
+- **Traveller First:** Always put the traveller at the center of the copy
+- **Be Helpful:** Every sentence should provide value to the user
+- **Be Conversational:** Write as if talking to a friend
+- **Be Simple:** Choose simple words and short sentences
+- **Be Specific:** Provide concrete information users can act on
+- **Be Honest:** Help users make informed decisions
+- **Avoid Self-Promotion:** Focus on user benefits, not company features
+
+**Important:** Skyscanner does NOT offer discounts — discounts are offered by providers (e.g., Trip.com). Never imply Skyscanner is the source of discounts.
+
+---
+
+## 2. Language-Specific Guidelines
+
+### 2.1. Spelling Rules
+
+#### Verb Forms
+Use ए and ई spellings:
+- ✅ गए, लिए, गई, हुई, हुए
+- ❌ *गये, *लिये, *गयी, *हुयी, *हुये
+
+#### Anuswar (ं) Usage
+Use anuswar instead of writing पंचम वर्ण in half:
+- ✅ संपर्क, इंटरनेट, कंप्यूटर, इंडिया, दिसंबर
+- ❌ सम्पर्क, इन्टरनेट, कम्प्यूटर, इन्डिया, दिसम्बर
+
+#### Chandrabindu (ँ)
+Use chandrabindu for plurality and nasalization:
+- Plurality: लड़कियाँ
+- Nasalization: हँसना, पाँच, बाँटना, ढूँढ़ना, जाएँगे
+
+**Note:** Do not replace with anuswar — हँस (laugh) vs हंस (swan) have different meanings.
+
+#### Nuqta Usage
+Use nuqta with ज़ and फ़ only (not with क, ख, ग):
+- ✅ ज़रूरी, फ़ोन, फ़्लाइट
+- ❌ क़, ख़, ग़
+
+#### Preferred Spellings
+| Preferred | Avoid |
+|-----------|-------|
+| ढूँढना | ढूँढ़ना |
+| दोबारा | दुबारा |
+| दोपहर | दुपहर |
+| अकसर | अक्सर |
+| बिलकुल | बिल्कुल |
+
+### 2.2. Punctuation
+
+- Follow standard Hindi punctuation rules
+- Space **after** punctuation, not before
+- Use Khadi Pai (।) as end punctuation for complete sentences
+- **UI Strings:** Match source punctuation — if source has no end punctuation, target should not have one either
+
+### 2.3. Addressing Users
+
+- Always use honorific form **आप** (not तुम or तू)
+- Tone: Conversational, respectful, not formal or stiff
+- Avoid slang and jargon
+- Use gender-neutral greetings: "XXX जी, आपका स्वागत है।"
+
+### 2.4. Gender of Loan Words
+
+| Gender | Words |
+|--------|-------|
+| **Masculine** | Folder, Audio, Browser, Brand, Button, Calendar, Call, Payment, Click, Connection, Credit, Data, Email, Label, Link, Mobile, Video, Network, Media, Password, App, Computer, Transaction, Access, Template, Process, Device |
+| **Feminine** | Photo, File, Billing, Report, Post, Rank, Screen, Team, Library, Profile, Site, Cookies, Feed, Insight |
+
+### 2.5. Active Voice
+- Prefer active voice for directness
+- Passive voice acceptable when:
+  - Agent is unimportant or unknown
+  - Authoritative tone is needed (legal/T&C content)
+
+### 2.6. Pluralization of Transliterated Words
+
+- **Do NOT** apply Hindi pluralization to English words
+  - ❌ कंप्यूटरों
+- **Can** transliterate English plural forms when necessary
+  - ✅ फ़्लाइट डील्स (for "flight deals")
+- **Can** use quantifiers (कुछ, कई, अनेक, सभी) to indicate plurality
+  - ✅ कुछ ही टैप में (for "in a few taps")
+- **Accepted adapted plurals:** फ़ाइलें, साइटें, वेबसाइटें, कंपनियाँ, डिवाइसों
+
+### 2.7. Numbers & Dates
+
+#### Numbers
+- Use international numerals (1, 2, 3), not Devanagari (१, २, ३)
+- Convert millions to lakhs/crores:
   - 1 million = 10 लाख
   - 10 million = 1 करोड़
-  - 100 million = 10 करोड़
-  - 250 million = 25 करोड़
-  - 1 billion = 100 करोड़/1 अरब
-  - 10 billion = 1000 करोड़
-  - 100 billion = 10,000 करोड़
- • Use comma as thousand separator for numbers >3 digits.
-  - ₹10, ₹100, ₹1,000, ₹10,000, ₹1,00,000, ₹10,00,000
- • Use hyphen for ranges: 2-4 यात्री
- • Dates: dd-mm-yyyy format; full form as 12 जून, 2023 (comma after month).
- • Time: 24-hour format for UI; AM/PM in Hindi for other content (e.g., सुबह 8 बजे, रात 9 बजे).
- • For variable time values, leave AM/PM in English.
- • Abbreviations:
-  - घंटा/घंटे = घं.
-  - मिनट = मि.
-  - सेकंड = से.
-  - सोमवार = सोम, मंगलवार = मंगल, बुधवार = बुध, गुरुवार = गुरु, शुक्रवार = शुक्र, शनिवार = शनि, रविवार = रवि
-3.8.2. Currencies and Units
- • Write currencies as in the source unless instructed otherwise.
- • Currency symbol to the left of the number, no space: $30, ₹30
- • Use ₹ for Indian currency; in expansion, use रुपया or रुपये.
- • Apply same rule to units of measurement.
-3.8.3. Countries, Cities, Suppliers
- • Use placeholders for place names; refer to context notes for type (airport, city, etc.).
- • For marketing, transliterate country/city names; leave airport names in English if not commonly used in Hindi.
- • Same rule for first name/company/supplier tags.
-3.8.4. URL Translation
- • Leave URLs in English.
- • URL formatting rules:
-1. No spaces; use hyphens only.
-2. All lowercase.
-3. No extended/special characters.
-4. Only Latin characters.
- • Use http://www.url-encode-decode.com/ for validation if needed.
-3.9. Linguistic Sequence
-3.9.1. Company Names and Third-Party Products
- • Leave company and product names in English; follow English capitalization.
- • Translate international organization/NGO/ministry names if Hindi version exists; otherwise, transliterate.
- • Leave hard-to-pronounce foreign names in English.
- • Acronyms/abbreviations: leave in English if unfamiliar; otherwise, spell out and provide short form in parentheses.
- • Well-known acronyms in Hindi: write in Hindi (e.g., सिम, पिन).
-3.9.2. Geo-Terms
- • Airport names: do not add "airport" when translating toponyms.
- • City/country names: transliterate in popular form.
-  - Examples:
-   - Canada: कनाडा (not कैनेडा)
-   - Israel: इज़राइल (not इज़रीयल)
-   - Texas: टेक्सास (not टेक्सस)
-   - Paris: पेरिस (not पैरिस)
- • Points of Interest: transliterate.
- • Use the most commonly used and understandable version.
-3.9.3. Tax/Legal Terms
- • Flag any tax/legal term that may not be relevant to the market.
-Localization
- • Ensure translations sound native, are easily understandable, nuanced, crisp, colloquial, and culturally appropriate.
- • Adapt contextually (e.g., use पेट्रोल पंप for “gas station” in India).
+  - 1 billion = 100 करोड़ / 1 अरब
+- Use comma as thousand separator (Indian system):
+  - ₹1,000 | ₹10,000 | ₹1,00,000 | ₹10,00,000
+- Ranges: Use hyphen without spaces (2-4 यात्री)
 
-4. Translation Guidelines per Content Type
-User Interface (UI)
- • Pay attention to context and character limits.
- • Use verb forms for buttons/commands; noun forms for menus/dropdowns.
- • For options/checkboxes, decide based on context.
-Examples:
- • Search hotels: होटल खोजें (not होटल खोजना)
- • Log in: लॉग इन करें (not लॉग इन)
- • Help: सहायता (not सहायता करें)
-Marketing and Marketing Emails
- • Focus on key message, not literal translation.
- • Use creativity to make content natural and appealing in Hindi.
-Legal, Policies, Terms & Conditions
- • Be accurate and clear; stick closely to the source.
- • Use formal tone and address.
+#### Dates
+- Format: dd-mm-yyyy
+- Full form: 12 जून, 2023 (comma after month)
 
+#### Time
+- UI strings: 24-hour format
+- Other content: Contextual (सुबह 8 बजे, शाम 9 बजे)
+- With dynamic variables: Leave AM/PM in English
 
-5. Alternative Words & Expressions
-Use the following correct vs incorrect instructions for word choice:
+#### Abbreviations
+| Full | Abbreviation |
+|------|--------------|
+| घंटा/घंटे | घं. |
+| मिनट | मि. |
+| सेकंड | से. |
+| सोमवार | सोम |
+| मंगलवार | मंगल |
+| बुधवार | बुध |
+| गुरुवार | गुरु |
+| शुक्रवार | शुक्र |
+| शनिवार | शनि |
+| रविवार | रवि |
 
-Incorrect: accommodation - निवास, आवास
-Correct: hotels, hostels, apartments, room - होटल, हॉस्टल, अपार्टमेंट, रूम
+### 2.8. Currencies & Units
+- Keep currencies as in source (do not convert)
+- Symbol left of number, no space: ₹30, $30
+- Indian currency: Use ₹ symbol; expansion: रुपया/रुपये
 
-Incorrect: additional - अतिरिक्त
-Correct: extra, more - ज़्यादा
+### 2.9. Company & Place Names
 
-Incorrect: additionally - अतिरिक्त रूप से
-Correct: also - साथ ही
+#### Company Names
+- **Skyscanner:** Always keep in English
+- **Third-party companies:** Keep in English
+- **International organizations:** Translate if official Hindi version exists (e.g., अंतरराष्ट्रीय मुद्रा कोष)
+- **Difficult foreign names:** Leave in English (e.g., Château de Linardié)
+- **Acronyms:** Leave in English; well-known ones in Hindi (यूनेस्को, सिम, पिन)
 
-Incorrect: alternatively - वैकल्पिक रूप से
-Correct: or, instead - या, इसके अलावा
+#### Place Names
+- Cities/Countries: Transliterate in popular form (कनाडा, पेरिस, टेक्सास)
+- Airport names: Do NOT add "airport" unless in source
+- POIs: Transliterate
 
-Incorrect: apologies - क्षमा
-Correct: sorry - माफ़ी
+#### URLs
+- Leave in English
+- Rules: No spaces, lowercase only, no special characters, Latin characters only
 
-Incorrect: appropriate - उचित
-Correct: right, best - सही
+### 2.10. Content Type Guidelines
 
-Incorrect: avoid - बचें
-Correct: make sure you don’t, try not to - ऐसा न करें
+| Content Type | Guidelines |
+|--------------|------------|
+| **UI (Buttons/Commands)** | Use verb form (होटल खोजें) |
+| **UI (Menus/Dropdowns)** | Use noun form (सहायता) |
+| **Marketing** | Creative adaptation encouraged; translate message, not words |
+| **Legal/T&C** | Accurate, formal, stick close to source |
 
-Incorrect: beneficial - लाभप्रद
-Correct: Useful, helpful - मददगार, काम का
+---
 
-Incorrect: customer - ग्राहक
-Correct: you, your traveller - आप, यात्री
+## 3. LQA CALIBRATION: FALSE POSITIVE PREVENTION GUIDELINES
 
-Incorrect: during this period - इस अवधि के दौरान
-Correct: Now, at this time - इस समय, अब
+**CRITICAL INSTRUCTION:** This section defines patterns that the LQA Evaluator must **ACCEPT as valid translations**. These represent acceptable variations, natural localization choices, or stylistic decisions that do NOT constitute errors. Flagging issues covered by these rules creates unnecessary reviewer burden.
 
-Incorrect: ETA - ईटीए
-Correct: estimated arrival time - पहुँचने का अनुमानित समय
+---
 
-Incorrect: feedback (as in ‘give us your feedback’) - फ़ीडबैक
-Correct: tell us your thoughts, let us know what you think - अपनी राय बताएँ, इस बारे में आप क्या सोचते हैं
+### 3.1. Meaning-Based Translation Tolerance
 
-Incorrect: fortunately - सौभाग्यवश
-Correct: luckily, good luck, good news - अच्छी बात यह है, अच्छी ख़बर यह है
+Translation quality is measured by **meaning preservation and naturalness**, not literal word matching.
 
-Incorrect: hesitate (as in ‘please do not hesitate to contact us) - संकोच करना
-Correct: please get in touch, please feel free - हमसे संपर्क करें, हमें पूरी बात बताएँ
+#### 3.1.1. Do NOT Flag as "Mistranslation"
+- **Restructured sentences** that preserve meaning but use different word order
+- **Contextual word choices** where the translator selected a synonym appropriate for Hindi
+- **Implied subjects/objects** that are clear from context in Hindi but explicit in English
+- **Idiomatic adaptations** that convey the same message in a culturally appropriate way
 
-Incorrect: holiday
-Correct: Trip, holiday, break, getaway
+#### 3.1.2. Do NOT Flag as "Omission"
+- **Pronouns** (you, your, I, we) that are implicit in Hindi verb conjugation or context
+- **Articles** (a, an, the) which do not exist in Hindi
+- **Redundant words** that would sound unnatural if translated literally
+- **Filler words** that add no semantic value
 
-Incorrect: however - हालाँकि
-Correct: But - लेकिन
+#### 3.1.3. Do NOT Flag as "Addition"
+- **Postpositions** required by Hindi grammar (को, में, से, पर, के लिए, etc.)
+- **Honorific particles** (जी) when addressing users
+- **Contextual clarifiers** that make the Hindi sentence grammatically complete
+- **Classifiers or particles** required for natural Hindi expression
 
-Incorrect: in the event of - ऐसी हालत में
-Correct: if - अगर
+---
 
-Incorrect: inconvenient - असुविधाजनक
-Correct: annoying, frustrating, tricky, difficult, awkward - निराशाजनक, मुश्किल
+### 3.2. Synonym & Terminology Tolerance
 
-Incorrect: inconvenience - असुविधा
-Correct: problem, hitch, issue, error - समस्या, गड़बड़ी
+Hindi often has multiple valid translations for English terms. Accept reasonable variations.
 
-Incorrect: oops - ऊप्स, ओह
-Correct: Sorry, oh, something’s gone wrong - माफ़ करें, कोई गड़बड़ी हुई
+#### 3.2.1. Do NOT Flag as "Wrong Term" or "Inconsistency"
+When both options are semantically correct and contextually appropriate:
 
-Incorrect: partners (when collective or unknown) - पार्टनर
-Correct: travel providers, providers, travel companies - ट्रैवल प्रोवाइडर, प्रोवाइडर, ट्रैवल कंपनी
+| English | All Acceptable Hindi Options |
+|---------|------------------------------|
+| Search | खोजें, खोजना, तलाशें, ढूँढें |
+| Book | बुक करें, बुकिंग करें |
+| Flight | फ़्लाइट, उड़ान, हवाई यात्रा |
+| Hotel | होटल |
+| Trip | ट्रिप, यात्रा, सफ़र |
+| Deal | डील, ऑफ़र, सौदा |
+| Save | सेव करें, बचाएँ (context-dependent) |
+| Check | देखें, चेक करें |
+| Browse | देखें, खोजें, ब्राउज़ करें |
+| Get | पाएँ, प्राप्त करें, मिलेगा |
 
-Incorrect: peak times - पीक समय
-Correct: busy, busier - व्यस्त (contextually)
+#### 3.2.2. Only Flag Terminology If
+- The term **contradicts explicit Termbase entries** AND causes meaning change
+- The term creates **factual inaccuracy**
+- A **product/feature name** is mistranslated (e.g., "Explore" feature)
 
-Incorrect: provide - उपलब्ध करवाना
-Correct: Give - देना
+---
 
-Incorrect: provided that - बशर्ते
-Correct: If - अगर
+### 3.3. Transliteration Tolerance
 
-Incorrect: register - रजिस्टर करें
-Correct: sign up - साइन अप करें
+Hindi uses a mix of transliterated English and native Hindi based on common usage.
 
-Incorrect: refreshments - जलपान
-Correct: food, drinks, snacks - खाना, ड्रिंक्स, नाश्ता
+#### 3.3.1. Do NOT Flag
+- Common tech terms in transliterated form (ऐप, ब्राउज़र, डेटा, ईमेल, etc.)
+- Brand names kept in English
+- Airline/company names in English or transliterated form
+- Place names transliterated according to popular usage
 
-Incorrect: Skyscanner
-Correct: हमसे, हम
+#### 3.3.2. Only Flag If
+- Transliteration violates the nuqta/anuswar rules in Section 2.1
+- A well-known official Hindi term exists but wasn't used
+- The transliteration is misspelled or unrecognizable
 
-Incorrect: supplementary - पूरक
-Correct: extra - और
+---
 
-Incorrect: suppliers - सप्लायर
-Correct: providers - प्रोवाइडर
+### 3.4. Punctuation Tolerance
 
-Incorrect: thank you - आपका धन्यवाद
-Correct: thanks - धन्यवाद
+#### 3.4.1. Do NOT Flag
+- Use of Khadi Pai (।) OR full stop (.) for end punctuation — both are acceptable
+- Minor spacing variations around punctuation
+- Presence or absence of end punctuation in UI strings (follow source)
 
-Incorrect: travel arrangements - ट्रैवल अरेंजमेंट
-Correct: travel plans - ट्रैवल प्लान
+#### 3.4.2. Only Flag If
+- Punctuation **changes the meaning** (e.g., question mark removed from a question)
+- Punctuation is **clearly incorrect** (e.g., multiple consecutive punctuation marks)
 
-Incorrect: user - यूज़र
-Correct: Traveller, you, your - यात्री, आप, आपका
+---
 
-Incorrect: vendor - वेंडर
-Correct: airline, provider - एयरलाइन, प्रोवाइडर
+### 3.5. Formality & Tone Tolerance
 
-Incorrect: visitor - विज़िटर या दर्शक
-Correct: Traveller, you, your - यात्री, आप, आपका
+The Style Guide prefers conversational tone but accepts variation within respectful bounds.
+
+#### 3.5.1. Do NOT Flag
+- Minor variations in formality level that don't affect respect (आप form maintained)
+- Choice between Sanskrit-derived and Perso-Arabic-derived synonyms
+- Stylistic word order variations
+
+#### 3.5.2. Only Flag If
+- **Disrespectful** forms are used (तुम/तू instead of आप)
+- Tone is **grossly inappropriate** for context (slang in legal text)
+- The tone **actively contradicts** Style Guide requirements for specific content types
+
+---
+
+### 3.6. Spelling Variation Tolerance
+
+Hindi has accepted spelling variations for many words.
+
+#### 3.6.1. Do NOT Flag as "Spelling Error"
+Unless the variation:
+- Creates **ambiguity** or **meaning change**
+- Violates the **specific preferred spellings** listed in Section 2.1
+- Is clearly a **typo** (missing characters, wrong characters)
+
+---
+
+### 3.7. Number & Date Format Tolerance
+
+#### 3.7.1. Do NOT Flag
+- Minor variations in date separators (-, /, or space)
+- Contextual time expressions (सुबह 8 बजे vs 8:00 AM)
+- Slight variations in number formatting
+
+#### 3.7.2. Only Flag If
+- **Wrong number system** used (Devanagari instead of international)
+- **Incorrect conversion** of millions to lakhs/crores
+- **Date/time creates confusion** or is factually wrong
+
+---
+
+### 3.8. Gender Agreement Tolerance
+
+#### 3.8.1. Do NOT Flag
+- Gender assignment for loan words not listed in Section 2.4 — these can vary
+- Contextual gender choices that are grammatically correct
+
+#### 3.8.2. Only Flag If
+- Gender assignment **contradicts the list** in Section 2.4
+- Gender disagreement creates a **grammatical error** that a native speaker would notice
+
+---
+
+### 3.9. Severity Calibration
+
+Apply these thresholds consistently:
+
+| Severity | Criteria |
+|----------|----------|
+| **Critical** | Functional breakage (placeholder corruption, tag errors), complete meaning inversion, critical factual errors |
+| **Major** | Meaning significantly changed, key information lost, terminology errors in critical c
