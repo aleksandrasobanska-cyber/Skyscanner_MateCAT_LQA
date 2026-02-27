@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="prep_Brand-Uplift-Translations-ALL.xlsx" source-language="en-GB" target-language="de-DE" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="de-DE" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTE3OUYwNyIgcGFja2FnZUlk
+PSIxMzFiOTcwYS02ZjY1LTQxYjYtODE4OC03NWY2ZDkyMTFlYWQiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iZGUtREUiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDkgMTc6MDc6MjkrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJwcmVwX0JyYW5kLVVwbGlmdC1UcmFuc2xhdGlvbnMtQUxMLnhsc3giIGZpbHRlcklk
+PSJva2Zfb3BlbnhtbCIgaW5wdXRFbmNvZGluZz0iVVRGLTgiIHJlbGF0aXZlVGFyZ2V0UGF0aD0icHJlcF9CcmFuZC1VcGxpZnQtVHJhbnNsYXRpb25zLUFMTC5vdXQueGxzeCIgdGFyZ2V0RW5jb2Rp
+bmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxSRzlqVUhKdmNHVnlkR2xsY3k1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFEy
+OXRiV1Z1ZEhNdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWQnZkMlZ5Y0c5cGJuUk9iM1JsY3k1aVBYUnlkV1VLWWxCeVpXWmxjbVZ1WTJWVWNtRnVjMnhoZEdWUWIzZGxjbkJ2
+YVc1MFRXRnpkR1Z5Y3k1aVBYUnlkV1VLWWxCeVpXWmxjbVZ1WTJWSloyNXZjbVZRYkdGalpXaHZiR1JsY25OSmJsQnZkMlZ5Y0c5cGJuUk5ZWE4wWlhKekxtSTlabUZzYzJVS1lsQnlaV1psY21WdVky
+VlVjbUZ1YzJ4aGRHVlhiM0prU0dWaFpHVnljMFp2YjNSbGNuTXVZajEwY25WbENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxWMjl5WkVocFpHUmxiaTVpUFdaaGJITmxDbUpRY21WbVpYSmxibU5s
+VkhKaGJuTnNZWFJsVjI5eVpFVjRZMngxWkdWSGNtRndhR2xqVFdWMFlVUmhkR0V1WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZCdmQyVnljRzlwYm5SSWFXUmtaVzR1WWoxbVlX
+eHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlVWNFkyVnNTR2xrWkdWdUxtSTlabUZzYzJVS1lsQnlaV1psY21WdVkyVlVjbUZ1YzJ4aGRHVkZlR05sYkVWNFkyeDFaR1ZEYjJ4dmNuTXVZajFt
+WVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVVY0WTJWc1JYaGpiSFZrWlVOdmJIVnRibk11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlVWNFkyVnNVMmhsWlhST1lX
+MWxjeTVpUFdaaGJITmxDbUpRY21WbVpYSmxibU5sUVdSa1RHbHVaVk5sY0dGeVlYUnZja0Z6UTJoaGNtRmpkR1Z5TG1JOVptRnNjMlVLYzFCeVpXWmxjbVZ1WTJWTWFXNWxVMlZ3WVhKaGRHOXlVbVZ3
+YkdGalpXMWxiblE5SkRCaEpBcGlVSEpsWm1WeVpXNWpaVkpsY0d4aFkyVk9iMEp5WldGclNIbHdhR1Z1VkdGbkxtSTlkSEoxWlFwaVVISmxabVZ5Wlc1alpVbG5ibTl5WlZOdlpuUkllWEJvWlc1VVlX
+Y3VZajEwY25WbENtSlFjbVZtWlhKbGJtTmxRV1JrVkdGaVFYTkRhR0Z5WVdOMFpYSXVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVUZuWjNKbGMzTnBkbVZEYkdWaGJuVndMbUk5ZEhKMVpRcGlVSEps
+Wm1WeVpXNWpaVUYxZEc5dFlYUnBZMkZzYkhsQlkyTmxjSFJTWlhacGMybHZibk11WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sVUc5M1pYSndiMmx1ZEVsdVkyeDFaR1ZrVTJ4cFpHVk9kVzFpWlhKelQy
+NXNlUzVpUFdaaGJITmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUlhoalpXeEVhV0ZuY21GdFJHRjBZUzVpUFdaaGJITmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUlhoalpXeEVjbUYz
+YVc1bmN5NWlQV1poYkhObENuTjFZbVpwYkhSbGNqMEtZa2x1UlhoamJIVmtaVTF2WkdVdVlqMTBjblZsQ21KSmJrVjRZMngxWkdWSWFXZG9iR2xuYUhSTmIyUmxMbUk5ZEhKMVpRcGlVSEpsWm1WeVpX
+NWpaVlJ5WVc1emJHRjBaVmR2Y21SRmVHTnNkV1JsUTI5c2IzSnpMbUk5Wm1Gc2MyVUtZbEpsYjNKa1pYSlFiM2RsY25CdmFXNTBUbTkwWlhOQmJtUkRiMjF0Wlc1MGN5NWlQV1poYkhObENtOTFkSEIx
+ZEZObFoyMWxiblJoZEdsdmJsUjVjR1V1YVQwekNuUnpRMjl0Y0d4bGVFWnBaV3hrUkdWbWFXNXBkR2x2Ym5OVWIwVjRkSEpoWTNRdWFUMHhDbU5tWkRBOVNGbFFSVkpNU1U1TENuUnpSWGhqWld4RmVH
+TnNkV1JsWkVOdmJHOXljeTVwUFRBS2RITkZlR05sYkVWNFkyeDFaR1ZrUTI5c2RXMXVjeTVwUFRBS2RITkZlR05zZFdSbFYyOXlaRk4wZVd4bGN5NXBQVEFLZEhOWGIzSmtTR2xuYUd4cFoyaDBRMjlz
+YjNKekxtazlNQXAwYzFkdmNtUkZlR05zZFdSbFpFTnZiRzl5Y3k1cFBUQUtkSE5RYjNkbGNuQnZhVzUwU1c1amJIVmtaV1JUYkdsa1pVNTFiV0psY25NdWFUMHc8L2RvYz4KPC9tYW5pZmVzdD4=</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="de-DE">
+<body>
+<trans-unit id="P147242AB-tu1" resname="BLS - 01 - Funnel.Recall First-!B4" xml:space="preserve" help-id="4840350822">
+<source xml:lang="en-GB">Have you seen an ad for Vodafone on Skyscanner recently?</source>
+<seg-source><mrk mid="0" mtype="seg">Have you seen an ad for Vodafone on Skyscanner recently?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Hast du kürzlich eine Anzeige für Vodafone auf Skyscanner gesehen?</mrk></target>
+<count-group name="P147242AB-tu1"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6.7</count></count-group>
+<note>QID1_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="BLS - 01 - Funnel.Recall First-!B5" xml:space="preserve" help-id="4840350823">
+<source xml:lang="en-GB">Yes</source>
+<seg-source><mrk mid="0" mtype="seg">Yes</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ja</mrk></target>
+<count-group name="P147242AB-tu2"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID1_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="BLS - 01 - Funnel.Recall First-!B6" xml:space="preserve" help-id="4840350824">
+<source xml:lang="en-GB">No</source>
+<seg-source><mrk mid="0" mtype="seg">No</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nein</mrk></target>
+<count-group name="P147242AB-tu3"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID1_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="BLS - 01 - Funnel.Recall First-!B7" xml:space="preserve" help-id="4840350825">
+<source xml:lang="en-GB">Not Sure</source>
+<seg-source><mrk mid="0" mtype="seg">Not Sure</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ich bin mir nicht sicher</mrk></target>
+<count-group name="P147242AB-tu4"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>QID1_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="BLS - 01 - Funnel.Recall First-!B8" xml:space="preserve" help-id="4840350826">
+<source xml:lang="en-GB">Which of the following best describes your relationship with Vodafone?</source>
+<seg-source><mrk mid="0" mtype="seg">Which of the following best describes your relationship with Vodafone?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Welche der folgenden Aussagen beschreibt deine Beziehung zu Vodafone am besten?</mrk></target>
+<count-group name="P147242AB-tu5"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6.7</count></count-group>
+<note>QID2_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="BLS - 01 - Funnel.Recall First-!B9" xml:space="preserve" help-id="4840350827">
+<source xml:lang="en-GB">Never heard of it</source>
+<seg-source><mrk mid="0" mtype="seg">Never heard of it</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nie davon gehört</mrk></target>
+<count-group name="P147242AB-tu6"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<note>QID2_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="BLS - 01 - Funnel.Recall First-!B10" xml:space="preserve" help-id="4840350828">
+<source xml:lang="en-GB">Heard of it but wouldn’t consider</source>
+<seg-source><mrk mid="0" mtype="seg">Heard of it but wouldn’t consider</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Habe davon gehört, würde es aber nicht in Betracht ziehen</mrk></target>
+<count-group name="P147242AB-tu7"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.69</count></count-group>
+<note>QID2_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="BLS - 01 - Funnel.Recall First-!B11" xml:space="preserve" help-id="4840350829">
+<source xml:lang="en-GB">I’d consider it</source>
+<seg-source><mrk mid="0" mtype="seg">I’d consider it</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Würde ich in Betracht ziehen</mrk></target>
+<count-group name="P147242AB-tu8"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.68</count></count-group>
+<note>QID2_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="BLS - 01 - Funnel.Recall First-!B12" xml:space="preserve" help-id="4840350830">
+<source xml:lang="en-GB">I’m planning to use it</source>
+<seg-source><mrk mid="0" mtype="seg">I’m planning to use it</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Werde ich bald nutzen</mrk></target>
+<count-group name="P147242AB-tu9"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.01</count></count-group>
+<note>QID2_Choice4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="BLS - 01 - Funnel.Recall First-!B13" xml:space="preserve" help-id="4840350831">
+<source xml:lang="en-GB">I currently use it</source>
+<seg-source><mrk mid="0" mtype="seg">I currently use it</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nutze ich derzeit</mrk></target>
+<count-group name="P147242AB-tu10"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.68</count></count-group>
+<note>QID2_Choice5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="BLS - 01 - Funnel.Recall First-!B14" xml:space="preserve" help-id="4840350832">
+<source xml:lang="en-GB">I've used it, but wouldn't use again</source>
+<seg-source><mrk mid="0" mtype="seg">I've used it, but wouldn't use again</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Habe ich genutzt, würde es aber nicht wieder tun</mrk></target>
+<count-group name="P147242AB-tu11"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">6.03</count></count-group>
+<note>QID2_Choice6</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="BLS - 01 - Funnel.Recall First-!B15" xml:space="preserve" help-id="4840350833">
+<source xml:lang="en-GB">Have you heard of Vodafone before today?</source>
+<seg-source><mrk mid="0" mtype="seg">Have you heard of Vodafone before today?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Hast du vor dem heutigen Tag schon einmal von Vodafone gehört?</mrk></target>
+<count-group name="P147242AB-tu12"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.69</count></count-group>
+<note>QID2_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="BLS - 01 - Funnel.Recall First-!B16" xml:space="preserve" help-id="4840350834">
+<source xml:lang="en-GB">Yes</source>
+<seg-source><mrk mid="0" mtype="seg">Yes</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ja</mrk></target>
+<count-group name="P147242AB-tu13"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID2_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="BLS - 01 - Funnel.Recall First-!B17" xml:space="preserve" help-id="4840350835">
+<source xml:lang="en-GB">No</source>
+<seg-source><mrk mid="0" mtype="seg">No</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nein</mrk></target>
+<count-group name="P147242AB-tu14"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID2_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="BLS - 01 - Funnel.Recall First-!B18" xml:space="preserve" help-id="4840350836">
+<source xml:lang="en-GB">Not Sure</source>
+<seg-source><mrk mid="0" mtype="seg">Not Sure</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ich bin mir nicht sicher</mrk></target>
+<count-group name="P147242AB-tu15"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>QID2_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="BLS - 01 - Funnel.Recall First-!B19" xml:space="preserve" help-id="4840350837">
+<source xml:lang="en-GB">How likely are you to consider Vodafone in the future?</source>
+<seg-source><mrk mid="0" mtype="seg">How likely are you to consider Vodafone in the future?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Wie wahrscheinlich ist es, dass du Vodafone in Zukunft in Betracht ziehst?</mrk></target>
+<count-group name="P147242AB-tu16"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6.7</count></count-group>
+<note>QID3_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="BLS - 01 - Funnel.Recall First-!B20" xml:space="preserve" help-id="4840350838">
+<source xml:lang="en-GB">Extremely unlikely</source>
+<seg-source><mrk mid="0" mtype="seg">Extremely unlikely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Sehr unwahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu17"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>QID3_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="BLS - 01 - Funnel.Recall First-!B21" xml:space="preserve" help-id="4840350839">
+<source xml:lang="en-GB">Somewhat unlikely</source>
+<seg-source><mrk mid="0" mtype="seg">Somewhat unlikely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ziemlich unwahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu18"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID3_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="BLS - 01 - Funnel.Recall First-!B22" xml:space="preserve" help-id="4840350840">
+<source xml:lang="en-GB">Neither likely nor unlikely</source>
+<seg-source><mrk mid="0" mtype="seg">Neither likely nor unlikely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Weder wahrscheinlich noch unwahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu19"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID3_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="BLS - 01 - Funnel.Recall First-!B23" xml:space="preserve" help-id="4840350841">
+<source xml:lang="en-GB">Somewhat likely</source>
+<seg-source><mrk mid="0" mtype="seg">Somewhat likely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ziemlich wahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu20"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID3_Choice4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="BLS - 01 - Funnel.Recall First-!B24" xml:space="preserve" help-id="4840350842">
+<source xml:lang="en-GB">Extremely likely</source>
+<seg-source><mrk mid="0" mtype="seg">Extremely likely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Sehr wahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu21"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>QID3_Choice5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="BLS - 01 - Funnel.Recall First-!B25" xml:space="preserve" help-id="4840350843">
+<source xml:lang="en-GB">Next time you are shopping for a travel eSIM, how likely are you to purchase Vodafone?</source>
+<seg-source><mrk mid="0" mtype="seg">Next time you are shopping for a travel eSIM, how likely are you to purchase Vodafone?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Wie wahrscheinlich ist es, dass du dich für Vodafone entscheidest, wenn du das nächste Mal eine eSIM für Reisen kaufst?</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">16</count><count count-type="x-matecat-weighted">10.72</count></count-group>
+<note>QID4_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="BLS - 01 - Funnel.Recall First-!B26" xml:space="preserve" help-id="4840350844">
+<source xml:lang="en-GB">Extremely unlikely</source>
+<seg-source><mrk mid="0" mtype="seg">Extremely unlikely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Sehr unwahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu23"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>QID4_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="BLS - 01 - Funnel.Recall First-!B27" xml:space="preserve" help-id="4840350845">
+<source xml:lang="en-GB">Somewhat unlikely</source>
+<seg-source><mrk mid="0" mtype="seg">Somewhat unlikely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ziemlich unwahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu24"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID4_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="BLS - 01 - Funnel.Recall First-!B28" xml:space="preserve" help-id="4840350846">
+<source xml:lang="en-GB">Neither likely nor unlikely</source>
+<seg-source><mrk mid="0" mtype="seg">Neither likely nor unlikely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Weder wahrscheinlich noch unwahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu25"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID4_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" resname="BLS - 01 - Funnel.Recall First-!B29" xml:space="preserve" help-id="4840350847">
+<source xml:lang="en-GB">Somewhat likely</source>
+<seg-source><mrk mid="0" mtype="seg">Somewhat likely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Ziemlich wahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu26"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0</count></count-group>
+<note>QID4_Choice4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="BLS - 01 - Funnel.Recall First-!B30" xml:space="preserve" help-id="4840350848">
+<source xml:lang="en-GB">Extremely likely</source>
+<seg-source><mrk mid="0" mtype="seg">Extremely likely</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Sehr wahrscheinlich</mrk></target>
+<count-group name="P147242AB-tu27"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>QID4_Choice5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" resname="BLS - 01 - Funnel.Recall First-!B31" xml:space="preserve" help-id="4840350849">
+<source xml:lang="en-GB">Which of the following brands have you heard of?</source>
+<seg-source><mrk mid="0" mtype="seg">Which of the following brands have you heard of?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Von welchen der folgenden Marken hast du schon mal gehört?</mrk></target>
+<count-group name="P147242AB-tu28"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">6.03</count></count-group>
+<note>QID2_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="BLS - 01 - Funnel.Recall First-!B32" xml:space="preserve" help-id="4840350850">
+<source xml:lang="en-GB">Airalo</source>
+<seg-source><mrk mid="0" mtype="seg">Airalo</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Airalo</mrk></target>
+<count-group name="P147242AB-tu29"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.67</count></count-group>
+<note>QID2_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" resname="BLS - 01 - Funnel.Recall First-!B33" xml:space="preserve" help-id="4840350851">
+<source xml:lang="en-GB">Holafly</source>
+<seg-source><mrk mid="0" mtype="seg">Holafly</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Holafly</mrk></target>
+<count-group name="P147242AB-tu30"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.67</count></count-group>
+<note>QID2_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="BLS - 01 - Funnel.Recall First-!B34" xml:space="preserve" help-id="4840350852">
+<source xml:lang="en-GB">Nomad</source>
+<seg-source><mrk mid="0" mtype="seg">Nomad</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nomad</mrk></target>
+<count-group name="P147242AB-tu31"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.67</count></count-group>
+<note>QID2_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" resname="BLS - 01 - Funnel.Recall First-!B35" xml:space="preserve" help-id="4840350853">
+<source xml:lang="en-GB">Saily</source>
+<seg-source><mrk mid="0" mtype="seg">Saily</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Saily</mrk></target>
+<count-group name="P147242AB-tu32"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.67</count></count-group>
+<note>QID2_Choice4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu33" resname="BLS - 01 - Funnel.Recall First-!B36" xml:space="preserve" help-id="4840350854">
+<source xml:lang="en-GB">Vodafone</source>
+<seg-source><mrk mid="0" mtype="seg">Vodafone</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Vodafone</mrk></target>
+<count-group name="P147242AB-tu33"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.67</count></count-group>
+<note>QID2_Choice5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu34" resname="BLS - 01 - Funnel.Recall First-!B37" xml:space="preserve" help-id="4840350855">
+<source xml:lang="en-GB">None of the above</source>
+<seg-source><mrk mid="0" mtype="seg">None of the above</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nichts davon</mrk></target>
+<count-group name="P147242AB-tu34"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<note>QID2_Choice6</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu35" resname="BLS - 01 - Funnel.Recall First-!B38" xml:space="preserve" help-id="4840350856">
+<source xml:lang="en-GB">Which of the following brands would you consider using?</source>
+<seg-source><mrk mid="0" mtype="seg">Which of the following brands would you consider using?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Welche der folgenden Marken würdest du in Betracht ziehen?</mrk></target>
+<count-group name="P147242AB-tu35"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">6.03</count></count-group>
+<note>QID3_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu36" resname="BLS - 01 - Funnel.Recall First-!B39" xml:space="preserve" help-id="4840350857">
+<source xml:lang="en-GB">Airalo</source>
+<seg-source><mrk mid="0" mtype="seg">Airalo</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Airalo</mrk></target>
+<count-group name="P147242AB-tu36"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID3_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu37" resname="BLS - 01 - Funnel.Recall First-!B40" xml:space="preserve" help-id="4840350858">
+<source xml:lang="en-GB">Holafly</source>
+<seg-source><mrk mid="0" mtype="seg">Holafly</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Holafly</mrk></target>
+<count-group name="P147242AB-tu37"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID3_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu38" resname="BLS - 01 - Funnel.Recall First-!B41" xml:space="preserve" help-id="4840350859">
+<source xml:lang="en-GB">Nomad</source>
+<seg-source><mrk mid="0" mtype="seg">Nomad</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nomad</mrk></target>
+<count-group name="P147242AB-tu38"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID3_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu39" resname="BLS - 01 - Funnel.Recall First-!B42" xml:space="preserve" help-id="4840350860">
+<source xml:lang="en-GB">Saily</source>
+<seg-source><mrk mid="0" mtype="seg">Saily</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Saily</mrk></target>
+<count-group name="P147242AB-tu39"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID3_Choice4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu40" resname="BLS - 01 - Funnel.Recall First-!B43" xml:space="preserve" help-id="4840350861">
+<source xml:lang="en-GB">Vodafone</source>
+<seg-source><mrk mid="0" mtype="seg">Vodafone</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Vodafone</mrk></target>
+<count-group name="P147242AB-tu40"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID3_Choice5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu41" resname="BLS - 01 - Funnel.Recall First-!B44" xml:space="preserve" help-id="4840350862">
+<source xml:lang="en-GB">None of the above</source>
+<seg-source><mrk mid="0" mtype="seg">None of the above</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nichts davon</mrk></target>
+<count-group name="P147242AB-tu41"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<note>QID3_Choice6</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu42" resname="BLS - 01 - Funnel.Recall First-!B45" xml:space="preserve" help-id="4840350863">
+<source xml:lang="en-GB">Next time you are shopping for a travel eSIM, which brand are you most likely to purchase?</source>
+<seg-source><mrk mid="0" mtype="seg">Next time you are shopping for a travel eSIM, which brand are you most likely to purchase?</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Welche Marke würdest du am ehesten kaufen, wenn du das nächste Mal eine eSIM für Reisen suchst?</mrk></target>
+<count-group name="P147242AB-tu42"><count count-type="x-matecat-raw">17</count><count count-type="x-matecat-weighted">11.39</count></count-group>
+<note>QID4_QuestionText</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu43" resname="BLS - 01 - Funnel.Recall First-!B46" xml:space="preserve" help-id="4840350864">
+<source xml:lang="en-GB">Airalo</source>
+<seg-source><mrk mid="0" mtype="seg">Airalo</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Airalo</mrk></target>
+<count-group name="P147242AB-tu43"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID4_Choice1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu44" resname="BLS - 01 - Funnel.Recall First-!B47" xml:space="preserve" help-id="4840350865">
+<source xml:lang="en-GB">Holafly</source>
+<seg-source><mrk mid="0" mtype="seg">Holafly</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Holafly</mrk></target>
+<count-group name="P147242AB-tu44"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID4_Choice2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu45" resname="BLS - 01 - Funnel.Recall First-!B48" xml:space="preserve" help-id="4840350866">
+<source xml:lang="en-GB">Nomad</source>
+<seg-source><mrk mid="0" mtype="seg">Nomad</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nomad</mrk></target>
+<count-group name="P147242AB-tu45"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID4_Choice3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu46" resname="BLS - 01 - Funnel.Recall First-!B49" xml:space="preserve" help-id="4840350867">
+<source xml:lang="en-GB">Saily</source>
+<seg-source><mrk mid="0" mtype="seg">Saily</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Saily</mrk></target>
+<count-group name="P147242AB-tu46"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID4_Choice4</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu47" resname="BLS - 01 - Funnel.Recall First-!B50" xml:space="preserve" help-id="4840350868">
+<source xml:lang="en-GB">Vodafone</source>
+<seg-source><mrk mid="0" mtype="seg">Vodafone</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Vodafone</mrk></target>
+<count-group name="P147242AB-tu47"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<note>QID4_Choice5</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu48" resname="BLS - 01 - Funnel.Recall First-!B51" xml:space="preserve" help-id="4840350869">
+<source xml:lang="en-GB">None of the above</source>
+<seg-source><mrk mid="0" mtype="seg">None of the above</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Nichts davon</mrk></target>
+<count-group name="P147242AB-tu48"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<note>QID4_Choice6</note>
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Prep_Trains-GTM-v2.xlsx" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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
+/xjE/R8D93+QHMmTAimSEimTCqmS2tDd/zGc2f/x6p8nz2zKOD357Zni9OS3/9f39OS3/3fq9OS3v6Ofnvz2977Tk9/+LnF68tv//3R68ttfeacn5Xt05mnWpyfle3TmCcmnJ+V7dOapu6cn5Xt05kmu
+pyfle3Tm6aCnJ+V7dOaJk6cn5Xt05imGpyfle3TmyXinJ+V7dOZpa6cn5Xt05glepyfle3TmqVCnJ+V7dOZJQ6cn5Xt05uk1pyfle3TmiSinJ+V7dOYpG6cn5Xt05skNpyfle3TmaQCnJ+V7dOY3zE9P
+yvfozG8tn56U79GZ34Q9PSnfozO/XXl6Ur5HZ35j7/SkfI/O/BbY6Un5Hp35zaLTk/I9OvPbKqcn5Xt05jcgTk/K9+jMT9WfnpTv0Zmf1D49Kd+jMz/9e3pSvkdnfqL09KR8j878lOLpSfkenfnJt9OT
+8j0689NUpyfle3TmJ3ROT8r36MxPfZyeVO/ReOYnCU5PqvdoPPNvp09PqvdoPPNvPE9PqvdoPPNv0U5PqvdoPPNvZk5PyvfoTO0/PSnfozMF+fSkfI/OVMnTk/I9OlO6Tk/K9+hMPTk9Kd8juTOMcmcY
+5c4wyp1hlDvDKHeGUe4Mo9wZRrkzjHJnGOXOMMqdYZQ7wyh3hlHuDKPcGUa5M4xyZxjlzjDKnWGUO8Mod4ZR7gyj3BlGuTOMcmcY5c4wyp1hlDvDKHeGUe4Mo9wZRrkzjHJnGOXOMMqdYZQ7wyh3hlHu
+DKPcGUa5M4xyZxjlzjDKnWGUO8Mod4ZR7gyj3BlGuTOMcmcY5c4wyp1hlDvDKHeGUe4Mo9wZRrkzjHJnGOXOMMqdYZQ7wyh3hlHuDKPcGUa5M4xyZxjlzjDKnWGUO8Mod4ZR7gyj3BlGuTOMcmcY5c4w
+yp1hlDvDKHeGUe4Mo9wZJrkzTHJnmOTOMMmdYZI7wyR3hknuDJPcGSa5M0xyZ5jkzjDJnWGSO8Mkd4ZJ7gyT3BkmuTNMcmeY5M4wyZ1hkjvDJHeGSe4Mk9wZJrkzTHJnmOTOMMmdYZI7wyR3hknuDJPc
+GSa5M0xyZ5jkzjDJnWGSO8Mkd4ZJ7gyT3BkmuTNMcmeY5M4wyZ1hkjvDJHeGSe4Mk9wZJrkzTHJnmOTOMMmdYZI7wyR3hknuDJPcGSa5M0xyZ5jkzjDJnWGSO8Mkd4ZJ7gyT3BkmuTNMcmeY5M4wyZ1h
+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</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="ko-KR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUE3QjlFNyIgcGFja2FnZUlk
+PSJhNjI4YWFmZi0wOWQyLTQ1NDUtYWNlNC0xOTY0NTBjZWQ3OGEiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ibmwtTkwiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDYgMTY6MDI6MTkrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJQcmVwX1RyYWlucy1HVE0tdjIueGxzeCIgZmlsdGVySWQ9Im9rZl9vcGVueG1sIiBp
+bnB1dEVuY29kaW5nPSJVVEYtOCIgcmVsYXRpdmVUYXJnZXRQYXRoPSJQcmVwX1RyYWlucy1HVE0tdjIub3V0Lnhsc3giIHRhcmdldEVuY29kaW5nPSJVVEYtOCIgc2VsZWN0ZWQ9IjEiPkkzWXhDbUpR
+Y21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUkc5alVISnZjR1Z5ZEdsbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxRMjl0YldWdWRITXVZajFtWVd4elpRcGlVSEpsWm1WeVpX
+NWpaVlJ5WVc1emJHRjBaVkJ2ZDJWeWNHOXBiblJPYjNSbGN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVkyVlVjbUZ1YzJ4aGRHVlFiM2RsY25CdmFXNTBUV0Z6ZEdWeWN5NWlQWFJ5ZFdVS1lsQnlaV1ps
+Y21WdVkyVkpaMjV2Y21WUWJHRmpaV2h2YkdSbGNuTkpibEJ2ZDJWeWNHOXBiblJOWVhOMFpYSnpMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZYYjNKa1NHVmhaR1Z5YzBadmIz
+Umxjbk11WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsVjI5eVpFaHBaR1JsYmk1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFYyOXlaRVY0WTJ4MVpHVkhjbUZ3
+YUdsalRXVjBZVVJoZEdFdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWQnZkMlZ5Y0c5cGJuUklhV1JrWlc0dVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpV
+VjRZMlZzU0dsa1pHVnVMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZGZUdObGJFVjRZMngxWkdWRGIyeHZjbk11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0Yw
+WlVWNFkyVnNSWGhqYkhWa1pVTnZiSFZ0Ym5NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzVTJobFpYUk9ZVzFsY3k1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFFX
+UmtUR2x1WlZObGNHRnlZWFJ2Y2tGelEyaGhjbUZqZEdWeUxtSTlabUZzYzJVS2MxQnlaV1psY21WdVkyVk1hVzVsVTJWd1lYSmhkRzl5VW1Wd2JHRmpaVzFsYm5ROUpEQmhKQXBpVUhKbFptVnlaVzVq
+WlZKbGNHeGhZMlZPYjBKeVpXRnJTSGx3YUdWdVZHRm5MbUk5ZEhKMVpRcGlVSEpsWm1WeVpXNWpaVWxuYm05eVpWTnZablJJZVhCb1pXNVVZV2N1WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sUVdSa1ZH
+RmlRWE5EYUdGeVlXTjBaWEl1WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlVGblozSmxjM05wZG1WRGJHVmhiblZ3TG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlVGMWRHOXRZWFJwWTJGc2JIbEJZMk5s
+Y0hSU1pYWnBjMmx2Ym5NdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFVHOTNaWEp3YjJsdWRFbHVZMngxWkdWa1UyeHBaR1ZPZFcxaVpYSnpUMjVzZVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZI
+Smhibk5zWVhSbFJYaGpaV3hFYVdGbmNtRnRSR0YwWVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJYaGpaV3hFY21GM2FXNW5jeTVpUFdaaGJITmxDbk4xWW1acGJIUmxjajBL
+WWtsdVJYaGpiSFZrWlUxdlpHVXVZajEwY25WbENtSkpia1Y0WTJ4MVpHVklhV2RvYkdsbmFIUk5iMlJsTG1JOWRISjFaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZkdmNtUkZlR05zZFdSbFEy
+OXNiM0p6TG1JOVptRnNjMlVLWWxKbGIzSmtaWEpRYjNkbGNuQnZhVzUwVG05MFpYTkJibVJEYjIxdFpXNTBjeTVpUFdaaGJITmxDbTkxZEhCMWRGTmxaMjFsYm5SaGRHbHZibFI1Y0dVdWFUMHpDblJ6
+UTI5dGNHeGxlRVpwWld4a1JHVm1hVzVwZEdsdmJuTlViMFY0ZEhKaFkzUXVhVDB4Q21ObVpEQTlTRmxRUlZKTVNVNUxDblJ6UlhoalpXeEZlR05zZFdSbFpFTnZiRzl5Y3k1cFBUQUtkSE5GZUdObGJF
+VjRZMngxWkdWa1EyOXNkVzF1Y3k1cFBUQUtkSE5GZUdOc2RXUmxWMjl5WkZOMGVXeGxjeTVwUFRBS2RITlhiM0prU0dsbmFHeHBaMmgwUTI5c2IzSnpMbWs5TUFwMGMxZHZjbVJGZUdOc2RXUmxaRU52
+Ykc5eWN5NXBQVEFLZEhOUWIzZGxjbkJ2YVc1MFNXNWpiSFZrWldSVGJHbGtaVTUxYldKbGNuTXVhVDB3PC9kb2M+CjwvbWFuaWZlc3Q+</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="ko-KR">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Sheet1!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="nl-NL">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Sheet1!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">en-GB</source>
+<target xml:lang="nl-NL">en-GB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Sheet1!A2" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">H2 (Rich Text Box 2)</source>
+<target xml:lang="nl-NL">H2 (Rich Text Box 2)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Sheet1!B2" xml:space="preserve" help-id="4838859765">
+<source xml:lang="en-GB">How it works</source>
+<seg-source><mrk mid="0" mtype="seg">How it works</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">이용 방법</mrk></target>
+<count-group name="P147242AB-tu4"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+<note>H2 (Rich Text Box 2)</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Sheet1!A3" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">P1 (Rich Text Box 2)</source>
+<target xml:lang="nl-NL">P1 (Rich Text Box 2)</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="Sheet1!B3" xml:space="preserve" help-id="4838859766">
+<source xml:lang="en-GB">When a train’s a smart fit — usually under eight hours, direct or with a quick connection — it’ll show up just beneath the top flight results. You’ll see journey times, prices and routes all side by side, so you can choose what works best.</source>
+<seg-source><mrk mid="0" mtype="seg">When a train’s a smart fit — usually under eight hours, direct or with a quick connection — it’ll show up just beneath the top flight results. You’ll see journey times, prices and routes all side by side, so you can choose what works best.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">기차 이용이 적합한 경우(주로 직통 또는 빠른 환승으로 8시간 미만), 상위 항공편 검색 결과 바로 아래에 표시됩니다. 나란히 보이는 이동 시간, 가격, 경로를 비교해서 가장 알맞은 교통편을 선택하세요.</mrk></target>
+<count-group name="P147242AB-tu6"><count count-type="x-matecat-raw">45</count><count count-type="x-matecat-weighted">13.5</count></count-group>
+<note>P1 (Rich Text Box 2)</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Sheet1!A4" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snipper 1 - H3</source>
+<target xml:lang="nl-NL">Editorial Snipper 1 - H3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="Sheet1!B4" xml:space="preserve" help-id="4838859767">
+<source xml:lang="en-GB">Step 1: Search for your destination</source>
+<seg-source><mrk mid="0" mtype="seg">Step 1: Search for your destination</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">1단계: 목적지 검색하기</mrk></target>
+<count-group name="P147242AB-tu8"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.62</count></count-group>
+<note>Editorial Snipper 1 - H3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Sheet1!A5" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snippet 1</source>
+<target xml:lang="nl-NL">Editorial Snippet 1</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="Sheet1!B5" xml:space="preserve" help-id="4838859768">
+<source xml:lang="en-GB">Search for your destination as you would normally on desktop or mobile web (don't worry, app support is coming soon!). You don’t need to know the train station, just put in a city or your airport of choice.</source>
+<seg-source><mrk mid="0" mtype="seg">Search for your destination as you would normally on desktop or mobile web (don't worry, app support is coming soon!). You don’t need to know the train station, just put in a city or your airport of choice.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">데스크톱이나 모바일 웹에서 평소처럼 목적지를 검색하세요(앱도 곧 지원될 예정이니 걱정하지 마세요!). 기차역 이름을 알지 못하셔도 괜찮습니다. 원하는 도시나 공항 이름을 입력하세요.</mrk></target>
+<count-group name="P147242AB-tu10"><count count-type="x-matecat-raw">40</count><count count-type="x-matecat-weighted">30.8</count></count-group>
+<note>Editorial Snippet 1</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Sheet1!A6" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snippet 2 - H3</source>
+<target xml:lang="nl-NL">Editorial Snippet 2 - H3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="Sheet1!B6" xml:space="preserve" help-id="4838859769">
+<source xml:lang="en-GB">Step 2: Scroll the results</source>
+<seg-source><mrk mid="0" mtype="seg">Step 2: Scroll the results</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">2단계: 결과 스크롤하기</mrk></target>
+<count-group name="P147242AB-tu12"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.85</count></count-group>
+<note>Editorial Snippet 2 - H3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Sheet1!A7" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snippet 2</source>
+<target xml:lang="nl-NL">Editorial Snippet 2</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Sheet1!B7" xml:space="preserve" help-id="4838859770">
+<source xml:lang="en-GB">One-way and return journeys are available on select routes in the UK, Spain, Italy, Germany, France, the Netherlands, and South Korea. So if there is a train route available, we will surface it along with flight options, so you can make a direct comparison and select the one that works best for you. If that's a train route, simply click on the train result card to see more options.</source>
+<seg-source><mrk mid="0" mtype="seg">One-way and return journeys are available on select routes in the UK, Spain, Italy, Germany, France, the Netherlands, and South Korea. So if there is a train route available, we will surface it along with flight options, so you can make a direct comparison and select the one that works best for you. If that's a train route, simply click on the train result card to see more options.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">네덜란드, 독일, 스페인, 이탈리아, 영국, 프랑스, 한국 일부 노선의 편도 및 왕복 항공편을 검색하실 수 있습니다. 이용 가능한 기차 노선이 있다면 항공편 옵션과 함께 표시되므로, 직접 비교한 후 가장 적합한 옵션을 선택하실 수 있습니다. 기차 노선을 선택하는 경우, 기차 결과 카드를 클릭하여 더 많은 옵션을 확인해 보세요.</mrk></target>
+<count-group name="P147242AB-tu14"><count count-type="x-matecat-raw">69</count><count count-type="x-matecat-weighted">53.13</count></count-group>
+<note>Editorial Snippet 2</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Sheet1!A8" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snippet 3 - H3</source>
+<target xml:lang="nl-NL">Editorial Snippet 3 - H3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="Sheet1!B8" xml:space="preserve" help-id="4838859771">
+<source xml:lang="en-GB">Step 3: Open the side window</source>
+<seg-source><mrk mid="0" mtype="seg">Step 3: Open the side window</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">3단계: 사이드바 열기</mrk></target>
+<count-group name="P147242AB-tu16"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.62</count></count-group>
+<note>Editorial Snippet 3 - H3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Sheet1!A9" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snippet 3</source>
+<target xml:lang="nl-NL">Editorial Snippet 3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="Sheet1!B9" xml:space="preserve" help-id="4838859772">
+<source xml:lang="en-GB">The sidebar will open with providers travelling along this route, along with their best prices.</source>
+<seg-source><mrk mid="0" mtype="seg">The sidebar will open with providers travelling along this route, along with their best prices.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">사이드바를 열어 선택한 노선을 운행하는 업체와 최저 요금 정보를 확인하실 수 있습니다.</mrk></target>
+<count-group name="P147242AB-tu18"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">11.55</count></count-group>
+<note>Editorial Snippet 3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Sheet1!A10" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snippet 4 - H3</source>
+<target xml:lang="nl-NL">Editorial Snippet 4 - H3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="Sheet1!B10" xml:space="preserve" help-id="4838859773">
+<source xml:lang="en-GB">Step 4: Complete your booking</source>
+<seg-source><mrk mid="0" mtype="seg">Step 4: Complete your booking</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">4단계: 예약 완료하기</mrk></target>
+<count-group name="P147242AB-tu20"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.85</count></count-group>
+<note>Editorial Snippet 4 - H3</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Sheet1!A11" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Editorial Snippet 4 - H3</source>
+<target xml:lang="nl-NL">Editorial Snippet 4 - H3</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="Sheet1!B11" xml:space="preserve" help-id="4838859774">
+<source xml:lang="en-GB">You can view even more options by clicking on “View more on Trip.com” where you can book your next train journey. Trip.com partners with major rail operators like Scotrail, Eurostar, Renfe, Italo, Deutsche Bahn, Korail and Ouigo.</source>
+<seg-source><mrk mid="0" mtype="seg">You can view even more options by clicking on “View more on Trip.com” where you can book your next train journey. Trip.com partners with major rail operators like Scotrail, Eurostar, Renfe, Italo, Deutsche Bahn, Korail and Ouigo.</mrk></seg-source>
+<target  xml:lang="ko-KR" state="signed-off"><mrk mid="0" mtype="seg">'Trip.com에서 더 보기'를 클릭하면 더 많은 옵션을 확인하고 향후 기차 여행을 예약하실 수 있습니다. Trip.com은 도이치반, 렌페, 스코트레일, 이딸로, 유로스타, 위고, 코레일 등 주요 철도 운영사와 제휴를 맺고 있습니다.</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">39</count><count count-type="x-matecat-weighted">30.03</count></count-group>
+<note>Editorial Snippet 4 - H3</note>
+</trans-unit>
+</body>
+</file>
+</xliff>

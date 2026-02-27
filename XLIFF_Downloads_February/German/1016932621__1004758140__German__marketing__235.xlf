@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Prep_Localisation-request---Visit-Scotland_Glasgow.xlsx" source-language="en-GB" target-language="de-DE" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="de-DE" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUE3QjlFNyIgcGFja2FnZUlk
+PSJlNTEzNDU3MS1hMTc4LTQ3MTQtYmI0NC04ODk0YzhhZGU5OTAiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ibmwtTkwiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDYgMDk6MDY6NDArMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJQcmVwX0xvY2FsaXNhdGlvbi1yZXF1ZXN0LS0tVmlzaXQtU2NvdGxhbmRfR2xhc2dv
+dy54bHN4IiBmaWx0ZXJJZD0ib2tmX29wZW54bWwiIGlucHV0RW5jb2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9IlByZXBfTG9jYWxpc2F0aW9uLXJlcXVlc3QtLS1WaXNpdC1TY290bGFu
+ZF9HbGFzZ293Lm91dC54bHN4IiB0YXJnZXRFbmNvZGluZz0iVVRGLTgiIHNlbGVjdGVkPSIxIj5JM1l4Q21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJHOWpVSEp2Y0dWeWRHbGxjeTVpUFdaaGJI
+TmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUTI5dGJXVnVkSE11WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlZCdmQyVnljRzlwYm5ST2IzUmxjeTVpUFhSeWRXVUtZbEJ5
+WldabGNtVnVZMlZVY21GdWMyeGhkR1ZRYjNkbGNuQnZhVzUwVFdGemRHVnljeTVpUFhSeWRXVUtZbEJ5WldabGNtVnVZMlZKWjI1dmNtVlFiR0ZqWldodmJHUmxjbk5KYmxCdmQyVnljRzlwYm5STllY
+TjBaWEp6TG1JOVptRnNjMlVLWWxCeVpXWmxjbVZ1WTJWVWNtRnVjMnhoZEdWWGIzSmtTR1ZoWkdWeWMwWnZiM1JsY25NdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFYyOXlaRWhw
+WkdSbGJpNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxWMjl5WkVWNFkyeDFaR1ZIY21Gd2FHbGpUV1YwWVVSaGRHRXVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJH
+RjBaVkJ2ZDJWeWNHOXBiblJJYVdSa1pXNHVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVVY0WTJWc1NHbGtaR1Z1TG1JOVptRnNjMlVLWWxCeVpXWmxjbVZ1WTJWVWNtRnVjMnho
+ZEdWRmVHTmxiRVY0WTJ4MVpHVkRiMnh2Y25NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzUlhoamJIVmtaVU52YkhWdGJuTXVZajFtWVd4elpRcGlVSEpsWm1WeVpX
+NWpaVlJ5WVc1emJHRjBaVVY0WTJWc1UyaGxaWFJPWVcxbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxRV1JrVEdsdVpWTmxjR0Z5WVhSdmNrRnpRMmhoY21GamRHVnlMbUk5Wm1Gc2MyVUtjMUJ5
+WldabGNtVnVZMlZNYVc1bFUyVndZWEpoZEc5eVVtVndiR0ZqWlcxbGJuUTlKREJoSkFwaVVISmxabVZ5Wlc1alpWSmxjR3hoWTJWT2IwSnlaV0ZyU0hsd2FHVnVWR0ZuTG1JOWRISjFaUXBpVUhKbFpt
+VnlaVzVqWlVsbmJtOXlaVk52Wm5SSWVYQm9aVzVVWVdjdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFFXUmtWR0ZpUVhORGFHRnlZV04wWlhJdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpVRm5aM0ps
+YzNOcGRtVkRiR1ZoYm5Wd0xtSTlkSEoxWlFwaVVISmxabVZ5Wlc1alpVRjFkRzl0WVhScFkyRnNiSGxCWTJObGNIUlNaWFpwYzJsdmJuTXVZajEwY25WbENtSlFjbVZtWlhKbGJtTmxVRzkzWlhKd2Iy
+bHVkRWx1WTJ4MVpHVmtVMnhwWkdWT2RXMWlaWEp6VDI1c2VTNWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxSWGhqWld4RWFXRm5jbUZ0UkdGMFlTNWlQV1poYkhObENtSlFjbVZt
+WlhKbGJtTmxWSEpoYm5Oc1lYUmxSWGhqWld4RWNtRjNhVzVuY3k1aVBXWmhiSE5sQ25OMVltWnBiSFJsY2owS1lrbHVSWGhqYkhWa1pVMXZaR1V1WWoxMGNuVmxDbUpKYmtWNFkyeDFaR1ZJYVdkb2JH
+bG5hSFJOYjJSbExtSTlkSEoxWlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWZHZjbVJGZUdOc2RXUmxRMjlzYjNKekxtSTlabUZzYzJVS1lsSmxiM0prWlhKUWIzZGxjbkJ2YVc1MFRtOTBaWE5C
+Ym1SRGIyMXRaVzUwY3k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q25SelEyOXRjR3hsZUVacFpXeGtSR1ZtYVc1cGRHbHZibk5VYjBWNGRISmhZM1F1YVQweENt
+Tm1aREE5U0ZsUVJWSk1TVTVMQ25SelJYaGpaV3hGZUdOc2RXUmxaRU52Ykc5eWN5NXBQVEFLZEhORmVHTmxiRVY0WTJ4MVpHVmtRMjlzZFcxdWN5NXBQVEFLZEhORmVHTnNkV1JsVjI5eVpGTjBlV3hs
+Y3k1cFBUQUtkSE5YYjNKa1NHbG5hR3hwWjJoMFEyOXNiM0p6TG1rOU1BcDBjMWR2Y21SRmVHTnNkV1JsWkVOdmJHOXljeTVwUFRBS2RITlFiM2RsY25CdmFXNTBTVzVqYkhWa1pXUlRiR2xrWlU1MWJX
+Smxjbk11YVQwdzwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="de-DE">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Onsite placements!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="nl-NL">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Onsite placements!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">en-GB</source>
+<target xml:lang="nl-NL">en-GB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Onsite placements!C1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_character_limit</source>
+<target xml:lang="nl-NL">cell_character_limit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Onsite placements!A2" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Market</source>
+<target xml:lang="nl-NL">Market</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" resname="Onsite placements!A10" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Language</source>
+<target xml:lang="nl-NL">Language</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="Onsite placements!A11" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Perferred Brand/Partner Name </source>
+<target xml:lang="nl-NL">Perferred Brand/Partner Name </target>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" resname="Onsite placements!B11" xml:space="preserve" help-id="4838441347">
+<source xml:lang="en-GB">Visit Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">Visit Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Visit Glasgow</mrk></target>
+<count-group name="P147242AB-tu7"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.34</count></count-group>
+<note>Perferred Brand/Partner Name </note>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="Onsite placements!A12" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Homepage Hero</source>
+<target xml:lang="nl-NL">Homepage Hero</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Onsite placements!A13" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline</source>
+<target xml:lang="nl-NL">Headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" maxwidth="50" resname="Onsite placements!B13" size-unit="char" xml:space="preserve" help-id="4838441348">
+<source xml:lang="en-GB">Glasgow – the perfect mix of city and nature</source>
+<seg-source><mrk mid="0" mtype="seg">Glasgow – the perfect mix of city and nature</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Glasgow&#160;– wo Stadt und Natur perfekt verschmelzen</mrk></target>
+<count-group name="P147242AB-tu10"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.36</count></count-group>
+<note>Headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Onsite placements!A14" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Call to Action Button Text</source>
+<target xml:lang="nl-NL">Call to Action Button Text</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" maxwidth="18" resname="Onsite placements!B14" size-unit="char" xml:space="preserve" help-id="4838441349">
+<source xml:lang="en-GB">Learn more</source>
+<seg-source><mrk mid="0" mtype="seg">Learn more</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Mehr erfahren</mrk></target>
+<count-group name="P147242AB-tu12"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>Call to Action Button Text</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Onsite placements!A15" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Brand Banner</source>
+<target xml:lang="nl-NL">Brand Banner</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Onsite placements!A16" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline</source>
+<target xml:lang="nl-NL">Headline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" maxwidth="30" resname="Onsite placements!B16" size-unit="char" xml:space="preserve" help-id="4838441350">
+<source xml:lang="en-GB">Make memories in Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">Make memories in Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Unvergessliches Glasgow</mrk></target>
+<count-group name="P147242AB-tu15"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.68</count></count-group>
+<note>Headline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="Onsite placements!A17" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Subheadline</source>
+<target xml:lang="nl-NL">Subheadline</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" maxwidth="110" resname="Onsite placements!B17" size-unit="char" xml:space="preserve" help-id="4838441351">
+<source xml:lang="en-GB">Uncover a city bursting with character and the warmest of welcomes</source>
+<seg-source><mrk mid="0" mtype="seg">Uncover a city bursting with character and the warmest of welcomes</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Entdecke eine Stadt voller Charakter und herzlicher Gastfreundschaft</mrk></target>
+<count-group name="P147242AB-tu17"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">7.37</count></count-group>
+<note>Subheadline</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="Onsite placements!A18" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Call to Action Button Text</source>
+<target xml:lang="nl-NL">Call to Action Button Text</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" maxwidth="20" resname="Onsite placements!B18" size-unit="char" xml:space="preserve" help-id="4838441352">
+<source xml:lang="en-GB">Discover more</source>
+<seg-source><mrk mid="0" mtype="seg">Discover more</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Mehr entdecken</mrk></target>
+<count-group name="P147242AB-tu19"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<note>Call to Action Button Text</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="Onsite placements!A19" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">City guide</source>
+<target xml:lang="nl-NL">City guide</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Onsite placements!A20" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Headline Recommended 40-45 characters</source>
+<target xml:lang="nl-NL">Headline Recommended 40-45 characters</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="Onsite placements!B20" xml:space="preserve" help-id="4838441353">
+<source xml:lang="en-GB">The warmest welcome awaits in Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">The warmest welcome awaits in Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Der wärmste Empfang erwartet dich in Glasgow</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.01</count></count-group>
+<note>Headline Recommended 40-45 characters</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Onsite placements!A21" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Subheadline Recommended 150-200 characters. </source>
+<target xml:lang="nl-NL">Subheadline Recommended 150-200 characters. </target>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="Onsite placements!B21" xml:space="preserve" help-id="4838441354">
+<source xml:lang="en-GB">Discover Scotland in Glasgow – the perfect mix of city and countryside  </source>
+<seg-source><mrk mid="0" mtype="seg">Discover Scotland in Glasgow – the perfect mix of city and countryside</mrk>  </seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Entdecke Schottland in Glasgow&#160;– die perfekte Mischung aus Stadt und Land</mrk></target>
+<count-group name="P147242AB-tu24"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">7.37</count></count-group>
+<note>Subheadline Recommended 150-200 characters. </note>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="Onsite placements!A22" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Intro No max - truncated after 335 characters</source>
+<target xml:lang="nl-NL">Intro No max - truncated after 335 characters</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" resname="Onsite placements!B22" xml:space="preserve" help-id="4838441355">
+<source xml:lang="en-GB">Walk through Glasgow and you’ll feel something special. The streets are full of music, good food, and friendly faces. The city is busy, but it never feels too much. There are parks to play in, riverside paths to wander, and quiet spots to take a break. You can visit amazing museums, enjoy fun events all year, and even see Highland cows without leaving the city. Glasgow sticks with you. Every corner has a story waiting. 
+
+Glasgow is also a great place to start exploring Scotland. The city is full of energy, and the countryside is close by. Loch Lomond’s calm waters, the Isle of Arran’s wild paths, and the beaches of Ayrshire and Argyll are all easy day trips. From Glasgow, big adventures are never far away. </source>
+<seg-source><mrk mid="0" mtype="seg">Walk through Glasgow and you’ll feel something special. The streets are full of music, good food, and friendly faces. The city is busy, but it never feels too much. There are parks to play in, riverside paths to wander, and quiet spots to take a break. You can visit amazing museums, enjoy fun events all year, and even see Highland cows without leaving the city. Glasgow sticks with you. Every corner has a story waiting. 
+
+Glasgow is also a great place to start exploring Scotland. The city is full of energy, and the countryside is close by. Loch Lomond’s calm waters, the Isle of Arran’s wild paths, and the beaches of Ayrshire and Argyll are all easy day trips. From Glasgow, big adventures are never far away.</mrk> </seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Spaziere durch Glasgow und spüre den besonderen Zauber dieser Stadt. Auf den Straßen erklingt Musik, das Essen ist gut und die Gesichter sind freundlich. Die Stadt ist zwar quirlig, aber nicht so sehr, dass es dich überwältigt. Es gibt Parks zum Spielen, Pfade am Flussufer, die perfekt für einen Spaziergang sind, und ruhige Fleckchen für eine Pause. Du kannst atemberaubende Museen besuchen, das ganze Jahr über tolle Veranstaltungen entdecken und sogar Hochlandrinder beobachten, ohne die Stadt zu verlassen. Glasgow ist ein Ort, der im Herzen bleibt&#160;– und an jeder Ecke wartet eine neue Geschichte.&#10;&#10;Glasgow ist auch ein toller Ausgangspunkt, um Schottland zu erkunden. Die Stadt steckt voller Energie, und auch die ländlichen Regionen sind gut zu erreichen. Egal, ob die ruhigen Wasser des Loch Lomond, die wilden Pfade der Isle of Arran oder die Strände von Ayrshire und Argyll: All diese zauberhaften Orte kannst du bei einem Tagesausflug ab Glasgow kennenlernen&#160;– denn von hier aus sind große Abenteuer nie weit weg.</mrk></target>
+<count-group name="P147242AB-tu26"><count count-type="x-matecat-raw">128</count><count count-type="x-matecat-weighted">85.76</count></count-group>
+<note>Intro No max - truncated after 335 characters</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="Onsite placements!A23" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Article 1 headline Recommended 30-40 characters. </source>
+<target xml:lang="nl-NL">Article 1 headline Recommended 30-40 characters. </target>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" resname="Onsite placements!B23" xml:space="preserve" help-id="4838441356">
+<source xml:lang="en-GB">Experience Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">Experience Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Erlebe Glasgow</mrk></target>
+<count-group name="P147242AB-tu28"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.34</count></count-group>
+<note>Article 1 headline Recommended 30-40 characters. </note>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="Onsite placements!A24" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Article 1 description  Recommended up to 100 characters</source>
+<target xml:lang="nl-NL">Article 1 description  Recommended up to 100 characters</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" resname="Onsite placements!B24" xml:space="preserve" help-id="4838441357">
+<source xml:lang="en-GB">Uncover a city bursting with character and the warmest of welcomes</source>
+<seg-source><mrk mid="0" mtype="seg">Uncover a city bursting with character and the warmest of welcomes</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Entdecke eine Stadt voller Charakter und herzlicher Gastfreundschaft</mrk></target>
+<count-group name="P147242AB-tu30"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">3.3</count></count-group>
+<note>Article 1 description  Recommended up to 100 characters</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="Onsite placements!A25" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Article 2 headline Recommended 30-40 characters. </source>
+<target xml:lang="nl-NL">Article 2 headline Recommended 30-40 characters. </target>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" resname="Onsite placements!B25" xml:space="preserve" help-id="4838441358">
+<source xml:lang="en-GB">Explore Scotland</source>
+<seg-source><mrk mid="0" mtype="seg">Explore Scotland</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Entdecke Schottland</mrk></target>
+<count-group name="P147242AB-tu32"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.34</count></count-group>
+<note>Article 2 headline Recommended 30-40 characters. </note>
+</trans-unit>
+<trans-unit id="P147242AB-tu33" resname="Onsite placements!A26" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Article 2 description  Recommended up to 100 characters</source>
+<target xml:lang="nl-NL">Article 2 description  Recommended up to 100 characters</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu34" resname="Onsite placements!B26" xml:space="preserve" help-id="4838441359">
+<source xml:lang="en-GB">Find stories round every corner</source>
+<seg-source><mrk mid="0" mtype="seg">Find stories round every corner</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Finde an jeder Ecke spannende Geschichten</mrk></target>
+<count-group name="P147242AB-tu34"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.35</count></count-group>
+<note>Article 2 description  Recommended up to 100 characters</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu35" resname="Onsite placements!A27" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu36" resname="Onsite placements!B27" xml:space="preserve" help-id="4838441360">
+<source xml:lang="en-GB">Barrowlands, Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">Barrowlands, Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Barrowlands, Glasgow</mrk></target>
+<count-group name="P147242AB-tu36"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.34</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu37" resname="Onsite placements!A28" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu38" resname="Onsite placements!B28" xml:space="preserve" help-id="4838441361">
+<source xml:lang="en-GB">Crossbasket Castle Hotel</source>
+<seg-source><mrk mid="0" mtype="seg">Crossbasket Castle Hotel</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Hotel Crossbasket Castle</mrk></target>
+<count-group name="P147242AB-tu38"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">2</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu39" resname="Onsite placements!A29" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu40" resname="Onsite placements!B29" xml:space="preserve" help-id="4838441362">
+<source xml:lang="en-GB">World Pipe Band Championships, Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">World Pipe Band Championships, Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Weltmeisterschaften der Dudelsackkapellen, Glasgow</mrk></target>
+<count-group name="P147242AB-tu40"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.35</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu41" resname="Onsite placements!A30" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu42" resname="Onsite placements!B30" xml:space="preserve" help-id="4838441363">
+<source xml:lang="en-GB">Conic Hill, Loch Lomond &amp; The Trossachs National Park</source>
+<seg-source><mrk mid="0" mtype="seg">Conic Hill, Loch Lomond &amp; The Trossachs National Park</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Conic Hill, Loch Lomond&#160;&amp; The Trossachs National Park</mrk></target>
+<count-group name="P147242AB-tu42"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.36</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu43" resname="Onsite placements!A31" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu44" resname="Onsite placements!B31" xml:space="preserve" help-id="4838441364">
+<source xml:lang="en-GB">Kelvingrove Art Gallery and Museum, Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">Kelvingrove Art Gallery and Museum, Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Kelvingrove Art Gallery and Museum, Glasgow</mrk></target>
+<count-group name="P147242AB-tu44"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu45" resname="Onsite placements!A32" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu46" resname="Onsite placements!B32" xml:space="preserve" help-id="4838441365">
+<source xml:lang="en-GB">Sloans, Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">Sloans, Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Sloans, Glasgow</mrk></target>
+<count-group name="P147242AB-tu46"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.34</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu47" resname="Onsite placements!A33" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu48" resname="Onsite placements!B33" xml:space="preserve" help-id="4838441366">
+<source xml:lang="en-GB">Machrie Moor Standing Stones, Isle of Arran</source>
+<seg-source><mrk mid="0" mtype="seg">Machrie Moor Standing Stones, Isle of Arran</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Machrie Moor Standing Stones, Isle of Arran</mrk></target>
+<count-group name="P147242AB-tu48"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.69</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu49" resname="Onsite placements!A34" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu50" resname="Onsite placements!B34" xml:space="preserve" help-id="4838441367">
+<source xml:lang="en-GB">The Kelpies at Helix Park, Falkirk</source>
+<seg-source><mrk mid="0" mtype="seg">The Kelpies at Helix Park, Falkirk</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">The Kelpies im Helix Park, Falkirk</mrk></target>
+<count-group name="P147242AB-tu50"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">4.01</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu51" resname="Onsite placements!A35" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Image caption</source>
+<target xml:lang="nl-NL">Image caption</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu52" resname="Onsite placements!B35" xml:space="preserve" help-id="4838441368">
+<source xml:lang="en-GB">Dram!, Glasgow</source>
+<seg-source><mrk mid="0" mtype="seg">Dram!, Glasgow</mrk></seg-source>
+<target  xml:lang="de-DE" state="signed-off"><mrk mid="0" mtype="seg">Dram!, Glasgow</mrk></target>
+<count-group name="P147242AB-tu52"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<note>Image caption</note>
+</trans-unit>
+</body>
+</file>
+</xliff>

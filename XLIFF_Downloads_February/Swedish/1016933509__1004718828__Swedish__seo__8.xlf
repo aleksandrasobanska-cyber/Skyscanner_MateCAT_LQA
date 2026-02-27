@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="cD7xWt35TR.jsont2" source-language="en-GB" target-language="sv-SE" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6IjdkOTAwODhmZDVkNzljZGJjZWQ3Y2ZlNzFhYWM2MWUyMzkxODE3ZDE4YmMwYWIyMzA5OWI4ZjM2YmUzOWZlNDgiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNi0wMi0wMy0xNTo1Nzo0
+MSIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl9zZW9fMDNfMDJfMjAyNiIsImluc3RydWN0aW9ucyI6bnVsbCwic3R5bGVndWlkZSI6bnVsbCwicmVmZXJlbmNlcyI6bnVsbCwicmVxdWVzdHMiOlt7
+ImlkX3JlcXVlc3QiOjI5MjI4ODc0LCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2Rlc3RpbmF0aW9uX2h1Yl9iYW5uZXJfdGl0bGVfcmVnaW9uIiwiY29udGVudF90eXBlIjoi
+dGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJAQG9yaWdpbl9yZWdpb25AQDogcGxhbiB5b3VyIHRyaXAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3Bl
+ciBDb21tZW50Jmx0Oy9oMSZndDtcblNFTyBjb21wb25lbnQvZmVhdHVyZTogRGVzdGluYXRpb24gSHViIEJhbm5lclxyXG5cblBhZ2UgdHlwZTogY2FyLWhpcmVcclxuXG5LZXl3b3JkczogRGVzdGlu
+YXRpb24gSHViIEJhbm5lciBUaXRsZVxyXG5cbkNvbnRleHQ6IERlc3RpbmF0aW9uIEh1YiBCYW5uZXIgY29tcG9uZW50IHRpdGxlIGluIGNhci1oaXJlIHBhZ2VcclxuXG5Db25mbHVlbmNlIHBhZ2U6
+IGh0dHBzOi8vc2t5c2Nhbm5lci5hdGxhc3NpYW4ubmV0L3dpa2kvc3BhY2VzL0FUVC9wYWdlcy8xNDA2Njk3ODI4L0NhcitIaXJlK2luK0FpcnBvcnQrTm9ydGgrU3RhcistKzFzdCtJdGVyYXRpb24r
+UTMrMjAyNVxyXG5cblRoZSBsYW5ndWFnZXMgYXJlOiBkZS1kZSwgZnItZnIsIGl0LWl0LCBlcy1lcywgbmwtbmwsIHB0LWJyLCBrby1rciBhbmQgamEtanBcbiIsInNjcmVlbnNob3QiOiJodHRwczov
+L2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvN2Q5MDA4OGZkNWQ3OWNkYmNlZDdjZmU3MWFhYzYxZTIzOTE4MTdkMThiYzBhYjIzMDk5YjhmMzZiZTM5ZmU0OC8yOTIyODg3NC9zY3JlZW5zaG90
+LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjI4OTE0LCJpZF9jb250ZW50IjoiZmFsY29uX2Nhcl9oaXJlL2Nhcl9oaXJlX2Rlc3RpbmF0aW9uX2h1Yl9iYW5uZXJfQ1RBX3JlZ2lvbiIsImNvbnRlbnRf
+dHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiR28gdG8gQEBvcmlnaW5fcmVnaW9uQEAgZ3VpZGUiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVs
+b3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblNFTyBjb21wb25lbnQvZmVhdHVyZTogRGVzdGluYXRpb24gSHViIEJhbm5lclxyXG5cblBhZ2UgdHlwZTogY2FyLWhpcmVcclxuXG5LZXl3b3JkczogRGVz
+dGluYXRpb24gSHViIEJhbm5lciBDVEEgXHJcblxuQ29udGV4dDogRGVzdGluYXRpb24gSHViIEJhbm5lciBjb21wb25lbnQgdGl0bGUgaW4gY2FyLWhpcmUgcGFnZVxyXG5cbkNvbmZsdWVuY2UgcGFn
+ZTogaHR0cHM6Ly9za3lzY2FubmVyLmF0bGFzc2lhbi5uZXQvd2lraS9zcGFjZXMvQVRUL3BhZ2VzLzE0MDY2OTc4MjgvQ2FyK0hpcmUraW4rQWlycG9ydCtOb3J0aCtTdGFyKy0rMXN0K0l0ZXJhdGlv
+bitRMysyMDI1XHJcblxuVGhlIGxhbmd1YWdlcyBhcmU6IGRlLWRlLCBmci1mciwgaXQtaXQsIGVzLWVzLCBubC1ubCwgcHQtYnIsIGtvLWtyIGFuZCBqYS1qcFxuIiwic2NyZWVuc2hvdCI6Imh0dHBz
+Oi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC83ZDkwMDg4ZmQ1ZDc5Y2RiY2VkN2NmZTcxYWFjNjFlMjM5MTgxN2QxOGJjMGFiMjMwOTliOGYzNmJlMzlmZTQ4LzI5MjI4OTE0L3NjcmVlbnNo
+b3QudXJsIn19XX1d</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="sv-SE" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUYyQkJCNiIgcGFja2FnZUlk
+PSIwNzU4YWQ3MS00YjQ5LTQyOWUtYmYwMy01M2M3ZTQ4YmE4ZDgiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ic3YtU0UiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDMgMTc6NTg6MzQrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJjRDd4V3QzNVRSLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9ImNEN3hXdDM1VFIub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2026-02-03-15:57:41" mtc:id-order-group="handoff_seo_03_02_2026" original="7d90088fd5d79cdbced7cfe71aac61e2391817d18bc0ab23099b8f36be39fe48" source-language="en-GB" target-language="sv-SE">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4836158911">
+<source xml:lang="en-GB">@@origin_region@@: plan your trip</source>
+<seg-source><mrk mid="0" mtype="seg">@@origin_region@@: plan your trip</mrk></seg-source>
+<target  xml:lang="sv-SE" state="signed-off"><mrk mid="0" mtype="seg">@@origin_region@@: planera din resa</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29228874</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_destination_hub_banner_title_region</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_destination_hub_banner_title_region</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: Destination Hub Banner
+
+Page type: car-hire
+
+Keywords: Destination Hub Banner Title
+
+Context: Destination Hub Banner component title in car-hire page
+
+Confluence page: https://skyscanner.atlassian.net/wiki/spaces/ATT/pages/1406697828/Car+Hire+in+Airport+North+Star+-+1st+Iteration+Q3+2025
+
+The languages are: de-de, fr-fr, it-it, es-es, nl-nl, pt-br, ko-kr and ja-jp
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/7d90088fd5d79cdbced7cfe71aac61e2391817d18bc0ab23099b8f36be39fe48/29228874/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4836158912">
+<source xml:lang="en-GB">Go to @@origin_region@@ guide</source>
+<seg-source><mrk mid="0" mtype="seg">Go to @@origin_region@@ guide</mrk></seg-source>
+<target  xml:lang="sv-SE" state="signed-off"><mrk mid="0" mtype="seg">Gå till @@origin_region@@-guiden</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29228914</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_destination_hub_banner_CTA_region</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_destination_hub_banner_CTA_region</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: Destination Hub Banner
+
+Page type: car-hire
+
+Keywords: Destination Hub Banner CTA 
+
+Context: Destination Hub Banner component title in car-hire page
+
+Confluence page: https://skyscanner.atlassian.net/wiki/spaces/ATT/pages/1406697828/Car+Hire+in+Airport+North+Star+-+1st+Iteration+Q3+2025
+
+The languages are: de-de, fr-fr, it-it, es-es, nl-nl, pt-br, ko-kr and ja-jp
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/7d90088fd5d79cdbced7cfe71aac61e2391817d18bc0ab23099b8f36be39fe48/29228914/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

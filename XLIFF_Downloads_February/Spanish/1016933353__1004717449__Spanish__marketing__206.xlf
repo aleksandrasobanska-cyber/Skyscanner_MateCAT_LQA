@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2"  xmlns:mtc="https://www.matecat.com">
+<file datatype="x-xlsx" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="Turkey-2026-IT-and-ES-Translation.xlsx" source-language="en-GB" target-language="es-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">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
+UEsFBgAAAAAMAAwA/wIAAIstAAAAAA==</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.ExtendedExcelFilter" original="manifest.rkm" source-language="en-GB" target-language="es-ES" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTdFRDAyQSIgcGFja2FnZUlk
+PSI0MTIyZmVjMy0yYzZhLTQ1MTItYTkxMS05NmJmYjAxZmFmOGQiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0ia28tS1IiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDMgMTU6NTI6MjErMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJUdXJrZXktMjAyNi1JVC1hbmQtRVMtVHJhbnNsYXRpb24ueGxzeCIgZmlsdGVySWQ9
+Im9rZl9vcGVueG1sIiBpbnB1dEVuY29kaW5nPSJVVEYtOCIgcmVsYXRpdmVUYXJnZXRQYXRoPSJUdXJrZXktMjAyNi1JVC1hbmQtRVMtVHJhbnNsYXRpb24ub3V0Lnhsc3giIHRhcmdldEVuY29kaW5n
+PSJVVEYtOCIgc2VsZWN0ZWQ9IjEiPkkzWXhDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsUkc5alVISnZjR1Z5ZEdsbGN5NWlQV1poYkhObENtSlFjbVZtWlhKbGJtTmxWSEpoYm5Oc1lYUmxRMjl0
+YldWdWRITXVZajFtWVd4elpRcGlVSEpsWm1WeVpXNWpaVlJ5WVc1emJHRjBaVkJ2ZDJWeWNHOXBiblJPYjNSbGN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVkyVlVjbUZ1YzJ4aGRHVlFiM2RsY25CdmFX
+NTBUV0Z6ZEdWeWN5NWlQWFJ5ZFdVS1lsQnlaV1psY21WdVkyVkpaMjV2Y21WUWJHRmpaV2h2YkdSbGNuTkpibEJ2ZDJWeWNHOXBiblJOWVhOMFpYSnpMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZV
+Y21GdWMyeGhkR1ZYYjNKa1NHVmhaR1Z5YzBadmIzUmxjbk11WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sVkhKaGJuTnNZWFJsVjI5eVpFaHBaR1JsYmk1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZI
+Smhibk5zWVhSbFYyOXlaRVY0WTJ4MVpHVkhjbUZ3YUdsalRXVjBZVVJoZEdFdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpWQnZkMlZ5Y0c5cGJuUklhV1JrWlc0dVlqMW1ZV3h6
+WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzU0dsa1pHVnVMbUk5Wm1Gc2MyVUtZbEJ5WldabGNtVnVZMlZVY21GdWMyeGhkR1ZGZUdObGJFVjRZMngxWkdWRGIyeHZjbk11WWoxbVlX
+eHpaUXBpVUhKbFptVnlaVzVqWlZSeVlXNXpiR0YwWlVWNFkyVnNSWGhqYkhWa1pVTnZiSFZ0Ym5NdVlqMW1ZV3h6WlFwaVVISmxabVZ5Wlc1alpWUnlZVzV6YkdGMFpVVjRZMlZzVTJobFpYUk9ZVzFs
+Y3k1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFFXUmtUR2x1WlZObGNHRnlZWFJ2Y2tGelEyaGhjbUZqZEdWeUxtSTlabUZzYzJVS2MxQnlaV1psY21WdVkyVk1hVzVsVTJWd1lYSmhkRzl5VW1Wd2JH
+RmpaVzFsYm5ROUpEQmhKQXBpVUhKbFptVnlaVzVqWlZKbGNHeGhZMlZPYjBKeVpXRnJTSGx3YUdWdVZHRm5MbUk5ZEhKMVpRcGlVSEpsWm1WeVpXNWpaVWxuYm05eVpWTnZablJJZVhCb1pXNVVZV2N1
+WWoxMGNuVmxDbUpRY21WbVpYSmxibU5sUVdSa1ZHRmlRWE5EYUdGeVlXTjBaWEl1WWoxbVlXeHpaUXBpVUhKbFptVnlaVzVqWlVGblozSmxjM05wZG1WRGJHVmhiblZ3TG1JOWRISjFaUXBpVUhKbFpt
+VnlaVzVqWlVGMWRHOXRZWFJwWTJGc2JIbEJZMk5sY0hSU1pYWnBjMmx2Ym5NdVlqMTBjblZsQ21KUWNtVm1aWEpsYm1ObFVHOTNaWEp3YjJsdWRFbHVZMngxWkdWa1UyeHBaR1ZPZFcxaVpYSnpUMjVz
+ZVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJYaGpaV3hFYVdGbmNtRnRSR0YwWVM1aVBXWmhiSE5sQ21KUWNtVm1aWEpsYm1ObFZISmhibk5zWVhSbFJYaGpaV3hFY21GM2FX
+NW5jeTVpUFdaaGJITmxDbk4xWW1acGJIUmxjajBLWWtsdVJYaGpiSFZrWlUxdlpHVXVZajEwY25WbENtSkpia1Y0WTJ4MVpHVklhV2RvYkdsbmFIUk5iMlJsTG1JOWRISjFaUXBpVUhKbFptVnlaVzVq
+WlZSeVlXNXpiR0YwWlZkdmNtUkZlR05zZFdSbFEyOXNiM0p6TG1JOVptRnNjMlVLWWxKbGIzSmtaWEpRYjNkbGNuQnZhVzUwVG05MFpYTkJibVJEYjIxdFpXNTBjeTVpUFdaaGJITmxDbTkxZEhCMWRG
+TmxaMjFsYm5SaGRHbHZibFI1Y0dVdWFUMHpDblJ6UTI5dGNHeGxlRVpwWld4a1JHVm1hVzVwZEdsdmJuTlViMFY0ZEhKaFkzUXVhVDB4Q21ObVpEQTlTRmxRUlZKTVNVNUxDblJ6UlhoalpXeEZlR05z
+ZFdSbFpFTnZiRzl5Y3k1cFBUQUtkSE5GZUdObGJFVjRZMngxWkdWa1EyOXNkVzF1Y3k1cFBUQUtkSE5GZUdOc2RXUmxWMjl5WkZOMGVXeGxjeTVwUFRBS2RITlhiM0prU0dsbmFHeHBaMmgwUTI5c2Iz
+SnpMbWs5TUFwMGMxZHZjbVJGZUdOc2RXUmxaRU52Ykc5eWN5NXBQVEFLZEhOUWIzZGxjbkJ2YVc1MFNXNWpiSFZrWldSVGJHbGtaVTUxYldKbGNuTXVhVDB3PC9kb2M+CjwvbWFuaWZlc3Q+</internal-file></reference></header><body/></file>
+<file datatype="x-undefined" original="xl/sharedStrings.xml" source-language="en-GB" target-language="es-ES">
+<body>
+<trans-unit id="P147242AB-tu1" resname="Sheet1!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_character_limit</source>
+<target xml:lang="ko-KR">cell_character_limit</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu2" resname="Sheet1!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="ko-KR">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu3" resname="Sheet1!C1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">EN</source>
+<target xml:lang="ko-KR">EN</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu4" resname="Sheet1!B2" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">500 characters (including spaces, sentence case only).</source>
+<target xml:lang="ko-KR">500 characters (including spaces, sentence case only).</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu5" maxwidth="500" resname="Sheet1!C2" size-unit="char" xml:space="preserve" help-id="4836063533">
+<source xml:lang="en-GB">There isn’t a city on Earth like İstanbul. A giant melting pot between East and West, the jewel of the Bosphorus brings together spectacular, world-class food, a charming, old-world cafe culture, vibrant, thronging nightlife and thousands of years of the most storied culture and civilisation.</source>
+<seg-source><mrk mid="0" mtype="seg">There isn’t a city on Earth like İstanbul. A giant melting pot between East and West, the jewel of the Bosphorus brings together spectacular, world-class food, a charming, old-world cafe culture, vibrant, thronging nightlife and thousands of years of the most storied culture and civilisation.</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Estambul es la joya del Bósforo: un destino único, a caballo entre Oriente y Occidente, con una gastronomía espectacular, encantadores cafés del viejo mundo, una animada vida nocturna, y una cultura y civilización milenarias.</mrk></target>
+<count-group name="P147242AB-tu5"><count count-type="x-matecat-raw">46</count><count count-type="x-matecat-weighted">27.6</count></count-group>
+<note>500 characters (including spaces, sentence case only).</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu6" resname="Sheet1!B3" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">15 characters (including spaces, sentence case only).</source>
+<target xml:lang="ko-KR">15 characters (including spaces, sentence case only).</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu7" maxwidth="15" resname="Sheet1!C3" size-unit="char" xml:space="preserve" help-id="4836063534">
+<source xml:lang="en-GB">
+Discover more about İstanbul</source>
+<seg-source><mrk mid="0" mtype="seg">
+Discover more about İstanbul</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Más de Estambul</mrk></target>
+<count-group name="P147242AB-tu7"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<note>15 characters (including spaces, sentence case only).</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu8" resname="Sheet1!C4" xml:space="preserve" help-id="4836063535">
+<source xml:lang="en-GB">Take a closer look at Türkiye</source>
+<seg-source><mrk mid="0" mtype="seg">Take a closer look at Türkiye</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Conoce Türkiye a fondo</mrk></target>
+<count-group name="P147242AB-tu8"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu9" resname="Sheet1!C5" xml:space="preserve" help-id="4836063536">
+<source xml:lang="en-GB">Explore more</source>
+<seg-source><mrk mid="0" mtype="seg">Explore more</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Explora más</mrk></target>
+<count-group name="P147242AB-tu9"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu10" resname="Social copy!A1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">cell_notes</source>
+<target xml:lang="ko-KR">cell_notes</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu11" resname="Social copy!B1" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">en-GB</source>
+<target xml:lang="ko-KR">en-GB</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu12" resname="Social copy!A2" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">This will be used in the "In partnership with..." line on the ad. 
+
+e.g. Visit Destination / Tourism Destination</source>
+<target xml:lang="ko-KR">This will be used in the "In partnership with..." line on the ad. 
+
+e.g. Visit Destination / Tourism Destination</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu13" resname="Social copy!B2" xml:space="preserve" help-id="4836063537">
+<source xml:lang="en-GB">GoTürkiye</source>
+<seg-source><mrk mid="0" mtype="seg">GoTürkiye</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">GoTürkiye</mrk></target>
+<count-group name="P147242AB-tu13"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.67</count></count-group>
+<note>This will be used in the "In partnership with..." line on the ad. 
+
+e.g. Visit Destination / Tourism Destination</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu14" resname="Social copy!A3" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu15" resname="Social copy!B3" xml:space="preserve" help-id="4836063538">
+<source xml:lang="en-GB">From exploring a moon-scaped fairy land in Cappadocia to wild camping under the stars in the Kaçkar Mountains, it’s time to take a closer look at what’s possible in Türkiye.</source>
+<seg-source><mrk mid="0" mtype="seg">From exploring a moon-scaped fairy land in Cappadocia to wild camping under the stars in the Kaçkar Mountains, it’s time to take a closer look at what’s possible in Türkiye.</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Desde los mágicos paisajes lunares de Capadocia hasta las noches bajo las estrellas en las montañas Kaçkar: en Türkiye te espera todo un mundo de posibilidades.</mrk></target>
+<count-group name="P147242AB-tu15"><count count-type="x-matecat-raw">30</count><count count-type="x-matecat-weighted">20.1</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu16" resname="Social copy!A4" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu17" resname="Social copy!B4" xml:space="preserve" help-id="4836063539">
+<source xml:lang="en-GB">Take a closer look at Türkiye</source>
+<seg-source><mrk mid="0" mtype="seg">Take a closer look at Türkiye</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Conoce Türkiye a fondo</mrk></target>
+<count-group name="P147242AB-tu17"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu18" resname="Social copy!A5" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu19" resname="Social copy!B5" xml:space="preserve" help-id="4836063540">
+<source xml:lang="en-GB">A world of experiences in a country like no other.</source>
+<seg-source><mrk mid="0" mtype="seg">A world of experiences in a country like no other.</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Todo un mundo de experiencias en un país único.</mrk></target>
+<count-group name="P147242AB-tu19"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu20" resname="Social copy!A6" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu21" resname="Social copy!B6" xml:space="preserve" help-id="4836063541">
+<source xml:lang="en-GB">Blending spectacular food, vibrant nightlife and thousands of years of storied culture, the jewel of the Bosphorus straddles two continents to create one of the world’s great cities.</source>
+<seg-source><mrk mid="0" mtype="seg">Blending spectacular food, vibrant nightlife and thousands of years of storied culture, the jewel of the Bosphorus straddles two continents to create one of the world’s great cities.</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">La joya del Bósforo es una de las grandes ciudades del planeta. Además de cruzar dos continentes, ofrece una gastronomía espectacular, una animada vida nocturna y una cultura milenaria.</mrk></target>
+<count-group name="P147242AB-tu21"><count count-type="x-matecat-raw">28</count><count count-type="x-matecat-weighted">18.76</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu22" resname="Social copy!B7" xml:space="preserve" help-id="4836063542">
+<source xml:lang="en-GB">Discover where East meets West in İstanbul</source>
+<seg-source><mrk mid="0" mtype="seg">Discover where East meets West in İstanbul</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Estambul: la unión entre Oriente y Occidente</mrk></target>
+<count-group name="P147242AB-tu22"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.69</count></count-group>
+</trans-unit>
+<trans-unit id="P147242AB-tu23" resname="Social copy!A8" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu24" resname="Social copy!B8" xml:space="preserve" help-id="4836063543">
+<source xml:lang="en-GB">A world where East meets West</source>
+<seg-source><mrk mid="0" mtype="seg">A world where East meets West</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Un mundo a caballo entre Oriente y Occidente</mrk></target>
+<count-group name="P147242AB-tu24"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu25" resname="Social copy!A9" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu26" resname="Social copy!B9" xml:space="preserve" help-id="4836063544">
+<source xml:lang="en-GB">Explore a city that’s like nowhere else on Earth</source>
+<seg-source><mrk mid="0" mtype="seg">Explore a city that’s like nowhere else on Earth</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Explora una ciudad única en el mundo</mrk></target>
+<count-group name="P147242AB-tu26"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">6.03</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu27" resname="Social copy!A10" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu28" resname="Social copy!B10" xml:space="preserve" help-id="4836063545">
+<source xml:lang="en-GB">Known as ‘beautiful İzmir’, this majestic stretch of coastline is a mix of picturesque modernity and UNESCO World Heritage Sites. Boats bob in quiet bays, tree-lined streets host the freshest seafood and windsurfers chase waves across azure waters. </source>
+<seg-source><mrk mid="0" mtype="seg">Known as ‘beautiful İzmir’, this majestic stretch of coastline is a mix of picturesque modernity and UNESCO World Heritage Sites. </mrk><mrk mid="1" mtype="seg">Boats bob in quiet bays, tree-lined streets host the freshest seafood and windsurfers chase waves across azure waters. </mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Este majestuoso litoral, la «bella Esmirna», fusiona modernidad de postal con enclaves Patrimonio de la Humanidad por la Unesco. </mrk><mrk mid="1" mtype="seg">Embarcaciones meciéndose en calas tranquilas, calles arboladas donde disfrutar del marisco más fresco, y·windsurf en aguas turquesa.&#160;</mrk></target>
+<count-group name="P147242AB-tu28"><count count-type="x-matecat-raw">38</count><count count-type="x-matecat-weighted">25.46</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu29" resname="Social copy!A11" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu30" resname="Social copy!B11" xml:space="preserve" help-id="4836063547">
+<source xml:lang="en-GB">Explore İzmir’s coastline of culture</source>
+<seg-source><mrk mid="0" mtype="seg">Explore İzmir’s coastline of culture</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Explora el litoral cultural de Esmirna</mrk></target>
+<count-group name="P147242AB-tu30"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.35</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+<trans-unit id="P147242AB-tu31" resname="Social copy!A12" translate="no" xml:space="preserve">
+<source xml:lang="en-GB">Not sure on character limits - please stay within a similar character limit to the UK copy.</source>
+<target xml:lang="ko-KR">Not sure on character limits - please stay within a similar character limit to the UK copy.</target>
+</trans-unit>
+<trans-unit id="P147242AB-tu32" resname="Social copy!B12" xml:space="preserve" help-id="4836063548">
+<source xml:lang="en-GB">Come to a place where modernity meets tradition.</source>
+<seg-source><mrk mid="0" mtype="seg">Come to a place where modernity meets tradition.</mrk></seg-source>
+<target  xml:lang="es-ES" state="signed-off"><mrk mid="0" mtype="seg">Descubre un lugar donde conviven modernidad y tradición.</mrk></target>
+<count-group name="P147242AB-tu32"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">5.36</count></count-group>
+<note>Not sure on character limits - please stay within a similar character limit to the UK copy.</note>
+</trans-unit>
+</body>
+</file>
+</xliff>

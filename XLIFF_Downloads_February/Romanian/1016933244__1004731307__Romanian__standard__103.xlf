@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="kPO5g8jeBl.jsont2" source-language="en-GB" target-language="ro-RO" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6IjgxNGVjMGJlOWNiYjg5OWUyNDBkYmZlYzY3YjRmODRjNDUyZmQxYTRlZWUwOTQ2ZWZjNWI0ZTU0NzkyZDZhYTEiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNi0wMi0wNC0xMTo1Mzox
+NyIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl8wNF8wMl8yMDI2IiwiaW5zdHJ1Y3Rpb25zIjpudWxsLCJzdHlsZWd1aWRlIjpudWxsLCJyZWZlcmVuY2VzIjpudWxsLCJyZXF1ZXN0cyI6W3siaWRf
+cmVxdWVzdCI6MjkyNTcxMTcsImlkX2NvbnRlbnQiOiJiYW5hbmEvY2VfdXZwX3ByaWNlX2NvbnRleHRfdHlwaWNhbF9yYW5nZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0
+IjpudWxsLCJjb250ZW50IjoiVGhlIHR5cGljYWwgcmFuZ2UgZm9yIHRoaXMgcm91dGUgaXMgPHN0cm9uZz5AQHByaWNlX2xvd0BAPC9zdHJvbmc+IC0gPHN0cm9uZz5AQHByaWNlX2hpZ2hAQDwvc3Ry
+b25nPi4iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkV4cGxhaW5zIHRoZSB0eXBpY2FsL25vcm1hbCBwcmljZSByYW5nZSBmb3Igc2lt
+aWxhciB0cmlwcy5cclxuVGhlIHJhbmdlIGlzIGRlcml2ZWQgZnJvbSBoaXN0b3JpY2FsIHByaWNlIGRhdGEgKHBlcmNlbnRpbGUtYmFzZWQpLlxyXG5Vc2VkIHRvIHByb3ZpZGUgY29udGV4dCwgbm90
+IHRvIGluZGljYXRlIHNhdmluZ3Mgb3IgZ3VhcmFudGVlcy5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODE0ZWMwYmU5Y2JiODk5ZTI0MGRiZmVj
+NjdiNGY4NGM0NTJmZDFhNGVlZTA5NDZlZmM1YjRlNTQ3OTJkNmFhMS8yOTI1NzExNy9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjU3MTg1LCJpZF9jb250ZW50IjoicHVibGlzaGVy
+L2t0eHRTMkxfRW1haWxfbXVsdGktY2l0eV9jYXJkaGVhZGVyXzRsZWdzIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJAQG9yaWdpbkBAIHRv
+IEBAZGVzdGluYXRpb24xQEAsIEBAZGVzdGluYXRpb24yQEAsIEBAZGVzdGluYXRpb24zQEAgYW5kIEBAZGVzdGluYXRpb240QEAgIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtTaXplIFJl
+c3RyaWN0aW9uJmx0Oy9oMSZndDtcbjIwMFxuJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblByaWNlIEFsZXJ0IGVtYWlsIGZvciBtdWx0aS1jaXR5IGFsZXJ0cyAtIHNlbnQg
+d2hlbiBhIHVzZXJzIHNhdmVkIG11bHRpLWNpdHkgYWxlcnQgZ29lcyB1cCBvciBkb3duIGluIHByaWNlLiBcclxuXG5IZWFkZXIgZm9yIGl0aW5lcmFyeSBjYXJkXHJcblxuQEBvcmlnaW5AQCAtIGlz
+IGEgcGxhY2Vob2xkZXIgdG8gYWRkIHRoZSBmbGlnaHQgb3JpZ2luIGEgdXNlciBoYXMgc2F2ZWQgLSBwbGVhc2UgZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91ciBsYW5n
+dWFnZS5cclxuXG5AQGRlc3RpbmF0aW9uMUBAIC0gaXMgYSBwbGFjZWhvbGRlciB0byBhZGQgdGhlIGZsaWdodCBkZXN0aW5hdGlvbiBvZiB0aGUgZmlyc3QgbGVnIGEgdXNlciBoYXMgc2F2ZWQgLSBw
+bGVhc2UgZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91ciBsYW5ndWFnZS5cclxuXG5AQGRlc3RpbmF0aW9uMkBAIC0gaXMgYSBwbGFjZWhvbGRlciB0byBhZGQgdGhlIGZs
+aWdodCBkZXN0aW5hdGlvbiBvZiB0aGUgc2Vjb25kIGxlZyBhIHVzZXIgaGFzIHNhdmVkIC0gcGxlYXNlIGVuc3VyZSBpdHMgaW4gdGhlIGNvcnJlY3QgcG9zaXRpb24gZm9yIHlvdXIgbGFuZ3VhZ2Uu
+XHJcblxuQEBkZXN0aW5hdGlvbjNAQCAtIGlzIGEgcGxhY2Vob2xkZXIgdG8gYWRkIHRoZSBmbGlnaHQgZGVzdGluYXRpb24gb2YgdGhlIHRoaXJkIGxlZyBhIHVzZXIgaGFzIHNhdmVkIC0gcGxlYXNl
+IGVuc3VyZSBpdHMgaW4gdGhlIGNvcnJlY3QgcG9zaXRpb24gZm9yIHlvdXIgbGFuZ3VhZ2UuXHJcblxuQEBkZXN0aW5hdGlvbjRAQCAtIGlzIGEgcGxhY2Vob2xkZXIgdG8gYWRkIHRoZSBmbGlnaHQg
+ZGVzdGluYXRpb24gb2YgdGhlIGZvdXJ0aCBsZWcgYSB1c2VyIGhhcyBzYXZlZCAtIHBsZWFzZSBlbnN1cmUgaXRzIGluIHRoZSBjb3JyZWN0IHBvc2l0aW9uIGZvciB5b3VyIGxhbmd1YWdlLlxuIiwi
+c2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC84MTRlYzBiZTljYmI4OTllMjQwZGJmZWM2N2I0Zjg0YzQ1MmZkMWE0ZWVlMDk0NmVmYzViNGU1NDc5MmQ2YWEx
+LzI5MjU3MTg1L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyNTcyMjUsImlkX2NvbnRlbnQiOiJwdWJsaXNoZXIva3R4dFMyTF9FbWFpbF9tdWx0aS1jaXR5X2NhcmRfbGFiZWwiLCJj
+b250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ik11bHRpLWNpdHkiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O1NpemUgUmVzdHJpY3Rpb24m
+bHQ7L2gxJmd0O1xuNDBcbiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5QcmljZSBhbGVydCBlbWFpbCBmb3IgbXVsdGktY2l0eSBhbGVydHMgdG8gbGV0IHVzZXJzIGtub3cg
+d2hlbiB0aGV5J3JlIHNhdmVkIG11bHRpLWNpdHkgYWxlcnQgaGFzIGdvbmUgdXAgb3IgZG93biBpbiBwcmljZS4gXHJcblxuVGhpcyB0ZXh0IGZvciB0aGUgbGFiZWwgb24gdGhlIFMyTCBjYXJkLlxu
+Iiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC84MTRlYzBiZTljYmI4OTllMjQwZGJmZWM2N2I0Zjg0YzQ1MmZkMWE0ZWVlMDk0NmVmYzViNGU1NDc5MmQ2
+YWExLzI5MjU3MjI1L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyNTcyNDUsImlkX2NvbnRlbnQiOiJpbnNwaXJhdGlvbi9zZXJ2aWNlX2ZhaWx1cmVfbGluayIsImNvbnRlbnRfdHlw
+ZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoibGV0IHVzIGtub3cuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEm
+Z3Q7XG5saW5rIHRleHQgd2hpY2ggcmVkaXJlY3RzIHRvIGh0dHBzOi8vd3d3LnNreXNjYW5uZXIubmV0L2hlbHBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2Nv
+bnRleHQvODE0ZWMwYmU5Y2JiODk5ZTI0MGRiZmVjNjdiNGY4NGM0NTJmZDFhNGVlZTA5NDZlZmM1YjRlNTQ3OTJkNmFhMS8yOTI1NzI0NS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5
+MjU3Mjg1LCJpZF9jb250ZW50IjoiaW5zcGlyYXRpb24vbm9fZGlyZWN0c19mb3VuZCIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiU29ycnks
+IG5vIGRpcmVjdCByZXN1bHRzIGZvdW5kIOKAkyBub3cgc2hvd2luZyByZXN1bHRzIHdpdGggc3RvcHMiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9o
+MSZndDtcbkVycm9yIGluZm8gbWVzc2FnZSB3aGVuIHVzZXIgaGFzIHNlbGVjdGVkIGRpcmVjdCBmbGlnaHRzIGNoZWNrIGJveCBidXQgd2UgaGF2ZSBubyBkaXJlY3QgZmxpZ2h0IG9wdGlvbnNcbiIs
+InNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODE0ZWMwYmU5Y2JiODk5ZTI0MGRiZmVjNjdiNGY4NGM0NTJmZDFhNGVlZTA5NDZlZmM1YjRlNTQ3OTJkNmFh
+MS8yOTI1NzI4NS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjU3MzE3LCJpZF9jb250ZW50IjoiYmFuYW5hL2NlX3V2cF9sb3dfZmxpZ2h0X3ByaWNlX2JhZGdlIiwiY29udGVudF90
+eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJMb3cgZmxpZ2h0IHByaWNlIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZs
+dDsvaDEmZ3Q7XG5TaG9ydCBiYWRnZSBsYWJlbCBzaG93biBvbiBFeHBsb3JlIGRlc3RpbmF0aW9uIGNhcmRzLlxyXG5JbmRpY2F0ZXMgdGhhdCB0aGUgZGlzcGxheWVkIGZsaWdodCBwcmljZSBpcyBs
+b3cgY29tcGFyZWQgdG8gaGlzdG9yaWNhbCBwcmljZXMgZm9yIHNpbWlsYXIgdHJpcHMuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzgxNGVjMGJl
+OWNiYjg5OWUyNDBkYmZlYzY3YjRmODRjNDUyZmQxYTRlZWUwOTQ2ZWZjNWI0ZTU0NzkyZDZhYTEvMjkyNTczMTcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTI1NzM4NSwiaWRfY29u
+dGVudCI6InB1Ymxpc2hlci9rdHh0UzJMX0VtYWlsX211bHRpLWNpdHlfY2FyZGhlYWRlcl8zbGVncyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50
+IjoiQEBvcmlnaW5AQCB0byBAQGRlc3RpbmF0aW9uMUBALCBAQGRlc3RpbmF0aW9uMkBAIGFuZCBAQGRlc3RpbmF0aW9uM0BAIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtTaXplIFJlc3Ry
+aWN0aW9uJmx0Oy9oMSZndDtcbjIwMFxuJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblByaWNlIEFsZXJ0IGVtYWlsIGZvciBtdWx0aS1jaXR5IGFsZXJ0cyAtIHNlbnQgd2hl
+biBhIHVzZXJzIHNhdmVkIG11bHRpLWNpdHkgYWxlcnQgZ29lcyB1cCBvciBkb3duIGluIHByaWNlLiBcclxuXG5IZWFkZXIgZm9yIGl0aW5lcmFyeSBjYXJkXHJcblxuQEBvcmlnaW5AQCAtIGlzIGEg
+cGxhY2Vob2xkZXIgdG8gYWRkIHRoZSBmbGlnaHQgb3JpZ2luIGEgdXNlciBoYXMgc2F2ZWQgLSBwbGVhc2UgZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91ciBsYW5ndWFn
+ZS5cclxuXG5AQGRlc3RpbmF0aW9uMUBAIC0gaXMgYSBwbGFjZWhvbGRlciB0byBhZGQgdGhlIGZsaWdodCBkZXN0aW5hdGlvbiBvZiB0aGUgZmlyc3QgbGVnIGEgdXNlciBoYXMgc2F2ZWQgLSBwbGVh
+c2UgZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91ciBsYW5ndWFnZS5cclxuXG5AQGRlc3RpbmF0aW9uMkBAIC0gaXMgYSBwbGFjZWhvbGRlciB0byBhZGQgdGhlIGZsaWdo
+dCBkZXN0aW5hdGlvbiBvZiB0aGUgc2Vjb25kIGxlZyBhIHVzZXIgaGFzIHNhdmVkIC0gcGxlYXNlIGVuc3VyZSBpdHMgaW4gdGhlIGNvcnJlY3QgcG9zaXRpb24gZm9yIHlvdXIgbGFuZ3VhZ2UuXHJc
+blxuQEBkZXN0aW5hdGlvbjNAQCAtIGlzIGEgcGxhY2Vob2xkZXIgdG8gYWRkIHRoZSBmbGlnaHQgZGVzdGluYXRpb24gb2YgdGhlIHRoaXJkIGxlZyBhIHVzZXIgaGFzIHNhdmVkIC0gcGxlYXNlIGVu
+c3VyZSBpdHMgaW4gdGhlIGNvcnJlY3QgcG9zaXRpb24gZm9yIHlvdXIgbGFuZ3VhZ2UuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzgxNGVjMGJl
+OWNiYjg5OWUyNDBkYmZlYzY3YjRmODRjNDUyZmQxYTRlZWUwOTQ2ZWZjNWI0ZTU0NzkyZDZhYTEvMjkyNTczODUvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTI1NzM5NywiaWRfY29u
+dGVudCI6ImJhbmFuYS9jZV91dnBfcHJpY2VfY29udGV4dF90b29sdGlwX3RpdGxlIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiI8c3Ryb25n
+PkhvdyB3ZSBjYWxjdWxhdGUgdGhpczwvc3Ryb25nPiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuVGl0bGUgZm9yIHRoZSBpbmZvIHRv
+b2x0aXAgZXhwbGFpbmluZyBob3cgdGhlIHByaWNlIGNvbnRleHQgYmFkZ2UgaXMgY2FsY3VsYXRlZC5cclxuVXNlZCBhY3Jvc3MgZGVza3RvcCBhbmQgbW9iaWxlLlxuIiwic2NyZWVuc2hvdCI6Imh0
+dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC84MTRlYzBiZTljYmI4OTllMjQwZGJmZWM2N2I0Zjg0YzQ1MmZkMWE0ZWVlMDk0NmVmYzViNGU1NDc5MmQ2YWExLzI5MjU3Mzk3L3NjcmVl
+bnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyNTc0MzcsImlkX2NvbnRlbnQiOiJiYW5hbmEvY2VfdXZwX3ByaWNlX2NvbnRleHRfZXhwbGFuYXRpb24iLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3Bs
+YWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IldlIHRyYWNrIHByaWNlcyBvdmVyIGEgMTItbW9udGggcGVyaW9kIGZvciByb3V0ZXMgYW5kIGZpbmQgeW91IGZhcmVzIHRoYXQgYXJlIGNo
+ZWFwZXIgdGhhbiB0aGUgYXZlcmFnZSBwcmljZXMgd2UndmUgb2JzZXJ2ZWQuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5FeHBsYWlu
+cyB0aGF0IHRoZSBwcmljZSBjb250ZXh0IGlzIGJhc2VkIG9uIGhpc3RvcmljYWwgZGF0YSBvdmVyIHRoZSBwYXN0IDEyIG1vbnRocy5cclxuQ2xhcmlmaWVzIHRoYXQgdGhpcyBpcyBndWlkYW5jZSBv
+bmx5IGFuZCBtYXkgY2hhbmdlIG92ZXIgdGltZS5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODE0ZWMwYmU5Y2JiODk5ZTI0MGRiZmVjNjdiNGY4
+NGM0NTJmZDFhNGVlZTA5NDZlZmM1YjRlNTQ3OTJkNmFhMS8yOTI1NzQzNy9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjU3NDg1LCJpZF9jb250ZW50IjoiaW5zcGlyYXRpb24vc2Vy
+dmljZV9mYWlsdXJlX3ByZV9saW5rIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJJZiB5b3Uga2VlcCBzZWVpbmcgdGhpcyBlcnJvciBtZXNz
+YWdlIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5UZXh0IGxlYWRpbmcgdG8gbGluayB3aGljaCByZWRpcmVjdHMgdG8gaHR0cHM6Ly93
+d3cuc2t5c2Nhbm5lci5uZXQvaGVscFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC84MTRlYzBiZTljYmI4OTllMjQwZGJmZWM2N2I0Zjg0YzQ1MmZk
+MWE0ZWVlMDk0NmVmYzViNGU1NDc5MmQ2YWExLzI5MjU3NDg1L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyNTc1MjUsImlkX2NvbnRlbnQiOiJpbnNwaXJhdGlvbi9pbmRpY2F0aXZl
+X3ByaWNlcyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiQ2FsZW5kYXIgcHJpY2VzIGFyZSBlc3RpbWF0ZXMgYmFzZWQgb24gc2VhcmNoIHJl
+c3VsdHMgZnJvbSB0aGUgbGFzdCBmb3VyIGRheXMuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5jb250ZXh0IGFyb3VuZCBwcmljZXMg
+YmVpbmcgYW4gZXN0aW1hdGVcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODE0ZWMwYmU5Y2JiODk5ZTI0MGRiZmVjNjdiNGY4NGM0NTJmZDFhNGVl
+ZTA5NDZlZmM1YjRlNTQ3OTJkNmFhMS8yOTI1NzUyNS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjU3NTY1LCJpZF9jb250ZW50IjoiaW5zcGlyYXRpb24vbGVhcm5fbW9yZV9hYm91
+dF9wcmljZXMiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkxlYXJuIG1vcmUgYWJvdXQgcHJpY2VzIiwiY29udGV4dCI6eyJub3RlcyI6IiZs
+dDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5saW5rIGxhYmVsIHRleHRcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvODE0ZWMw
+YmU5Y2JiODk5ZTI0MGRiZmVjNjdiNGY4NGM0NTJmZDFhNGVlZTA5NDZlZmM1YjRlNTQ3OTJkNmFhMS8yOTI1NzU2NS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjU3NjI1LCJpZF9j
+b250ZW50IjoicHVibGlzaGVyL2t0eHRTMkxfRW1haWxfbXVsdGktY2l0eV9jYXJkaGVhZGVyX2ZhbGxiYWNrIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNv
+bnRlbnQiOiJAQG9yaWdpbkBAIHZpc2l0aW5nIEBAZGVzdGluYXRpb24xQEAsIEBAZGVzdGluYXRpb24yQEAsIEBAZGVzdGluYXRpb24zQEAgYW5kIG1vcmUiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0
+O2gxJmd0O1NpemUgUmVzdHJpY3Rpb24mbHQ7L2gxJmd0O1xuMjAwXG4mbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuUHJpY2UgQWxlcnQgZW1haWwgZm9yIG11bHRpLWNpdHkg
+YWxlcnRzIC0gc2VudCB3aGVuIGEgdXNlcnMgc2F2ZWQgbXVsdGktY2l0eSBhbGVydCBnb2VzIHVwIG9yIGRvd24gaW4gcHJpY2UuIFxyXG5cbkBAZGVzdGluYXRpb24zQEAgLSBpcyBhIHBsYWNlaG9s
+ZGVyIHRvIGFkZCB0aGUgZmxpZ2h0IGRlc3RpbmF0aW9uIG9mIHRoZSB0aGlyZCBsZWcgYSB1c2VyIGhhcyBzYXZlZCAtIHBsZWFzZSBlbnN1cmUgaXRzIGluIHRoZSBjb3JyZWN0IHBvc2l0aW9uIGZv
+ciB5b3VyIGxhbmd1YWdlLlxyXG5IZWFkZXIgZm9yIGl0aW5lcmFyeSBjYXJkXHJcblxuQEBvcmlnaW5AQCAtIGlzIGEgcGxhY2Vob2xkZXIgdG8gYWRkIHRoZSBmbGlnaHQgb3JpZ2luIGEgdXNlciBo
+YXMgc2F2ZWQgLSBwbGVhc2UgZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91ciBsYW5ndWFnZS5cclxuXG5AQGRlc3RpbmF0aW9uMUBAIC0gaXMgYSBwbGFjZWhvbGRlciB0
+byBhZGQgdGhlIGZsaWdodCBkZXN0aW5hdGlvbiBvZiB0aGUgZmlyc3QgbGVnIGEgdXNlciBoYXMgc2F2ZWQgLSBwbGVhc2UgZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91
+ciBsYW5ndWFnZS5cclxuXG5AQGRlc3RpbmF0aW9uMkBAIC0gaXMgYSBwbGFjZWhvbGRlciB0byBhZGQgdGhlIGZsaWdodCBkZXN0aW5hdGlvbiBvZiB0aGUgc2Vjb25kIGxlZyBhIHVzZXIgaGFzIHNh
+dmVkIC0gcGxlYXNlIGVuc3VyZSBpdHMgaW4gdGhlIGNvcnJlY3QgcG9zaXRpb24gZm9yIHlvdXIgbGFuZ3VhZ2UuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9j
+b250ZXh0LzgxNGVjMGJlOWNiYjg5OWUyNDBkYmZlYzY3YjRmODRjNDUyZmQxYTRlZWUwOTQ2ZWZjNWI0ZTU0NzkyZDZhYTEvMjkyNTc2MjUvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0Ijoy
+OTI1NzY2NSwiaWRfY29udGVudCI6InB1Ymxpc2hlci9rdHh0UzJMX0VtYWlsX211bHRpLWNpdHlfY2FyZGhlYWRlcl8ybGVncyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0
+IjpudWxsLCJjb250ZW50IjoiQEBvcmlnaW5AQCB0byBAQGRlc3RpbmF0aW9uMUBAIGFuZCBAQGRlc3RpbmF0aW9uMkBAIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtTaXplIFJlc3RyaWN0
+aW9uJmx0Oy9oMSZndDtcbjIwMFxuJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblByaWNlIEFsZXJ0IGVtYWlsIGZvciBtdWx0aS1jaXR5IGFsZXJ0cyAtIHNlbnQgd2hlbiBh
+IHVzZXJzIHNhdmVkIG11bHRpLWNpdHkgYWxlcnQgZ29lcyB1cCBvciBkb3duIGluIHByaWNlLiBcclxuXG5IZWFkZXIgZm9yIGl0aW5lcmFyeSBjYXJkXHJcblxuQEBvcmlnaW5AQCAtIGlzIGEgcGxh
+Y2Vob2xkZXIgdG8gYWRkIHRoZSBmbGlnaHQgb3JpZ2luIGEgdXNlciBoYXMgc2F2ZWQgLSBwbGVhc2UgZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91ciBsYW5ndWFnZS5c
+clxuXG5AQGRlc3RpbmF0aW9uMUBAIC0gaXMgYSBwbGFjZWhvbGRlciB0byBhZGQgdGhlIGZsaWdodCBkZXN0aW5hdGlvbiBvZiB0aGUgZmlyc3QgbGVnIGEgdXNlciBoYXMgc2F2ZWQgLSBwbGVhc2Ug
+ZW5zdXJlIGl0cyBpbiB0aGUgY29ycmVjdCBwb3NpdGlvbiBmb3IgeW91ciBsYW5ndWFnZS5cclxuXG5AQGRlc3RpbmF0aW9uMkBAIC0gaXMgYSBwbGFjZWhvbGRlciB0byBhZGQgdGhlIGZsaWdodCBk
+ZXN0aW5hdGlvbiBvZiB0aGUgc2Vjb25kIGxlZyBhIHVzZXIgaGFzIHNhdmVkIC0gcGxlYXNlIGVuc3VyZSBpdHMgaW4gdGhlIGNvcnJlY3QgcG9zaXRpb24gZm9yIHlvdXIgbGFuZ3VhZ2UuXG4iLCJz
+Y3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzgxNGVjMGJlOWNiYjg5OWUyNDBkYmZlYzY3YjRmODRjNDUyZmQxYTRlZWUwOTQ2ZWZjNWI0ZTU0NzkyZDZhYTEv
+MjkyNTc2NjUvc2NyZWVuc2hvdC51cmwifX1dfV0=</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="ro-RO" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUUxNzU4NyIgcGFja2FnZUlk
+PSI5MjAzYzk4MS00ZTQwLTQ0NDctYTZiNS03YzgxNDVjMjkwNmQiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0icm8tUk8iIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDQgMTM6NTQ6MTMrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJrUE81ZzhqZUJsLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9ImtQTzVnOGplQmwub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2026-02-04-11:53:17" mtc:id-order-group="handoff_04_02_2026" original="814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1" source-language="en-GB" target-language="ro-RO">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4836846256">
+<source xml:lang="en-GB">The typical range for this route is &lt;strong&gt;@@price_low@@&lt;/strong&gt; - &lt;strong&gt;@@price_high@@&lt;/strong&gt;.</source>
+<seg-source><mrk mid="0" mtype="seg">The typical range for this route is &lt;strong&gt;@@price_low@@&lt;/strong&gt; - &lt;strong&gt;@@price_high@@&lt;/strong&gt;.</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Intervalul tipic pentru această rută este &lt;strong&gt;@@price_low@@&lt;/strong&gt;-&lt;strong&gt;@@price_high@@&lt;/strong&gt;.</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">6.03</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257117</note>
+<note>translation_context|¶|banana/ce_uvp_price_context_typical_range</note>
+<note annotates="source" from="id_content">banana/ce_uvp_price_context_typical_range</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Explains the typical/normal price range for similar trips.
+The range is derived from historical price data (percentile-based).
+Used to provide context, not to indicate savings or guarantees.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257117/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4836846257">
+<source xml:lang="en-GB">@@origin@@ to @@destination1@@, @@destination2@@, @@destination3@@ and @@destination4@@ </source>
+<seg-source><mrk mid="0" mtype="seg">@@origin@@ to @@destination1@@, @@destination2@@, @@destination3@@ and @@destination4@@</mrk> </seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Din @@origin@@ către @@destination1@@, @@destination2@@, @@destination3@@ și @@destination4@@</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.69</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257185</note>
+<note>translation_context|¶|publisher/ktxtS2L_Email_multi-city_cardheader_4legs</note>
+<note annotates="source" from="id_content">publisher/ktxtS2L_Email_multi-city_cardheader_4legs</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+200
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Price Alert email for multi-city alerts - sent when a users saved multi-city alert goes up or down in price. 
+
+Header for itinerary card
+
+@@origin@@ - is a placeholder to add the flight origin a user has saved - please ensure its in the correct position for your language.
+
+@@destination1@@ - is a placeholder to add the flight destination of the first leg a user has saved - please ensure its in the correct position for your language.
+
+@@destination2@@ - is a placeholder to add the flight destination of the second leg a user has saved - please ensure its in the correct position for your language.
+
+@@destination3@@ - is a placeholder to add the flight destination of the third leg a user has saved - please ensure its in the correct position for your language.
+
+@@destination4@@ - is a placeholder to add the flight destination of the fourth leg a user has saved - please ensure its in the correct position for your language.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257185/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4836846258">
+<source xml:lang="en-GB">Multi-city</source>
+<seg-source><mrk mid="0" mtype="seg">Multi-city</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Destinații multiple</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257225</note>
+<note>translation_context|¶|publisher/ktxtS2L_Email_multi-city_card_label</note>
+<note annotates="source" from="id_content">publisher/ktxtS2L_Email_multi-city_card_label</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+40
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Price alert email for multi-city alerts to let users know when they're saved multi-city alert has gone up or down in price. 
+
+This text for the label on the S2L card.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257225/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4836846259">
+<source xml:lang="en-GB">let us know.</source>
+<seg-source><mrk mid="0" mtype="seg">let us know.</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">anunță-ne.</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257245</note>
+<note>translation_context|¶|inspiration/service_failure_link</note>
+<note annotates="source" from="id_content">inspiration/service_failure_link</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+link text which redirects to https://www.skyscanner.net/help
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257245/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4836846260">
+<source xml:lang="en-GB">Sorry, no direct results found – now showing results with stops</source>
+<seg-source><mrk mid="0" mtype="seg">Sorry, no direct results found – now showing results with stops</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Regretăm, nu s-au găsit rezultate de zboruri directe, acum sunt afișate doar rezultatele de zboruri cu escale</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257285</note>
+<note>translation_context|¶|inspiration/no_directs_found</note>
+<note annotates="source" from="id_content">inspiration/no_directs_found</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Error info message when user has selected direct flights check box but we have no direct flight options
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257285/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4836846261">
+<source xml:lang="en-GB">Low flight price</source>
+<seg-source><mrk mid="0" mtype="seg">Low flight price</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Prețul zborului este scăzut</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257317</note>
+<note>translation_context|¶|banana/ce_uvp_low_flight_price_badge</note>
+<note annotates="source" from="id_content">banana/ce_uvp_low_flight_price_badge</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Short badge label shown on Explore destination cards.
+Indicates that the displayed flight price is low compared to historical prices for similar trips.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257317/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4836846262">
+<source xml:lang="en-GB">@@origin@@ to @@destination1@@, @@destination2@@ and @@destination3@@</source>
+<seg-source><mrk mid="0" mtype="seg">@@origin@@ to @@destination1@@, @@destination2@@ and @@destination3@@</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Din @@origin@@ către @@destination1@@, @@destination2@@ și @@destination3@@</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257385</note>
+<note>translation_context|¶|publisher/ktxtS2L_Email_multi-city_cardheader_3legs</note>
+<note annotates="source" from="id_content">publisher/ktxtS2L_Email_multi-city_cardheader_3legs</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+200
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Price Alert email for multi-city alerts - sent when a users saved multi-city alert goes up or down in price. 
+
+Header for itinerary card
+
+@@origin@@ - is a placeholder to add the flight origin a user has saved - please ensure its in the correct position for your language.
+
+@@destination1@@ - is a placeholder to add the flight destination of the first leg a user has saved - please ensure its in the correct position for your language.
+
+@@destination2@@ - is a placeholder to add the flight destination of the second leg a user has saved - please ensure its in the correct position for your language.
+
+@@destination3@@ - is a placeholder to add the flight destination of the third leg a user has saved - please ensure its in the correct position for your language.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257385/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4836846263">
+<source xml:lang="en-GB">&lt;strong&gt;How we calculate this&lt;/strong&gt;</source>
+<seg-source><mrk mid="0" mtype="seg">&lt;strong&gt;How we calculate this&lt;/strong&gt;</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">&lt;strong&gt;Cum îl calculăm&lt;/strong&gt;</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.68</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257397</note>
+<note>translation_context|¶|banana/ce_uvp_price_context_tooltip_title</note>
+<note annotates="source" from="id_content">banana/ce_uvp_price_context_tooltip_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title for the info tooltip explaining how the price context badge is calculated.
+Used across desktop and mobile.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257397/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4836846264">
+<source xml:lang="en-GB">We track prices over a 12-month period for routes and find you fares that are cheaper than the average prices we've observed.</source>
+<seg-source><mrk mid="0" mtype="seg">We track prices over a 12-month period for routes and find you fares that are cheaper than the average prices we've observed.</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Urmărim prețurile pe o perioadă de 12 luni pentru rute și îți găsim costuri ale biletelor mai mici decât prețurile medii pe care le-am observat.</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">24</count><count count-type="x-matecat-weighted">16.07</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257437</note>
+<note>translation_context|¶|banana/ce_uvp_price_context_explanation</note>
+<note annotates="source" from="id_content">banana/ce_uvp_price_context_explanation</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Explains that the price context is based on historical data over the past 12 months.
+Clarifies that this is guidance only and may change over time.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257437/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4836846265">
+<source xml:lang="en-GB">If you keep seeing this error message</source>
+<seg-source><mrk mid="0" mtype="seg">If you keep seeing this error message</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Dacă vezi în continuare acest mesaj de eroare</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257485</note>
+<note>translation_context|¶|inspiration/service_failure_pre_link</note>
+<note annotates="source" from="id_content">inspiration/service_failure_pre_link</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Text leading to link which redirects to https://www.skyscanner.net/help
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257485/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4836846266">
+<source xml:lang="en-GB">Calendar prices are estimates based on search results from the last four days.</source>
+<seg-source><mrk mid="0" mtype="seg">Calendar prices are estimates based on search results from the last four days.</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Prețurile din calendar sunt estimări bazate pe rezultatele căutărilor din ultimele patru zile.</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">8.71</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257525</note>
+<note>translation_context|¶|inspiration/indicative_prices</note>
+<note annotates="source" from="id_content">inspiration/indicative_prices</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+context around prices being an estimate
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257525/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4836846267">
+<source xml:lang="en-GB">Learn more about prices</source>
+<seg-source><mrk mid="0" mtype="seg">Learn more about prices</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Află mai multe despre prețuri</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257565</note>
+<note>translation_context|¶|inspiration/learn_more_about_prices</note>
+<note annotates="source" from="id_content">inspiration/learn_more_about_prices</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+link label text
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257565/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4836846268">
+<source xml:lang="en-GB">@@origin@@ visiting @@destination1@@, @@destination2@@, @@destination3@@ and more</source>
+<seg-source><mrk mid="0" mtype="seg">@@origin@@ visiting @@destination1@@, @@destination2@@, @@destination3@@ and more</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Din @@origin@@, cu vizite în @@destination1@@, @@destination2@@, @@destination3@@ și altele</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257625</note>
+<note>translation_context|¶|publisher/ktxtS2L_Email_multi-city_cardheader_fallback</note>
+<note annotates="source" from="id_content">publisher/ktxtS2L_Email_multi-city_cardheader_fallback</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+200
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Price Alert email for multi-city alerts - sent when a users saved multi-city alert goes up or down in price. 
+
+@@destination3@@ - is a placeholder to add the flight destination of the third leg a user has saved - please ensure its in the correct position for your language.
+Header for itinerary card
+
+@@origin@@ - is a placeholder to add the flight origin a user has saved - please ensure its in the correct position for your language.
+
+@@destination1@@ - is a placeholder to add the flight destination of the first leg a user has saved - please ensure its in the correct position for your language.
+
+@@destination2@@ - is a placeholder to add the flight destination of the second leg a user has saved - please ensure its in the correct position for your language.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257625/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+<group id="sg28">
+<trans-unit id="tu14" xml:space="preserve" help-id="4836846269">
+<source xml:lang="en-GB">@@origin@@ to @@destination1@@ and @@destination2@@</source>
+<seg-source><mrk mid="0" mtype="seg">@@origin@@ to @@destination1@@ and @@destination2@@</mrk></seg-source>
+<target  xml:lang="ro-RO" state="signed-off"><mrk mid="0" mtype="seg">Din @@origin@@ către @@destination1@@ și @@destination2@@</mrk></target>
+<count-group name="tu14"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29257665</note>
+<note>translation_context|¶|publisher/ktxtS2L_Email_multi-city_cardheader_2legs</note>
+<note annotates="source" from="id_content">publisher/ktxtS2L_Email_multi-city_cardheader_2legs</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Size Restriction&amp;lt;/h1&amp;gt;
+200
+&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Price Alert email for multi-city alerts - sent when a users saved multi-city alert goes up or down in price. 
+
+Header for itinerary card
+
+@@origin@@ - is a placeholder to add the flight origin a user has saved - please ensure its in the correct position for your language.
+
+@@destination1@@ - is a placeholder to add the flight destination of the first leg a user has saved - please ensure its in the correct position for your language.
+
+@@destination2@@ - is a placeholder to add the flight destination of the second leg a user has saved - please ensure its in the correct position for your language.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/814ec0be9cbb899e240dbfec67b4f84c452fd1a4eee0946efc5b4e54792d6aa1/29257665/screenshot.url</note>
+</trans-unit>
+<group id="sg29">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

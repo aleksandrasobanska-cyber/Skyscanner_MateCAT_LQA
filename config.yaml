@@ -1,12 +1,12 @@
 paths:
-  tracker: "C:\\Users\\ibrahim.menshawy\\Desktop\\Skyscanner_LQA_4\\Chillistore - November Round - Project IDs & Segment IDs (2).xlsx"
+  tracker: "Chillistore - February Round - Project IDs & Segment IDs.xlsx"
   glossary: "C:\\Users\\ibrahim.menshawy\\Desktop\\Skyscanner_LQA_3\\Skyscanner - Multilingual Glossary.xlsx"
   prompts_dir: "prompts"
   instructions_dir: "Langs_Instructions"
-  xliff_download_dir: "XLIFF_Downloads_November"
-  chrome_profile_dir: "C:\\Users\\ibrahim.menshawy\\Desktop\\ATMS_Profile"
-  output_dir: "Output_November_New"
-  checkpoints_dir: "checkpoints_November_New"
+  xliff_download_dir: "XLIFF_Downloads_February"
+  chrome_profile_dir: "C:\\Users\\ibrahim.menshawy\\Desktop\\Skyscanner_chrome_profile"
+  output_dir: "Output_February"
+  checkpoints_dir: "checkpoints_February"
 
 languages:
   # Use ["ALL"] to process every language found in the tracker.

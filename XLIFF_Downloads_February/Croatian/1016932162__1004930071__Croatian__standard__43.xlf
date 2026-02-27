@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="KBXU3pnzd5.jsont2" source-language="en-GB" target-language="hr-HR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6IjA4NDFkMzExM2Q4YjdlZGVjYjg4YmQ4ZTA5Zjg3YTIyODVlZmFiODQ4NjRmYWExNjgzMTE4MWMxOTY4OTEwYzYiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNi0wMi0xOC0xMDoxMzo1
+NCIsImlkX29yZGVyX2dyb3VwIjoic2VvX2hhbmRvZmZfMThfMDJfMjAyNiIsImluc3RydWN0aW9ucyI6bnVsbCwic3R5bGVndWlkZSI6bnVsbCwicmVmZXJlbmNlcyI6bnVsbCwicmVxdWVzdHMiOlt7
+ImlkX3JlcXVlc3QiOjI5NjExMzIyLCJpZF9jb250ZW50Ijoic2VvX2NvbXBvbmVudHMvZHJvcHNfd2lkZ2V0X1BPQ19jdGFfdjEiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1p
+dCI6bnVsbCwiY29udGVudCI6IlZpZXcgbW9yZSBpbiB0aGUgYXBwIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5DVEEgc3RyaW5nIHRv
+IGJlIHVzZWQgaW4gYSBwcm9vZiBvZiBjb25jZXB0IHNob3dpbmcgRHJvcHMgb24gU0VPIGxhbmRpbmcgcGFnZXMuIFBsZWFzZSB0cmFuc2xhdGUgZm9yIGFsbCBsb2NhbGVzLlxuIiwic2NyZWVuc2hv
+dCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC8wODQxZDMxMTNkOGI3ZWRlY2I4OGJkOGUwOWY4N2EyMjg1ZWZhYjg0ODY0ZmFhMTY4MzExODFjMTk2ODkxMGM2LzI5NjExMzIy
+L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjk2MTEzNjIsImlkX2NvbnRlbnQiOiJzZW9fY29tcG9uZW50cy9kcm9wc193aWRnZXRfUE9DX3RpdGxlIiwiY29udGVudF90eXBlIjoidGV4
+dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJHZXQgcHJpY2UgZHJvcHMgb2YgYXQgbGVhc3QgMjAlIG9uIG91ciBhcHAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0Rl
+dmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblRpdGxlIHN0cmluZyB0byBiZSB1c2VkIGluIGEgcHJvb2Ygb2YgY29uY2VwdCBzaG93aW5nIERyb3BzIG9uIFNFTyBsYW5kaW5nIHBhZ2VzLiBQbGVh
+c2UgdHJhbnNsYXRlIGZvciBhbGwgbG9jYWxlcy5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvMDg0MWQzMTEzZDhiN2VkZWNiODhiZDhlMDlmODdh
+MjI4NWVmYWI4NDg2NGZhYTE2ODMxMTgxYzE5Njg5MTBjNi8yOTYxMTM2Mi9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5NjExNDAyLCJpZF9jb250ZW50Ijoic2VvX2NvbXBvbmVudHMv
+ZHJvcHNfd2lkZ2V0X1BPQ19zdWJjb3B5X3YxIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJCZSBpbi10aGUta25vdyB3aXRoIHRoZSBsYXRl
+c3QgcHJpY2VzIHRvIGFueXdoZXJlIGluIHRoZSB3b3JsZCBmcm9tIEBAb3JpZ2luQEAuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5T
+dWJjb3B5IHN0cmluZyB0byBiZSB1c2VkIGluIGEgcHJvb2Ygb2YgY29uY2VwdCBzaG93aW5nIERyb3BzIG9uIFNFTyBsYW5kaW5nIHBhZ2VzLCBwdWxsaW5nIGluIHRoZSBvcmlnaW4gb2YgdGhlIHBh
+Z2UgaW4gcXVlc3Rpb24gZHluYW1pY2FsbHkuIFBsZWFzZSB0cmFuc2xhdGUgZm9yIGFsbCBsb2NhbGVzLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4
+dC8wODQxZDMxMTNkOGI3ZWRlY2I4OGJkOGUwOWY4N2EyMjg1ZWZhYjg0ODY0ZmFhMTY4MzExODFjMTk2ODkxMGM2LzI5NjExNDAyL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjk2MTE0
+NDIsImlkX2NvbnRlbnQiOiJzZW9fY29tcG9uZW50cy9kcm9wc193aWRnZXRfUE9DX3N1YmNvcHlfdjIiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVu
+dCI6IkJlIGluLXRoZS1rbm93IHdpdGggdGhlIGxhdGVzdCBwcmljZXMgdG8gYW55d2hlcmUgaW4gdGhlIHdvcmxkIGZyb20geW91ciBsb2NhbCBhaXJwb3J0LiIsImNvbnRleHQiOnsibm90ZXMiOiIm
+bHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU3ViY29weSBzdHJpbmcgdG8gYmUgdXNlZCBpbiBhIHByb29mIG9mIGNvbmNlcHQgc2hvd2luZyBEcm9wcyBvbiBTRU8gbGFuZGlu
+ZyBwYWdlcy4gUGxlYXNlIHRyYW5zbGF0ZSBmb3IgYWxsIGxvY2FsZXMuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0LzA4NDFkMzExM2Q4YjdlZGVj
+Yjg4YmQ4ZTA5Zjg3YTIyODVlZmFiODQ4NjRmYWExNjgzMTE4MWMxOTY4OTEwYzYvMjk2MTE0NDIvc2NyZWVuc2hvdC51cmwifX1dfV0=</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="hr-HR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTU1RTY2NyIgcGFja2FnZUlk
+PSI1ZjRhODg1YS02Y2JjLTQ3NzUtYjU0Zi1lZDAwZWI1NGIwYzkiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iaHItSFIiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMTggMTI6MTQ6NTYrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJLQlhVM3BuemQ1Lmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9IktCWFUzcG56ZDUub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2026-02-18-10:13:54" mtc:id-order-group="seo_handoff_18_02_2026" original="0841d3113d8b7edecb88bd8e09f87a2285efab84864faa16831181c1968910c6" source-language="en-GB" target-language="hr-HR">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4847022016">
+<source xml:lang="en-GB">View more in the app</source>
+<seg-source><mrk mid="0" mtype="seg">View more in the app</mrk></seg-source>
+<target  xml:lang="hr-HR" state="signed-off"><mrk mid="0" mtype="seg">Više pojedinosti u aplikaciji</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29611322</note>
+<note>translation_context|¶|seo_components/drops_widget_POC_cta_v1</note>
+<note annotates="source" from="id_content">seo_components/drops_widget_POC_cta_v1</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+CTA string to be used in a proof of concept showing Drops on SEO landing pages. Please translate for all locales.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/0841d3113d8b7edecb88bd8e09f87a2285efab84864faa16831181c1968910c6/29611322/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4847022017">
+<source xml:lang="en-GB">Get price drops of at least 20% on our app</source>
+<seg-source><mrk mid="0" mtype="seg">Get price drops of at least 20% on our app</mrk></seg-source>
+<target  xml:lang="hr-HR" state="signed-off"><mrk mid="0" mtype="seg">U našoj aplikaciji primajte obavijesti o padovima cijena od najmanje 20&#160;%</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">10</count><count count-type="x-matecat-weighted">6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29611362</note>
+<note>translation_context|¶|seo_components/drops_widget_POC_title</note>
+<note annotates="source" from="id_content">seo_components/drops_widget_POC_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title string to be used in a proof of concept showing Drops on SEO landing pages. Please translate for all locales.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/0841d3113d8b7edecb88bd8e09f87a2285efab84864faa16831181c1968910c6/29611362/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4847022018">
+<source xml:lang="en-GB">Be in-the-know with the latest prices to anywhere in the world from @@origin@@.</source>
+<seg-source><mrk mid="0" mtype="seg">Be in-the-know with the latest prices to anywhere in the world from @@origin@@.</mrk></seg-source>
+<target  xml:lang="hr-HR" state="signed-off"><mrk mid="0" mtype="seg">Budite u toku s najnovijim cijenama za letove do bilo kojeg odredišta na svijetu s polazišta @@origin@@.</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">9.36</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29611402</note>
+<note>translation_context|¶|seo_components/drops_widget_POC_subcopy_v1</note>
+<note annotates="source" from="id_content">seo_components/drops_widget_POC_subcopy_v1</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Subcopy string to be used in a proof of concept showing Drops on SEO landing pages, pulling in the origin of the page in question dynamically. Please translate for all locales.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/0841d3113d8b7edecb88bd8e09f87a2285efab84864faa16831181c1968910c6/29611402/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4847022019">
+<source xml:lang="en-GB">Be in-the-know with the latest prices to anywhere in the world from your local airport.</source>
+<seg-source><mrk mid="0" mtype="seg">Be in-the-know with the latest prices to anywhere in the world from your local airport.</mrk></seg-source>
+<target  xml:lang="hr-HR" state="signed-off"><mrk mid="0" mtype="seg">Budite u toku s najnovijim cijenama letova iz svoje lokalne zračne luke do bilo kojeg odredišta na svijetu.</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">15</count><count count-type="x-matecat-weighted">9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29611442</note>
+<note>translation_context|¶|seo_components/drops_widget_POC_subcopy_v2</note>
+<note annotates="source" from="id_content">seo_components/drops_widget_POC_subcopy_v2</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Subcopy string to be used in a proof of concept showing Drops on SEO landing pages. Please translate for all locales.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/0841d3113d8b7edecb88bd8e09f87a2285efab84864faa16831181c1968910c6/29611442/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

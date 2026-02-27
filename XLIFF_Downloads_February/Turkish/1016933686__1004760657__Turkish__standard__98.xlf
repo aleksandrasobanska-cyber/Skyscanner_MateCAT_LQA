@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="OT1K4mKyN7.jsont2" source-language="en-GB" target-language="tr-TR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6ImE3YmY3OGZkM2ZmYmM0NWRmN2Y2MWRjMmNlZWFiZmE3MGM0NTk0MDEwZmQxZDA2MmVkMGMxMTgwMDUzZGQ2NDkiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNi0wMi0wNi0xMDo0MTo0
+NSIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl8wNl8wMl8yMDI2IiwiaW5zdHJ1Y3Rpb25zIjpudWxsLCJzdHlsZWd1aWRlIjpudWxsLCJyZWZlcmVuY2VzIjpudWxsLCJyZXF1ZXN0cyI6W3siaWRf
+cmVxdWVzdCI6MjkzMjMzMzEsImlkX2NvbnRlbnQiOiJob3RlbHNfd2Vic2l0ZS9VcGxvYWRCb3R0b21TaGVldF9jb25maXJtIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQi
+Om51bGwsImNvbnRlbnQiOiJHb3QgaXQiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkNvbmZpcm1hdGlvbiBidXR0b24gdGV4dCBpbiB0
+aGUgdXBsb2FkIGJvdHRvbSBzaGVldCB0aGF0IHRyaWdnZXJzIHRoZSBmaWxlIHBpY2tlclxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hN2JmNzhm
+ZDNmZmJjNDVkZjdmNjFkYzJjZWVhYmZhNzBjNDU5NDAxMGZkMWQwNjJlZDBjMTE4MDA1M2RkNjQ5LzI5MzIzMzMxL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjMzNzEsImlkX2Nv
+bnRlbnQiOiJob3RlbHNfd2Vic2l0ZS9Db3B5UGFzdGVDYXJkX2Rlc2NyaXB0aW9uX3dpdGhfaW1hZ2VfdXBsb2FkIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGws
+ImNvbnRlbnQiOiJQYXN0ZSB0aGUgbGluaywgb3IgYXR0YWNoIGFuIGltYWdlIHdpdGggdGhlIGhvdGVsIG5hbWUgaW5jbHVkZWQsIGFuZCB3ZSdsbCBmaW5kIGRlYWxzIGZvciB5b3VyIGRhdGVzLiIs
+ImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGVzY3JpcHRpb24gdGV4dCBzaG93biBvbiBtb2JpbGUgZGV2aWNlcyB3aGVuIGltYWdlIHVw
+bG9hZCBpcyBhdmFpbGFibGUsIGV4cGxhaW5pbmcgdXNlcnMgY2FuIHBhc3RlIGEgbGluayBvciB1cGxvYWQgYW4gaW1hZ2VcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQu
+Y29tL2NvbnRleHQvYTdiZjc4ZmQzZmZiYzQ1ZGY3ZjYxZGMyY2VlYWJmYTcwYzQ1OTQwMTBmZDFkMDYyZWQwYzExODAwNTNkZDY0OS8yOTMyMzM3MS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVl
+c3QiOjI5MzIzNDExLCJpZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvQ29weVBhc3RlQ2FyZF9wbGFjZWhvbGRlciIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxs
+LCJjb250ZW50IjoiUGFzdGUgeW91ciBsaW5rIGhlcmUuLi4iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblBsYWNlaG9sZGVyIHRleHQg
+Zm9yIHRoZSBVUkwgaW5wdXQgZmllbGQgaW4gdGhlIENvcHlQYXN0ZUNhcmRcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYTdiZjc4ZmQzZmZiYzQ1
+ZGY3ZjYxZGMyY2VlYWJmYTcwYzQ1OTQwMTBmZDFkMDYyZWQwYzExODAwNTNkZDY0OS8yOTMyMzQxMS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MzIzNDUxLCJpZF9jb250ZW50Ijoi
+aG90ZWxzX3dlYnNpdGUvVXBsb2FkQm90dG9tU2hlZXRfaW5zdHJ1Y3Rpb25zIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJVcGxvYWQgYSBz
+Y3JlZW5zaG90IGZyb20gYW5vdGhlciB3ZWJzaXRlIG9yIGEgcGhvdG9ncmFwaCBvZiB5b3VyIGlkZWFsIGhvdGVsLiBBcyBsb25nIGFzIHRoZSA8c3Ryb25nPmhvdGVsIG5hbWU8L3N0cm9uZz4gaXMg
+Y2xlYXIsIHdlJ2xsIGZpbmQgaXQuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5JbnN0cnVjdGlvbnMgdGV4dCBpbiB0aGUgdXBsb2Fk
+IGJvdHRvbSBzaGVldCBleHBsYWluaW5nIGhvdyB1c2VycyBjYW4gdXBsb2FkIGhvdGVsIHNjcmVlbnNob3RzIG9yIHBob3Rvcy4gQ29udGFpbnMgSFRNTCBmb3JtYXR0aW5nIGZvciBlbXBoYXNpcy5c
+biIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYTdiZjc4ZmQzZmZiYzQ1ZGY3ZjYxZGMyY2VlYWJmYTcwYzQ1OTQwMTBmZDFkMDYyZWQwYzExODAwNTNk
+ZDY0OS8yOTMyMzQ1MS9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MzIzNDkxLCJpZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvQ29weVBhc3RlQ2FyZF9zdWJtaXRfYXJpYSIsImNv
+bnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiU3VibWl0IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsv
+aDEmZ3Q7XG5BUklBIGxhYmVsIGZvciB0aGUgc3VibWl0IGJ1dHRvbiB0aGF0IHRyaWdnZXJzIHRoZSBob3RlbCBzZWFyY2ggZnJvbSB0aGUgcGFzdGVkIFVSTFxuIiwic2NyZWVuc2hvdCI6Imh0dHBz
+Oi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hN2JmNzhmZDNmZmJjNDVkZjdmNjFkYzJjZWVhYmZhNzBjNDU5NDAxMGZkMWQwNjJlZDBjMTE4MDA1M2RkNjQ5LzI5MzIzNDkxL3NjcmVlbnNo
+b3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjM1MzIsImlkX2NvbnRlbnQiOiJhcHBfcHJlZmVycmVkX29yaWdpbi9wcmVmZXJyZWRfb3JpZ2luX3Nob3dpbmdfZmxpZ2h0c19mcm9tIiwiY29udGVu
+dF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJTaG93aW5nIGZsaWdodHMgZnJvbSB7MH0uIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9w
+ZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5Cb2R5IHRleHQgZm9yIGEgZmxvYXRpbmcgbm90aWZpY2F0aW9uIHNob3duIGFmdGVyIHRoZSB1c2VyIG1ha2VzIGEgc2VsZWN0aW9uIHRvIGNvbmZpcm0gdGhl
+aXIgcHJlZmVycmVkIG9yaWdpbi5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYTdiZjc4ZmQzZmZiYzQ1ZGY3ZjYxZGMyY2VlYWJmYTcwYzQ1OTQw
+MTBmZDFkMDYyZWQwYzExODAwNTNkZDY0OS8yOTMyMzUzMi9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MzIzNTcxLCJpZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvVXBsb2FkQm90
+dG9tU2hlZXRfY2xvc2UiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkNsb3NlIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZl
+bG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5BUklBIGxhYmVsIGZvciB0aGUgY2xvc2UgYnV0dG9uIGluIHRoZSB1cGxvYWQgYm90dG9tIHNoZWV0XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxl
+cy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2E3YmY3OGZkM2ZmYmM0NWRmN2Y2MWRjMmNlZWFiZmE3MGM0NTk0MDEwZmQxZDA2MmVkMGMxMTgwMDUzZGQ2NDkvMjkzMjM1NzEvc2NyZWVuc2hvdC51cmwi
+fX0seyJpZF9yZXF1ZXN0IjoyOTMyMzYxMiwiaWRfY29udGVudCI6ImFwcF9wcmVmZXJyZWRfb3JpZ2luL3ByZWZlcnJlZF9vcmlnaW5fY2hvb3NlX3doZXJlIiwiY29udGVudF90eXBlIjoidGV4dC9w
+bGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJDaG9vc2Ugd2hlcmUgeW91IGZseSBmcm9tIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsv
+aDEmZ3Q7XG5UaXRsZSB0ZXh0IGZvciBhIENUQSBidXR0b24gdXNlZCB0byBpbnZva2UgYSBwbGFjZSBwaWNrZXIgd2hlcmUgdGhlIHVzZXIgY2FuIGNob29zZSB0aGVpciBwcmVmZXJyZWQgb3JpZ2lu
+LlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hN2JmNzhmZDNmZmJjNDVkZjdmNjFkYzJjZWVhYmZhNzBjNDU5NDAxMGZkMWQwNjJlZDBjMTE4MDA1
+M2RkNjQ5LzI5MzIzNjEyL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjM2NTEsImlkX2NvbnRlbnQiOiJob3RlbHNfd2Vic2l0ZS9Db3B5UGFzdGVDYXJkX3VwbG9hZF9zY3JlZW5z
+aG90X2FyaWEiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlVwbG9hZCBzY3JlZW5zaG90IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZn
+dDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5BUklBIGxhYmVsIGZvciB0aGUgYnV0dG9uIHRoYXQgb3BlbnMgdGhlIHNjcmVlbnNob3QgdXBsb2FkIGJvdHRvbSBzaGVldFxuIiwic2NyZWVu
+c2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hN2JmNzhmZDNmZmJjNDVkZjdmNjFkYzJjZWVhYmZhNzBjNDU5NDAxMGZkMWQwNjJlZDBjMTE4MDA1M2RkNjQ5LzI5MzIz
+NjUxL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjM2OTEsImlkX2NvbnRlbnQiOiJob3RlbHNfd2Vic2l0ZS9Db3B5UGFzdGVDYXJkX3dhaXRpbmciLCJjb250ZW50X3R5cGUiOiJ0
+ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlNlYXJjaGluZyBmb3IgeW91ciBob3RlbC4uLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1l
+bnQmbHQ7L2gxJmd0O1xuTG9hZGluZyBtZXNzYWdlIGRpc3BsYXllZCB3aGlsZSB0aGUgc3lzdGVtIHNlYXJjaGVzIGZvciB0aGUgaG90ZWwgZnJvbSB0aGUgcGFzdGVkIFVSTFxuIiwic2NyZWVuc2hv
+dCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hN2JmNzhmZDNmZmJjNDVkZjdmNjFkYzJjZWVhYmZhNzBjNDU5NDAxMGZkMWQwNjJlZDBjMTE4MDA1M2RkNjQ5LzI5MzIzNjkx
+L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjM3MzEsImlkX2NvbnRlbnQiOiJob3RlbHNfd2Vic2l0ZS9Db3B5UGFzdGVDYXJkX2Rlc2NyaXB0aW9uX3dpdGhvdXRfaW1hZ2VfdXBs
+b2FkIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJQYXN0ZSB0aGUgbGluayBhbmQgd2UnbGwgZmluZCBkZWFscyBmb3IgeW91ciBkYXRlcy4i
+LCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkRlc2NyaXB0aW9uIHRleHQgc2hvd24gb24gZGVza3RvcCBkZXZpY2VzIHdoZW4gaW1hZ2Ug
+dXBsb2FkIGlzIG5vdCBhdmFpbGFibGUsIGV4cGxhaW5pbmcgdXNlcnMgY2FuIG9ubHkgcGFzdGUgYSBsaW5rXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250
+ZXh0L2E3YmY3OGZkM2ZmYmM0NWRmN2Y2MWRjMmNlZWFiZmE3MGM0NTk0MDEwZmQxZDA2MmVkMGMxMTgwMDUzZGQ2NDkvMjkzMjM3MzEvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTMy
+Mzc3MSwiaWRfY29udGVudCI6ImhvdGVsc193ZWJzaXRlL0NvcHlQYXN0ZUNhcmRfZXJyb3IiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ildl
+bGwsIHRoYXQgZGlkbid0IGdvIHRvIHBsYW4uIE1ha2Ugc3VyZSB0aGUgVVJMIGlzIGNvcnJlY3QuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEm
+Z3Q7XG5FcnJvciBtZXNzYWdlIGRpc3BsYXllZCB3aGVuIHRoZSBzeXN0ZW0gY2Fubm90IGZpbmQgYSBob3RlbCBmcm9tIHRoZSBwcm92aWRlZCBVUkxcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2Zp
+bGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYTdiZjc4ZmQzZmZiYzQ1ZGY3ZjYxZGMyY2VlYWJmYTcwYzQ1OTQwMTBmZDFkMDYyZWQwYzExODAwNTNkZDY0OS8yOTMyMzc3MS9zY3JlZW5zaG90LnVy
+bCJ9fSx7ImlkX3JlcXVlc3QiOjI5MzIzODExLCJpZF9jb250ZW50IjoiaG90ZWxzX3dlYnNpdGUvQ29weVBhc3RlQ2FyZF90aXRsZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xp
+bWl0IjpudWxsLCJjb250ZW50IjoiU3BvdHRlZCBhIGhvdGVsIGVsc2V3aGVyZT8iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblRpdGxl
+IHRleHQgZm9yIHRoZSBDb3B5UGFzdGVDYXJkIGZlYXR1cmUgdGhhdCBhbGxvd3MgdXNlcnMgdG8gcGFzdGUgaG90ZWwgbGlua3MgZnJvbSBvdGhlciB3ZWJzaXRlc1xuIiwic2NyZWVuc2hvdCI6Imh0
+dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hN2JmNzhmZDNmZmJjNDVkZjdmNjFkYzJjZWVhYmZhNzBjNDU5NDAxMGZkMWQwNjJlZDBjMTE4MDA1M2RkNjQ5LzI5MzIzODExL3NjcmVl
+bnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjM4NTIsImlkX2NvbnRlbnQiOiJhcHBfcHJlZmVycmVkX29yaWdpbi9wcmVmZXJyZWRfb3JpZ2luX2ZseWluZ19mcm9tIiwiY29udGVudF90eXBl
+IjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJGbHlpbmcgZnJvbSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0
+O1xuVGl0bGUgdGV4dCBmb3IgYW4gb3JpZ2luIHBsYWNlIHBpY2tlciBtb2RhbC5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYTdiZjc4ZmQzZmZi
+YzQ1ZGY3ZjYxZGMyY2VlYWJmYTcwYzQ1OTQwMTBmZDFkMDYyZWQwYzExODAwNTNkZDY0OS8yOTMyMzg1Mi9zY3JlZW5zaG90LnVybCJ9fV19XQ==</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="tr-TR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUZGMDFFNyIgcGFja2FnZUlk
+PSI2ZGM5NDMzNi1lZWJmLTQ1ZmUtOGI5OS1lZjA1NzFiZTZjNTciIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0idHItVFIiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDYgMTI6NDI6MzgrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJPVDFLNG1LeU43Lmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9Ik9UMUs0bUt5Tjcub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2026-02-06-10:41:45" mtc:id-order-group="handoff_06_02_2026" original="a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649" source-language="en-GB" target-language="tr-TR">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4838676080">
+<source xml:lang="en-GB">Got it</source>
+<seg-source><mrk mid="0" mtype="seg">Got it</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Anladım</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323331</note>
+<note>translation_context|¶|hotels_website/UploadBottomSheet_confirm</note>
+<note annotates="source" from="id_content">hotels_website/UploadBottomSheet_confirm</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Confirmation button text in the upload bottom sheet that triggers the file picker
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323331/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4838676081">
+<source xml:lang="en-GB">Paste the link, or attach an image with the hotel name included, and we'll find deals for your dates.</source>
+<seg-source><mrk mid="0" mtype="seg">Paste the link, or attach an image with the hotel name included, and we'll find deals for your dates.</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Bağlantıyı yapıştırın veya otel adını içeren bir görsel ekleyin, seçtiğiniz tarihler için fırsatları bulalım.</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">20</count><count count-type="x-matecat-weighted">14.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323371</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_description_with_image_upload</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_description_with_image_upload</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description text shown on mobile devices when image upload is available, explaining users can paste a link or upload an image
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323371/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4838676082">
+<source xml:lang="en-GB">Paste your link here...</source>
+<seg-source><mrk mid="0" mtype="seg">Paste your link here...</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Bağlantınızı buraya yapıştırın...</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.88</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323411</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_placeholder</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_placeholder</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Placeholder text for the URL input field in the CopyPasteCard
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323411/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4838676083">
+<source xml:lang="en-GB">Upload a screenshot from another website or a photograph of your ideal hotel. As long as the &lt;strong&gt;hotel name&lt;/strong&gt; is clear, we'll find it.</source>
+<seg-source><mrk mid="0" mtype="seg">Upload a screenshot from another website or a photograph of your ideal hotel. As long as the &lt;strong&gt;hotel name&lt;/strong&gt; is clear, we'll find it.</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">İdeal otelinizin bir fotoğrafını veya başka bir sitedeki ekran görüntüsünü yükleyin. &lt;strong&gt;Otel adı&lt;/strong&gt; net bir şekilde göründüğü sürece onu sizin için buluruz.</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">25</count><count count-type="x-matecat-weighted">18</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323451</note>
+<note>translation_context|¶|hotels_website/UploadBottomSheet_instructions</note>
+<note annotates="source" from="id_content">hotels_website/UploadBottomSheet_instructions</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Instructions text in the upload bottom sheet explaining how users can upload hotel screenshots or photos. Contains HTML formatting for emphasis.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323451/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4838676084">
+<source xml:lang="en-GB">Submit</source>
+<seg-source><mrk mid="0" mtype="seg">Submit</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Gönder</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323491</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_submit_aria</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_submit_aria</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+ARIA label for the submit button that triggers the hotel search from the pasted URL
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323491/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4838676085">
+<source xml:lang="en-GB">Showing flights from {{|0|}}.</source>
+<seg-source><mrk mid="0" mtype="seg">Showing flights from {{|0|}}.</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">{{|0|}} kalkışlı uçuşlar gösteriliyor.</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.88</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323532</note>
+<note>translation_context|¶|app_preferred_origin/preferred_origin_showing_flights_from</note>
+<note annotates="source" from="id_content">app_preferred_origin/preferred_origin_showing_flights_from</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Body text for a floating notification shown after the user makes a selection to confirm their preferred origin.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323532/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4838676086">
+<source xml:lang="en-GB">Close</source>
+<seg-source><mrk mid="0" mtype="seg">Close</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Kapat</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323571</note>
+<note>translation_context|¶|hotels_website/UploadBottomSheet_close</note>
+<note annotates="source" from="id_content">hotels_website/UploadBottomSheet_close</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+ARIA label for the close button in the upload bottom sheet
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323571/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4838676087">
+<source xml:lang="en-GB">Choose where you fly from</source>
+<seg-source><mrk mid="0" mtype="seg">Choose where you fly from</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Nereden uçacağınızı seçin</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">1.5</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323612</note>
+<note>translation_context|¶|app_preferred_origin/preferred_origin_choose_where</note>
+<note annotates="source" from="id_content">app_preferred_origin/preferred_origin_choose_where</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title text for a CTA button used to invoke a place picker where the user can choose their preferred origin.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323612/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4838676088">
+<source xml:lang="en-GB">Upload screenshot</source>
+<seg-source><mrk mid="0" mtype="seg">Upload screenshot</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Ekran görüntüsü yükle</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.44</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323651</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_upload_screenshot_aria</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_upload_screenshot_aria</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+ARIA label for the button that opens the screenshot upload bottom sheet
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323651/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4838676089">
+<source xml:lang="en-GB">Searching for your hotel...</source>
+<seg-source><mrk mid="0" mtype="seg">Searching for your hotel...</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Oteliniz aranıyor...</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.88</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323691</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_waiting</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_waiting</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Loading message displayed while the system searches for the hotel from the pasted URL
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323691/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4838676090">
+<source xml:lang="en-GB">Paste the link and we'll find deals for your dates.</source>
+<seg-source><mrk mid="0" mtype="seg">Paste the link and we'll find deals for your dates.</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Bağlantıyı yapıştırın, seçtiğiniz tarihler için fırsatları bulalım.</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">7.92</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323731</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_description_without_image_upload</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_description_without_image_upload</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Description text shown on desktop devices when image upload is not available, explaining users can only paste a link
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323731/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4838676091">
+<source xml:lang="en-GB">Well, that didn't go to plan. Make sure the URL is correct.</source>
+<seg-source><mrk mid="0" mtype="seg">Well, that didn't go to plan. Make sure the URL is correct.</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Bir şeyler ters gitti. URL'nin doğru olduğundan emin olun.</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">9.36</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323771</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_error</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_error</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Error message displayed when the system cannot find a hotel from the provided URL
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323771/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4838676092">
+<source xml:lang="en-GB">Spotted a hotel elsewhere?</source>
+<seg-source><mrk mid="0" mtype="seg">Spotted a hotel elsewhere?</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Başka bir yerde bir otel mi gördünüz?</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.88</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323811</note>
+<note>translation_context|¶|hotels_website/CopyPasteCard_title</note>
+<note annotates="source" from="id_content">hotels_website/CopyPasteCard_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title text for the CopyPasteCard feature that allows users to paste hotel links from other websites
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323811/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+<group id="sg28">
+<trans-unit id="tu14" xml:space="preserve" help-id="4838676093">
+<source xml:lang="en-GB">Flying from</source>
+<seg-source><mrk mid="0" mtype="seg">Flying from</mrk></seg-source>
+<target  xml:lang="tr-TR" state="signed-off"><mrk mid="0" mtype="seg">Kalkış yeri:</mrk></target>
+<count-group name="tu14"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323852</note>
+<note>translation_context|¶|app_preferred_origin/preferred_origin_flying_from</note>
+<note annotates="source" from="id_content">app_preferred_origin/preferred_origin_flying_from</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title text for an origin place picker modal.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a7bf78fd3ffbc45df7f61dc2ceeabfa70c4594010fd1d062ed0c1180053dd649/29323852/screenshot.url</note>
+</trans-unit>
+<group id="sg29">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="ryqJBG6wQX.jsont2" source-language="en-GB" target-language="it-IT" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6ImI5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNi0wMi0wMi0xMjoxNzo1
+OSIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl8wMl8wMl8yMDI2IiwiaW5zdHJ1Y3Rpb25zIjpudWxsLCJzdHlsZWd1aWRlIjpudWxsLCJyZWZlcmVuY2VzIjpudWxsLCJyZXF1ZXN0cyI6W3siaWRf
+cmVxdWVzdCI6MjkyMDM3NjQsImlkX2NvbnRlbnQiOiJkcm9wc19tb2JpbGUvaG9tZV90b3BfZHJvcHNfdGl0bGUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwi
+Y29udGVudCI6IkZsaWdodCBwcmljZSBkcm9wcyBvZiAyMCUgb3IgbW9yZSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuVGl0bGUgb2Yg
+dGhlIFRvcCBEcm9wcyBzZWN0aW9uIGluIEhvbWVzY3JlZW5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYjllZmJkYzM5YjYyMDc0NjdhZmIxYmRl
+MjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwMzc2NC9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjAzNzg3LCJpZF9jb250ZW50IjoiY2FyaGlyZV93
+ZWIva3R4dENhcmhpcmVfUm9hZFRyaXBfVHJpcF9JbnRlcmVzdCIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiV2hhdCBhcmUgeW91IGludGVy
+ZXN0ZWQgaW4/IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5UcmlwIEludGVyZXN0IFRpdGxlIG9mIHRoZSByb2FkIHRyaXAgY2FyZFxu
+Iiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5
+MmIzLzI5MjAzNzg3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDM4MjcsImlkX2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9rdHh0Q2FyaGlyZV9Sb2FkVHJpcF9iYWdzX3RpdGxlIiwi
+Y29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJIb3cgbWFueSBiYWdzPyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENv
+bW1lbnQmbHQ7L2gxJmd0O1xuQmFncyBUaXRsZSBvZiB0aGUgcm9hZCB0cmlwIGNhcmRcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYjllZmJkYzM5
+YjYyMDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwMzgyNy9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjAzODcwLCJpZF9jb250
+ZW50IjoiaG90ZWxzX3dlYnNpdGUvQ2hhdF9MZWdhbERpc2NsYWltZXJfU2Vjb25kIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJXZSB1c2Ug
+eW91ciByZXNwb25zZXMgdG8gaGVscCBtYWtlIG91ciBBSSB0b29scyBldmVuIGJldHRlci4ge0xpbmt9IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsv
+aDEmZ3Q7XG5MZWdhbCBkaXNjbGFpbWVyXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0
+YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMvMjkyMDM4NzAvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwMzkyNCwiaWRfY29udGVudCI6ImJhbmFuYS9mYXJlX2NoYW5nZWFi
+bGVfZm9yX2ZlZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiQ2hhbmdlIGJvb2tpbmcgZm9yIGEgZmVlIiwiY29udGV4dCI6eyJub3RlcyI6
+IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5GYXJlIGZsZXhpYmlsaXR5IGluZm9ybWF0aW9uIHByb3ZpZGVkIG9uIGEgcGFydG5lciBvcHRpb24gY2FyZCBmb3IgYSBzcGVj
+aWZpYyBmbGlnaHQgaXRpbmVyYXJ5LiBHaXZlcyBhbiBpbmRpY2F0aW9uIG9mIHdoZXRoZXIgY2hhbmdlcyBjYW4gYmUgbWFkZSBvciBub3QgYWZ0ZXIgYm9va2luZyB0aGlzIG9wdGlvbi4gSW4gdGhp
+cyBjYXNlIHRoZSBvcHRpb24gaXRzZWxmIGlzIGNoYW5nZWFibGUgYnV0IGEgZmVlIG1heSBiZSBjaGFyZ2VkLlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29u
+dGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjAzOTI0L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjky
+MDM5NDcsImlkX2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9rdHh0Q2FyaGlyZV9EYXlWaWV3X0NpdHlTZWFyY2hNYXBfS21fU2hvcnQiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1p
+dCI6bnVsbCwiY29udGVudCI6IntudW1iZXJ9a20iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkRpc3BsYXkgbG9jYXRpb24gZGV0YWls
+c1xuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVl
+ZTI5MmIzLzI5MjAzOTQ3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDM5ODcsImlkX2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9rdHh0Q2FyaGlyZV9Sb2FkVHJpcF9TRU9fUGxhbiIs
+ImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiUGxhbiBhIHJvYWQgdHJpcCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVy
+IENvbW1lbnQmbHQ7L2gxJmd0O1xuUGxhbiBhIHJvYWQgdHJpcCB0YWIgZm9yIFNFTyBlbnRyeSBwYWdlXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0
+L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMvMjkyMDM5ODcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwNDAz
+MCwiaWRfY29udGVudCI6ImhvdGVsc193ZWJzaXRlL3ByaWNlX2ZpbHRlcl92aWV3X3RpdGxlIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJW
+aWV3IHByaWNlIGFzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG50byBsZXQgdXNlciB0byBjaG9vc2Ugd2hpY2ggdHlwZSBvZiB0aGUg
+cHJpY2Ugc2hvdWxkIGJlIGRpc3BsYXllZCBmb3Igc2VhcmNoLlxyXG5QZXIgQ2hyaXMgcmVxdWVzdGVkLCBDaGFuZ2UgZnJvbSBcIlByaWNlIHZpZXcgYXNcIiB0byBcIlZpZXcgcHJpY2UgYXNcIlxu
+Iiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5
+MmIzLzI5MjA0MDMwL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDQwNjcsImlkX2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9rdHh0Q2FyaGlyZV9Sb2FkVHJpcF9QbGFuX1JvYWRfVHJp
+cCIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiUGxhbiByb2FkIHRyaXAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3Bl
+ciBDb21tZW50Jmx0Oy9oMSZndDtcblBsYW4gcm9hZCB0cmlwIGJ1dHRvbiBvZiB0aGUgcm9hZCB0cmlwIGNhcmRcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2Nv
+bnRleHQvYjllZmJkYzM5YjYyMDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwNDA2Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5
+MjA0MTA3LCJpZF9jb250ZW50IjoiY2FyaGlyZV93ZWIva3R4dENhcmhpcmVfUm9hZFRyaXBfSGlyZV9BX0NhciIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJj
+b250ZW50IjoiSGlyZSBhIGNhciIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuSGlyZSBhIGNhciB0YWIgZm9yIFNFTyBlbnRyeSBwYWdl
+XG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVl
+MjkyYjMvMjkyMDQxMDcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwNDE0NywiaWRfY29udGVudCI6ImNhcmhpcmVfd2ViL2t0eHRDYXJoaXJlX0RheVZpZXdfQ2l0eVNlYXJjaE1h
+cF9NaV9TaG9ydCIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50Ijoie251bWJlcn1taSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2
+ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGlzcGxheSBsb2NhdGlvbiBkZXRhaWxzXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMz
+OWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMvMjkyMDQxNDcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwNDE4NywiaWRfY29u
+dGVudCI6ImNhcmhpcmVfd2ViL2t0eHRDYXJoaXJlX1JvYWRUcmlwX0dvX1RvX0FsbF9DYXJzIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJH
+byB0byBhbGwgY2FycyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuR28gdG8gYWxsIGNhcnMgYnV0dG9uIG9mIHRoZSByb2FkIHRyaXAg
+Y2FyZFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMw
+NWVlZTI5MmIzLzI5MjA0MTg3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDQyMjcsImlkX2NvbnRlbnQiOiJmYWxjb25fY2FyX2hpcmUvY2FyX2hpcmVfZGVzdGluYXRpb25faHVi
+X2Jhbm5lcl90aXRsZV9uZWlnaGJvdXJob29kIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJAQG5laWdoYm91cmhvb2RAQDogcGxhbiB5b3Vy
+IHRyaXAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbioqSU1QT1JUQU5UOiBTb3VyY2UgdXBkYXRlISBmcm9tIFwiQEBuZWlnaGJvdXJo
+b29kQEA6IHBsYW4geW91ciBzdGF5IGluIHRoaXMgbmVpZ2hib3VyaG9vZFwiIHRvIFwiQEBuZWlnaGJvdXJob29kQEA6IHBsYW4geW91ciB0cmlwXCIgXHJcblxuU0VPIGNvbXBvbmVudC9mZWF0dXJl
+OiBEZXN0aW5hdGlvbiBIdWIgQmFubmVyXHJcblxuUGFnZSB0eXBlOiBjYXItaGlyZS1haXJwb3J0XHJcblxuS2V5d29yZHM6IERlc3RpbmF0aW9uIEh1YiBCYW5uZXIgVGl0bGVcclxuXG5Db250ZXh0
+OiBEZXN0aW5hdGlvbiBIdWIgQmFubmVyIGNvbXBvbmVudCB0aXRsZSBpbiBjYXItaGlyZS1haXJwb3J0IHBhZ2VcclxuXG5Db25mbHVlbmNlIHBhZ2U6IGh0dHBzOi8vc2t5c2Nhbm5lci5hdGxhc3Np
+YW4ubmV0L3dpa2kvc3BhY2VzL0FUVC9wYWdlcy8xNDA2Njk3ODI4L0NhcitIaXJlK2luK0FpcnBvcnQrTm9ydGgrU3RhcistKzFzdCtJdGVyYXRpb24rUTMrMjAyNVxyXG5cblRoZSBsYW5ndWFnZXMg
+YXJlOiBkZS1kZSwgZnItZnIsIGl0LWl0LCBlcy1lcywgbmwtbmwsIHB0LWJyLCBrby1rciBhbmQgamEtanBcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRl
+eHQvYjllZmJkYzM5YjYyMDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwNDIyNy9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjA0
+MjY3LCJpZF9jb250ZW50IjoiY2FyaGlyZV93ZWIva3R4dENhcmhpcmVfUm9hZFRyaXBfRnJvbSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50Ijoi
+RnJvbSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRnJvbSB0ZXh0IGZvciBwcmljZSBvZiB0aGUgcm9hZCB0cmlwIGNhcmRcbiIsInNj
+cmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYjllZmJkYzM5YjYyMDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8y
+OTIwNDI2Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjA0MzA3LCJpZF9jb250ZW50IjoiY2FyaGlyZV93ZWIva3R4dENhcmhpcmVfRGF5Vmlld19DaXR5U2VhcmNoTWFwX0ExMXlf
+UmVzdWx0c19Tb3J0ZWRieSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50Ijoie251bWJlcn0gcmVzdWx0cyBzb3J0ZWQgYnkgZGlzdGFuY2UgZnJv
+bSBjaXR5IGNlbnRyZSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGlzcGxheSBkaXN0YW5jZSBzb3J0IGJ5IGxhYmVsXG4iLCJzY3Jl
+ZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMvMjky
+MDQzMDcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwNDM0NywiaWRfY29udGVudCI6ImNhcmhpcmVfd2ViL2t0eHRDYXJoaXJlX1JvYWRUcmlwX3RyYXZlbGxlcnNfdGl0bGUiLCJj
+b250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IkhvdyBtYW55IHRyYXZlbGxlcnM/IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9w
+ZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5UcmF2ZWxsZXJzIFRpdGxlIG9mIHRoZSByb2FkIHRyaXAgY2FyZFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4
+dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjA0MzQ3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDQz
+ODcsImlkX2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9rdHh0Q2FyaGlyZV9Sb2FkVHJpcF9iYWdzX2NvdW50IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRl
+bnQiOiJ7Y291bnR9IGJhZ3MiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkJhZ3MgY291bnQgb2YgdGhlIHJvYWQgdHJpcCBjYXJkXG4i
+LCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjky
+YjMvMjkyMDQzODcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwNDQ0NCwiaWRfY29udGVudCI6ImFwcHNfZmxpZ2h0c19jb25maWcvYm9va2luZ19wYW5lbF94c2VsbF9wZXJfbmln
+aHQiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6InBlciBuaWdodCIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENv
+bW1lbnQmbHQ7L2gxJmd0O1xuVGhpcyBpcyB0aGUgbGFiZWwgdGhhdCBpbmRpY2F0ZXMgdGhhdCB0aGUgc2hvd24gcHJpY2UgaXMgcGVyIG5pZ2h0LlxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmls
+ZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjA0NDQ0L3NjcmVlbnNob3QudXJs
+In19LHsiaWRfcmVxdWVzdCI6MjkyMDQ0ODQsImlkX2NvbnRlbnQiOiJkcm9wc19tb2JpbGUvaG9tZV90b3BfZHJvcHNfbmF2aWdhdGVfdG9faHViX2N0YSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxh
+aW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiR28gdG8gRHJvcHMiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblRpdGxlIG9m
+IHRoZSBidXR0b24gaW4gIFRvcCBEcm9wcyBzZWN0aW9uIGluIEhvbWVzY3JlZW5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYjllZmJkYzM5YjYy
+MDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwNDQ4NC9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjA0NTA3LCJpZF9jb250ZW50
+IjoiY2FyaGlyZV93ZWIva3R4dENhcmhpcmVfUm9hZFRyaXBfVGl0bGVfRGVzY3JpcHRpb24iLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Ildl
+4oCZbGwgbWFrZSB5b3UgYSBjdXN0b20gcm91dGUgYW5kIHBpY2sgY2FycyB0aGF0IHN1aXQgeW91ciBqb3VybmV5LiAiLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21t
+ZW50Jmx0Oy9oMSZndDtcblRpdGxlIERlc2NyaXB0aW9uIG9mIHRoZSByb2FkIHRyaXAgY2FyZFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVm
+YmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjA0NTA3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDQ1NDcsImlk
+X2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9rdHh0Q2FyaGlyZV9EYXlWaWV3X0NpdHlTZWFyY2hNYXBfTWlfRnJvbV9DaXR5X0NlbnRyZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xp
+bWl0IjpudWxsLCJjb250ZW50Ijoie251bWJlcn1taSBmcm9tIGNpdHkgY2VudHJlIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5EaXNw
+bGF5IGxvY2F0aW9uIGRldGFpbHNcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYjllZmJkYzM5YjYyMDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0
+ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwNDU0Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjA0NTg3LCJpZF9jb250ZW50IjoiY2FyaGlyZV93ZWIva3R4dENhcmhpcmVf
+Um9hZFRyaXBfVGl0bGUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlRlbGwgdXMgYWJvdXQgeW91ciByb2FkIHRyaXAiLCJjb250ZXh0Ijp7
+Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblRpdGxlIG9mIHRoZSByb2FkIHRyaXAgY2FyZFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNs
+YXRlZC5jb20vY29udGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjA0NTg3L3NjcmVlbnNob3QudXJsIn19LHsiaWRf
+cmVxdWVzdCI6MjkyMDQ2NDQsImlkX2NvbnRlbnQiOiJhcHBzX2ZsaWdodHNfY29uZmlnL2Jvb2tpbmdfcGFuZWxfeHNlbGxfcm9vbXNfZnJvbSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJj
+aGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiUm9vbXMgZnJvbSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuUHJpY2UgZGVzY3JpcHRp
+b24gZm9yIGhvdGVscyB4c2VsbFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRjMzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRk
+ZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjA0NjQ0L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDQ2NjcsImlkX2NvbnRlbnQiOiJjYXJoaXJlX3dlYi9rdHh0Q2FyaGlyZV9S
+b2FkVHJpcF9TaG93X0NhcnMiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlNob3cgY2FycyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEm
+Z3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU2hvdyBjYXJzIGJ1dHRvbiBvZiB0aGUgcm9hZCB0cmlwIGNhcmRcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQu
+Y29tL2NvbnRleHQvYjllZmJkYzM5YjYyMDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwNDY2Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVl
+c3QiOjI5MjA0NzI0LCJpZF9jb250ZW50IjoiZHJvcHNfbW9iaWxlL2hvbWVfdG9wX2Ryb3BzX3N1YnRpdGxlIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNv
+bnRlbnQiOiJIZXJl4oCZcyBhIHNuZWFrIHBlZWsgb2YgdG9kYXnigJlzIHBpY2tzLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU3Vi
+dGl0bGUgb2YgdGhlIFRvcCBEcm9wcyBzZWN0aW9uIGluIEhvbWVzY3JlZW5cbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYjllZmJkYzM5YjYyMDc0
+NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwNDcyNC9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MjA0NzQ3LCJpZF9jb250ZW50Ijoi
+Y2FyaGlyZV93ZWIva3R4dENhcmhpcmVfRGF5Vmlld19DaXR5U2VhcmNoTWFwX0ttX0Zyb21fQ2l0eV9DZW50cmUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwi
+Y29udGVudCI6IntudW1iZXJ9a20gZnJvbSBjaXR5IGNlbnRyZSIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuRGlzcGxheSBsb2NhdGlv
+biBkZXRhaWxzXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRm
+OWE1MzA1ZWVlMjkyYjMvMjkyMDQ3NDcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwNDc5MCwiaWRfY29udGVudCI6ImhvdGVsc193ZWJzaXRlL0NoYXRfTGVnYWxEaXNjbGFpbWVy
+X0ZpcnN0IiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJKdXN0IHNvIHlvdSBrbm93LCB0aGlzIGNoYXQgZmVhdHVyZSBtYXkgbWFrZSBtaXN0
+YWtlcyBvciBwcm92aWRlIG91dGRhdGVkIGluZm8sIHNvIGFsd2F5cyBjaGVjayBkZXRhaWxzIHdpdGggdGhlIHByb3ZpZGVyIGJlZm9yZSBib29raW5nLiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7
+aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuTGVnYWwgZGlzY2xhaW1lclxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRj
+MzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjA0NzkwL3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDQ4NDQsImlkX2Nv
+bnRlbnQiOiJiYW5hbmEvZmFyZV9yZWZ1bmRhYmxlX2Zvcl9mZWUiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlJlZnVuZCBmb3IgYSBmZWUi
+LCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcbkZhcmUgZmxleGliaWxpdHkgaW5mb3JtYXRpb24gcHJvdmlkZWQgb24gYSBwYXJ0bmVyIG9w
+dGlvbiBjYXJkIGZvciBhIHNwZWNpZmljIGZsaWdodCBpdGluZXJhcnkuIEdpdmVzIGFuIGluZGljYXRpb24gb2Ygd2hldGhlciBjaGFuZ2VzIGNhbiBiZSBtYWRlIG9yIG5vdCBhZnRlciBib29raW5n
+IHRoaXMgb3B0aW9uLiBJbiB0aGlzIGNhc2UgdGhlIG9wdGlvbiBpdHNlbGYgaXMgcmVmdW5kYWJsZSBidXQgYSBmZWUgbWF5IGJlIGNoYXJnZWQuXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxl
+cy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMvMjkyMDQ4NDQvc2NyZWVuc2hvdC51cmwi
+fX0seyJpZF9yZXF1ZXN0IjoyOTIwNDg4NCwiaWRfY29udGVudCI6ImFwcHNfZmxpZ2h0c19jb25maWcvYm9va2luZ19wYW5lbF94c2VsbF9jYXJfaGlyZV9wcmljZV9wZXItZGF5IiwiY29udGVudF90
+eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJwZXIgZGF5IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7
+XG5MYWJlbCB0byBzaG93IGFsb25nd2l0aCB0aGUgcHJpY2UgaW4gQ2FyIEhpcmUgY2FyZFxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9iOWVmYmRj
+MzliNjIwNzQ2N2FmYjFiZGUyMmM2ODQ5ZDdlNGMzZjRkZmFiZjFlMGVkZjlhNTMwNWVlZTI5MmIzLzI5MjA0ODg0L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkyMDQ5MjQsImlkX2Nv
+bnRlbnQiOiJhcHBzX2ZsaWdodHNfY29uZmlnL2Jvb2tpbmdfcGFuZWxfeHNlbGxfY2Fyc19mcm9tIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQi
+OiJDYXJzIGZyb20iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblByaWNlIGRlc2NyaXB0aW9uIGZvciBjYXJzIHhzZWxsXG4iLCJzY3Jl
+ZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZiZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMvMjky
+MDQ5MjQvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTIwNDk0NywiaWRfY29udGVudCI6ImNhcmhpcmVfd2ViL2t0eHRDYXJoaXJlX1JvYWRUcmlwX1RyaXBfUHJlZmVyZW5jZSIsImNv
+bnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiV2hhdOKAmXMgeW91ciByb3V0ZSBwcmVmZXJlbmNlPyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEm
+Z3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuUm91dGUgUHJlZmVyZW5jZSBUaXRsZSBvZiB0aGUgcm9hZCB0cmlwIGNhcmRcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5z
+bGF0ZWQuY29tL2NvbnRleHQvYjllZmJkYzM5YjYyMDc0NjdhZmIxYmRlMjJjNjg0OWQ3ZTRjM2Y0ZGZhYmYxZTBlZGY5YTUzMDVlZWUyOTJiMy8yOTIwNDk0Ny9zY3JlZW5zaG90LnVybCJ9fSx7Imlk
+X3JlcXVlc3QiOjI5MjA0OTg3LCJpZF9jb250ZW50IjoiY2FyaGlyZV93ZWIva3R4dENhcmhpcmVfRGF5Vmlld19DaXR5U2VhcmNoTWFwX0ExMXlfT25lX0Nhcl9Gcm9tIiwiY29udGVudF90eXBlIjoi
+dGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiIxIGNhciBmcm9tIHtwcmljZX0gYXQge2FkZHJlc3N9IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIg
+Q29tbWVudCZsdDsvaDEmZ3Q7XG5EaXNwbGF5IFZlbmRvcnNDYXJk4oCZcyBhMTF5IGxhYmVsXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2I5ZWZi
+ZGMzOWI2MjA3NDY3YWZiMWJkZTIyYzY4NDlkN2U0YzNmNGRmYWJmMWUwZWRmOWE1MzA1ZWVlMjkyYjMvMjkyMDQ5ODcvc2NyZWVuc2hvdC51cmwifX1dfV0=</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="it-IT" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMTY0RTZDNyIgcGFja2FnZUlk
+PSIwNWU3NmZiMC01NWZhLTRhZmQtOWI0ZS1hMDA3NGI2M2Y0ZmEiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0iaXQtSVQiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDIgMTQ6MTg6NTArMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJyeXFKQkc2d1FYLmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9InJ5cUpCRzZ3UVgub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2026-02-02-12:17:59" mtc:id-order-group="handoff_02_02_2026" original="b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3" source-language="en-GB" target-language="it-IT">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4835197841">
+<source xml:lang="en-GB">Flight price drops of 20% or more</source>
+<seg-source><mrk mid="0" mtype="seg">Flight price drops of 20% or more</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Riduzioni di prezzo di almeno il 20% sui voli</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29203764</note>
+<note>translation_context|¶|drops_mobile/home_top_drops_title</note>
+<note annotates="source" from="id_content">drops_mobile/home_top_drops_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title of the Top Drops section in Homescreen
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29203764/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4835197842">
+<source xml:lang="en-GB">What are you interested in?</source>
+<seg-source><mrk mid="0" mtype="seg">What are you interested in?</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Cosa ti interessa?</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.1</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29203787</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Trip_Interest</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Trip_Interest</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Trip Interest Title of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29203787/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4835197843">
+<source xml:lang="en-GB">How many bags?</source>
+<seg-source><mrk mid="0" mtype="seg">How many bags?</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Quanti bagagli?</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.86</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29203827</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_bags_title</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_bags_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Bags Title of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29203827/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4835197844">
+<source xml:lang="en-GB">We use your responses to help make our AI tools even better. {{|Link|}}</source>
+<seg-source><mrk mid="0" mtype="seg">We use your responses to help make our AI tools even better. {{|Link|}}</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Utilizziamo le tue risposte per migliorare ulteriormente i nostri strumenti di intelligenza artificiale. {{|Link|}}</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">3.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29203870</note>
+<note>translation_context|¶|hotels_website/Chat_LegalDisclaimer_Second</note>
+<note annotates="source" from="id_content">hotels_website/Chat_LegalDisclaimer_Second</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Legal disclaimer
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29203870/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4835197845">
+<source xml:lang="en-GB">Change booking for a fee</source>
+<seg-source><mrk mid="0" mtype="seg">Change booking for a fee</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Modifica la prenotazione pagando una commissione</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.1</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29203924</note>
+<note>translation_context|¶|banana/fare_changeable_for_fee</note>
+<note annotates="source" from="id_content">banana/fare_changeable_for_fee</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Fare flexibility information provided on a partner option card for a specific flight itinerary. Gives an indication of whether changes can be made or not after booking this option. In this case the option itself is changeable but a fee may be charged.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29203924/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4835197846">
+<source xml:lang="en-GB">{{|number|}}km</source>
+<seg-source><mrk mid="0" mtype="seg">{{|number|}}km</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">{{|number|}}&#160;km</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.24</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29203947</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_DayView_CitySearchMap_Km_Short</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_DayView_CitySearchMap_Km_Short</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Display location details
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29203947/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4835197847">
+<source xml:lang="en-GB">Plan a road trip</source>
+<seg-source><mrk mid="0" mtype="seg">Plan a road trip</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Pianifica un viaggio su strada</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29203987</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_SEO_Plan</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_SEO_Plan</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Plan a road trip tab for SEO entry page
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29203987/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4835197848">
+<source xml:lang="en-GB">View price as</source>
+<seg-source><mrk mid="0" mtype="seg">View price as</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Mostra prezzo come</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204030</note>
+<note>translation_context|¶|hotels_website/price_filter_view_title</note>
+<note annotates="source" from="id_content">hotels_website/price_filter_view_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+to let user to choose which type of the price should be displayed for search.
+Per Chris requested, Change from "Price view as" to "View price as"
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204030/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4835197849">
+<source xml:lang="en-GB">Plan road trip</source>
+<seg-source><mrk mid="0" mtype="seg">Plan road trip</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Pianifica viaggio su strada</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.8</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204067</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Plan_Road_Trip</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Plan_Road_Trip</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Plan road trip button of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204067/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4835197850">
+<source xml:lang="en-GB">Hire a car</source>
+<seg-source><mrk mid="0" mtype="seg">Hire a car</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Noleggia un'auto</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204107</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Hire_A_Car</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Hire_A_Car</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Hire a car tab for SEO entry page
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204107/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4835197851">
+<source xml:lang="en-GB">{{|number|}}mi</source>
+<seg-source><mrk mid="0" mtype="seg">{{|number|}}mi</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">{{|number|}}&#160;mi</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204147</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_DayView_CitySearchMap_Mi_Short</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_DayView_CitySearchMap_Mi_Short</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Display location details
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204147/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4835197852">
+<source xml:lang="en-GB">Go to all cars</source>
+<seg-source><mrk mid="0" mtype="seg">Go to all cars</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Mostra tutte le auto</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204187</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Go_To_All_Cars</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Go_To_All_Cars</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Go to all cars button of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204187/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+<group id="sg26">
+<trans-unit id="tu13" xml:space="preserve" help-id="4835197853">
+<source xml:lang="en-GB">@@neighbourhood@@: plan your trip</source>
+<seg-source><mrk mid="0" mtype="seg">@@neighbourhood@@: plan your trip</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">@@neighbourhood@@: pianifica il tuo viaggio</mrk></target>
+<count-group name="tu13"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204227</note>
+<note>translation_context|¶|falcon_car_hire/car_hire_destination_hub_banner_title_neighbourhood</note>
+<note annotates="source" from="id_content">falcon_car_hire/car_hire_destination_hub_banner_title_neighbourhood</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+**IMPORTANT: Source update! from "@@neighbourhood@@: plan your stay in this neighbourhood" to "@@neighbourhood@@: plan your trip" 
+
+SEO component/feature: Destination Hub Banner
+
+Page type: car-hire-airport
+
+Keywords: Destination Hub Banner Title
+
+Context: Destination Hub Banner component title in car-hire-airport page
+
+Confluence page: https://skyscanner.atlassian.net/wiki/spaces/ATT/pages/1406697828/Car+Hire+in+Airport+North+Star+-+1st+Iteration+Q3+2025
+
+The languages are: de-de, fr-fr, it-it, es-es, nl-nl, pt-br, ko-kr and ja-jp
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204227/screenshot.url</note>
+</trans-unit>
+<group id="sg27">
+</group>
+</group>
+<group id="sg28">
+<trans-unit id="tu14" xml:space="preserve" help-id="4835197854">
+<source xml:lang="en-GB">From</source>
+<seg-source><mrk mid="0" mtype="seg">From</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">A partire da</mrk></target>
+<count-group name="tu14"><count count-type="x-matecat-raw">1</count><count count-type="x-matecat-weighted">0.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204267</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_From</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_From</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+From text for price of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204267/screenshot.url</note>
+</trans-unit>
+<group id="sg29">
+</group>
+</group>
+<group id="sg30">
+<trans-unit id="tu15" xml:space="preserve" help-id="4835197855">
+<source xml:lang="en-GB">{{|number|}} results sorted by distance from city centre</source>
+<seg-source><mrk mid="0" mtype="seg">{{|number|}} results sorted by distance from city centre</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">{{|number|}} risultati ordinati in base alla distanza dal centro città</mrk></target>
+<count-group name="tu15"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">4.96</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204307</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_DayView_CitySearchMap_A11y_Results_Sortedby</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_DayView_CitySearchMap_A11y_Results_Sortedby</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Display distance sort by label
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204307/screenshot.url</note>
+</trans-unit>
+<group id="sg31">
+</group>
+</group>
+<group id="sg32">
+<trans-unit id="tu16" xml:space="preserve" help-id="4835197856">
+<source xml:lang="en-GB">How many travellers?</source>
+<seg-source><mrk mid="0" mtype="seg">How many travellers?</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Quanti viaggiatori?</mrk></target>
+<count-group name="tu16"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204347</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_travellers_title</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_travellers_title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Travellers Title of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204347/screenshot.url</note>
+</trans-unit>
+<group id="sg33">
+</group>
+</group>
+<group id="sg34">
+<trans-unit id="tu17" xml:space="preserve" help-id="4835197857">
+<source xml:lang="en-GB">{{|count|}} bags</source>
+<seg-source><mrk mid="0" mtype="seg">{{|count|}} bags</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">{{|count|}} bagagli</mrk></target>
+<count-group name="tu17"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">1.24</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204387</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_bags_count</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_bags_count</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Bags count of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204387/screenshot.url</note>
+</trans-unit>
+<group id="sg35">
+</group>
+</group>
+<group id="sg36">
+<trans-unit id="tu18" xml:space="preserve" help-id="4835197858">
+<source xml:lang="en-GB">per night</source>
+<seg-source><mrk mid="0" mtype="seg">per night</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">a notte</mrk></target>
+<count-group name="tu18"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204444</note>
+<note>translation_context|¶|apps_flights_config/booking_panel_xsell_per_night</note>
+<note annotates="source" from="id_content">apps_flights_config/booking_panel_xsell_per_night</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+This is the label that indicates that the shown price is per night.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204444/screenshot.url</note>
+</trans-unit>
+<group id="sg37">
+</group>
+</group>
+<group id="sg38">
+<trans-unit id="tu19" xml:space="preserve" help-id="4835197859">
+<source xml:lang="en-GB">Go to Drops</source>
+<seg-source><mrk mid="0" mtype="seg">Go to Drops</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Vai su Drops</mrk></target>
+<count-group name="tu19"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">1.86</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204484</note>
+<note>translation_context|¶|drops_mobile/home_top_drops_navigate_to_hub_cta</note>
+<note annotates="source" from="id_content">drops_mobile/home_top_drops_navigate_to_hub_cta</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title of the button in  Top Drops section in Homescreen
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204484/screenshot.url</note>
+</trans-unit>
+<group id="sg39">
+</group>
+</group>
+<group id="sg40">
+<trans-unit id="tu20" xml:space="preserve" help-id="4835197860">
+<source xml:lang="en-GB">We’ll make you a custom route and pick cars that suit your journey. </source>
+<seg-source><mrk mid="0" mtype="seg">We’ll make you a custom route and pick cars that suit your journey.</mrk> </seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Ti proporremo un percorso personalizzato e sceglieremo le auto più adatte al tuo viaggio.</mrk></target>
+<count-group name="tu20"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">8.68</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204507</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Title_Description</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Title_Description</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title Description of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204507/screenshot.url</note>
+</trans-unit>
+<group id="sg41">
+</group>
+</group>
+<group id="sg42">
+<trans-unit id="tu21" xml:space="preserve" help-id="4835197861">
+<source xml:lang="en-GB">{{|number|}}mi from city centre</source>
+<seg-source><mrk mid="0" mtype="seg">{{|number|}}mi from city centre</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">{{|number|}}&#160;mi dal centro città</mrk></target>
+<count-group name="tu21"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.1</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204547</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_DayView_CitySearchMap_Mi_From_City_Centre</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_DayView_CitySearchMap_Mi_From_City_Centre</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Display location details
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204547/screenshot.url</note>
+</trans-unit>
+<group id="sg43">
+</group>
+</group>
+<group id="sg44">
+<trans-unit id="tu22" xml:space="preserve" help-id="4835197862">
+<source xml:lang="en-GB">Tell us about your road trip</source>
+<seg-source><mrk mid="0" mtype="seg">Tell us about your road trip</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Raccontaci del tuo viaggio su strada</mrk></target>
+<count-group name="tu22"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">3.72</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204587</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Title</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Title</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Title of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204587/screenshot.url</note>
+</trans-unit>
+<group id="sg45">
+</group>
+</group>
+<group id="sg46">
+<trans-unit id="tu23" xml:space="preserve" help-id="4835197863">
+<source xml:lang="en-GB">Rooms from</source>
+<seg-source><mrk mid="0" mtype="seg">Rooms from</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Camere a partire da</mrk></target>
+<count-group name="tu23"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204644</note>
+<note>translation_context|¶|apps_flights_config/booking_panel_xsell_rooms_from</note>
+<note annotates="source" from="id_content">apps_flights_config/booking_panel_xsell_rooms_from</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Price description for hotels xsell
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204644/screenshot.url</note>
+</trans-unit>
+<group id="sg47">
+</group>
+</group>
+<group id="sg48">
+<trans-unit id="tu24" xml:space="preserve" help-id="4835197864">
+<source xml:lang="en-GB">Show cars</source>
+<seg-source><mrk mid="0" mtype="seg">Show cars</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Mostra auto</mrk></target>
+<count-group name="tu24"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204667</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Show_Cars</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Show_Cars</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Show cars button of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204667/screenshot.url</note>
+</trans-unit>
+<group id="sg49">
+</group>
+</group>
+<group id="sg50">
+<trans-unit id="tu25" xml:space="preserve" help-id="4835197865">
+<source xml:lang="en-GB">Here’s a sneak peek of today’s picks.</source>
+<seg-source><mrk mid="0" mtype="seg">Here’s a sneak peek of today’s picks.</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Dai un'occhiata alla selezione di oggi.</mrk></target>
+<count-group name="tu25"><count count-type="x-matecat-raw">7</count><count count-type="x-matecat-weighted">4.34</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204724</note>
+<note>translation_context|¶|drops_mobile/home_top_drops_subtitle</note>
+<note annotates="source" from="id_content">drops_mobile/home_top_drops_subtitle</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Subtitle of the Top Drops section in Homescreen
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204724/screenshot.url</note>
+</trans-unit>
+<group id="sg51">
+</group>
+</group>
+<group id="sg52">
+<trans-unit id="tu26" xml:space="preserve" help-id="4835197866">
+<source xml:lang="en-GB">{{|number|}}km from city centre</source>
+<seg-source><mrk mid="0" mtype="seg">{{|number|}}km from city centre</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">{{|number|}}&#160;km dal centro città</mrk></target>
+<count-group name="tu26"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204747</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_DayView_CitySearchMap_Km_From_City_Centre</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_DayView_CitySearchMap_Km_From_City_Centre</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Display location details
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204747/screenshot.url</note>
+</trans-unit>
+<group id="sg53">
+</group>
+</group>
+<group id="sg54">
+<trans-unit id="tu27" xml:space="preserve" help-id="4835197867">
+<source xml:lang="en-GB">Just so you know, this chat feature may make mistakes or provide outdated info, so always check details with the provider before booking.</source>
+<seg-source><mrk mid="0" mtype="seg">Just so you know, this chat feature may make mistakes or provide outdated info, so always check details with the provider before booking.</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Ti informiamo che questa funzionalità di chat potrebbe contenere errori o informazioni obsolete, quindi verifica sempre i dettagli con il fornitore prima di prenotare.</mrk></target>
+<count-group name="tu27"><count count-type="x-matecat-raw">23</count><count count-type="x-matecat-weighted">6.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204790</note>
+<note>translation_context|¶|hotels_website/Chat_LegalDisclaimer_First</note>
+<note annotates="source" from="id_content">hotels_website/Chat_LegalDisclaimer_First</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Legal disclaimer
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204790/screenshot.url</note>
+</trans-unit>
+<group id="sg55">
+</group>
+</group>
+<group id="sg56">
+<trans-unit id="tu28" xml:space="preserve" help-id="4835197868">
+<source xml:lang="en-GB">Refund for a fee</source>
+<seg-source><mrk mid="0" mtype="seg">Refund for a fee</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Rimborso soggetto a commissione</mrk></target>
+<count-group name="tu28"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204844</note>
+<note>translation_context|¶|banana/fare_refundable_for_fee</note>
+<note annotates="source" from="id_content">banana/fare_refundable_for_fee</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Fare flexibility information provided on a partner option card for a specific flight itinerary. Gives an indication of whether changes can be made or not after booking this option. In this case the option itself is refundable but a fee may be charged.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204844/screenshot.url</note>
+</trans-unit>
+<group id="sg57">
+</group>
+</group>
+<group id="sg58">
+<trans-unit id="tu29" xml:space="preserve" help-id="4835197869">
+<source xml:lang="en-GB">per day</source>
+<seg-source><mrk mid="0" mtype="seg">per day</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">al giorno</mrk></target>
+<count-group name="tu29"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204884</note>
+<note>translation_context|¶|apps_flights_config/booking_panel_xsell_car_hire_price_per-day</note>
+<note annotates="source" from="id_content">apps_flights_config/booking_panel_xsell_car_hire_price_per-day</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Label to show alongwith the price in Car Hire card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204884/screenshot.url</note>
+</trans-unit>
+<group id="sg59">
+</group>
+</group>
+<group id="sg60">
+<trans-unit id="tu30" xml:space="preserve" help-id="4835197870">
+<source xml:lang="en-GB">Cars from</source>
+<seg-source><mrk mid="0" mtype="seg">Cars from</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Auto a partire da</mrk></target>
+<count-group name="tu30"><count count-type="x-matecat-raw">2</count><count count-type="x-matecat-weighted">0.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204924</note>
+<note>translation_context|¶|apps_flights_config/booking_panel_xsell_cars_from</note>
+<note annotates="source" from="id_content">apps_flights_config/booking_panel_xsell_cars_from</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Price description for cars xsell
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204924/screenshot.url</note>
+</trans-unit>
+<group id="sg61">
+</group>
+</group>
+<group id="sg62">
+<trans-unit id="tu31" xml:space="preserve" help-id="4835197871">
+<source xml:lang="en-GB">What’s your route preference?</source>
+<seg-source><mrk mid="0" mtype="seg">What’s your route preference?</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">Che tipo di percorso preferisci?</mrk></target>
+<count-group name="tu31"><count count-type="x-matecat-raw">4</count><count count-type="x-matecat-weighted">2.48</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204947</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_RoadTrip_Trip_Preference</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_RoadTrip_Trip_Preference</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Route Preference Title of the road trip card
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204947/screenshot.url</note>
+</trans-unit>
+<group id="sg63">
+</group>
+</group>
+<group id="sg64">
+<trans-unit id="tu32" xml:space="preserve" help-id="4835197872">
+<source xml:lang="en-GB">1 car from {{|price|}} at {{|address|}}</source>
+<seg-source><mrk mid="0" mtype="seg">1 car from {{|price|}} at {{|address|}}</mrk></seg-source>
+<target  xml:lang="it-IT" state="signed-off"><mrk mid="0" mtype="seg">1 auto a partire da {{|price|}} all'indirizzo seguente: {{|address|}}</mrk></target>
+<count-group name="tu32"><count count-type="x-matecat-raw">6</count><count count-type="x-matecat-weighted">3.72</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29204987</note>
+<note>translation_context|¶|carhire_web/ktxtCarhire_DayView_CitySearchMap_A11y_One_Car_From</note>
+<note annotates="source" from="id_content">carhire_web/ktxtCarhire_DayView_CitySearchMap_A11y_One_Car_From</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Display VendorsCard’s a11y label
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/b9efbdc39b6207467afb1bde22c6849d7e4c3f4dfabf1e0edf9a5305eee292b3/29204987/screenshot.url</note>
+</trans-unit>
+<group id="sg65">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>

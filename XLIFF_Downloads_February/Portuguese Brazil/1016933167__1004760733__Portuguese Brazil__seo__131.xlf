@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mtc="https://www.matecat.com" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+<file datatype="x-jsont2" filter="net.translated.matecat.filters.MateJsont2Filter" original="TvS3PSRLpD.jsont2" source-language="en-GB" target-language="pt-BR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">W3siaGFzaCI6ImE2ZWFlMDk0MzE4NDZlNzlmMWU2ZmVjYjE2YjJmZTNlNGNmNmExMGE1ZWU3NjJhZjhmOWEzMDcwMjcwYmYxNTAiLCJpZF9vcmRlciI6ImhhbmRvZmYvMjAyNi0wMi0wNi0xMDo0Mjox
+NCIsImlkX29yZGVyX2dyb3VwIjoiaGFuZG9mZl9zZW9fMDZfMDJfMjAyNiIsImluc3RydWN0aW9ucyI6bnVsbCwic3R5bGVndWlkZSI6bnVsbCwicmVmZXJlbmNlcyI6bnVsbCwicmVxdWVzdHMiOlt7
+ImlkX3JlcXVlc3QiOjI5MzIzODc3LCJpZF9jb250ZW50Ijoic2VvX2NvbXBvbmVudHMvY29tcG9uZW50X2ZhcXNfYW5zd2VyX3NvbG8tdHJhdmVsbGVyX3JlY29tbWVuZGF0aW9uLWhvbGlkYXktYXBh
+cnRtZW50c18xIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNvbnRlbnQiOiJUcmF2ZWxsZXJzIGxvdmUgPGEgaHJlZj1AQHRvcF9yYXRlZF9zb2xvX3RyYXZl
+bGxlcl9ob2xpZGF5X2FwYXJ0bWVudF91cmxfMUBAIHJlbD1ub2ZvbGxvdz5AQHRvcF9yYXRlZF9zb2xvX3RyYXZlbGxlcl9ob2xpZGF5X2FwYXJ0bWVudF9uYW1lXzFAQDwvYT4gZm9yIGEgc29sbyB0
+cmlwIHRvIEBAY2l0eUBALiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuUGFnZSB0eXBlOiBIb2xpZGF5IGFwYXJ0bWVudHMgaW4gY2l0
+eVxyXG5GQVEgNCAoU29sbyB0cmF2ZWxsZXIpIC0gQ29uZGl0aW9uOiBJZiAxIHByb3BlcnR5IGF2YWlsYWJsZSAtIEFuc3dlciByZWNvbW1lbmRpbmcgYSBzaW5nbGUgaG9saWRheSBhcGFydG1lbnQg
+bG92ZWQgYnkgc29sbyB0cmF2ZWxsZXJzIHdpdGggbGluay4gQEBjaXR5QEAgPSBjaXR5IG5hbWUsIEBAdG9wX3JhdGVkX3NvbG9fdHJhdmVsbGVyX2hvbGlkYXlfYXBhcnRtZW50X3VybF8xQEAgPSBw
+cm9wZXJ0eSBVUkwsIEBAdG9wX3JhdGVkX3NvbG9fdHJhdmVsbGVyX2hvbGlkYXlfYXBhcnRtZW50X25hbWVfMUBAID0gcHJvcGVydHkgbmFtZVxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMu
+dHJhbnNsYXRlZC5jb20vY29udGV4dC9hNmVhZTA5NDMxODQ2ZTc5ZjFlNmZlY2IxNmIyZmUzZTRjZjZhMTBhNWVlNzYyYWY4ZjlhMzA3MDI3MGJmMTUwLzI5MzIzODc3L3NjcmVlbnNob3QudXJsIn19
+LHsiaWRfcmVxdWVzdCI6MjkzMjM5MTcsImlkX2NvbnRlbnQiOiJzZW9fY29tcG9uZW50cy9jb21wb25lbnRfZmFxc19hbnN3ZXJfc29sby10cmF2ZWxsZXJfcmVjb21tZW5kYXRpb24taG9saWRheS1h
+cGFydG1lbnRzXzIiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6IlNvbG8gdHJhdmVsbGVycyBsb3ZlIHRoZXNlIGhvbGlkYXkgYXBhcnRtZW50
+cyBpbiBAQGNpdHlAQDogPGEgaHJlZj1cIkBAdG9wX3JhdGVkX3NvbG9fdHJhdmVsbGVyX2hvbGlkYXlfYXBhcnRtZW50X3VybF8xQEBcIiByZWw9XCJub2ZvbGxvd1wiPkBAdG9wX3JhdGVkX3NvbG9f
+dHJhdmVsbGVyX2hvbGlkYXlfYXBhcnRtZW50X25hbWVfMUBAPC9hPiBhbmQgPGEgaHJlZj1cIkBAdG9wX3JhdGVkX3NvbG9fdHJhdmVsbGVyX2hvbGlkYXlfYXBhcnRtZW50X3VybF8yQEBcIiByZWw9
+XCJub2ZvbGxvd1wiPkBAdG9wX3JhdGVkX3NvbG9fdHJhdmVsbGVyX2hvbGlkYXlfYXBhcnRtZW50X25hbWVfMkBAPC9hPi4iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVsb3BlciBD
+b21tZW50Jmx0Oy9oMSZndDtcblBhZ2UgdHlwZTogSG9saWRheSBhcGFydG1lbnRzIGluIGNpdHlcclxuRkFRIDQgKFNvbG8gdHJhdmVsbGVyKSAtIENvbmRpdGlvbjogSWYgMiBwcm9wZXJ0aWVzIGF2
+YWlsYWJsZSAtIEFuc3dlciByZWNvbW1lbmRpbmcgMiBob2xpZGF5IGFwYXJ0bWVudHMgbG92ZWQgYnkgc29sbyB0cmF2ZWxsZXJzIHdpdGggbGlua3MuIEBAY2l0eUBAID0gY2l0eSBuYW1lLCBAQHRv
+cF9yYXRlZF9zb2xvX3RyYXZlbGxlcl9ob2xpZGF5X2FwYXJ0bWVudF91cmxfWEBAID0gcHJvcGVydHkgVVJMcywgQEB0b3BfcmF0ZWRfc29sb190cmF2ZWxsZXJfaG9saWRheV9hcGFydG1lbnRfbmFt
+ZV9YQEAgPSBwcm9wZXJ0eSBuYW1lcyAoWCA9IDEsIDIpXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2E2ZWFlMDk0MzE4NDZlNzlmMWU2ZmVjYjE2
+YjJmZTNlNGNmNmExMGE1ZWU3NjJhZjhmOWEzMDcwMjcwYmYxNTAvMjkzMjM5MTcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTMyMzk1NywiaWRfY29udGVudCI6InNlb19jb21wb25l
+bnRzL2NvbXBvbmVudF9mYXFzX3F1ZXN0aW9uX3NvbG8tdHJhdmVsbGVyX2hvbGlkYXktYXBhcnRtZW50cyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250
+ZW50IjoiQ2FuIHlvdSByZWNvbW1lbmQgYW55IGhvbGlkYXkgYXBhcnRtZW50cyBpbiBAQGNpdHlAQCBmb3Igc29sbyB0cmF2ZWxsZXJzPyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2
+ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuUGFnZSB0eXBlOiBIb2xpZGF5IGFwYXJ0bWVudHMgaW4gY2l0eVxyXG5GQVEgNCAoU29sbyB0cmF2ZWxsZXIpIC0gUXVlc3Rpb24gYXNraW5nIGZvciBo
+b2xpZGF5IGFwYXJ0bWVudCByZWNvbW1lbmRhdGlvbnMgc3VpdGFibGUgZm9yIHNvbG8gdHJhdmVsbGVycy4gQEBjaXR5QEAgPSBjaXR5IG5hbWUgKGUuZy4sIFBhcmlzKVxuIiwic2NyZWVuc2hvdCI6
+Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hNmVhZTA5NDMxODQ2ZTc5ZjFlNmZlY2IxNmIyZmUzZTRjZjZhMTBhNWVlNzYyYWY4ZjlhMzA3MDI3MGJmMTUwLzI5MzIzOTU3L3Nj
+cmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjQwMTUsImlkX2NvbnRlbnQiOiJmYWxjb25faG90ZWxzL2hvdGVsX2Rpc2NvdW50X2Jhbm5lcl9zdWJfaGVhZGluZyIsImNvbnRlbnRfdHlw
+ZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiV2XigJl2ZSBwdWxsZWQgdG9nZXRoZXIgc29tZSB0b3AgaG90ZWwgZGVhbHMsIHNvIHlvdSBjYW4gZWFzaWx5IHNwb3Qg
+aWYgYW55IGRpc2NvdW50cyBhcmUgYXZhaWxhYmxlIGZvciB5b3VyIHN0YXkuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gY29t
+cG9uZW50L2ZlYXR1cmU6IEhvdGVsIGRlYWxzIGJhbm5lclxyXG5QYWdlIHR5cGVzOiBIb3RlbCBTRU8gbGFuZGluZyBwYWdlXHJcblxuTm90ZSBmb3IgbGluZ3Vpc3RzOiB3ZSBhcmVu4oCZdCBpbXBs
+eWluZyAgZGlzY291bnQgaXMgZ3VhcmFudGVlZCBkdWUgdG8gdGhlIHdvcmQg4oCcaWbigJ0uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2E2ZWFl
+MDk0MzE4NDZlNzlmMWU2ZmVjYjE2YjJmZTNlNGNmNmExMGE1ZWU3NjJhZjhmOWEzMDcwMjcwYmYxNTAvMjkzMjQwMTUvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTMyNDA1NSwiaWRf
+Y29udGVudCI6ImZhbGNvbl9ob3RlbHMvaG90ZWxfZGlzY291bnRfYmFubmVyX3N1Yl9oZWFkaW5nX21vYmlsZSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJj
+b250ZW50IjoiRXhwbG9yZSBob3RlbCBkZWFscyB0byBmaW5kIG91dCBpZiBhbnkgZGlzY291bnRzIGFyZSBhdmFpbGFibGUuIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIg
+Q29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gY29tcG9uZW50L2ZlYXR1cmU6IEhvdGVsIGRlYWxzIGJhbm5lclxyXG5QYWdlIHR5cGVzOiBIb3RlbCBTRU8gbGFuZGluZyBwYWdlXHJcblxuTm90ZSBmb3Ig
+bGluZ3Vpc3RzOiB3ZSBhcmVu4oCZdCBpbXBseWluZyAgZGlzY291bnQgaXMgZ3VhcmFudGVlZCBkdWUgdG8gdGhlIHdvcmQg4oCcaWbigJ0uXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50
+cmFuc2xhdGVkLmNvbS9jb250ZXh0L2E2ZWFlMDk0MzE4NDZlNzlmMWU2ZmVjYjE2YjJmZTNlNGNmNmExMGE1ZWU3NjJhZjhmOWEzMDcwMjcwYmYxNTAvMjkzMjQwNTUvc2NyZWVuc2hvdC51cmwifX0s
+eyJpZF9yZXF1ZXN0IjoyOTMyNDA5NSwiaWRfY29udGVudCI6ImZhbGNvbl9ob3RlbHMvaG90ZWxfZGlzY291bnRfYmFubmVyX2N0YSIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xp
+bWl0IjpudWxsLCJjb250ZW50IjoiRmluZCBob3RlbCBkZWFscyIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuU0VPIGNvbXBvbmVudC9m
+ZWF0dXJlOiBIb3RlbCBkZWFscyBiYW5uZXJcclxuUGFnZSB0eXBlczogSG90ZWwgU0VPIGxhbmRpbmcgcGFnZVxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29u
+dGV4dC9hNmVhZTA5NDMxODQ2ZTc5ZjFlNmZlY2IxNmIyZmUzZTRjZjZhMTBhNWVlNzYyYWY4ZjlhMzA3MDI3MGJmMTUwLzI5MzI0MDk1L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6Mjkz
+MjQxMzUsImlkX2NvbnRlbnQiOiJmYWxjb25faG90ZWxzL2hvdGVsX2Rpc2NvdW50X2Jhbm5lcl9oZWFkaW5nIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGltaXQiOm51bGwsImNv
+bnRlbnQiOiJDaGVjayBmb3IgQEBjaXR5QEAgaG90ZWwgZGlzY291bnRzIiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtEZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5TRU8gY29tcG9u
+ZW50L2ZlYXR1cmU6IEhvdGVsIGRlYWxzIGJhbm5lclxyXG5QYWdlIHR5cGVzOiBIb3RlbCBTRU8gbGFuZGluZyBwYWdlXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNv
+bS9jb250ZXh0L2E2ZWFlMDk0MzE4NDZlNzlmMWU2ZmVjYjE2YjJmZTNlNGNmNmExMGE1ZWU3NjJhZjhmOWEzMDcwMjcwYmYxNTAvMjkzMjQxMzUvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0
+IjoyOTMyNDE1NywiaWRfY29udGVudCI6InNlb19jb21wb25lbnRzL2NvbXBvbmVudF9mYXFzX2Fuc3dlcl9mYW1pbHktZnJpZW5kbHlfcmVjb21tZW5kYXRpb24taG9saWRheS1hcGFydG1lbnRzXzIi
+LCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Illlcywgb3RoZXIgdHJhdmVsbGVycyBsb3ZlIHRoZXNlIGZhbWlseS1mcmllbmRseSBob2xpZGF5
+IGFwYXJ0bWVudHMgaW4gQEBjaXR5QEA6IDxhIGhyZWY9XCJAQHRvcF9yYXRlZF9mYW1pbHlfZnJpZW5kbHlfaG9saWRheV9hcGFydG1lbnRfdXJsXzFAQFwiIHJlbD1cIm5vZm9sbG93XCI+QEB0b3Bf
+cmF0ZWRfZmFtaWx5X2ZyaWVuZGx5X2hvbGlkYXlfYXBhcnRtZW50X25hbWVfMUBAPC9hPiBhbmQgPGEgaHJlZj1cIkBAdG9wX3JhdGVkX2ZhbWlseV9mcmllbmRseV9ob2xpZGF5X2FwYXJ0bWVudF91
+cmxfMkBAXCIgcmVsPVwibm9mb2xsb3dcIj5AQHRvcF9yYXRlZF9mYW1pbHlfZnJpZW5kbHlfaG9saWRheV9hcGFydG1lbnRfbmFtZV8yQEA8L2E+LiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEm
+Z3Q7RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuUGFnZSB0eXBlOiBIb2xpZGF5IGFwYXJ0bWVudHMgaW4gY2l0eVxyXG5GQVEgMyAoRmFtaWx5LWZyaWVuZGx5KSAtIENvbmRpdGlvbjogSWYg
+MiBwcm9wZXJ0aWVzIGF2YWlsYWJsZSAtIEFuc3dlciByZWNvbW1lbmRpbmcgMiB0b3AtcmF0ZWQgZmFtaWx5LWZyaWVuZGx5IGhvbGlkYXkgYXBhcnRtZW50cyB3aXRoIGxpbmtzLiBAQGNpdHlAQCA9
+IGNpdHkgbmFtZSwgQEB0b3BfcmF0ZWRfZmFtaWx5X2ZyaWVuZGx5X2hvbGlkYXlfYXBhcnRtZW50X3VybF9YQEAgPSBwcm9wZXJ0eSBVUkxzLCBAQHRvcF9yYXRlZF9mYW1pbHlfZnJpZW5kbHlfaG9s
+aWRheV9hcGFydG1lbnRfbmFtZV9YQEAgPSBwcm9wZXJ0eSBuYW1lcyAoWCA9IDEsIDIpXG4iLCJzY3JlZW5zaG90IjoiaHR0cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2E2ZWFlMDk0
+MzE4NDZlNzlmMWU2ZmVjYjE2YjJmZTNlNGNmNmExMGE1ZWU3NjJhZjhmOWEzMDcwMjcwYmYxNTAvMjkzMjQxNTcvc2NyZWVuc2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTMyNDE5NywiaWRfY29u
+dGVudCI6InNlb19jb21wb25lbnRzL2NvbXBvbmVudF9mYXFzX2Fuc3dlcl9zb2xvLXRyYXZlbGxlcl9yZWNvbW1lbmRhdGlvbi1ob2xpZGF5LWFwYXJ0bWVudHNfMyIsImNvbnRlbnRfdHlwZSI6InRl
+eHQvcGxhaW4iLCJjaGFyX2xpbWl0IjpudWxsLCJjb250ZW50IjoiU29sbyB0cmF2ZWxsZXJzIGxvdmUgdGhlc2UgaG9saWRheSBhcGFydG1lbnRzIGluIEBAY2l0eUBAOiA8YSBocmVmPVwiQEB0b3Bf
+cmF0ZWRfc29sb190cmF2ZWxsZXJfaG9saWRheV9hcGFydG1lbnRfdXJsXzFAQFwiIHJlbD1cIm5vZm9sbG93XCI+QEB0b3BfcmF0ZWRfc29sb190cmF2ZWxsZXJfaG9saWRheV9hcGFydG1lbnRfbmFt
+ZV8xQEA8L2E+LCA8YSBocmVmPVwiQEB0b3BfcmF0ZWRfc29sb190cmF2ZWxsZXJfaG9saWRheV9hcGFydG1lbnRfdXJsXzJAQFwiIHJlbD1cIm5vZm9sbG93XCI+QEB0b3BfcmF0ZWRfc29sb190cmF2
+ZWxsZXJfaG9saWRheV9hcGFydG1lbnRfbmFtZV8yQEA8L2E+IGFuZCA8YSBocmVmPVwiQEB0b3BfcmF0ZWRfc29sb190cmF2ZWxsZXJfaG9saWRheV9hcGFydG1lbnRfdXJsXzNAQFwiIHJlbD1cIm5v
+Zm9sbG93XCI+QEB0b3BfcmF0ZWRfc29sb190cmF2ZWxsZXJfaG9saWRheV9hcGFydG1lbnRfbmFtZV8zQEA8L2E+LiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7RGV2ZWxvcGVyIENvbW1l
+bnQmbHQ7L2gxJmd0O1xuUGFnZSB0eXBlOiBIb2xpZGF5IGFwYXJ0bWVudHMgaW4gY2l0eVxyXG5GQVEgNCAoU29sbyB0cmF2ZWxsZXIpIC0gQ29uZGl0aW9uOiBJZiAzIHByb3BlcnRpZXMgYXZhaWxh
+YmxlIC0gQW5zd2VyIHJlY29tbWVuZGluZyAzIGhvbGlkYXkgYXBhcnRtZW50cyBsb3ZlZCBieSBzb2xvIHRyYXZlbGxlcnMgd2l0aCBsaW5rcy4gQEBjaXR5QEAgPSBjaXR5IG5hbWUsIEBAdG9wX3Jh
+dGVkX3NvbG9fdHJhdmVsbGVyX2hvbGlkYXlfYXBhcnRtZW50X3VybF9YQEAgPSBwcm9wZXJ0eSBVUkxzLCBAQHRvcF9yYXRlZF9zb2xvX3RyYXZlbGxlcl9ob2xpZGF5X2FwYXJ0bWVudF9uYW1lX1hA
+QCA9IHByb3BlcnR5IG5hbWVzIChYID0gMSwgMiwgMylcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYTZlYWUwOTQzMTg0NmU3OWYxZTZmZWNiMTZi
+MmZlM2U0Y2Y2YTEwYTVlZTc2MmFmOGY5YTMwNzAyNzBiZjE1MC8yOTMyNDE5Ny9zY3JlZW5zaG90LnVybCJ9fSx7ImlkX3JlcXVlc3QiOjI5MzI0MjM3LCJpZF9jb250ZW50Ijoic2VvX2NvbXBvbmVu
+dHMvY29tcG9uZW50X2ZhcXNfYW5zd2VyX2ZhbWlseS1mcmllbmRseV9yZWNvbW1lbmRhdGlvbi1ob2xpZGF5LWFwYXJ0bWVudHNfMyIsImNvbnRlbnRfdHlwZSI6InRleHQvcGxhaW4iLCJjaGFyX2xp
+bWl0IjpudWxsLCJjb250ZW50IjoiWWVzLCBvdGhlciB0cmF2ZWxsZXJzIGxvdmUgdGhlc2UgZmFtaWx5LWZyaWVuZGx5IGhvbGlkYXkgYXBhcnRtZW50cyBpbiBAQGNpdHlAQDogPGEgaHJlZj1cIkBA
+dG9wX3JhdGVkX2ZhbWlseV9mcmllbmRseV9ob2xpZGF5X2FwYXJ0bWVudF91cmxfMUBAXCIgcmVsPVwibm9mb2xsb3dcIj5AQHRvcF9yYXRlZF9mYW1pbHlfZnJpZW5kbHlfaG9saWRheV9hcGFydG1l
+bnRfbmFtZV8xQEA8L2E+LCA8YSBocmVmPVwiQEB0b3BfcmF0ZWRfZmFtaWx5X2ZyaWVuZGx5X2hvbGlkYXlfYXBhcnRtZW50X3VybF8yQEBcIiByZWw9XCJub2ZvbGxvd1wiPkBAdG9wX3JhdGVkX2Zh
+bWlseV9mcmllbmRseV9ob2xpZGF5X2FwYXJ0bWVudF9uYW1lXzJAQDwvYT4gYW5kIDxhIGhyZWY9XCJAQHRvcF9yYXRlZF9mYW1pbHlfZnJpZW5kbHlfaG9saWRheV9hcGFydG1lbnRfdXJsXzNAQFwi
+IHJlbD1cIm5vZm9sbG93XCI+QEB0b3BfcmF0ZWRfZmFtaWx5X2ZyaWVuZGx5X2hvbGlkYXlfYXBhcnRtZW50X25hbWVfM0BAPC9hPi4iLCJjb250ZXh0Ijp7Im5vdGVzIjoiJmx0O2gxJmd0O0RldmVs
+b3BlciBDb21tZW50Jmx0Oy9oMSZndDtcblBhZ2UgdHlwZTogSG9saWRheSBhcGFydG1lbnRzIGluIGNpdHlcclxuRkFRIDMgKEZhbWlseS1mcmllbmRseSkgLSBDb25kaXRpb246IElmIDMgcHJvcGVy
+dGllcyBhdmFpbGFibGUgLSBBbnN3ZXIgcmVjb21tZW5kaW5nIDMgdG9wLXJhdGVkIGZhbWlseS1mcmllbmRseSBob2xpZGF5IGFwYXJ0bWVudHMgd2l0aCBsaW5rcy4gQEBjaXR5QEAgPSBjaXR5IG5h
+bWUsIEBAdG9wX3JhdGVkX2ZhbWlseV9mcmllbmRseV9ob2xpZGF5X2FwYXJ0bWVudF91cmxfWEBAID0gcHJvcGVydHkgVVJMcywgQEB0b3BfcmF0ZWRfZmFtaWx5X2ZyaWVuZGx5X2hvbGlkYXlfYXBh
+cnRtZW50X25hbWVfWEBAID0gcHJvcGVydHkgbmFtZXMgKFggPSAxLCAyLCAzKVxuIiwic2NyZWVuc2hvdCI6Imh0dHBzOi8vZmlsZXMudHJhbnNsYXRlZC5jb20vY29udGV4dC9hNmVhZTA5NDMxODQ2
+ZTc5ZjFlNmZlY2IxNmIyZmUzZTRjZjZhMTBhNWVlNzYyYWY4ZjlhMzA3MDI3MGJmMTUwLzI5MzI0MjM3L3NjcmVlbnNob3QudXJsIn19LHsiaWRfcmVxdWVzdCI6MjkzMjQyNzcsImlkX2NvbnRlbnQi
+OiJzZW9fY29tcG9uZW50cy9jb21wb25lbnRfZmFxc19xdWVzdGlvbl9mYW1pbHktZnJpZW5kbHlfaG9saWRheS1hcGFydG1lbnRzIiwiY29udGVudF90eXBlIjoidGV4dC9wbGFpbiIsImNoYXJfbGlt
+aXQiOm51bGwsImNvbnRlbnQiOiJBcmUgdGhlcmUgYW55IGZhbWlseS1mcmllbmRseSBob2xpZGF5IGFwYXJ0bWVudHMgaW4gQEBjaXR5QEA/IiwiY29udGV4dCI6eyJub3RlcyI6IiZsdDtoMSZndDtE
+ZXZlbG9wZXIgQ29tbWVudCZsdDsvaDEmZ3Q7XG5QYWdlIHR5cGU6IEhvbGlkYXkgYXBhcnRtZW50cyBpbiBjaXR5XHJcbkZBUSAzIChGYW1pbHktZnJpZW5kbHkpIC0gUXVlc3Rpb24gYXNraW5nIGFi
+b3V0IGZhbWlseS1mcmllbmRseSBob2xpZGF5IGFwYXJ0bWVudCBvcHRpb25zIGluIHRoZSBjaXR5LiBAQGNpdHlAQCA9IGNpdHkgbmFtZSAoZS5nLiwgUGFyaXMpXG4iLCJzY3JlZW5zaG90IjoiaHR0
+cHM6Ly9maWxlcy50cmFuc2xhdGVkLmNvbS9jb250ZXh0L2E2ZWFlMDk0MzE4NDZlNzlmMWU2ZmVjYjE2YjJmZTNlNGNmNmExMGE1ZWU3NjJhZjhmOWEzMDcwMjcwYmYxNTAvMjkzMjQyNzcvc2NyZWVu
+c2hvdC51cmwifX0seyJpZF9yZXF1ZXN0IjoyOTMyNDMxNywiaWRfY29udGVudCI6InNlb19jb21wb25lbnRzL2NvbXBvbmVudF9mYXFzX2Fuc3dlcl9mYW1pbHktZnJpZW5kbHlfcmVjb21tZW5kYXRp
+b24taG9saWRheS1hcGFydG1lbnRzXzEiLCJjb250ZW50X3R5cGUiOiJ0ZXh0L3BsYWluIiwiY2hhcl9saW1pdCI6bnVsbCwiY29udGVudCI6Illlcywgb3RoZXIgdHJhdmVsbGVycyByYXRlZCA8YSBo
+cmVmPVwiQEB0b3BfcmF0ZWRfZmFtaWx5X2ZyaWVuZGx5X2hvbGlkYXlfYXBhcnRtZW50X3VybF8xQEBcIiByZWw9XCJub2ZvbGxvd1wiPkBAdG9wX3JhdGVkX2ZhbWlseV9mcmllbmRseV9ob2xpZGF5
+X2FwYXJ0bWVudF9uYW1lXzFAQDwvYT4gYXMgdGhlIGJlc3QgZmFtaWx5LWZyaWVuZGx5IGhvbGlkYXkgYXBhcnRtZW50IGluIEBAY2l0eUBALiIsImNvbnRleHQiOnsibm90ZXMiOiImbHQ7aDEmZ3Q7
+RGV2ZWxvcGVyIENvbW1lbnQmbHQ7L2gxJmd0O1xuUGFnZSB0eXBlOiBIb2xpZGF5IGFwYXJ0bWVudHMgaW4gY2l0eVxyXG5GQVEgMyAoRmFtaWx5LWZyaWVuZGx5KSAtIENvbmRpdGlvbjogSWYgMSBw
+cm9wZXJ0eSBhdmFpbGFibGUgLSBBbnN3ZXIgcmVjb21tZW5kaW5nIHRoZSBzaW5nbGUgYmVzdCBmYW1pbHktZnJpZW5kbHkgaG9saWRheSBhcGFydG1lbnQgd2l0aCBsaW5rLiBAQGNpdHlAQCA9IGNp
+dHkgbmFtZSwgQEB0b3BfcmF0ZWRfZmFtaWx5X2ZyaWVuZGx5X2hvbGlkYXlfYXBhcnRtZW50X3VybF8xQEAgPSBwcm9wZXJ0eSBVUkwsIEBAdG9wX3JhdGVkX2ZhbWlseV9mcmllbmRseV9ob2xpZGF5
+X2FwYXJ0bWVudF9uYW1lXzFAQCA9IHByb3BlcnR5IG5hbWVcbiIsInNjcmVlbnNob3QiOiJodHRwczovL2ZpbGVzLnRyYW5zbGF0ZWQuY29tL2NvbnRleHQvYTZlYWUwOTQzMTg0NmU3OWYxZTZmZWNi
+MTZiMmZlM2U0Y2Y2YTEwYTVlZTc2MmFmOGY5YTMwNzAyNzBiZjE1MC8yOTMyNDMxNy9zY3JlZW5zaG90LnVybCJ9fV19XQ==</internal-file></reference></header><body/></file>
+<file datatype="x-rkm" filter="net.translated.matecat.filters.MateJsont2Filter" original="manifest.rkm" source-language="en-GB" target-language="pt-BR" tool-id="matecat-converter 3.0.1"><header><reference><internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09LS0+Cjwh
+LS1QTEVBU0UsIERPIE5PVCBSRU5BTUUsIE1PVkUsIE1PRElGWSBPUiBBTFRFUiBJTiBBTlkgV0FZIFRISVMgRklMRS0tPgo8IS0tPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT0tLT4KPG1hbmlmZXN0IHZlcnNpb249IjIiIGxpYlZlcnNpb249IjEuNDAuNi1UUkFOU0xBVEVEIiBwcm9qZWN0SWQ9Ik5FMUM3OEE3MyIgcGFja2FnZUlk
+PSJmNTgyMGZkZi05YzBjLTQ3YjgtYjE0Mi1mNTJmNTk1YmIyNDAiIHNvdXJjZT0iZW4tR0IiIHRhcmdldD0icHQtQlIiIG9yaWdpbmFsU3ViRGlyPSJvcmlnaW5hbCIgc2tlbGV0b25TdWJEaXI9InNr
+ZWxldG9uIiBzb3VyY2VTdWJEaXI9IndvcmsiIHRhcmdldFN1YkRpcj0id29yayIgbWVyZ2VTdWJEaXI9ImRvbmUiIHRtU3ViRGlyPSIiIGRhdGU9IjIwMjYtMDItMDYgMTI6NDM6MDcrMDAwMCIgdXNl
+QXBwcm92ZWRPbmx5PSIwIiB1cGRhdGVBcHByb3ZlZEZsYWc9IjAiPgo8Y3JlYXRvclBhcmFtZXRlcnM+STNZeENuQnNZV05sYUc5c1pHVnlUVzlrWlM1aVBYUnlkV1VLYVc1amJIVmtaVTV2VkhKaGJu
+TnNZWFJsTG1JOWRISjFaUXB6WlhSQmNIQnliM1psWkVGelRtOVVjbUZ1YzJ4aGRHVXVZajFtWVd4elpRcGpiM0I1VTI5MWNtTmxMbUk5ZEhKMVpRcHBibU5zZFdSbFFXeDBWSEpoYm5NdVlqMTBjblZs
+Q21sdVkyeDFaR1ZEYjJSbFFYUjBjbk11WWoxbVlXeHpaUXBwYm1Oc2RXUmxTWFJ6TG1JOVptRnNjMlVLWlhOallYQmxSMVF1WWoxMGNuVmw8L2NyZWF0b3JQYXJhbWV0ZXJzPgo8ZG9jIHhtbDpzcGFj
+ZT0icHJlc2VydmUiIGRvY0lkPSIxIiBleHRyYWN0aW9uVHlwZT0ieGxpZmYiIHJlbGF0aXZlSW5wdXRQYXRoPSJUdlMzUFNSTHBELmpzb250MiIgZmlsdGVySWQ9Im9rZl9qc29udDIiIGlucHV0RW5j
+b2Rpbmc9IlVURi04IiByZWxhdGl2ZVRhcmdldFBhdGg9IlR2UzNQU1JMcEQub3V0Lmpzb250MiIgdGFyZ2V0RW5jb2Rpbmc9IlVURi04IiBzZWxlY3RlZD0iMSI+STNZeENtVnpZMkZ3WlVadmNuZGhj
+bVJUYkdGemFHVnpMbUk5Wm1Gc2MyVUtkWE5sUTI5a1pVWnBibVJsY2k1aVBXWmhiSE5sQ205MWRIQjFkRk5sWjIxbGJuUmhkR2x2YmxSNWNHVXVhVDB6Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTVqYjNW
+dWRDNXBQVEVLWTI5a1pVWnBibVJsY2xKMWJHVnpMbkoxYkdVd1BWd2tQMXg3S0Z0QkxWb3dMVGxoTFhwZkxWMHFLVng5Q21OdlpHVkdhVzVrWlhKU2RXeGxjeTV6WVcxd2JHVTlWVzVwZUNCMllYSTZJ
+Q1I3YzI5dFpTMTJZWEo5TENCMllYSWdhVzRnWW5KaFkyVnpPaUI3ZFhObGNsOXVZVzFsZlM0S1kyOWtaVVpwYm1SbGNsSjFiR1Z6TG5WelpVRnNiRkoxYkdWelYyaGxibFJsYzNScGJtY3VZajEwY25W
+bDwvZG9jPgo8L21hbmlmZXN0Pg==</internal-file></reference></header><body/></file>
+<file datatype="x-tos-request" mtc:id-order="handoff/2026-02-06-10:42:14" mtc:id-order-group="handoff_seo_06_02_2026" original="a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150" source-language="en-GB" target-language="pt-BR">
+<body>
+<group id="sg1">
+<group id="sg2">
+<trans-unit id="tu1" xml:space="preserve" help-id="4838677069">
+<source xml:lang="en-GB">Travellers love &lt;a href=@@top_rated_solo_traveller_holiday_apartment_url_1@@ rel=nofollow&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt; for a solo trip to @@city@@.</source>
+<seg-source><mrk mid="0" mtype="seg">Travellers love &lt;a href=@@top_rated_solo_traveller_holiday_apartment_url_1@@ rel=nofollow&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt; for a solo trip to @@city@@.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Os viajantes individuais adoram ficar em &lt;a href=@@top_rated_solo_traveller_holiday_apartment_url_1@@ rel=nofollow&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt; durante uma viagem para @@city@@.</mrk></target>
+<count-group name="tu1"><count count-type="x-matecat-raw">9</count><count count-type="x-matecat-weighted">2.7</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323877</note>
+<note>translation_context|¶|seo_components/component_faqs_answer_solo-traveller_recommendation-holiday-apartments_1</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_answer_solo-traveller_recommendation-holiday-apartments_1</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 4 (Solo traveller) - Condition: If 1 property available - Answer recommending a single holiday apartment loved by solo travellers with link. @@city@@ = city name, @@top_rated_solo_traveller_holiday_apartment_url_1@@ = property URL, @@top_rated_solo_traveller_holiday_apartment_name_1@@ = property name
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29323877/screenshot.url</note>
+</trans-unit>
+<group id="sg3">
+</group>
+</group>
+<group id="sg4">
+<trans-unit id="tu2" xml:space="preserve" help-id="4838677070">
+<source xml:lang="en-GB">Solo travellers love these holiday apartments in @@city@@: &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt; and &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_2@@&lt;/a&gt;.</source>
+<seg-source><mrk mid="0" mtype="seg">Solo travellers love these holiday apartments in @@city@@: &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt; and &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_2@@&lt;/a&gt;.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Viajantes individuais adoram estes apartamentos de férias em @@city@@: &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt; e &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_2@@&lt;/a&gt;.</mrk></target>
+<count-group name="tu2"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">3.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323917</note>
+<note>translation_context|¶|seo_components/component_faqs_answer_solo-traveller_recommendation-holiday-apartments_2</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_answer_solo-traveller_recommendation-holiday-apartments_2</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 4 (Solo traveller) - Condition: If 2 properties available - Answer recommending 2 holiday apartments loved by solo travellers with links. @@city@@ = city name, @@top_rated_solo_traveller_holiday_apartment_url_X@@ = property URLs, @@top_rated_solo_traveller_holiday_apartment_name_X@@ = property names (X = 1, 2)
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29323917/screenshot.url</note>
+</trans-unit>
+<group id="sg5">
+</group>
+</group>
+<group id="sg6">
+<trans-unit id="tu3" xml:space="preserve" help-id="4838677071">
+<source xml:lang="en-GB">Can you recommend any holiday apartments in @@city@@ for solo travellers?</source>
+<seg-source><mrk mid="0" mtype="seg">Can you recommend any holiday apartments in @@city@@ for solo travellers?</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Pode recomendar algum apartamento de férias em @@city@@ para viajantes individuais?</mrk></target>
+<count-group name="tu3"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">3.3</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29323957</note>
+<note>translation_context|¶|seo_components/component_faqs_question_solo-traveller_holiday-apartments</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_question_solo-traveller_holiday-apartments</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 4 (Solo traveller) - Question asking for holiday apartment recommendations suitable for solo travellers. @@city@@ = city name (e.g., Paris)
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29323957/screenshot.url</note>
+</trans-unit>
+<group id="sg7">
+</group>
+</group>
+<group id="sg8">
+<trans-unit id="tu4" xml:space="preserve" help-id="4838677072">
+<source xml:lang="en-GB">We’ve pulled together some top hotel deals, so you can easily spot if any discounts are available for your stay.</source>
+<seg-source><mrk mid="0" mtype="seg">We’ve pulled together some top hotel deals, so you can easily spot if any discounts are available for your stay.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Reunimos as melhores ofertas de hotéis para você encontrar facilmente descontos disponíveis para a sua estadia.</mrk></target>
+<count-group name="tu4"><count count-type="x-matecat-raw">21</count><count count-type="x-matecat-weighted">13.02</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324015</note>
+<note>translation_context|¶|falcon_hotels/hotel_discount_banner_sub_heading</note>
+<note annotates="source" from="id_content">falcon_hotels/hotel_discount_banner_sub_heading</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: Hotel deals banner
+Page types: Hotel SEO landing page
+
+Note for linguists: we aren’t implying  discount is guaranteed due to the word “if”.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324015/screenshot.url</note>
+</trans-unit>
+<group id="sg9">
+</group>
+</group>
+<group id="sg10">
+<trans-unit id="tu5" xml:space="preserve" help-id="4838677073">
+<source xml:lang="en-GB">Explore hotel deals to find out if any discounts are available.</source>
+<seg-source><mrk mid="0" mtype="seg">Explore hotel deals to find out if any discounts are available.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Explore as ofertas de hotéis para descobrir se há descontos disponíveis.</mrk></target>
+<count-group name="tu5"><count count-type="x-matecat-raw">11</count><count count-type="x-matecat-weighted">6.82</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324055</note>
+<note>translation_context|¶|falcon_hotels/hotel_discount_banner_sub_heading_mobile</note>
+<note annotates="source" from="id_content">falcon_hotels/hotel_discount_banner_sub_heading_mobile</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: Hotel deals banner
+Page types: Hotel SEO landing page
+
+Note for linguists: we aren’t implying  discount is guaranteed due to the word “if”.
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324055/screenshot.url</note>
+</trans-unit>
+<group id="sg11">
+</group>
+</group>
+<group id="sg12">
+<trans-unit id="tu6" xml:space="preserve" help-id="4838677074">
+<source xml:lang="en-GB">Find hotel deals</source>
+<seg-source><mrk mid="0" mtype="seg">Find hotel deals</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Encontre ofertas de hotéis</mrk></target>
+<count-group name="tu6"><count count-type="x-matecat-raw">3</count><count count-type="x-matecat-weighted">0.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324095</note>
+<note>translation_context|¶|falcon_hotels/hotel_discount_banner_cta</note>
+<note annotates="source" from="id_content">falcon_hotels/hotel_discount_banner_cta</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: Hotel deals banner
+Page types: Hotel SEO landing page
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324095/screenshot.url</note>
+</trans-unit>
+<group id="sg13">
+</group>
+</group>
+<group id="sg14">
+<trans-unit id="tu7" xml:space="preserve" help-id="4838677075">
+<source xml:lang="en-GB">Check for @@city@@ hotel discounts</source>
+<seg-source><mrk mid="0" mtype="seg">Check for @@city@@ hotel discounts</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Verifique se há descontos em hotéis em @@city@@</mrk></target>
+<count-group name="tu7"><count count-type="x-matecat-raw">5</count><count count-type="x-matecat-weighted">3.1</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324135</note>
+<note>translation_context|¶|falcon_hotels/hotel_discount_banner_heading</note>
+<note annotates="source" from="id_content">falcon_hotels/hotel_discount_banner_heading</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+SEO component/feature: Hotel deals banner
+Page types: Hotel SEO landing page
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324135/screenshot.url</note>
+</trans-unit>
+<group id="sg15">
+</group>
+</group>
+<group id="sg16">
+<trans-unit id="tu8" xml:space="preserve" help-id="4838677076">
+<source xml:lang="en-GB">Yes, other travellers love these family-friendly holiday apartments in @@city@@: &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt; and &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_2@@&lt;/a&gt;.</source>
+<seg-source><mrk mid="0" mtype="seg">Yes, other travellers love these family-friendly holiday apartments in @@city@@: &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt; and &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_2@@&lt;/a&gt;.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Sim, outros viajantes adoram estes apartamentos de férias para famílias em @@city@@: &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt; e &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_2@@&lt;/a&gt;.</mrk></target>
+<count-group name="tu8"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">3.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324157</note>
+<note>translation_context|¶|seo_components/component_faqs_answer_family-friendly_recommendation-holiday-apartments_2</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_answer_family-friendly_recommendation-holiday-apartments_2</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 3 (Family-friendly) - Condition: If 2 properties available - Answer recommending 2 top-rated family-friendly holiday apartments with links. @@city@@ = city name, @@top_rated_family_friendly_holiday_apartment_url_X@@ = property URLs, @@top_rated_family_friendly_holiday_apartment_name_X@@ = property names (X = 1, 2)
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324157/screenshot.url</note>
+</trans-unit>
+<group id="sg17">
+</group>
+</group>
+<group id="sg18">
+<trans-unit id="tu9" xml:space="preserve" help-id="4838677077">
+<source xml:lang="en-GB">Solo travellers love these holiday apartments in @@city@@: &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt;, &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_2@@&lt;/a&gt; and &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_3@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_3@@&lt;/a&gt;.</source>
+<seg-source><mrk mid="0" mtype="seg">Solo travellers love these holiday apartments in @@city@@: &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt;, &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_2@@&lt;/a&gt; and &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_3@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_3@@&lt;/a&gt;.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Viajantes individuais adoram estes apartamentos de férias em @@city@@: &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_1@@&lt;/a&gt;, &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_2@@&lt;/a&gt; &lt;a href="@@top_rated_solo_traveller_holiday_apartment_url_3@@" rel="nofollow"&gt;@@top_rated_solo_traveller_holiday_apartment_name_3@@&lt;/a&gt;e.</mrk></target>
+<count-group name="tu9"><count count-type="x-matecat-raw">12</count><count count-type="x-matecat-weighted">3.6</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324197</note>
+<note>translation_context|¶|seo_components/component_faqs_answer_solo-traveller_recommendation-holiday-apartments_3</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_answer_solo-traveller_recommendation-holiday-apartments_3</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 4 (Solo traveller) - Condition: If 3 properties available - Answer recommending 3 holiday apartments loved by solo travellers with links. @@city@@ = city name, @@top_rated_solo_traveller_holiday_apartment_url_X@@ = property URLs, @@top_rated_solo_traveller_holiday_apartment_name_X@@ = property names (X = 1, 2, 3)
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324197/screenshot.url</note>
+</trans-unit>
+<group id="sg19">
+</group>
+</group>
+<group id="sg20">
+<trans-unit id="tu10" xml:space="preserve" help-id="4838677078">
+<source xml:lang="en-GB">Yes, other travellers love these family-friendly holiday apartments in @@city@@: &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt;, &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_2@@&lt;/a&gt; and &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_3@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_3@@&lt;/a&gt;.</source>
+<seg-source><mrk mid="0" mtype="seg">Yes, other travellers love these family-friendly holiday apartments in @@city@@: &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt;, &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_2@@&lt;/a&gt; and &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_3@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_3@@&lt;/a&gt;.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Sim, outros viajantes adoram estes apartamentos de férias para famílias em @@city@@: &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt;, &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_2@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_2@@&lt;/a&gt; e &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_3@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_3@@&lt;/a&gt;.</mrk></target>
+<count-group name="tu10"><count count-type="x-matecat-raw">14</count><count count-type="x-matecat-weighted">4.2</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324237</note>
+<note>translation_context|¶|seo_components/component_faqs_answer_family-friendly_recommendation-holiday-apartments_3</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_answer_family-friendly_recommendation-holiday-apartments_3</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 3 (Family-friendly) - Condition: If 3 properties available - Answer recommending 3 top-rated family-friendly holiday apartments with links. @@city@@ = city name, @@top_rated_family_friendly_holiday_apartment_url_X@@ = property URLs, @@top_rated_family_friendly_holiday_apartment_name_X@@ = property names (X = 1, 2, 3)
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324237/screenshot.url</note>
+</trans-unit>
+<group id="sg21">
+</group>
+</group>
+<group id="sg22">
+<trans-unit id="tu11" xml:space="preserve" help-id="4838677079">
+<source xml:lang="en-GB">Are there any family-friendly holiday apartments in @@city@@?</source>
+<seg-source><mrk mid="0" mtype="seg">Are there any family-friendly holiday apartments in @@city@@?</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Há algum apartamento de férias para famílias em @@city@@?</mrk></target>
+<count-group name="tu11"><count count-type="x-matecat-raw">8</count><count count-type="x-matecat-weighted">2.4</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324277</note>
+<note>translation_context|¶|seo_components/component_faqs_question_family-friendly_holiday-apartments</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_question_family-friendly_holiday-apartments</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 3 (Family-friendly) - Question asking about family-friendly holiday apartment options in the city. @@city@@ = city name (e.g., Paris)
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324277/screenshot.url</note>
+</trans-unit>
+<group id="sg23">
+</group>
+</group>
+<group id="sg24">
+<trans-unit id="tu12" xml:space="preserve" help-id="4838677080">
+<source xml:lang="en-GB">Yes, other travellers rated &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt; as the best family-friendly holiday apartment in @@city@@.</source>
+<seg-source><mrk mid="0" mtype="seg">Yes, other travellers rated &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt; as the best family-friendly holiday apartment in @@city@@.</mrk></seg-source>
+<target  xml:lang="pt-BR" state="signed-off"><mrk mid="0" mtype="seg">Sim, outros viajantes avaliaram &lt;a href="@@top_rated_family_friendly_holiday_apartment_url_1@@" rel="nofollow"&gt;@@top_rated_family_friendly_holiday_apartment_name_1@@&lt;/a&gt; como o melhor apartamento de férias para famílias em @@city@@.</mrk></target>
+<count-group name="tu12"><count count-type="x-matecat-raw">13</count><count count-type="x-matecat-weighted">3.9</count></count-group>
+<context-group name="tos"><context context-type="x-tos-content-type">text/plain</context></context-group>
+<note annotates="source" from="id_request">29324317</note>
+<note>translation_context|¶|seo_components/component_faqs_answer_family-friendly_recommendation-holiday-apartments_1</note>
+<note annotates="source" from="id_content">seo_components/component_faqs_answer_family-friendly_recommendation-holiday-apartments_1</note>
+<note annotates="source" from="notes">&amp;lt;h1&amp;gt;Developer Comment&amp;lt;/h1&amp;gt;
+Page type: Holiday apartments in city
+FAQ 3 (Family-friendly) - Condition: If 1 property available - Answer recommending the single best family-friendly holiday apartment with link. @@city@@ = city name, @@top_rated_family_friendly_holiday_apartment_url_1@@ = property URL, @@top_rated_family_friendly_holiday_apartment_name_1@@ = property name
+</note>
+<note annotates="source" from="screenshot">https://files.translated.com/context/a6eae09431846e79f1e6fecb16b2fe3e4cf6a10a5ee762af8f9a3070270bf150/29324317/screenshot.url</note>
+</trans-unit>
+<group id="sg25">
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>
