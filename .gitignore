@@ -17,7 +17,7 @@ Thumbs.db
 
 # Notebooks / data outputs
 *.ipynb_checkpoints
-*.xlsx
+#*.xlsx
 *.xls
 
 # Downloads and outputs
